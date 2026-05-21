@@ -115,7 +115,7 @@
   function fillChips(wrap, items, active, onPick) {
     wrap.innerHTML = items.map((it) => `
       <button class="chip ripple-host" data-key="${it.key}" aria-pressed="${active === it.key}"
-        ${it.accent ? `style="--cat:var(--c-${it.accent})"` : ''}>
+        ${it.accent ? `style="--cat:var(--c-${esc(it.accent)})"` : ''}>
         <span class="leadcheck"><span class="material-symbols-rounded">check</span></span>
         <span class="material-symbols-rounded" style="font-size:18px">${it.icon}</span>
         ${esc(it.label)} <span class="count">${it.count}</span>
@@ -158,12 +158,12 @@
     const lang = state.lang;
     const tags = (d.technologies || []).slice(0, 3).map((tg) => `<span class="tag">${esc(tg)}</span>`).join('');
     return `
-      <button class="card" data-id="${esc(d.id)}" style="--cat:var(--c-${d.agentType}); animation-delay:${Math.min(i, 12) * 28}ms">
+      <button class="card" data-id="${esc(d.id)}" style="--cat:var(--c-${esc(d.agentType)}); animation-delay:${Math.min(i, 12) * 28}ms">
         <div class="card__top">
           <span class="cat-pill"><span class="ic"></span>${esc(agLabel(d.agentType, lang))}</span>
           ${d.isNew ? `<span class="badge-new">${t('badgeNew')}</span>` : `<span class="card__num">#${String(d.n).padStart(3, '0')}</span>`}
         </div>
-        <span class="ind-line"><span class="material-symbols-rounded" style="font-size:15px">${indIcon(d.industry)}</span>${esc(indLabel(d.industry, lang))}</span>
+        <span class="ind-line"><span class="material-symbols-rounded" style="font-size:15px">${esc(indIcon(d.industry))}</span>${esc(indLabel(d.industry, lang))}</span>
         <h3>${esc(d.company)}</h3>
         <p>${esc(d.summary[lang])}</p>
         <div class="card__tags">${tags}</div>
@@ -236,10 +236,10 @@
     const hl = (d.highlights && d.highlights[lang]) || [];
     const tech = (d.technologies || []).map((tg) => `<span class="tag">${esc(tg)}</span>`).join('');
     dialog.innerHTML = `
-      <div class="dialog__head" style="--cat:var(--c-${d.agentType})">
+      <div class="dialog__head" style="--cat:var(--c-${esc(d.agentType)})">
         <div class="dialog__title">
           <span class="cat-pill"><span class="ic"></span>${esc(agLabel(d.agentType, lang))}</span>
-          <span class="ind-line"><span class="material-symbols-rounded" style="font-size:15px">${indIcon(d.industry)}</span>${esc(indLabel(d.industry, lang))}</span>
+          <span class="ind-line"><span class="material-symbols-rounded" style="font-size:15px">${esc(indIcon(d.industry))}</span>${esc(indLabel(d.industry, lang))}</span>
           <h2 id="dlg-title">${esc(d.company)}${d.isNew ? ` <span class="badge-new">${t('badgeNew')}</span>` : ''}</h2>
         </div>
         <button class="icon-btn ripple-host dialog__close" id="dlg-close" aria-label="Close">
@@ -325,6 +325,7 @@
 
   $('#stat-total').textContent = DATA.length;
   $('#stat-inds').textContent = INDUSTRIES.length;
+  $('#stat-agents').textContent = AGENT_TYPES.length;
   applyStaticI18n();
   renderChips();
   renderCards();

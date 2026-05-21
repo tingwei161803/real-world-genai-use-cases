@@ -145,8 +145,7 @@ window.USE_CASES = [
         "title": "Google Cloud — Real-world gen AI use cases from the world's leading organizations",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "automotive-logistics-customer-continental",
@@ -620,8 +619,7 @@ window.USE_CASES = [
         "title": "Google Cloud — Real-world gen AI use cases from the world's leading organizations",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "automotive-logistics-employee-geotab",
@@ -704,8 +702,7 @@ window.USE_CASES = [
         "title": "Google Cloud — Real-world gen AI use cases from the world's leading organizations",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "automotive-logistics-employee-manhattan-associate",
@@ -797,8 +794,7 @@ window.USE_CASES = [
         "title": "Google Cloud — Real-world gen AI use cases from the world's leading organizations",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "automotive-logistics-employee-rivian",
@@ -880,8 +876,7 @@ window.USE_CASES = [
         "title": "Google Cloud — Real-world gen AI use cases from the world's leading organizations",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "automotive-logistics-employee-routematic",
@@ -1010,8 +1005,7 @@ window.USE_CASES = [
         "title": "Google Cloud — Real-world gen AI use cases from the world's leading organizations",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "automotive-logistics-employee-uber-2",
@@ -1050,8 +1044,7 @@ window.USE_CASES = [
         "title": "Google Cloud — Real-world gen AI use cases from the world's leading organizations",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "automotive-logistics-code-autozone",
@@ -1371,8 +1364,7 @@ window.USE_CASES = [
         "title": "Google Cloud — Real-world gen AI use cases from the world's leading organizations",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "automotive-logistics-data-geotab",
@@ -1733,8 +1725,7 @@ window.USE_CASES = [
         "title": "Google Cloud — Real-world gen AI use cases from the world's leading organizations",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "automotive-logistics-data-truckhouse",
@@ -1822,8 +1813,7 @@ window.USE_CASES = [
         "title": "Google Cloud — Real-world gen AI use cases from the world's leading organizations",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "automotive-logistics-data-ups",
@@ -2005,7 +1995,6 @@ window.USE_CASES = [
         "title": "Google Cloud — Real-world gen AI use cases from the world's leading organizations",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
       }
-    ],
-    "needsReview": true
+    ]
   }
 ];
