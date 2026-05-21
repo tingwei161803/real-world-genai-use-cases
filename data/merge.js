@@ -47,6 +47,7 @@ function validate(rows) {
     if (!indOrder.has(u.industry)) throw new Error(`bad industry: ${u.industry} (${u.id})`);
     if (!agOrder.has(u.agentType)) throw new Error(`bad agentType: ${u.agentType} (${u.id})`);
     if (!u.summary || !u.summary.en || !u.summary.zh) throw new Error(`bad summary: ${u.id}`);
+    if (!u.overview || !u.overview.en || !u.overview.zh) throw new Error(`bad overview: ${u.id}`);
     if (!Array.isArray(u.sources) || u.sources.length < 1) throw new Error(`no sources: ${u.id}`);
     if (ids.has(u.id)) throw new Error(`dup id: ${u.id}`);
     ids.add(u.id);
@@ -59,6 +60,7 @@ function validate(rows) {
 function main() {
   const rows = readChunks();
   validate(rows);
+  rows.forEach((u) => { delete u.needsReview; });
   rows.sort((a, b) => {
     const di = indOrder.get(a.industry) - indOrder.get(b.industry);
     if (di) return di;
