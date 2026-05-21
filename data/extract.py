@@ -22,7 +22,7 @@ SRC = ROOT / "data" / "source" / "gcp-usecases.html"
 OUT = ROOT / "data" / "raw" / "usecases-en.json"
 
 # (HTML-escaped display name as it appears in <p> tags, key)
-# Sorted longest-first to prevent prefix mismatches.
+# Order is irrelevant — matching is done via the INDUSTRY_P dict lookup below.
 INDUSTRIES = [
     ("Business &amp; Professional Services", "business-professional-services"),
     ("Manufacturing, Industrial &amp; Electronics", "manufacturing-industrial-electronics"),
@@ -66,10 +66,20 @@ SCAN_RE = re.compile(
     # (3) li entry (with or without leading *-span)
     r"|<li[^>]*>\s*<p[^>]*>\s*(?:<span[^>]*>(?P<li_star>[^<]*)</span>)?"
     r"<strong[^>]*>(?P<li_company>[^<]+)</strong>(?P<li_rest>.*?)</p>"
-    # (4) standalone p entry (not inside li — caught when no li match above fires)
-    r"|(?P<lone_p_start><p[^>]*>)\s*(?:<span[^>]*>(?P<lone_star>[^<]*)</span>)?"
+    # (4) standalone p entry (not inside li — caught when no li match above fires).
+    #     The opening <p[^>]*> is matched but intentionally not captured (non-capturing
+    #     group) since only the company/rest/star groups below are read.
+    r"|(?:<p[^>]*>)\s*(?:<span[^>]*>(?P<lone_star>[^<]*)</span>)?"
     r"<strong[^>]*>(?P<lone_company>[^<]+)</strong>(?P<lone_rest>.*?)</p>",
     re.S,
+)
+
+# A company name can be split across consecutive <strong> blocks, optionally
+# separated by a whitespace-only <span> </span>, e.g.
+#   <strong>Apex</strong><span> </span><strong>Leaders</strong>
+# This pattern matches one such trailing <strong> block at the start of `rest`.
+EXTRA_STRONG_RE = re.compile(
+    r"\s*(?:<span[^>]*>\s*</span>)?\s*<strong[^>]*>(.*?)</strong>", re.S
 )
 
 
@@ -82,9 +92,30 @@ def slugify(s: str) -> str:
     return s or "x"
 
 
-def add_entry(rows, seen, counts, cur_ind, cur_agent, company_raw, rest_raw, is_new):
+def add_entry(rows, seen, counts, cur_ind, cur_agent, company_raw, rest_raw, star_span):
     company = clean(company_raw)
-    desc = clean(rest_raw)
+    rest = rest_raw or ""
+
+    # Merge consecutive <strong> blocks that belong to the same company name,
+    # e.g. <strong>Apex</strong><span> </span><strong>Leaders</strong>. Each
+    # merged block is removed from the description (`rest`).
+    while True:
+        extra = EXTRA_STRONG_RE.match(rest)
+        if not extra:
+            break
+        piece = clean(extra.group(1))
+        if piece:
+            company = f"{company} {piece}".strip()
+        rest = rest[extra.end():]
+
+    desc = clean(rest)
+
+    # New-entry marker: an asterisk either in the leading <span>*</span> span,
+    # or embedded at the start/end of the company name itself (e.g. "*Banco").
+    is_new = "*" in (star_span or "") or company.startswith("*") or company.endswith("*")
+
+    # Strip leading/trailing asterisks and whitespace from the display name.
+    company = company.strip("* ").strip()
 
     if not cur_ind or not cur_agent:
         return
@@ -106,7 +137,7 @@ def add_entry(rows, seen, counts, cur_ind, cur_agent, company_raw, rest_raw, is_
         "id": uid,
         "industry": cur_ind,
         "agentType": cur_agent,
-        "company": company.rstrip("* ").strip(),
+        "company": company,
         "descEn": desc,
         "isNew": is_new,
         "sourceUrl": (
@@ -151,22 +182,18 @@ def main() -> int:
 
         # (3) li entry
         if m.group("li_company") is not None:
-            star_text = m.group("li_star") or ""
-            is_new = "*" in star_text
             add_entry(
                 rows, seen, counts, cur_ind, cur_agent,
-                m.group("li_company"), m.group("li_rest"), is_new,
+                m.group("li_company"), m.group("li_rest"), m.group("li_star"),
             )
             last_was_agent_h3 = False
             continue
 
         # (4) Standalone p entry — only accept immediately after agent h3
         if m.group("lone_company") is not None and last_was_agent_h3:
-            star_text = m.group("lone_star") or ""
-            is_new = "*" in star_text
             add_entry(
                 rows, seen, counts, cur_ind, cur_agent,
-                m.group("lone_company"), m.group("lone_rest"), is_new,
+                m.group("lone_company"), m.group("lone_rest"), m.group("lone_star"),
             )
             last_was_agent_h3 = False
             continue
