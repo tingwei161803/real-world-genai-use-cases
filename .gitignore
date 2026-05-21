@@ -2,3 +2,6 @@
 node_modules/
 __pycache__/
 *.pyc
+
+# 原始頁面快照不納入版控（含 Google 自帶的公開 API key，且檔案過大）
+data/source/
