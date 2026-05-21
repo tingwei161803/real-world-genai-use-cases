@@ -3,8 +3,11 @@ import subprocess
 import sys
 from pathlib import Path
 
+import pytest
+
 ROOT = Path(__file__).resolve().parent.parent
 RAW = ROOT / "data" / "raw" / "usecases-en.json"
+SRC = ROOT / "data" / "source" / "gcp-usecases.html"
 
 INDUSTRY_KEYS = {
     "automotive-logistics", "business-professional-services", "financial-services",
@@ -13,6 +16,14 @@ INDUSTRY_KEYS = {
     "telecommunications",
 }
 AGENT_KEYS = {"customer", "employee", "creative", "code", "data", "security"}
+
+
+# 來源頁面快照不納入版控（含 Google 自帶公開金鑰、檔案過大）。
+# 若本地沒有快照，整組抽取測試跳過——重跑抽取前需先取得 data/source/gcp-usecases.html。
+pytestmark = pytest.mark.skipif(
+    not SRC.exists(),
+    reason="缺少 data/source/gcp-usecases.html 快照；抽取測試需先取得來源頁面",
+)
 
 
 def setup_module(_):
