@@ -53,3 +53,29 @@ def test_fields_valid():
         assert len(r["descEn"].strip()) >= 20, r
         assert r["id"] not in ids, f"dup id {r['id']}"
         ids.add(r["id"])
+
+
+def test_company_names_have_no_asterisk():
+    # The new-entry marker "*" must never leak into the company display name,
+    # whether it came from a leading <span>*</span> or was embedded in <strong>.
+    rows = load()
+    bad = [r["company"] for r in rows if r["company"].startswith("*") or r["company"].endswith("*")]
+    assert not bad, f"companies with stray asterisk: {bad}"
+
+
+def test_multi_strong_company_names_merged():
+    # Company names split across consecutive <strong> blocks must be merged,
+    # e.g. <strong>Apex</strong><span> </span><strong>Leaders</strong>.
+    rows = load()
+    names = {r["company"] for r in rows}
+    assert "Banco Macro" in names, "Banco Macro not merged from *Banco + Macro"
+    assert "Apex Leaders" in names, "Apex Leaders not merged from Apex + Leaders"
+
+
+def test_banco_macro_is_new_flag_correct():
+    # The customer-agent "Banco Macro" entry carries an asterisk in source
+    # (*Banco), so isNew must be True for at least one Banco Macro record.
+    rows = load()
+    bm = [r for r in rows if r["company"] == "Banco Macro"]
+    assert bm, "Banco Macro missing"
+    assert any(r["isNew"] for r in bm), f"expected a new Banco Macro entry: {bm}"
