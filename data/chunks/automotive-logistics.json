@@ -4,7 +4,7 @@
     "industry": "automotive-logistics",
     "agentType": "customer",
     "company": "Auteco",
-    "isNew": false,
+    "isNew": true,
     "summary": {
       "en": "Colombian automaker Auteco built a Gemini-powered conversational agent that slashed task times from days to seconds.",
       "zh": "哥倫比亞車廠 Auteco 以 Gemini 打造對話式 AI 助理，將作業時間從數天壓縮至數秒。"
@@ -283,7 +283,7 @@
     "industry": "automotive-logistics",
     "agentType": "customer",
     "company": "Mobiauto",
-    "isNew": false,
+    "isNew": true,
     "summary": {
       "en": "Brazilian auto marketplace Mobiauto used Gemini and BigQuery to build a Shopping Consultant that generates ads and qualifies leads.",
       "zh": "巴西汽車交易平台 Mobiauto 利用 Gemini 與 BigQuery 打造購車顧問，自動生成廣告並為潛在客戶評分。"
@@ -563,7 +563,7 @@
     "industry": "automotive-logistics",
     "agentType": "employee",
     "company": "Grupo Ruiz",
-    "isNew": false,
+    "isNew": true,
     "summary": {
       "en": "Spain's Grupo Ruiz uses Gemini Enterprise to improve team productivity and streamline workflows across its sustainable mobility fleet.",
       "zh": "西班牙 Grupo Ruiz 使用 Gemini Enterprise 提升團隊生產力，並優化其永續移動車隊的工作流程。"
@@ -603,7 +603,7 @@
     "industry": "automotive-logistics",
     "agentType": "employee",
     "company": "Manhattan Associate",
-    "isNew": false,
+    "isNew": true,
     "summary": {
       "en": "Manhattan Associates' Active Agents are AI digital teammates that automate warehouse, transport, and order management workflows on Google Cloud.",
       "zh": "Manhattan Associates 的 Active Agents 是 AI 數位夥伴，可在 Google Cloud 上自動化倉儲、運輸及訂單管理工作流程。"
@@ -949,7 +949,7 @@
     "industry": "automotive-logistics",
     "agentType": "code",
     "company": "AutoZone",
-    "isNew": false,
+    "isNew": true,
     "summary": {
       "en": "AutoZone uses Gemini Enterprise to automate merchandising data enrichment and accelerate AI-driven software development.",
       "zh": "AutoZone 使用 Gemini Enterprise 自動化商品資料豐富化作業，並透過 AI 加速軟體開發。"
@@ -1084,7 +1084,7 @@
     "industry": "automotive-logistics",
     "agentType": "data",
     "company": "BMW",
-    "isNew": false,
+    "isNew": true,
     "summary": {
       "en": "BMW uses Vertex AI Pipelines to optimize small language models (SLMs) for in-vehicle voice commands on limited hardware.",
       "zh": "BMW 利用 Vertex AI Pipelines 優化小型語言模型（SLM），以在硬體受限的車輛中實現語音指令功能。"
@@ -1131,7 +1131,7 @@
     "industry": "automotive-logistics",
     "agentType": "data",
     "company": "Chorus",
-    "isNew": false,
+    "isNew": true,
     "summary": {
       "en": "Alphabet X spin-off Chorus uses Gemini Enterprise Agent Platform to provide granular asset visibility and temperature intelligence across supply chains.",
       "zh": "Alphabet X 分拆公司 Chorus 使用 Gemini Enterprise Agent Platform，為供應鏈提供精細的資產可視性與溫度智能。"
@@ -1548,7 +1548,7 @@
     "industry": "automotive-logistics",
     "agentType": "data",
     "company": "Recurso Confiable",
-    "isNew": false,
+    "isNew": true,
     "summary": {
       "en": "Recurso Confiable transformed Latin American logistics with a scalable platform tracking 7x more shipments and delivering real-time updates in under 2 seconds.",
       "zh": "Recurso Confiable 打造可擴展的拉丁美洲物流平台，追蹤的貨物量提升 7 倍，即時更新不到 2 秒。"
@@ -1592,7 +1592,7 @@
     "industry": "automotive-logistics",
     "agentType": "data",
     "company": "Stord",
-    "isNew": false,
+    "isNew": true,
     "summary": {
       "en": "Stord uses Gemini Enterprise Agent Platform to predict delivery dates and optimize demand planning across $10B+ in annual GMV.",
       "zh": "Stord 使用 Gemini Enterprise Agent Platform 預測交貨日期並優化需求規劃，支撐逾 100 億美元的年度 GMV。"
@@ -1816,7 +1816,7 @@
     "industry": "automotive-logistics",
     "agentType": "security",
     "company": "BMW",
-    "isNew": false,
+    "isNew": true,
     "summary": {
       "en": "BMW used Wiz on Google Cloud to cut critical security issues by 95% and gain full visibility across thousands of cloud workloads within days.",
       "zh": "BMW 透過 Google Cloud 上的 Wiz 將關鍵安全問題減少 95%，並在數天內獲得數千個雲端工作負載的完整可視性。"
