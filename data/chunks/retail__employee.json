@@ -25,7 +25,11 @@
         "縮短內容創作所需時間，讓她們有餘力兼顧家庭與其他業務。"
       ]
     },
-    "technologies": ["Gemini", "Google Docs", "Google Workspace"],
+    "technologies": [
+      "Gemini",
+      "Google Docs",
+      "Google Workspace"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -62,7 +66,11 @@
         "減輕 IT 團隊工作負擔，讓員工得以專注處理更複雜的任務。"
       ]
     },
-    "technologies": ["Vertex AI", "Vertex AI Agent Builder", "Gemini"],
+    "technologies": [
+      "Vertex AI",
+      "Vertex AI Agent Builder",
+      "Gemini"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -106,7 +114,11 @@
         "在單一零售營運平台中結合電腦視覺、AR 與生成式 AI。"
       ]
     },
-    "technologies": ["Google Cloud", "Vertex AI", "Computer Vision"],
+    "technologies": [
+      "Google Cloud",
+      "Vertex AI",
+      "Computer Vision"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -141,7 +153,10 @@
         "透過 AI 分析與建議推動銷售績效成長。"
       ]
     },
-    "technologies": ["Google Cloud", "Vertex AI"],
+    "technologies": [
+      "Google Cloud",
+      "Vertex AI"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -180,7 +195,13 @@
         "平台建立於 Vertex AI 之上，於 2026 年 1 月 NRF 大展上正式發布。"
       ]
     },
-    "technologies": ["Vertex AI", "Gemini", "Imagen 3", "Veo 3.1", "Google Cloud"],
+    "technologies": [
+      "Vertex AI",
+      "Gemini",
+      "Imagen 3",
+      "Veo 3.1",
+      "Google Cloud"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -224,7 +245,12 @@
         "計劃推出生成式 AI 虛擬助理，協助顧客排除故障及管理訂閱服務。"
       ]
     },
-    "technologies": ["Contact Center AI", "Gemini", "Vertex AI", "Google Cloud"],
+    "technologies": [
+      "Contact Center AI",
+      "Gemini",
+      "Vertex AI",
+      "Google Cloud"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -266,7 +292,11 @@
         "讓團隊得以專注在策略重點，而非資料輸入。"
       ]
     },
-    "technologies": ["Gemini", "Google Sheets", "Google Workspace"],
+    "technologies": [
+      "Gemini",
+      "Google Sheets",
+      "Google Workspace"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -303,7 +333,10 @@
         "結合機器學習影像搜尋與生成式 AI，推動全公司 AI 應用普及。"
       ]
     },
-    "technologies": ["Vertex AI", "Google Cloud"],
+    "technologies": [
+      "Vertex AI",
+      "Google Cloud"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -343,7 +376,12 @@
         "與現有 Vertex AI 影像辨識系統互補，建構全面的 AI 輔助鑑定工作流程。"
       ]
     },
-    "technologies": ["Gemini", "Vertex AI", "RAG", "Google Cloud"],
+    "technologies": [
+      "Gemini",
+      "Vertex AI",
+      "RAG",
+      "Google Cloud"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -381,7 +419,11 @@
         "藉助 Google Cloud AI 加速開發與部署時程。"
       ]
     },
-    "technologies": ["Google Cloud", "Vertex AI", "Gemini"],
+    "technologies": [
+      "Google Cloud",
+      "Vertex AI",
+      "Gemini"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -416,7 +458,11 @@
         "釋放團隊時間，專注於核心牧場與業務營運。"
       ]
     },
-    "technologies": ["Gemini", "Gmail", "Google Workspace"],
+    "technologies": [
+      "Gemini",
+      "Gmail",
+      "Google Workspace"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -451,7 +497,12 @@
         "在大規模環境下實現員工與房仲之間的無縫資訊共享與協作。"
       ]
     },
-    "technologies": ["Google Workspace", "Google Docs", "Gmail", "Google Meet"],
+    "technologies": [
+      "Google Workspace",
+      "Google Docs",
+      "Gmail",
+      "Google Meet"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -486,7 +537,11 @@
         "展現 AI 輔助溝通工具如何幫助小型食品企業規模化發展。"
       ]
     },
-    "technologies": ["Gemini", "Gmail", "Google Workspace"],
+    "technologies": [
+      "Gemini",
+      "Gmail",
+      "Google Workspace"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -523,7 +578,13 @@
         "協助企業針對新興技術投資做出有據可查的決策。"
       ]
     },
-    "technologies": ["Vertex AI", "Vertex AI Model Garden", "Google Compute Engine", "Cloud Run", "Dataflow"],
+    "technologies": [
+      "Vertex AI",
+      "Vertex AI Model Garden",
+      "Google Compute Engine",
+      "Cloud Run",
+      "Dataflow"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -558,7 +619,11 @@
         "提升 Etsy 市集顧客互動的回應速度與品質。"
       ]
     },
-    "technologies": ["Gemini", "Google Sheets", "Google Workspace"],
+    "technologies": [
+      "Gemini",
+      "Google Sheets",
+      "Google Workspace"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -595,7 +660,14 @@
         "在 Vertex AI 上部署 Imagen 4 及 Veo 3 用於行銷創意，廣告製作時間縮短 10 倍、成本降低 100 倍。"
       ]
     },
-    "technologies": ["Google Agentspace", "Vertex AI", "Gemini", "Imagen 4", "Veo 3", "Google Workspace"],
+    "technologies": [
+      "Google Agentspace",
+      "Vertex AI",
+      "Gemini",
+      "Imagen 4",
+      "Veo 3",
+      "Google Workspace"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -637,7 +709,10 @@
         "確保公司資料不用於訓練外部 AI 模型，保護資料隱私。"
       ]
     },
-    "technologies": ["Gemini", "Google Workspace"],
+    "technologies": [
+      "Gemini",
+      "Google Workspace"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -672,7 +747,10 @@
         "致力於提升生產力並推動拉丁美洲食品業的創新。"
       ]
     },
-    "technologies": ["Gemini", "Google Workspace"],
+    "technologies": [
+      "Gemini",
+      "Google Workspace"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -709,7 +787,11 @@
         "自 2015 年起與 Google Cloud 建立長期合作關係，涵蓋電腦視覺、機器學習與生成式 AI。"
       ]
     },
-    "technologies": ["Vertex AI", "Computer Vision", "Google Cloud"],
+    "technologies": [
+      "Vertex AI",
+      "Computer Vision",
+      "Google Cloud"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -751,7 +833,10 @@
         "釋放員工時間從事更深入、更專注的工作——在共同持股企業中尤具價值。"
       ]
     },
-    "technologies": ["Gemini", "Google Workspace"],
+    "technologies": [
+      "Gemini",
+      "Google Workspace"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -789,7 +874,10 @@
         "透過提升營運效率，支援產品開發與客戶服務品質。"
       ]
     },
-    "technologies": ["Gemini", "Google Workspace"],
+    "technologies": [
+      "Gemini",
+      "Google Workspace"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -802,7 +890,7 @@
     "id": "retail-employee-mcdonald-s",
     "industry": "retail",
     "agentType": "employee",
-    "company": "McDonald's",
+    "company": "McDonald’s",
     "isNew": false,
     "summary": {
       "en": "McDonald's partners with Google Cloud to deploy AI and edge technology across thousands of restaurants, enhancing employee and customer experiences.",
@@ -826,7 +914,11 @@
         "利用 AI 分析設備性能，減少業務中斷。"
       ]
     },
-    "technologies": ["Google Distributed Cloud", "Vertex AI", "Google Cloud"],
+    "technologies": [
+      "Google Distributed Cloud",
+      "Vertex AI",
+      "Google Cloud"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -870,7 +962,12 @@
         "系統從微服務資料自主解決問題，僅將複雜案例升級至人工處理。"
       ]
     },
-    "technologies": ["Google Cloud", "Vertex AI", "Contact Center AI", "Gemini"],
+    "technologies": [
+      "Google Cloud",
+      "Vertex AI",
+      "Contact Center AI",
+      "Gemini"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -914,7 +1011,11 @@
         "第一個結果與重複商品匹配的準確率達 98%，匹配時間不到 1 秒。"
       ]
     },
-    "technologies": ["Vertex AI", "Vision AI", "Google Cloud"],
+    "technologies": [
+      "Vertex AI",
+      "Vision AI",
+      "Google Cloud"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -952,7 +1053,11 @@
         "提升多個攀岩健身房地點間的營運協調。"
       ]
     },
-    "technologies": ["Gemini", "Google Meet", "Google Workspace"],
+    "technologies": [
+      "Gemini",
+      "Google Meet",
+      "Google Workspace"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -987,7 +1092,11 @@
         "提升供應商管理決策的速度與品質。"
       ]
     },
-    "technologies": ["Gemini", "Gmail", "Google Workspace"],
+    "technologies": [
+      "Gemini",
+      "Gmail",
+      "Google Workspace"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -1022,7 +1131,10 @@
         "致力於提升全球分散式員工的生產力。"
       ]
     },
-    "technologies": ["Gemini", "Google Workspace"],
+    "technologies": [
+      "Gemini",
+      "Google Workspace"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -1060,7 +1172,10 @@
         "提升 Natura 全球團隊的協作效率。"
       ]
     },
-    "technologies": ["Gemini", "Google Workspace"],
+    "technologies": [
+      "Gemini",
+      "Google Workspace"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -1100,7 +1215,11 @@
         "78% 的協作者每天使用 Gemini，體現深度的全組織 AI 採用。"
       ]
     },
-    "technologies": ["Gemini", "Google Workspace", "AppSheet"],
+    "technologies": [
+      "Gemini",
+      "Google Workspace",
+      "AppSheet"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -1142,7 +1261,11 @@
         "無需人工翻譯即可進行無縫的供應商談判。"
       ]
     },
-    "technologies": ["Gemini", "Google Meet", "Google Workspace"],
+    "technologies": [
+      "Gemini",
+      "Google Meet",
+      "Google Workspace"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -1177,7 +1300,10 @@
         "客製化工作流程，減少線上超市業務的營運阻力。"
       ]
     },
-    "technologies": ["Gemini", "Google Workspace"],
+    "technologies": [
+      "Gemini",
+      "Google Workspace"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -1212,7 +1338,11 @@
         "展現 AI 工具如何協助小型企業創辦人更有效率地運作。"
       ]
     },
-    "technologies": ["Gemini", "Gmail", "Google Workspace"],
+    "technologies": [
+      "Gemini",
+      "Gmail",
+      "Google Workspace"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -1249,7 +1379,10 @@
         "滿足零售業的歐洲資料主權要求。"
       ]
     },
-    "technologies": ["Google Workspace", "Google Cloud"],
+    "technologies": [
+      "Google Workspace",
+      "Google Cloud"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -1291,7 +1424,11 @@
         "提升運動零售業顧客互動的整體品質。"
       ]
     },
-    "technologies": ["Gemini", "Google Workspace", "Gmail"],
+    "technologies": [
+      "Gemini",
+      "Google Workspace",
+      "Gmail"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -1328,7 +1465,12 @@
         "以生成式 AI 將行銷活動在地化速度加快 10 倍。"
       ]
     },
-    "technologies": ["BigQuery", "Vertex AI", "Gemini", "Google Cloud"],
+    "technologies": [
+      "BigQuery",
+      "Vertex AI",
+      "Gemini",
+      "Google Cloud"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -1368,7 +1510,10 @@
         "探索其他 AI 應用場景，包括商品配方優化與調配建議。"
       ]
     },
-    "technologies": ["Vertex AI", "Google Cloud"],
+    "technologies": [
+      "Vertex AI",
+      "Google Cloud"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -1408,7 +1553,11 @@
         "為零售營運的未來雲端原生現代化奠定基礎。"
       ]
     },
-    "technologies": ["Google Cloud", "Hybrid Subnets", "Migrate to Virtual Machines"],
+    "technologies": [
+      "Google Cloud",
+      "Hybrid Subnets",
+      "Migrate to Virtual Machines"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -1421,7 +1570,7 @@
     "id": "retail-employee-victoria-s-secret",
     "industry": "retail",
     "agentType": "employee",
-    "company": "Victoria's Secret",
+    "company": "Victoria’s Secret",
     "isNew": false,
     "summary": {
       "en": "Victoria's Secret is testing AI agents to help in-store associates access product availability, inventory, and fitting tips for better customer recommendations.",
@@ -1445,7 +1594,11 @@
         "旨在於全球範圍內打造更個人化且更具包容性的購物體驗。"
       ]
     },
-    "technologies": ["Vertex AI", "Gemini", "Google Cloud"],
+    "technologies": [
+      "Vertex AI",
+      "Gemini",
+      "Google Cloud"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -1483,7 +1636,10 @@
         "AI 工具原生整合至現有 Google Workspace 應用程式，降低採用阻力。"
       ]
     },
-    "technologies": ["Gemini", "Google Workspace"],
+    "technologies": [
+      "Gemini",
+      "Google Workspace"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -1518,7 +1674,10 @@
         "體現全組織讓所有職能員工皆可使用 AI 工具的承諾。"
       ]
     },
-    "technologies": ["Gemini", "Google Workspace"],
+    "technologies": [
+      "Gemini",
+      "Google Workspace"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -1560,7 +1719,11 @@
         "透過即時情境感知提升顧客支援的品質與個人化程度。"
       ]
     },
-    "technologies": ["Gemini", "Google Workspace", "Google Cloud"],
+    "technologies": [
+      "Gemini",
+      "Google Workspace",
+      "Google Cloud"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",

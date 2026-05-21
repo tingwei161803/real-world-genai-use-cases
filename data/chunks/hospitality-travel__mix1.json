@@ -136,27 +136,25 @@
     "company": "Catchtable",
     "isNew": false,
     "summary": {
-      "en": "Catchtable achieved 30% higher reservation conversions and 150% more impressions using Vertex AI personalized restaurant recommendations.",
-      "zh": "Catchtable 透過 Vertex AI 個人化餐廳推薦，訂位轉換率提升 30%，曝光量增加 150%。"
+      "en": "Catchtable, a Korean restaurant reservation platform, uses Vertex AI and Google Cloud to build personalized restaurant recommendation models.",
+      "zh": "韓國餐廳訂位平台 Catchtable 運用 Vertex AI 與 Google Cloud，建構個人化餐廳推薦模型。"
     },
     "overview": {
-      "en": "Catchtable built personalized restaurant recommendation models on Vertex AI and Kubeflow with GPU optimization, integrating BigQuery for data, Gemini for review analysis, and hybrid AI models combining LLMs with custom embeddings to understand customer search intent. The result was a 30% increase in reservation conversion rates and 150% increase in impressions per restaurant search.",
-      "zh": "Catchtable 在 Vertex AI 與 Kubeflow 上建立個人化餐廳推薦模型並進行 GPU 優化，整合 BigQuery 作資料基礎、Gemini 進行評論分析，以及結合 LLM 與自訂嵌入的混合 AI 模型理解顧客搜尋意圖。最終訂位轉換率提升 30%，每次搜尋曝光量增加 150%。"
+      "en": "Catchtable, a Korean restaurant reservation platform, built personalized restaurant recommendation models on Vertex AI and Kubeflow with GPU optimization. The system integrates BigQuery for data management, Gemini for review analysis, and hybrid AI models combining LLMs with custom embeddings to better understand customer search intent.",
+      "zh": "韓國餐廳訂位平台 Catchtable 在 Vertex AI 與 Kubeflow 上建立個人化餐廳推薦模型，並進行 GPU 優化。系統整合 BigQuery 作資料管理基礎、Gemini 進行評論分析，以及結合 LLM 與自訂嵌入的混合 AI 模型，以更精準理解顧客搜尋意圖。"
     },
     "highlights": {
       "en": [
-        "30% increase in reservation conversion rates through AI personalization.",
-        "150% increase in impressions per restaurant search.",
         "Hybrid AI models combine LLMs with custom embeddings to understand search intent.",
         "Gemini used for review analysis to enrich recommendation quality.",
-        "BigQuery powers data integration across the platform."
+        "BigQuery powers data integration across the platform.",
+        "GPU-optimized model training on Vertex AI and Kubeflow."
       ],
       "zh": [
-        "AI 個人化推動訂位轉換率提升 30%。",
-        "每次餐廳搜尋曝光量增加 150%。",
         "混合 AI 模型結合 LLM 與自訂嵌入理解搜尋意圖。",
         "Gemini 用於評論分析，提升推薦品質。",
-        "BigQuery 支援平台整體資料整合。"
+        "BigQuery 支援平台整體資料整合。",
+        "在 Vertex AI 與 Kubeflow 上進行 GPU 優化模型訓練。"
       ]
     },
     "technologies": [
@@ -170,7 +168,8 @@
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
       }
-    ]
+    ],
+    "needsReview": true
   },
   {
     "id": "hospitality-travel-customer-fitness-park",
@@ -583,7 +582,7 @@
     "id": "hospitality-travel-customer-papa-john-s",
     "industry": "hospitality-travel",
     "agentType": "customer",
-    "company": "Papa John's",
+    "company": "Papa John’s",
     "isNew": false,
     "needsReview": true,
     "summary": {

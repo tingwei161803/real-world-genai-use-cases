@@ -8,6 +8,7 @@
   const INDUSTRIES = window.INDUSTRIES || [];
   const AGENT_TYPES = window.AGENT_TYPES || [];
   const BATCH = 60;
+  const GCP_ARTICLE = 'https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders';
 
   const indLabel = (k, lang) => (INDUSTRIES.find((x) => x.key === k) || {})[lang] || k;
   const agLabel = (k, lang) => (AGENT_TYPES.find((x) => x.key === k) || {})[lang] || k;
@@ -117,7 +118,7 @@
       <button class="chip ripple-host" data-key="${it.key}" aria-pressed="${active === it.key}"
         ${it.accent ? `style="--cat:var(--c-${esc(it.accent)})"` : ''}>
         <span class="leadcheck"><span class="material-symbols-rounded">check</span></span>
-        <span class="material-symbols-rounded" style="font-size:18px">${it.icon}</span>
+        <span class="material-symbols-rounded" style="font-size:18px">${esc(it.icon)}</span>
         ${esc(it.label)} <span class="count">${it.count}</span>
       </button>`).join('');
     $$('.chip', wrap).forEach((b) => {
@@ -126,13 +127,16 @@
     });
   }
   function renderChips() {
-    const indCount = (k) => DATA.filter((d) => d.industry === k && (state.agent === 'all' || d.agentType === state.agent)).length;
-    const indItems = [{ key: 'all', label: t('all'), count: DATA.filter((d) => state.agent === 'all' || d.agentType === state.agent).length, icon: 'apps' }]
+    // 計數同時受對向篩選與目前搜尋字串約束，避免顯示與點擊後結果不一致。
+    const indCount = (k) => DATA.filter((d) => d.industry === k && (state.agent === 'all' || d.agentType === state.agent) && matches(d, state.q)).length;
+    const indAll = DATA.filter((d) => (state.agent === 'all' || d.agentType === state.agent) && matches(d, state.q)).length;
+    const indItems = [{ key: 'all', label: t('all'), count: indAll, icon: 'apps' }]
       .concat(INDUSTRIES.map((c) => ({ key: c.key, label: c[state.lang], count: indCount(c.key), icon: c.icon })));
     fillChips($('#chips-industry'), indItems, state.industry, (key) => { state.industry = key; renderChips(); renderCards(); });
 
-    const agCount = (k) => DATA.filter((d) => d.agentType === k && (state.industry === 'all' || d.industry === state.industry)).length;
-    const agItems = [{ key: 'all', label: t('all'), count: DATA.filter((d) => state.industry === 'all' || d.industry === state.industry).length, icon: 'apps' }]
+    const agCount = (k) => DATA.filter((d) => d.agentType === k && (state.industry === 'all' || d.industry === state.industry) && matches(d, state.q)).length;
+    const agAll = DATA.filter((d) => (state.industry === 'all' || d.industry === state.industry) && matches(d, state.q)).length;
+    const agItems = [{ key: 'all', label: t('all'), count: agAll, icon: 'apps' }]
       .concat(AGENT_TYPES.map((c) => ({ key: c.key, label: c[state.lang], count: agCount(c.key), icon: c.icon, accent: c.key })));
     fillChips($('#chips-agent'), agItems, state.agent, (key) => { state.agent = key; renderChips(); renderCards(); });
   }
@@ -211,10 +215,10 @@
   searchEl.addEventListener('input', () => {
     clearEl.classList.toggle('show', !!searchEl.value);
     clearTimeout(searchTimer);
-    searchTimer = setTimeout(() => { state.q = searchEl.value.trim(); renderCards(); }, 120);
+    searchTimer = setTimeout(() => { state.q = searchEl.value.trim(); renderChips(); renderCards(); }, 120);
   });
   clearEl.addEventListener('click', () => {
-    searchEl.value = ''; state.q = ''; clearEl.classList.remove('show'); renderCards(); searchEl.focus();
+    searchEl.value = ''; state.q = ''; clearEl.classList.remove('show'); renderChips(); renderCards(); searchEl.focus();
   });
 
   /* dialog */
@@ -264,7 +268,7 @@
           <ul class="sources">${sourceItems(d.sources)}</ul>
         </section>
         <div class="dialog__foot">
-          <a class="btn-filled ripple-host" href="${esc((d.sources && d.sources[0] && d.sources[0].url) || '#')}" target="_blank" rel="noopener">
+          <a class="btn-filled ripple-host" href="${esc(GCP_ARTICLE)}" target="_blank" rel="noopener">
             <span class="material-symbols-rounded">open_in_new</span>${t('original')}
           </a>
           <div class="dialog__nav">
@@ -306,8 +310,22 @@
   scrim.addEventListener('click', (e) => { if (e.target === scrim) closeDialog(); });
   document.addEventListener('keydown', (e) => {
     if (openIndex < 0) return;
-    if (e.key === 'Escape') closeDialog();
-    else if (e.key === 'ArrowLeft') openDialog((openIndex - 1 + filtered.length) % filtered.length);
+    if (e.key === 'Escape') { closeDialog(); return; }
+    if (e.key === 'Tab') {
+      // Focus trap：把 Tab/Shift+Tab 鎖在對話框內的可聚焦元素之間。
+      const f = $$('a[href], button:not([disabled])', dialog);
+      if (!f.length) return;
+      const first = f[0];
+      const last = f[f.length - 1];
+      const active = document.activeElement;
+      if (e.shiftKey && (active === first || !dialog.contains(active))) {
+        e.preventDefault(); last.focus();
+      } else if (!e.shiftKey && active === last) {
+        e.preventDefault(); first.focus();
+      }
+      return;
+    }
+    if (e.key === 'ArrowLeft') openDialog((openIndex - 1 + filtered.length) % filtered.length);
     else if (e.key === 'ArrowRight') openDialog((openIndex + 1) % filtered.length);
   });
 
@@ -331,7 +349,12 @@
   renderCards();
 
   function openFromHash() {
-    const id = decodeURIComponent(location.hash.replace('#', ''));
+    let id;
+    try {
+      id = decodeURIComponent(location.hash.replace('#', ''));
+    } catch (_) {
+      return; // 畸形的 hash（無效 %-序列）忽略，避免整頁互動因 URIError 中斷
+    }
     if (!id) { if (openIndex >= 0) closeDialog(); return; }
     if (openIndex >= 0 && filtered[openIndex] && filtered[openIndex].id === id) return;
     const idx = filtered.findIndex((d) => d.id === id);

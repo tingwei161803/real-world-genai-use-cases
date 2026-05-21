@@ -20,6 +20,8 @@ for (const u of USE_CASES) {
   assert(indKeys.has(u.industry), `bad industry ${u.industry}`);
   assert(agKeys.has(u.agentType), `bad agentType ${u.agentType}`);
   assert(u.summary && u.summary.en && u.summary.zh, `bad summary ${u.id}`);
+  assert(u.overview && u.overview.en && u.overview.zh, `bad overview ${u.id}`);
+  assert(u.company && u.company.trim(), `empty company ${u.id}`);
   assert(Array.isArray(u.sources) && u.sources.length >= 1, `no sources ${u.id}`);
   assert(!ids.has(u.id), `dup id ${u.id}`);
   ids.add(u.id);

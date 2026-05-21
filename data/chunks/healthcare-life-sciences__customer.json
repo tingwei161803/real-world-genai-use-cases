@@ -112,15 +112,13 @@
         "Created a gen AI platform on Google Cloud for personalized monitoring of chronic disease patients.",
         "Delivers tailored responses via patients' preferred communication channels, including WhatsApp.",
         "Improves the volume and capacity of care for patients with diabetes and related conditions.",
-        "Reduces disease complications through continuous AI-assisted monitoring and treatment adjustments.",
-        "Raised $10 million in seed funding to expand services across Latin America."
+        "Reduces disease complications through continuous AI-assisted monitoring and treatment adjustments."
       ],
       "zh": [
         "在 Google Cloud 上建構生成式 AI 平台，對慢性病患者進行個人化監測。",
         "透過 WhatsApp 等患者偏好的溝通管道提供客製化回應。",
         "提升糖尿病及相關疾病患者的照護量能與服務容量。",
-        "透過持續的 AI 輔助監測與治療調整，減少疾病併發症的發生。",
-        "獲得 1,000 萬美元種子輪融資，以擴展在拉丁美洲的服務。"
+        "透過持續的 AI 輔助監測與治療調整，減少疾病併發症的發生。"
       ]
     },
     "technologies": [
@@ -131,16 +129,9 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
-      },
-      {
-        "title": "Diabetes management startup Clivi wants to be 'Livongo of Latin America' | TechCrunch",
-        "url": "https://techcrunch.com/2023/06/20/diabetes-management-clivi-livongo-latin-america-healthcare/"
-      },
-      {
-        "title": "Clivi — Managing Chronic Diseases in Latin America | Foundation Capital",
-        "url": "https://foundationcapital.com/clivi-managing-chronic-diseases-in-latin-america/"
       }
-    ]
+    ],
+    "needsReview": true
   },
   {
     "id": "healthcare-life-sciences-customer-cvs-health",

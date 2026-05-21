@@ -27,7 +27,14 @@
         "此合作支持 AFRL 在生物資訊學、網路應用效能及人類效能研究等領域的使命。"
       ]
     },
-    "technologies": ["Vertex AI", "BigQuery", "App Engine", "Google Workspace", "Compute Engine", "Cloud Build"],
+    "technologies": [
+      "Vertex AI",
+      "BigQuery",
+      "App Engine",
+      "Google Workspace",
+      "Compute Engine",
+      "Cloud Build"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -71,7 +78,11 @@
         "運用 Google Cloud Document AI 從非結構化財稅記錄中擷取結構化資料。"
       ]
     },
-    "technologies": ["Document AI", "Vertex AI", "Google Cloud AI"],
+    "technologies": [
+      "Document AI",
+      "Vertex AI",
+      "Google Cloud AI"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -111,7 +122,11 @@
         "協助 EdPlus 將資源集中於高傾向潛在學生群。"
       ]
     },
-    "technologies": ["BigQuery", "Vertex AI", "Machine Learning"],
+    "technologies": [
+      "BigQuery",
+      "Vertex AI",
+      "Machine Learning"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -151,7 +166,11 @@
         "促進對墨西哥聯邦公共財政更透明、高效的監督。"
       ]
     },
-    "technologies": ["Vertex AI", "Document AI", "Google Cloud AI"],
+    "technologies": [
+      "Vertex AI",
+      "Document AI",
+      "Google Cloud AI"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -188,7 +207,11 @@
         "展示 AI 在巴西市政稅務機關現代化的實際應用。"
       ]
     },
-    "technologies": ["Vertex AI", "Natural Language Processing", "Google Cloud AI"],
+    "technologies": [
+      "Vertex AI",
+      "Natural Language Processing",
+      "Google Cloud AI"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -225,7 +248,12 @@
         "部署於明尼蘇達州、俄亥俄州、密西根州及紐約市等美國州政府。"
       ]
     },
-    "technologies": ["Gemini", "Gemini Enterprise", "Vertex AI", "Dialogflow"],
+    "technologies": [
+      "Gemini",
+      "Gemini Enterprise",
+      "Vertex AI",
+      "Dialogflow"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -245,7 +273,7 @@
     "id": "public-sector-nonprofits-data-brazil-s-ministry-of-education",
     "industry": "public-sector-nonprofits",
     "agentType": "data",
-    "company": "Brazil's Ministry of Education",
+    "company": "Brazil’s Ministry of Education",
     "isNew": false,
     "summary": {
       "en": "Brazil's Ministry of Education migrated its SIMEC system to Google Cloud, eliminating unreliability and automating processes for over 1 million users.",
@@ -269,7 +297,11 @@
         "提升巴西最重要公共教育平台之一的可擴展性與可靠性。"
       ]
     },
-    "technologies": ["Google Cloud", "Cloud Run", "Google Kubernetes Engine"],
+    "technologies": [
+      "Google Cloud",
+      "Cloud Run",
+      "Google Kubernetes Engine"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -306,7 +338,12 @@
         "生成區域新見解，為高風險社區優先分配投資。"
       ]
     },
-    "technologies": ["Google Earth Engine", "BigQuery", "Vertex AI", "Google Cloud AI"],
+    "technologies": [
+      "Google Earth Engine",
+      "BigQuery",
+      "Vertex AI",
+      "Google Cloud AI"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -346,7 +383,12 @@
         "識別的基礎設施文件增加 433%，實現更主動的商業情報。"
       ]
     },
-    "technologies": ["Dataflow", "Cloud Run", "BigQuery", "Vertex AI"],
+    "technologies": [
+      "Dataflow",
+      "Cloud Run",
+      "BigQuery",
+      "Vertex AI"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -386,7 +428,12 @@
         "利用 Google Cloud 大數據基礎架構在全國規模處理工業和勞動力資料。"
       ]
     },
-    "technologies": ["BigQuery", "Vertex AI", "Natural Language Processing", "Machine Learning"],
+    "technologies": [
+      "BigQuery",
+      "Vertex AI",
+      "Natural Language Processing",
+      "Machine Learning"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -399,7 +446,7 @@
     "id": "public-sector-nonprofits-data-colombia-s-ministry-of-information-and-communications-technologies",
     "industry": "public-sector-nonprofits",
     "agentType": "data",
-    "company": "Colombia's Ministry of Information and Communications Technologies",
+    "company": "Colombia’s Ministry of Information and Communications Technologies",
     "isNew": false,
     "summary": {
       "en": "Colombia's MinTIC uses AI and data analytics to improve telecom oversight, boosting productivity and transparency.",
@@ -423,7 +470,12 @@
         "實現全國電信服務的資料驅動監管決策。"
       ]
     },
-    "technologies": ["BigQuery", "Vertex AI", "Looker", "Google Cloud AI"],
+    "technologies": [
+      "BigQuery",
+      "Vertex AI",
+      "Looker",
+      "Google Cloud AI"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -460,7 +512,11 @@
         "Google.org 加速器資助支持了大規模健康內容分析工具的開發。"
       ]
     },
-    "technologies": ["Gemini", "Vertex AI", "Google Cloud AI"],
+    "technologies": [
+      "Gemini",
+      "Vertex AI",
+      "Google Cloud AI"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -504,7 +560,11 @@
         "維護資料隱私，客戶資料不用於訓練 AI 基礎模型。"
       ]
     },
-    "technologies": ["Gemini", "Vertex AI", "BigQuery"],
+    "technologies": [
+      "Gemini",
+      "Vertex AI",
+      "BigQuery"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -544,7 +604,13 @@
         "使用 NetApp 和 VMware 解決方案實現企業資料無縫遷移至雲端。"
       ]
     },
-    "technologies": ["Gemini", "NetApp", "VMware", "Google Cloud Storage", "Vertex AI"],
+    "technologies": [
+      "Gemini",
+      "NetApp",
+      "VMware",
+      "Google Cloud Storage",
+      "Vertex AI"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -584,7 +650,11 @@
         "研究旨在降低道路養護成本並減少道路建設的碳排放。"
       ]
     },
-    "technologies": ["Vertex AI", "Gemini", "Google Cloud"],
+    "technologies": [
+      "Vertex AI",
+      "Gemini",
+      "Google Cloud"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -628,7 +698,11 @@
         "幫助創業者以更快速度和更低成本開發 100% 生物基可堆肥塑膠替代品。"
       ]
     },
-    "technologies": ["Gemini", "Vertex AI", "Google Cloud AI"],
+    "technologies": [
+      "Gemini",
+      "Vertex AI",
+      "Google Cloud AI"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -672,7 +746,11 @@
         "負責任的 AI 是 Google Cloud 政府機構部署的核心重點。"
       ]
     },
-    "technologies": ["Vertex AI", "BigQuery", "Google Cloud AI"],
+    "technologies": [
+      "Vertex AI",
+      "BigQuery",
+      "Google Cloud AI"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -716,7 +794,12 @@
         "為 FEMA 和應急管理機構提供資料驅動的災難應變洞察。"
       ]
     },
-    "technologies": ["BigQuery", "Cloud Storage", "Google Kubernetes Engine", "Vertex AI"],
+    "technologies": [
+      "BigQuery",
+      "Cloud Storage",
+      "Google Kubernetes Engine",
+      "Vertex AI"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -756,7 +839,12 @@
         "OroraTech 籌集 3,700 萬歐元，開拓由 Google Cloud 驅動的野火數位孿生平台。"
       ]
     },
-    "technologies": ["Vertex AI", "Google Cloud", "Machine Learning", "Google Kubernetes Engine"],
+    "technologies": [
+      "Vertex AI",
+      "Google Cloud",
+      "Machine Learning",
+      "Google Kubernetes Engine"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -800,7 +888,12 @@
         "支持巴拉那州的農業認證生產和市場協議。"
       ]
     },
-    "technologies": ["Google Cloud AI", "Vertex AI", "Google Earth Engine", "BigQuery"],
+    "technologies": [
+      "Google Cloud AI",
+      "Vertex AI",
+      "Google Earth Engine",
+      "BigQuery"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -837,7 +930,11 @@
         "將 Prodam 定位為巴西公共部門 AI 驅動 IT 服務現代化的標竿。"
       ]
     },
-    "technologies": ["Vertex AI", "Google Cloud AI", "BigQuery"],
+    "technologies": [
+      "Vertex AI",
+      "Google Cloud AI",
+      "BigQuery"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -874,7 +971,12 @@
         "旨在透過整合資料和 AI 改善公共安全和城市服務交付。"
       ]
     },
-    "technologies": ["Vertex AI", "Computer Vision", "BigQuery", "Google Cloud AI"],
+    "technologies": [
+      "Vertex AI",
+      "Computer Vision",
+      "BigQuery",
+      "Google Cloud AI"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -911,7 +1013,12 @@
         "加快警察報告處理速度，讓警員能專注於更高價值的調查工作。"
       ]
     },
-    "technologies": ["Gemini", "Gemini Enterprise Agent Platform", "Vertex AI", "Google Cloud AI"],
+    "technologies": [
+      "Gemini",
+      "Gemini Enterprise Agent Platform",
+      "Vertex AI",
+      "Google Cloud AI"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -951,7 +1058,12 @@
         "GDC 氣隙版上的 Gemini 現已在巴西推出，為聯邦機構提供主權 AI。"
       ]
     },
-    "technologies": ["Google Distributed Cloud", "Gemini", "Vertex AI", "Google Cloud AI"],
+    "technologies": [
+      "Google Distributed Cloud",
+      "Gemini",
+      "Vertex AI",
+      "Google Cloud AI"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -995,7 +1107,12 @@
         "與 Google Cloud 的合作可追溯至 2017 年，目標是大規模改變小行星發現方式。"
       ]
     },
-    "technologies": ["BigQuery", "Google Kubernetes Engine", "Vertex AI", "Google Cloud"],
+    "technologies": [
+      "BigQuery",
+      "Google Kubernetes Engine",
+      "Vertex AI",
+      "Google Cloud"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -1039,7 +1156,11 @@
         "Looker Embedded 提供自助式分析，包括地理、價格點和家庭收入篩選器。"
       ]
     },
-    "technologies": ["Looker", "BigQuery", "Looker Studio"],
+    "technologies": [
+      "Looker",
+      "BigQuery",
+      "Looker Studio"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -1083,7 +1204,13 @@
         "支持世界上最大的河流修復項目之一，跨越 44 英里、近 20,000 英畝。"
       ]
     },
-    "technologies": ["Google Earth Engine", "Vertex AI", "Cloud Run", "BigQuery", "Gemini"],
+    "technologies": [
+      "Google Earth Engine",
+      "Vertex AI",
+      "Cloud Run",
+      "BigQuery",
+      "Gemini"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -1123,7 +1250,12 @@
         "提供跨技術報告、程式碼、圖像和科學資料集的原生多模態推理。"
       ]
     },
-    "technologies": ["Gemini", "Gemini for Government", "Vertex AI", "Google Cloud AI"],
+    "technologies": [
+      "Gemini",
+      "Gemini for Government",
+      "Vertex AI",
+      "Google Cloud AI"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -1167,7 +1299,12 @@
         "學生透過 Google Cloud 專家主導的研討會獲得實用的雲端技能。"
       ]
     },
-    "technologies": ["Vertex AI", "Gemini", "Google Cloud", "BigQuery"],
+    "technologies": [
+      "Vertex AI",
+      "Gemini",
+      "Google Cloud",
+      "BigQuery"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -1207,7 +1344,11 @@
         "美國有史以來最大的數位市政廳之一，由 Vertex AI 上的 Gemini 驅動。"
       ]
     },
-    "technologies": ["Gemini", "Vertex AI", "Google Cloud AI"],
+    "technologies": [
+      "Gemini",
+      "Vertex AI",
+      "Google Cloud AI"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",

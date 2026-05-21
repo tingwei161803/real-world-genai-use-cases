@@ -225,25 +225,23 @@
     "company": "Bynry",
     "isNew": false,
     "summary": {
-      "en": "Bynry's SMART360 platform leverages Google Cloud infrastructure to help small and mid-sized utilities improve efficiency and customer satisfaction.",
-      "zh": "Bynry 的 SMART360 平台以 Google Cloud 基礎架構，協助中小型公用事業公司提升運營效率與客戶滿意度。"
+      "en": "Bynry's SMART360 is an AI-driven SaaS platform for small and mid-sized utilities, featured as a gen AI use case in Google Cloud's industry overview.",
+      "zh": "Bynry 的 SMART360 是針對中小型公用事業公司的 AI 驅動 SaaS 平台，被 Google Cloud 列為產業生成式 AI 應用案例。"
     },
     "overview": {
-      "en": "Bynry's SMART360 is an AI-driven SaaS utility management platform built on Google Cloud's infrastructure. The solution empowers small and mid-sized water, electricity, and gas utilities to digitize critical workflows — including billing, metering, customer relationship management, and infrastructure monitoring — reducing operational costs and enhancing customer satisfaction.",
-      "zh": "Bynry 的 SMART360 是一套建構在 Google Cloud 基礎架構上的 AI 驅動 SaaS 公用事業管理平台，協助中小型水、電、氣業者數位化關鍵工作流程，包括計費、計量、客戶關係管理與基礎設施監控，以降低營運成本並提升客戶滿意度。"
+      "en": "Bynry's SMART360 is an AI-driven SaaS utility management platform that empowers small and mid-sized water, electricity, and gas utilities to digitize critical workflows — including billing, metering, customer relationship management, and infrastructure monitoring. Bynry is featured in Google Cloud's generative AI use case collection. Note: SMART360's infrastructure runs on AWS per Bynry's own documentation.",
+      "zh": "Bynry 的 SMART360 是一套 AI 驅動的 SaaS 公用事業管理平台，協助中小型水、電、氣業者數位化關鍵工作流程，包括計費、計量、客戶關係管理與基礎設施監控。Bynry 被 Google Cloud 收錄於生成式 AI 應用案例集中。注意：依據 Bynry 自身文件，SMART360 的基礎設施運行於 AWS 上。"
     },
     "highlights": {
       "en": [
-        "SMART360 leverages Google Cloud's robust infrastructure for reliability and scalability.",
-        "Utilities using the platform typically see a 30% drop in billing errors and a 25% increase in digital payment adoption.",
-        "The meter reading app processes up to 5,000 readings in under two minutes.",
-        "Clients have reported up to 40% increase in overall efficiency after adoption."
+        "SMART360 serves small and mid-sized water, electric, and gas utilities with a unified cloud-native SaaS platform.",
+        "Platform covers billing, metering, CRM, field service, and infrastructure monitoring workflows.",
+        "Featured in Google Cloud gen AI use case collection as a utility management example."
       ],
       "zh": [
-        "SMART360 以 Google Cloud 基礎架構確保高可靠性與可擴展性。",
-        "採用平台的公用事業公司帳單錯誤率通常降低 30%，數位付款採用率提升 25%。",
-        "抄表應用程式可在兩分鐘內處理多達 5,000 筆讀數。",
-        "客戶導入後回報整體效率最多提升 40%。"
+        "SMART360 為中小型水、電、氣公用事業提供統一的雲端原生 SaaS 平台。",
+        "平台涵蓋計費、計量、CRM、現場服務與基礎設施監控工作流程。",
+        "被 Google Cloud 收錄為公用事業管理領域的生成式 AI 應用案例。"
       ]
     },
     "technologies": [
@@ -253,12 +251,9 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
-      },
-      {
-        "title": "SMART360: The Ultimate Cloud-Based Utility Management Platform | Bynry",
-        "url": "https://www.bynry.com/utility-management-software"
       }
-    ]
+    ],
+    "needsReview": true
   },
   {
     "id": "manufacturing-industrial-electronics-employee-copel",

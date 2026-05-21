@@ -13758,15 +13758,13 @@ window.USE_CASES = [
         "Created a gen AI platform on Google Cloud for personalized monitoring of chronic disease patients.",
         "Delivers tailored responses via patients' preferred communication channels, including WhatsApp.",
         "Improves the volume and capacity of care for patients with diabetes and related conditions.",
-        "Reduces disease complications through continuous AI-assisted monitoring and treatment adjustments.",
-        "Raised $10 million in seed funding to expand services across Latin America."
+        "Reduces disease complications through continuous AI-assisted monitoring and treatment adjustments."
       ],
       "zh": [
         "在 Google Cloud 上建構生成式 AI 平台，對慢性病患者進行個人化監測。",
         "透過 WhatsApp 等患者偏好的溝通管道提供客製化回應。",
         "提升糖尿病及相關疾病患者的照護量能與服務容量。",
-        "透過持續的 AI 輔助監測與治療調整，減少疾病併發症的發生。",
-        "獲得 1,000 萬美元種子輪融資，以擴展在拉丁美洲的服務。"
+        "透過持續的 AI 輔助監測與治療調整，減少疾病併發症的發生。"
       ]
     },
     "technologies": [
@@ -13777,14 +13775,6 @@ window.USE_CASES = [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
-      },
-      {
-        "title": "Diabetes management startup Clivi wants to be 'Livongo of Latin America' | TechCrunch",
-        "url": "https://techcrunch.com/2023/06/20/diabetes-management-clivi-livongo-latin-america-healthcare/"
-      },
-      {
-        "title": "Clivi — Managing Chronic Diseases in Latin America | Foundation Capital",
-        "url": "https://foundationcapital.com/clivi-managing-chronic-diseases-in-latin-america/"
       }
     ]
   },
@@ -15099,7 +15089,7 @@ window.USE_CASES = [
     "industry": "healthcare-life-sciences",
     "agentType": "employee",
     "company": "ExaCare AI",
-    "isNew": false,
+    "isNew": true,
     "summary": {
       "en": "ExaCare AI uses Gemini Enterprise Agent Platform to streamline post-acute care admissions and clinical operations for 1,500+ facilities.",
       "zh": "ExaCare AI 利用 Gemini Enterprise Agent Platform 為逾 1,500 家機構簡化照後照護的入院流程與臨床作業。"
@@ -15322,7 +15312,7 @@ window.USE_CASES = [
     "industry": "healthcare-life-sciences",
     "agentType": "employee",
     "company": "Highmark",
-    "isNew": false,
+    "isNew": true,
     "summary": {
       "en": "Highmark's Sidekick AI assistant, built on Google Cloud, generated $27.9M in value and grew to 6M+ prompts with 20,000+ active users.",
       "zh": "Highmark 基於 Google Cloud 打造的 AI 助理 Sidekick 創造了 2,790 萬美元的價值，成長至逾 600 萬次提示，擁有逾 2 萬名活躍用戶。"
@@ -15424,7 +15414,7 @@ window.USE_CASES = [
     "industry": "healthcare-life-sciences",
     "agentType": "employee",
     "company": "Humana",
-    "isNew": false,
+    "isNew": true,
     "summary": {
       "en": "Humana launched Agent Assist with Google Cloud's Gemini to help 20,000+ member advocates handle 80M annual calls more efficiently.",
       "zh": "Humana 與 Google Cloud 合作推出 Agent Assist，協助逾 2 萬名會員服務專員更有效率地處理每年 8,000 萬通來電。"
@@ -15671,7 +15661,7 @@ window.USE_CASES = [
     "industry": "healthcare-life-sciences",
     "agentType": "employee",
     "company": "Marista Group",
-    "isNew": false,
+    "isNew": true,
     "summary": {
       "en": "Marista Group uses Google Agentspace to cut hospital billing discrepancy management from weeks to hours.",
       "zh": "Marista Group 利用 Google Agentspace 將醫院帳單差異處理時間從數週縮短至數小時。"
@@ -15714,7 +15704,7 @@ window.USE_CASES = [
     "industry": "healthcare-life-sciences",
     "agentType": "employee",
     "company": "Merck",
-    "isNew": false,
+    "isNew": true,
     "summary": {
       "en": "Merck signed a $1B partnership with Google Cloud to deploy Gemini Enterprise across R&D, manufacturing, and commercial functions.",
       "zh": "Merck 與 Google Cloud 簽署高達 10 億美元的合作協議，在研發、製造及商業等職能全面部署 Gemini Enterprise。"
@@ -15765,7 +15755,7 @@ window.USE_CASES = [
     "industry": "healthcare-life-sciences",
     "agentType": "employee",
     "company": "PFM Medical",
-    "isNew": false,
+    "isNew": true,
     "summary": {
       "en": "PFM Medical built an enterprise search tool on Google Cloud to help teams quickly find data across SharePoint and other systems.",
       "zh": "PFM Medical 基於 Google Cloud 打造企業搜尋工具，協助團隊快速查找 SharePoint 等系統中儲存的資料。"
@@ -15848,7 +15838,7 @@ window.USE_CASES = [
     "industry": "healthcare-life-sciences",
     "agentType": "employee",
     "company": "Rede Américas",
-    "isNew": false,
+    "isNew": true,
     "summary": {
       "en": "Rede Américas adopted Gemini Enterprise Agent Platform to streamline operations across its 25-hospital Latin American network.",
       "zh": "Rede Américas 採用 Gemini Enterprise Agent Platform，簡化其遍布拉丁美洲 25 家醫院網絡的作業流程。"
@@ -15933,7 +15923,7 @@ window.USE_CASES = [
     "industry": "healthcare-life-sciences",
     "agentType": "employee",
     "company": "Sami Saúde",
-    "isNew": false,
+    "isNew": true,
     "summary": {
       "en": "Sami Saúde uses Google Cloud AI and Gemini Enterprise Agent Platform to cut attendance sheet analysis from hours to minutes.",
       "zh": "Sami Saúde 利用 Google Cloud AI 與 Gemini Enterprise Agent Platform 將出勤表分析時間從數小時縮短至數分鐘。"
@@ -16112,7 +16102,7 @@ window.USE_CASES = [
     "industry": "healthcare-life-sciences",
     "agentType": "employee",
     "company": "SIGNAL IDUNA",
-    "isNew": false,
+    "isNew": true,
     "summary": {
       "en": "SIGNAL IDUNA uses Gemini Enterprise to deliver health services 37% faster.",
       "zh": "SIGNAL IDUNA 利用 Gemini Enterprise 將健康服務的提供速度提升 37%。"
@@ -16153,7 +16143,7 @@ window.USE_CASES = [
     "industry": "healthcare-life-sciences",
     "agentType": "employee",
     "company": "Sírio-Libanês Hospital",
-    "isNew": false,
+    "isNew": true,
     "summary": {
       "en": "Sírio-Libanês Hospital deployed Gemini for Workspace to 10,000+ employees, boosting productivity while ensuring LGPD compliance.",
       "zh": "Sírio-Libanês Hospital 將 Gemini for Workspace 部署至逾 1 萬名員工，在確保符合 LGPD 的前提下提升生產力。"
@@ -16233,7 +16223,7 @@ window.USE_CASES = [
     "industry": "healthcare-life-sciences",
     "agentType": "employee",
     "company": "Supermetrics",
-    "isNew": false,
+    "isNew": true,
     "summary": {
       "en": "Supermetrics Marketing Intelligence Agent delivers live cross-channel insights directly in Gemini Enterprise connecting 175+ data sources.",
       "zh": "Supermetrics Marketing Intelligence Agent 直接在 Gemini Enterprise 中提供跨 175 個以上資料來源的即時跨通路洞察。"
@@ -16532,7 +16522,7 @@ window.USE_CASES = [
     "industry": "healthcare-life-sciences",
     "agentType": "employee",
     "company": "Waystar",
-    "isNew": false,
+    "isNew": true,
     "summary": {
       "en": "Waystar uses Google Cloud's Gemini to build AI that has prevented $15B in denied healthcare claims and cut appeal time by 90%.",
       "zh": "Waystar 利用 Google Cloud 的 Gemini 打造 AI 工具，已防止 150 億美元的醫療保險拒付，並將申訴時間縮短 90%。"
@@ -16677,7 +16667,7 @@ window.USE_CASES = [
     "industry": "healthcare-life-sciences",
     "agentType": "creative",
     "company": "Cimed",
-    "isNew": false,
+    "isNew": true,
     "summary": {
       "en": "Cimed uses Veo 3 via Gemini Enterprise Agent Platform to create 'Sônia', an AI-generated character for its Lavitan Night campaign.",
       "zh": "Cimed 透過 Gemini Enterprise Agent Platform 的 Veo 3，創作 AI 生成角色「Sônia」主演 Lavitan Night 廣告活動。"
@@ -18892,27 +18882,25 @@ window.USE_CASES = [
     "company": "Catchtable",
     "isNew": false,
     "summary": {
-      "en": "Catchtable achieved 30% higher reservation conversions and 150% more impressions using Vertex AI personalized restaurant recommendations.",
-      "zh": "Catchtable 透過 Vertex AI 個人化餐廳推薦，訂位轉換率提升 30%，曝光量增加 150%。"
+      "en": "Catchtable, a Korean restaurant reservation platform, uses Vertex AI and Google Cloud to build personalized restaurant recommendation models.",
+      "zh": "韓國餐廳訂位平台 Catchtable 運用 Vertex AI 與 Google Cloud，建構個人化餐廳推薦模型。"
     },
     "overview": {
-      "en": "Catchtable built personalized restaurant recommendation models on Vertex AI and Kubeflow with GPU optimization, integrating BigQuery for data, Gemini for review analysis, and hybrid AI models combining LLMs with custom embeddings to understand customer search intent. The result was a 30% increase in reservation conversion rates and 150% increase in impressions per restaurant search.",
-      "zh": "Catchtable 在 Vertex AI 與 Kubeflow 上建立個人化餐廳推薦模型並進行 GPU 優化，整合 BigQuery 作資料基礎、Gemini 進行評論分析，以及結合 LLM 與自訂嵌入的混合 AI 模型理解顧客搜尋意圖。最終訂位轉換率提升 30%，每次搜尋曝光量增加 150%。"
+      "en": "Catchtable, a Korean restaurant reservation platform, built personalized restaurant recommendation models on Vertex AI and Kubeflow with GPU optimization. The system integrates BigQuery for data management, Gemini for review analysis, and hybrid AI models combining LLMs with custom embeddings to better understand customer search intent.",
+      "zh": "韓國餐廳訂位平台 Catchtable 在 Vertex AI 與 Kubeflow 上建立個人化餐廳推薦模型，並進行 GPU 優化。系統整合 BigQuery 作資料管理基礎、Gemini 進行評論分析，以及結合 LLM 與自訂嵌入的混合 AI 模型，以更精準理解顧客搜尋意圖。"
     },
     "highlights": {
       "en": [
-        "30% increase in reservation conversion rates through AI personalization.",
-        "150% increase in impressions per restaurant search.",
         "Hybrid AI models combine LLMs with custom embeddings to understand search intent.",
         "Gemini used for review analysis to enrich recommendation quality.",
-        "BigQuery powers data integration across the platform."
+        "BigQuery powers data integration across the platform.",
+        "GPU-optimized model training on Vertex AI and Kubeflow."
       ],
       "zh": [
-        "AI 個人化推動訂位轉換率提升 30%。",
-        "每次餐廳搜尋曝光量增加 150%。",
         "混合 AI 模型結合 LLM 與自訂嵌入理解搜尋意圖。",
         "Gemini 用於評論分析，提升推薦品質。",
-        "BigQuery 支援平台整體資料整合。"
+        "BigQuery 支援平台整體資料整合。",
+        "在 Vertex AI 與 Kubeflow 上進行 GPU 優化模型訓練。"
       ]
     },
     "technologies": [
@@ -19331,7 +19319,7 @@ window.USE_CASES = [
     "id": "hospitality-travel-customer-papa-john-s",
     "industry": "hospitality-travel",
     "agentType": "customer",
-    "company": "Papa John's",
+    "company": "Papa John’s",
     "isNew": false,
     "summary": {
       "en": "Papa John's uses BigQuery, Vertex AI, and Gemini to build predictive ordering tools, an enhanced loyalty program, and personalized marketing.",
@@ -21112,25 +21100,23 @@ window.USE_CASES = [
     "company": "Bynry",
     "isNew": false,
     "summary": {
-      "en": "Bynry's SMART360 platform leverages Google Cloud infrastructure to help small and mid-sized utilities improve efficiency and customer satisfaction.",
-      "zh": "Bynry 的 SMART360 平台以 Google Cloud 基礎架構，協助中小型公用事業公司提升運營效率與客戶滿意度。"
+      "en": "Bynry's SMART360 is an AI-driven SaaS platform for small and mid-sized utilities, featured as a gen AI use case in Google Cloud's industry overview.",
+      "zh": "Bynry 的 SMART360 是針對中小型公用事業公司的 AI 驅動 SaaS 平台，被 Google Cloud 列為產業生成式 AI 應用案例。"
     },
     "overview": {
-      "en": "Bynry's SMART360 is an AI-driven SaaS utility management platform built on Google Cloud's infrastructure. The solution empowers small and mid-sized water, electricity, and gas utilities to digitize critical workflows — including billing, metering, customer relationship management, and infrastructure monitoring — reducing operational costs and enhancing customer satisfaction.",
-      "zh": "Bynry 的 SMART360 是一套建構在 Google Cloud 基礎架構上的 AI 驅動 SaaS 公用事業管理平台，協助中小型水、電、氣業者數位化關鍵工作流程，包括計費、計量、客戶關係管理與基礎設施監控，以降低營運成本並提升客戶滿意度。"
+      "en": "Bynry's SMART360 is an AI-driven SaaS utility management platform that empowers small and mid-sized water, electricity, and gas utilities to digitize critical workflows — including billing, metering, customer relationship management, and infrastructure monitoring. Bynry is featured in Google Cloud's generative AI use case collection. Note: SMART360's infrastructure runs on AWS per Bynry's own documentation.",
+      "zh": "Bynry 的 SMART360 是一套 AI 驅動的 SaaS 公用事業管理平台，協助中小型水、電、氣業者數位化關鍵工作流程，包括計費、計量、客戶關係管理與基礎設施監控。Bynry 被 Google Cloud 收錄於生成式 AI 應用案例集中。注意：依據 Bynry 自身文件，SMART360 的基礎設施運行於 AWS 上。"
     },
     "highlights": {
       "en": [
-        "SMART360 leverages Google Cloud's robust infrastructure for reliability and scalability.",
-        "Utilities using the platform typically see a 30% drop in billing errors and a 25% increase in digital payment adoption.",
-        "The meter reading app processes up to 5,000 readings in under two minutes.",
-        "Clients have reported up to 40% increase in overall efficiency after adoption."
+        "SMART360 serves small and mid-sized water, electric, and gas utilities with a unified cloud-native SaaS platform.",
+        "Platform covers billing, metering, CRM, field service, and infrastructure monitoring workflows.",
+        "Featured in Google Cloud gen AI use case collection as a utility management example."
       ],
       "zh": [
-        "SMART360 以 Google Cloud 基礎架構確保高可靠性與可擴展性。",
-        "採用平台的公用事業公司帳單錯誤率通常降低 30%，數位付款採用率提升 25%。",
-        "抄表應用程式可在兩分鐘內處理多達 5,000 筆讀數。",
-        "客戶導入後回報整體效率最多提升 40%。"
+        "SMART360 為中小型水、電、氣公用事業提供統一的雲端原生 SaaS 平台。",
+        "平台涵蓋計費、計量、CRM、現場服務與基礎設施監控工作流程。",
+        "被 Google Cloud 收錄為公用事業管理領域的生成式 AI 應用案例。"
       ]
     },
     "technologies": [
@@ -21140,10 +21126,6 @@ window.USE_CASES = [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
-      },
-      {
-        "title": "SMART360: The Ultimate Cloud-Based Utility Management Platform | Bynry",
-        "url": "https://www.bynry.com/utility-management-software"
       }
     ]
   },
@@ -24140,19 +24122,17 @@ window.USE_CASES = [
       "zh": "拉丁美洲最大媒體公司 Globo 建立了 AI 推薦引擎，使影片點擊播放率提升超過一倍。"
     },
     "overview": {
-      "en": "Globo, Latin America's largest media company, created an AI-powered recommendations experience inside its Globoplay streaming platform using Google Cloud technologies. The recommendation engine more than doubled their click-through-play rate on videos, and delivered more accurate ad targeting, increasing click-through rates by up to four times in some categories. Globo also partnered with Harmonic to transition its playout workflow to Google Cloud.",
-      "zh": "拉丁美洲最大媒體公司 Globo 使用 Google Cloud 技術在其 Globoplay 串流平台內建立了 AI 驅動的推薦體驗。推薦引擎使影片點擊播放率提升超過一倍，並帶來更精準的廣告定向，在某些類別中點擊率提升最多 4 倍。Globo 還與 Harmonic 合作，將播出工作流程遷移至 Google Cloud。"
+      "en": "Globo, Latin America’s largest media company, created an AI-powered recommendations experience inside its Globoplay streaming platform using Google Cloud technologies. The recommendation engine more than doubled their click-through-play rate on videos, delivering more accurate content recommendations and ad targeting. Globo also partnered with Harmonic to transition its playout workflow to Google Cloud.",
+      "zh": "拉丁美洲最大媒體公司 Globo 使用 Google Cloud 技術在其 Globoplay 串流平台內建立了 AI 驅動的推薦體驗。推薦引擎使影片點擊播放率提升超過一倍，帶來更精準的內容推薦與廣告定向。Globo 還與 Harmonic 合作，將播出工作流程遷移至 Google Cloud。"
     },
     "highlights": {
       "en": [
         "More than doubled click-through-play rate on videos in the Globoplay streaming platform.",
-        "Click-through rate increased by up to 4x in some content categories.",
         "More accurate ad targeting delivered alongside improved content recommendations.",
         "Highlighted as a case study at Google Cloud Next '25."
       ],
       "zh": [
         "Globoplay 串流平台上的影片點擊播放率提升超過一倍。",
-        "在某些內容類別中點擊率提升最多 4 倍。",
         "在改善內容推薦的同時實現更精準的廣告定向。",
         "在 Google Cloud Next '25 上作為案例研究展示。"
       ]
@@ -29835,8 +29815,8 @@ window.USE_CASES = [
     "company": "Arizona State University",
     "isNew": false,
     "summary": {
-      "en": "ASU Prep's Archie chatbot, powered by Gemini, improves students' first-attempt math accuracy by 6%.",
-      "zh": "ASU Prep 以 Gemini 驅動的 Archie 聊天機器人，讓學生數學首次作答正確率提升 6%。"
+      "en": "ASU Prep's Archie chatbot, powered by Gemini, provides real-time math tutoring hints and error feedback for middle and high school students.",
+      "zh": "ASU Prep 以 Gemini 驅動的 Archie 聊天機器人，為國中與高中生提供即時數學輔導提示與錯誤回饋。"
     },
     "overview": {
       "en": "Arizona State University's ASU Prep division developed Archie, a Gemini-powered AI math tutor for middle and high school students. Archie provides real-time hints and error feedback as students work through math problems, identifying mistakes and guiding students step by step. The tool uses optical character recognition to interpret handwritten math and integrates with ASU's broader Digit adaptive learning platform.",
@@ -29844,13 +29824,11 @@ window.USE_CASES = [
     },
     "highlights": {
       "en": [
-        "Increased students' first-attempt correct answers by 6% through hint and error feedback functions.",
         "Uses optical character recognition (OCR) to interpret handwritten math problems in real time.",
         "Developed in collaboration with Google Cloud and presented at the ASU+GSV Summit.",
         "Integrated with the broader Digit adaptive math learning platform for K-12 students."
       ],
       "zh": [
-        "透過提示與錯誤回饋功能，學生首次作答正確率提升 6%。",
         "運用光學字元辨識（OCR）即時解讀學生手寫的數學題。",
         "與 Google Cloud 合作開發，並在 ASU+GSV Summit 上公開發表。",
         "整合進針對 K-12 學生的 Digit 自適應數學學習平台。"
@@ -31298,7 +31276,7 @@ window.USE_CASES = [
     "id": "public-sector-nonprofits-employee-erika-s-lighthouse",
     "industry": "public-sector-nonprofits",
     "agentType": "employee",
-    "company": "Erika's Lighthouse",
+    "company": "Erika’s Lighthouse",
     "isNew": false,
     "summary": {
       "en": "Erika's Lighthouse uses Gemini in Workspace to automate tasks and accelerate mental health content creation for schools.",
@@ -32851,7 +32829,7 @@ window.USE_CASES = [
     "id": "public-sector-nonprofits-data-brazil-s-ministry-of-education",
     "industry": "public-sector-nonprofits",
     "agentType": "data",
-    "company": "Brazil's Ministry of Education",
+    "company": "Brazil’s Ministry of Education",
     "isNew": false,
     "summary": {
       "en": "Brazil's Ministry of Education migrated its SIMEC system to Google Cloud, eliminating unreliability and automating processes for over 1 million users.",
@@ -33022,7 +33000,7 @@ window.USE_CASES = [
     "id": "public-sector-nonprofits-data-colombia-s-ministry-of-information-and-communications-technologies",
     "industry": "public-sector-nonprofits",
     "agentType": "data",
-    "company": "Colombia's Ministry of Information and Communications Technologies",
+    "company": "Colombia’s Ministry of Information and Communications Technologies",
     "isNew": false,
     "summary": {
       "en": "Colombia's MinTIC uses AI and data analytics to improve telecom oversight, boosting productivity and transparency.",
@@ -34357,7 +34335,7 @@ window.USE_CASES = [
     "industry": "retail",
     "agentType": "customer",
     "company": "Best Buy",
-    "isNew": false,
+    "isNew": true,
     "summary": {
       "en": "Best Buy deployed an Agent Assist powered by Gemini Enterprise for CX to autonomously guide shoppers through tech specs, issue resolution, and scheduling.",
       "zh": "Best Buy 部署 Gemini Enterprise for CX 的 Agent Assist，自動引導顧客處理技術規格查詢、問題解決與預約排程。"
@@ -34514,7 +34492,7 @@ window.USE_CASES = [
     "industry": "retail",
     "agentType": "customer",
     "company": "Bunnings",
-    "isNew": false,
+    "isNew": true,
     "summary": {
       "en": "Bunnings launched Buddy, a multimodal AI shopping assistant built with Gemini Enterprise for CX, helping Australian DIYers find products and plan projects.",
       "zh": "Bunnings 推出以 Gemini Enterprise for CX 打造的多模態 AI 購物助理 Buddy，協助澳洲 DIY 愛好者找商品、規劃專案。"
@@ -34756,7 +34734,7 @@ window.USE_CASES = [
     "industry": "retail",
     "agentType": "customer",
     "company": "Estée Lauder Companies",
-    "isNew": false,
+    "isNew": true,
     "summary": {
       "en": "Estée Lauder and Jo Malone London launched an AI Scent Advisor on Vertex AI that maps natural language to olfactory data for bespoke fragrance recommendations.",
       "zh": "Estée Lauder 與 Jo Malone London 在 Vertex AI 上推出 AI Scent Advisor，將自然語言映射至香氛資料，提供量身定制的香水推薦。"
@@ -35002,7 +34980,7 @@ window.USE_CASES = [
     "industry": "retail",
     "agentType": "customer",
     "company": "Grupo Falabella",
-    "isNew": false,
+    "isNew": true,
     "summary": {
       "en": "Grupo Falabella rebuilt incident management with a 24/7 AI conversational agent, cutting resolution time from 2 hours to 30 minutes.",
       "zh": "Grupo Falabella 以 24/7 AI 對話代理重建事件管理流程，將解決時間從 2 小時縮短至 30 分鐘。"
@@ -35047,7 +35025,7 @@ window.USE_CASES = [
     "industry": "retail",
     "agentType": "customer",
     "company": "Home Depot",
-    "isNew": false,
+    "isNew": true,
     "summary": {
       "en": "Home Depot launched Magic Apron, a Gemini Enterprise agentic AI that brings expert orange-apron advice to customers wherever they are.",
       "zh": "Home Depot 推出 Magic Apron，以 Gemini Enterprise 主動式 AI 將專業橙色圍裙服務帶給每位顧客。"
@@ -35092,7 +35070,7 @@ window.USE_CASES = [
     "industry": "retail",
     "agentType": "customer",
     "company": "Home Depot",
-    "isNew": false,
+    "isNew": true,
     "summary": {
       "en": "Home Depot's Gemini-powered phone agent identifies caller needs within 10 seconds, delivering store support 4x faster.",
       "zh": "Home Depot 以 Gemini 驅動的電話代理在 10 秒內識別來電需求，門市電話支援速度提升 4 倍。"
@@ -35136,7 +35114,7 @@ window.USE_CASES = [
     "industry": "retail",
     "agentType": "customer",
     "company": "Honeywell",
-    "isNew": false,
+    "isNew": true,
     "summary": {
       "en": "Honeywell's Smart Shopping Platform, developed with Google Cloud and 66degrees, uses Gemini to give retailers real-time in-store compliance and inventory insights.",
       "zh": "Honeywell 與 Google Cloud 及 66degrees 共同開發的 Smart Shopping Platform 運用 Gemini，為零售商提供即時的門市合規性與庫存洞察。"
@@ -35176,7 +35154,7 @@ window.USE_CASES = [
     "industry": "retail",
     "agentType": "customer",
     "company": "Kingfisher",
-    "isNew": false,
+    "isNew": true,
     "summary": {
       "en": "Kingfisher deployed Vertex AI Search across 1,700+ stores in Europe, moving beyond keyword search to AI-driven shopping assistants for home improvement projects.",
       "zh": "Kingfisher 在歐洲逾 1,700 家門市部署 Vertex AI Search，從關鍵字搜尋升級至 AI 驅動的家居改善專案購物助理。"
@@ -35220,7 +35198,7 @@ window.USE_CASES = [
     "industry": "retail",
     "agentType": "customer",
     "company": "La Maison du Whisky",
-    "isNew": false,
+    "isNew": true,
     "summary": {
       "en": "La Maison du Whisky uses Gemini Enterprise to create a Digital Sommelier that transforms product data into premium marketing storytelling in seconds.",
       "zh": "La Maison du Whisky 運用 Gemini Enterprise 打造數位侍酒師，在幾秒內將產品資料轉化為高端行銷故事內容。"
@@ -35258,7 +35236,7 @@ window.USE_CASES = [
     "industry": "retail",
     "agentType": "customer",
     "company": "Liverpool",
-    "isNew": false,
+    "isNew": true,
     "summary": {
       "en": "Liverpool, Mexico's premier department store, is projecting a 10x ROI from its AI shopping assistant that brings signature in-store service online.",
       "zh": "墨西哥頂級百貨公司 Liverpool 預計其 AI 購物助理將帶來 10 倍投資報酬率，將招牌門市服務延伸至線上。"
@@ -35471,7 +35449,7 @@ window.USE_CASES = [
     "industry": "retail",
     "agentType": "customer",
     "company": "Mars",
-    "isNew": false,
+    "isNew": true,
     "summary": {
       "en": "Mars adopted Gemini Enterprise as its primary AI platform for global associates, enabling AI agent building across over a century of product and consumer data.",
       "zh": "Mars 採用 Gemini Enterprise 作為全球員工的主要 AI 平台，讓員工能基於逾百年的產品與消費者資料構建 AI 代理。"
@@ -35605,7 +35583,7 @@ window.USE_CASES = [
     "industry": "retail",
     "agentType": "customer",
     "company": "Natura",
-    "isNew": false,
+    "isNew": true,
     "summary": {
       "en": "Natura's Google Cloud AI sales assistant reaches customers on WhatsApp for abandoned cart recovery, boosting buyer conversion by 112%.",
       "zh": "Natura 的 Google Cloud AI 銷售助理透過 WhatsApp 觸及棄單顧客，將買家轉換率提升 112%。"
@@ -35766,8 +35744,8 @@ window.USE_CASES = [
     "id": "retail-customer-papa-john-s",
     "industry": "retail",
     "agentType": "customer",
-    "company": "Papa John's",
-    "isNew": false,
+    "company": "Papa John’s",
+    "isNew": true,
     "summary": {
       "en": "Papa John's deployed a Gemini-powered Food Ordering Agent with omnichannel voice and text ordering, making it the first restaurant to deploy this system at scale.",
       "zh": "Papa John's 部署由 Gemini 驅動的 Food Ordering Agent，實現全渠道語音與文字點餐，成為首家大規模部署此系統的餐廳。"
@@ -35849,7 +35827,7 @@ window.USE_CASES = [
     "industry": "retail",
     "agentType": "customer",
     "company": "Reliance",
-    "isNew": false,
+    "isNew": true,
     "summary": {
       "en": "Reliance is transforming retail for millions in India with a Shopping Agent that guides customers from natural language requests to a fully assembled cart.",
       "zh": "Reliance 以購物代理為印度數百萬消費者變革零售體驗，從自然語言請求直接引導顧客完成購物車組建。"
@@ -36134,7 +36112,7 @@ window.USE_CASES = [
     "industry": "retail",
     "agentType": "customer",
     "company": "Unilever",
-    "isNew": false,
+    "isNew": true,
     "summary": {
       "en": "Unilever partnered with Google Cloud in a five-year deal using Gemini Enterprise Agent Platform to transform how consumers discover and shop for its global brands.",
       "zh": "Unilever 與 Google Cloud 簽署五年合作協議，運用 Gemini Enterprise Agent Platform 變革消費者探索和購買其全球品牌的方式。"
@@ -36179,7 +36157,7 @@ window.USE_CASES = [
     "industry": "retail",
     "agentType": "customer",
     "company": "Varejo de Moda",
-    "isNew": false,
+    "isNew": true,
     "summary": {
       "en": "Varejo de Moda, a Brazilian fashion retailer, uses Virtual Try-On and AI product page assistants to help customers visualize and understand products online.",
       "zh": "巴西時尚零售商 Varejo de Moda 運用虛擬試穿與 AI 商品頁面助理，協助顧客在線上視覺化並了解商品。"
@@ -36258,7 +36236,7 @@ window.USE_CASES = [
     "id": "retail-customer-wendy-s",
     "industry": "retail",
     "agentType": "customer",
-    "company": "Wendy's",
+    "company": "Wendy’s",
     "isNew": false,
     "summary": {
       "en": "Wendy's FreshAI pairs Gemini's conversational AI with audio and visual elements for a consistent drive-thru experience, shaving 22 seconds off service times.",
@@ -36306,7 +36284,7 @@ window.USE_CASES = [
     "industry": "retail",
     "agentType": "customer",
     "company": "Woolworths Group",
-    "isNew": false,
+    "isNew": true,
     "summary": {
       "en": "Woolworths Group became the first Australian retailer on Google's agentic platform, evolving its Olive chatbot to anticipate customer needs and plan meals.",
       "zh": "Woolworths Group 成為首家採用 Google 主動式 AI 平台的澳洲零售商，將 Olive 聊天機器人升級為能預判顧客需求並規劃餐食的智慧助理。"
@@ -37306,7 +37284,7 @@ window.USE_CASES = [
     "id": "retail-employee-mcdonald-s",
     "industry": "retail",
     "agentType": "employee",
-    "company": "McDonald's",
+    "company": "McDonald’s",
     "isNew": false,
     "summary": {
       "en": "McDonald's partners with Google Cloud to deploy AI and edge technology across thousands of restaurants, enhancing employee and customer experiences.",
@@ -37979,7 +37957,7 @@ window.USE_CASES = [
     "id": "retail-employee-victoria-s-secret",
     "industry": "retail",
     "agentType": "employee",
-    "company": "Victoria's Secret",
+    "company": "Victoria’s Secret",
     "isNew": false,
     "summary": {
       "en": "Victoria's Secret is testing AI agents to help in-store associates access product availability, inventory, and fitting tips for better customer recommendations.",

@@ -1177,19 +1177,17 @@
       "zh": "拉丁美洲最大媒體公司 Globo 建立了 AI 推薦引擎，使影片點擊播放率提升超過一倍。"
     },
     "overview": {
-      "en": "Globo, Latin America's largest media company, created an AI-powered recommendations experience inside its Globoplay streaming platform using Google Cloud technologies. The recommendation engine more than doubled their click-through-play rate on videos, and delivered more accurate ad targeting, increasing click-through rates by up to four times in some categories. Globo also partnered with Harmonic to transition its playout workflow to Google Cloud.",
-      "zh": "拉丁美洲最大媒體公司 Globo 使用 Google Cloud 技術在其 Globoplay 串流平台內建立了 AI 驅動的推薦體驗。推薦引擎使影片點擊播放率提升超過一倍，並帶來更精準的廣告定向，在某些類別中點擊率提升最多 4 倍。Globo 還與 Harmonic 合作，將播出工作流程遷移至 Google Cloud。"
+      "en": "Globo, Latin America’s largest media company, created an AI-powered recommendations experience inside its Globoplay streaming platform using Google Cloud technologies. The recommendation engine more than doubled their click-through-play rate on videos, delivering more accurate content recommendations and ad targeting. Globo also partnered with Harmonic to transition its playout workflow to Google Cloud.",
+      "zh": "拉丁美洲最大媒體公司 Globo 使用 Google Cloud 技術在其 Globoplay 串流平台內建立了 AI 驅動的推薦體驗。推薦引擎使影片點擊播放率提升超過一倍，帶來更精準的內容推薦與廣告定向。Globo 還與 Harmonic 合作，將播出工作流程遷移至 Google Cloud。"
     },
     "highlights": {
       "en": [
         "More than doubled click-through-play rate on videos in the Globoplay streaming platform.",
-        "Click-through rate increased by up to 4x in some content categories.",
         "More accurate ad targeting delivered alongside improved content recommendations.",
         "Highlighted as a case study at Google Cloud Next '25."
       ],
       "zh": [
         "Globoplay 串流平台上的影片點擊播放率提升超過一倍。",
-        "在某些內容類別中點擊率提升最多 4 倍。",
         "在改善內容推薦的同時實現更精準的廣告定向。",
         "在 Google Cloud Next '25 上作為案例研究展示。"
       ]
