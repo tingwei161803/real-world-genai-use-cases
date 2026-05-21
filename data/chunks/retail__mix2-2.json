@@ -1,0 +1,422 @@
+[
+  {
+    "id": "retail-data-fortenova-group",
+    "industry": "retail",
+    "agentType": "data",
+    "company": "Fortenova Group",
+    "isNew": false,
+    "summary": {
+      "en": "Fortenova Group built an AI inventory helper on Google Cloud to cut food waste and boost profits for grocery store managers.",
+      "zh": "Fortenova Group 在 Google Cloud 上打造 AI 庫存助理，協助超市店長精準下單生鮮品，降低食物浪費並提升獲利。"
+    },
+    "overview": {
+      "en": "Fortenova Group, one of Croatia's leading food and retail conglomerates operating the Konzum supermarket chain, partnered with Artefact and Google Cloud to build a DataLab focused on AI-driven demand forecasting for perishables such as fruits, vegetables, and meat. The forecasting model ingests historical sales, promotions, and inventory data to generate daily order recommendations for store managers. The solution also covers assortment management and promotional activity optimization.",
+      "zh": "Fortenova Group 是克羅埃西亞最大的食品零售集團之一，旗下擁有 Konzum 超市連鎖。集團與 Artefact 及 Google Cloud 合作，建立以 AI 驅動的 DataLab，針對蔬果、肉品等生鮮品進行需求預測。模型整合歷史銷售、促銷及庫存資料，每日產生補貨建議，並延伸至商品組合管理與促銷活動優化。"
+    },
+    "highlights": {
+      "en": [
+        "Pilot in 65 Konzum stores reduced food waste in the fruits and vegetables category by 7%.",
+        "Profitability improved by approximately 8% in 65% of pilot stores through waste and stockout reduction.",
+        "The forecasting model has since been rolled out to more than 500 stores across Croatia.",
+        "Technical backbone uses BigQuery, Cloud Storage, BigQuery ML, and Vertex AI for model build, test, and deployment."
+      ],
+      "zh": [
+        "在 65 家 Konzum 門市的試點中，蔬果類別食物浪費減少 7%。",
+        "透過降低損耗與缺貨，65% 試點門市的獲利提升約 8%。",
+        "預測模型已擴展至克羅埃西亞全國逾 500 家門市。",
+        "技術架構採用 BigQuery、Cloud Storage、BigQuery ML 與 Vertex AI，支援模型的建置、測試與部署。"
+      ]
+    },
+    "technologies": ["BigQuery", "BigQuery ML", "Vertex AI", "Cloud Storage"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Fortenova Group Case Study | Google Cloud",
+        "url": "https://cloud.google.com/customers/fortenova"
+      },
+      {
+        "title": "Fortenova Group: insights to reduce food waste & boost revenues — Artefact",
+        "url": "https://www.artefact.com/news/fortenova-group-delivering-fresh-insights-to-reduce-food-waste-and-boost-revenues/"
+      }
+    ]
+  },
+  {
+    "id": "retail-data-gordon-food-services",
+    "industry": "retail",
+    "agentType": "data",
+    "company": "Gordon Food Services",
+    "isNew": false,
+    "summary": {
+      "en": "Gordon Food Services deployed AI agents connected to Google Workspace and Salesforce to simplify insight discovery and recommend next steps.",
+      "zh": "Gordon Food Services 部署連接 Google Workspace 與 Salesforce 的 AI 代理，簡化洞察發掘流程並主動推薦後續行動。"
+    },
+    "overview": {
+      "en": "Gordon Food Services, the largest family-operated food distribution company in North America, partnered with Google Cloud to deploy Gemini Enterprise across nearly 12,000 employees via Google Workspace including Gmail, Docs, Drive, Sheets, and NotebookLM. The company uses AI agents that connect to enterprise systems including Salesforce, ServiceNow, SAP S/4, and other platforms to surface data-driven insights and suggest next steps for decision-makers across the organization.",
+      "zh": "Gordon Food Services 是北美最大的家族自營食品配送公司，與 Google Cloud 合作將 Gemini Enterprise 部署給近 12,000 名員工，整合 Gmail、Docs、Drive、Sheets 及 NotebookLM 等 Google Workspace 工具。公司的 AI 代理連接 Salesforce、ServiceNow、SAP S/4 等企業系統，自動彙整洞察並為決策者推薦後續行動。"
+    },
+    "highlights": {
+      "en": [
+        "Nearly 12,000 employees enabled with Google Workspace and Gemini Enterprise.",
+        "AI agents connect to Salesforce, ServiceNow, SAP S/4, JIRA, Confluence, and GitLab via built-in connectors.",
+        "Custom AI agents built by IT and developer teams to address high-impact foodservice challenges.",
+        "Data centralized on Google Cloud Platform in partnership with 66degrees to ensure cross-format accessibility."
+      ],
+      "zh": [
+        "近 12,000 名員工使用 Google Workspace 與 Gemini Enterprise。",
+        "AI 代理透過內建連接器整合 Salesforce、ServiceNow、SAP S/4、JIRA、Confluence 及 GitLab。",
+        "IT 與開發團隊自建高影響力的 AI 代理，解決食品配送業務痛點。",
+        "與 66degrees 合作，將資料統一集中於 Google Cloud Platform，確保跨格式可存取性。"
+      ]
+    },
+    "technologies": ["Gemini Enterprise", "Google Workspace", "Google Agentspace", "Vertex AI"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Gordon Food Service Fuels Digital Transformation and AI-Powered Growth with Gemini Enterprise and Google Workspace",
+        "url": "https://www.prnewswire.com/news-releases/gordon-food-service-fuels-digital-transformation-and-ai-powered-growth-with-gemini-enterprise-and-google-workspace-302579336.html"
+      },
+      {
+        "title": "Gordon Food Service case study | Google Cloud",
+        "url": "https://cloud.google.com/customers/gordonfoodservice"
+      }
+    ]
+  },
+  {
+    "id": "retail-data-gpc",
+    "industry": "retail",
+    "agentType": "data",
+    "company": "GPC",
+    "isNew": false,
+    "summary": {
+      "en": "Genuine Parts Company piloted Google Distributed Cloud in an Atlanta store to cut software delivery times and modernize store infrastructure with AI.",
+      "zh": "Genuine Parts Company 在亞特蘭大門市試行 Google Distributed Cloud，以 AI 加速軟體交付並現代化門市基礎設施管理。"
+    },
+    "overview": {
+      "en": "GPC (Genuine Parts Company) announced a strategic partnership with Google Cloud in 2023 to modernize its data, digital, and technology initiatives across more than 10,000 stores and fulfillment centers globally. As part of this transformation, GPC ran a Google Distributed Cloud (GDC) pilot in one of their Atlanta stores, leveraging modern distributed infrastructure infused with AI to accelerate development cycles and streamline store infrastructure operations.",
+      "zh": "GPC（Genuine Parts Company）於 2023 年宣布與 Google Cloud 策略合作，推動全球逾 10,000 家門市與配送中心的數位化轉型。作為轉型的一環，GPC 在亞特蘭大一家門市試行 Google Distributed Cloud（GDC），以 AI 注入的分散式基礎設施加速開發週期、簡化門市基礎設施管理。"
+    },
+    "highlights": {
+      "en": [
+        "Google Distributed Cloud pilot reduced software delivery times from weeks to days at an Atlanta store.",
+        "Strategic partnership spans digital, store, supply chain, and advanced data and analytics platform modernization.",
+        "Targets optimization of technology infrastructure for over 10,000 stores and fulfillment centers globally.",
+        "Advanced analytics to enable supply chain modernization around inventory visibility, facility productivity, and logistics."
+      ],
+      "zh": [
+        "Google Distributed Cloud 試點將亞特蘭大門市的軟體交付時間從數週縮短至數天。",
+        "策略合作涵蓋數位、門市、供應鏈及進階資料分析平台的現代化。",
+        "目標優化全球逾 10,000 家門市與配送中心的技術基礎設施。",
+        "進階分析支援庫存可視性、設施生產力與物流等供應鏈現代化。"
+      ]
+    },
+    "technologies": ["Google Distributed Cloud", "BigQuery", "Vertex AI"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Genuine Parts Company Announces Strategic Partnership With Google Cloud",
+        "url": "https://www.prnewswire.com/news-releases/genuine-parts-company-announces-strategic-partnership-with-google-cloud-to-accelerate-data-digital-and-technology-initiatives-301779160.html"
+      },
+      {
+        "title": "New Way Now: Genuine Parts Company cuts software delivery times from weeks to days with GDC pilot",
+        "url": "https://www.youtube.com/watch?v=p5Y1Mgsb5Ns"
+      }
+    ]
+  },
+  {
+    "id": "retail-data-grupo-botic-rio",
+    "industry": "retail",
+    "agentType": "data",
+    "company": "Grupo Boticário",
+    "isNew": false,
+    "summary": {
+      "en": "Grupo Boticário uses real-time security AI models on Google Cloud to prevent fraud and rapidly detect and respond to threats.",
+      "zh": "Grupo Boticário 在 Google Cloud 上部署即時安全 AI 模型，防範詐欺並快速偵測與回應資安事件。"
+    },
+    "overview": {
+      "en": "Grupo Boticário, one of the largest beauty retail and cosmetics companies in Brazil, employs real-time security AI models on Google Cloud to prevent fraud and detect and respond to issues as they arise. Beyond security, the company also leverages Gemini AI models to simplify internal processes for employees and to optimize its retail footprint by identifying ideal store locations across Brazilian territory.",
+      "zh": "Grupo Boticário 是巴西最大的美妝零售與化妝品集團之一，在 Google Cloud 上部署即時安全 AI 模型，用於詐欺防範及資安事件的偵測與回應。此外，公司也運用 Gemini AI 模型簡化員工內部流程，並透過分析優化門市選址，覆蓋巴西 99% 的地理範圍。"
+    },
+    "highlights": {
+      "en": [
+        "Real-time AI security models deployed to prevent fraud and detect and respond to threats promptly.",
+        "Gemini AI models used to simplify internal employee processes across the organization.",
+        "Store location optimization covers 99% of Brazilian territory using AI-driven analytics.",
+        "Featured by Google Cloud as a key AI innovation case at a São Paulo event in September 2025."
+      ],
+      "zh": [
+        "部署即時 AI 安全模型，有效防範詐欺並快速偵測與回應威脅。",
+        "使用 Gemini AI 模型簡化全組織內部員工流程。",
+        "AI 驅動的選址分析覆蓋巴西 99% 的地理區域。",
+        "於 2025 年 9 月 Google Cloud 聖保羅活動中，被列為重要 AI 創新案例。"
+      ]
+    },
+    "technologies": ["Gemini", "Vertex AI", "Google Cloud Security"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Google Cloud Brings a New Era of AI Innovation to Brazil",
+        "url": "https://www.googlecloudpresscorner.com/2025-09-10-Google-Cloud-Brings-a-New-Era-of-AI-Innovation-to-Brazil"
+      }
+    ]
+  },
+  {
+    "id": "retail-data-grupo-coppel",
+    "industry": "retail",
+    "agentType": "data",
+    "company": "Grupo Coppel",
+    "isNew": true,
+    "summary": {
+      "en": "Grupo Coppel built a Gemini-powered AI agent as a universal translator for its complex enterprise systems, accelerating data access from days to minutes.",
+      "zh": "Grupo Coppel 以 Gemini 打造 AI 代理作為企業系統的通用翻譯器，將資料存取時間從數天壓縮至數分鐘。"
+    },
+    "overview": {
+      "en": "Grupo Coppel, one of Mexico's largest private retailers with over 1,700 stores, faced the challenge of data dispersed across multiple enterprise systems and custom applications, causing slow decision-making. To solve this, the company developed an AI agent powered by Vertex AI and Gemini's multimodal models that acts as a universal translator between humans and enterprise systems. Employees can ask questions in any language — including Spanish and English — and receive clear answers in seconds.",
+      "zh": "Grupo Coppel 是墨西哥最大的私人零售商之一，擁有逾 1,700 家門市，但資料分散於多個企業系統與自訂應用程式，導致決策緩慢。為此，公司基於 Vertex AI 與 Gemini 多模態模型開發 AI 代理，作為人員與系統之間的通用翻譯器。員工可用任何語言（包括西班牙文與英文）提問，數秒內即獲得清晰答案。"
+    },
+    "highlights": {
+      "en": [
+        "AI agent built on Vertex AI and Gemini multimodal models enables natural language queries in any language.",
+        "Critical business processes accelerated from days to minutes through direct data access.",
+        "Reduces dependency on specialized data analysts, democratizing data access across teams.",
+        "Future vision targets a personal AI assistant for every employee and potentially every customer via Gemini Enterprise."
+      ],
+      "zh": [
+        "基於 Vertex AI 與 Gemini 多模態模型的 AI 代理，支援任意語言的自然語言查詢。",
+        "關鍵業務流程從數天加速至數分鐘，直接存取企業資料。",
+        "降低對專業資料分析師的依賴，讓各團隊均能自主獲取資料洞察。",
+        "未來願景是透過 Gemini Enterprise 為每位員工乃至每位顧客提供個人 AI 助理。"
+      ]
+    },
+    "technologies": ["Gemini", "Vertex AI", "Gemini Enterprise"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Grupo Coppel bouwt aan een AI-first organisatie met Google Cloud",
+        "url": "https://www.uptodatewebdesign.com/2026/04/grupo-coppel-ai-first-google-cloud.html"
+      }
+    ]
+  },
+  {
+    "id": "retail-data-hunkem-ller",
+    "industry": "retail",
+    "agentType": "data",
+    "company": "Hunkemöller",
+    "isNew": false,
+    "summary": {
+      "en": "Hunkemöller partnered with Devoteam to build a scalable modern data stack on Google Cloud enabling advanced AI for retail.",
+      "zh": "Hunkemöller 與 Devoteam 合作在 Google Cloud 上建構可擴展的現代資料平台，支援零售業進階 AI 應用。"
+    },
+    "overview": {
+      "en": "Hunkemöller, a leading Dutch intimate apparel brand founded in 1886 with over 900 stores across 12 countries, worked with Devoteam G Cloud to migrate from a legacy on-premises data platform to a scalable modern data stack on Google Cloud. The new architecture enables advanced analytics and AI, including machine learning models for personalized product recommendations, customer segmentation, and real-time insights.",
+      "zh": "Hunkemöller 是成立於 1886 年的荷蘭知名內衣品牌，在 12 個國家擁有逾 900 家門市，與 Devoteam G Cloud 合作，將舊有本地端資料平台遷移至 Google Cloud 上的現代化可擴展資料平台。新架構支援進階分析與 AI，包括個人化商品推薦、顧客分群及即時洞察等機器學習模型。"
+    },
+    "highlights": {
+      "en": [
+        "Modern data stack built with BigQuery, Looker Studio, Dataflow, Dataplex, Datastream, and Vertex AI.",
+        "Vertex AI machine learning models analyze customer behavior and purchase history to deliver personalized recommendations.",
+        "Enhanced customer segmentation and real-time insights replace fragmented legacy on-premises systems.",
+        "Scalable architecture enables Hunkemöller to build advanced AI solutions internally going forward."
+      ],
+      "zh": [
+        "現代資料平台以 BigQuery、Looker Studio、Dataflow、Dataplex、Datastream 及 Vertex AI 建構。",
+        "Vertex AI 機器學習模型分析顧客行為與購買歷史，提供個人化商品推薦。",
+        "強化顧客分群與即時洞察能力，取代原有分散的本地端系統。",
+        "可擴展架構讓 Hunkemöller 能夠自主開發進階 AI 解決方案。"
+      ]
+    },
+    "technologies": ["BigQuery", "Vertex AI", "Looker Studio", "Dataflow", "Dataplex", "Datastream"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Hunkemöller Case Study | Google Cloud",
+        "url": "https://cloud.google.com/customers/hunkemoller"
+      },
+      {
+        "title": "Hunkemöller Collaborates with Google Cloud to Provide Data-Driven Retail Experience",
+        "url": "https://www.googlecloudpresscorner.com/2023-06-14-Hunkemoller-Collaborates-with-Google-Cloud-to-Provide-Data-Driven-Retail-Experience"
+      },
+      {
+        "title": "How Hunkemöller optimises its retail business with a data transformation | Devoteam",
+        "url": "https://gcloud.devoteam.com/success-stories/how-hunkemoller-optimises-its-retail-business-with-a-data-transformation/"
+      }
+    ]
+  },
+  {
+    "id": "retail-data-jacobsen-salt-co",
+    "industry": "retail",
+    "agentType": "data",
+    "company": "Jacobsen Salt Co",
+    "isNew": false,
+    "summary": {
+      "en": "Jacobsen Salt Co uses Gemini in Google Sheets to organize complex environmental data for hand-harvested sea salt production on the Oregon coast.",
+      "zh": "Jacobsen Salt Co 使用 Gemini in Google Sheets 整理俄勒岡海岸手工採收海鹽所需的複雜環境資料。"
+    },
+    "overview": {
+      "en": "Jacobsen Salt Co, a hand-harvested sea salt producer based on the Oregon coast, relies on a wide range of constantly-changing environmental variables — including seawater salinity, weather, and tides — to produce high-quality finishing salt. The company uses Google Workspace and Gemini in Google Sheets to organize and analyze this environmental data, replacing manual tracking with a unified, cloud-based platform that supports consistent production quality.",
+      "zh": "Jacobsen Salt Co 是位於俄勒岡海岸的手工採收海鹽品牌，生產過程需仰賴海水鹽度、天氣與潮汐等持續變動的環境變數。公司使用 Google Workspace 與 Gemini in Google Sheets 整理並分析這些環境資料，以統一的雲端平台取代人工追蹤，確保產品品質的一致性。"
+    },
+    "highlights": {
+      "en": [
+        "Gemini in Google Sheets organizes constantly-changing environmental data including salinity, weather, and tide variables.",
+        "Replaced manual data tracking with a unified Google Workspace cloud-based platform.",
+        "Featured in Google's '50 states, 50 stories' series showcasing Workspace with Gemini for small businesses.",
+        "Supports consistent quality control for artisan hand-harvested sea salt production."
+      ],
+      "zh": [
+        "Gemini in Google Sheets 整理包括鹽度、天氣及潮汐等持續變化的環境資料。",
+        "以統一的 Google Workspace 雲端平台取代人工資料追蹤。",
+        "入選 Google「50 州 50 個故事」系列，展示中小企業使用 Workspace 與 Gemini 的成果。",
+        "支援手工採收海鹽生產的一致品質管控。"
+      ]
+    },
+    "technologies": ["Google Workspace", "Gemini in Google Sheets"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "How Jacobsen Salt Co. is Crafting Salt from Seawater with Google Workspace and Gemini",
+        "url": "https://workspace.google.com/customers/success-stories/jacobsensalt/"
+      }
+    ]
+  },
+  {
+    "id": "retail-data-kindred-post",
+    "industry": "retail",
+    "agentType": "data",
+    "company": "Kindred Post",
+    "isNew": false,
+    "summary": {
+      "en": "Kindred Post, a gift shop in Juneau, Alaska, uses Gemini in Google Sheets to forecast inventory needs for the busy tourist season.",
+      "zh": "阿拉斯加朱諾市的禮品店 Kindred Post 使用 Gemini in Google Sheets 預測旅遊旺季的庫存需求。"
+    },
+    "overview": {
+      "en": "Kindred Post is a gift shop, community space, and neighborhood post office in Juneau, Alaska, supporting over 150 local artists. The shop faces highly seasonal demand driven by cruise ship tourism, requiring careful inventory planning. Kindred Post uses an intricate tracker built with Gemini in Google Sheets to forecast inventory needs for the tourist season, helping ensure adequate stock of local artisan goods without over-purchasing.",
+      "zh": "Kindred Post 是阿拉斯加朱諾市的禮品店、社區空間與社區郵局，支持逾 150 位在地藝術家。商店面臨郵輪旅遊帶來的高度季節性需求，需要精確的庫存規劃。Kindred Post 使用 Gemini in Google Sheets 建立精細的追蹤系統，預測旅遊旺季的庫存需求，確保在地手工藝品備貨充足但不過度採購。"
+    },
+    "highlights": {
+      "en": [
+        "Intricate inventory tracker built with Gemini in Google Sheets for tourist season forecasting.",
+        "Supports purchasing and inventory planning for goods from over 150 local Alaskan artists.",
+        "Featured in Google's '50 states, 50 stories' series for Workspace with Gemini small business use cases.",
+        "Addresses highly seasonal demand patterns driven by Juneau's cruise ship tourism industry."
+      ],
+      "zh": [
+        "以 Gemini in Google Sheets 建立精細庫存追蹤器，用於旅遊旺季需求預測。",
+        "支援逾 150 位阿拉斯加在地藝術家商品的採購與庫存規劃。",
+        "入選 Google「50 州 50 個故事」系列，展示 Workspace 與 Gemini 的中小企業應用。",
+        "有效因應朱諾市郵輪旅遊業帶來的高度季節性需求模式。"
+      ]
+    },
+    "technologies": ["Google Workspace", "Gemini in Google Sheets"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Alaska - Kindred Post: Gemini in Google Sheets (YouTube)",
+        "url": "https://www.youtube.com/watch?v=IJGihYRv1is"
+      }
+    ]
+  },
+  {
+    "id": "retail-data-l-nea-directa",
+    "industry": "retail",
+    "agentType": "data",
+    "company": "Línea Directa",
+    "isNew": true,
+    "summary": {
+      "en": "Línea Directa launched a 'product genetics' AI analytics pilot on Google Cloud to decode collection performance and optimize catalog sales.",
+      "zh": "哥倫比亞零售商 Línea Directa 在 Google Cloud 上推出「商品基因」AI 分析試點，解析商品表現並優化目錄銷售。"
+    },
+    "overview": {
+      "en": "Línea Directa, a Colombian fashion retailer operating in Colombia and Peru through direct catalog sales with 300,000 associates and 600 suppliers, partnered with Google Cloud to centralize its data and develop advanced analytics capabilities. The company launched a 'product genetics' pilot that uses advanced analytics to understand the DNA of its collections — identifying what attributes drive performance — and optimize sales. Línea Directa is also preparing to integrate AI agents to transform its customer support operations.",
+      "zh": "Línea Directa 是哥倫比亞時尚零售商，透過目錄直銷模式在哥倫比亞與秘魯運營，擁有 30 萬名合作夥伴及 600 家供應商。公司與 Google Cloud 合作集中資料並發展進階分析能力，推出「商品基因」試點，以進階分析解析商品組合的成功 DNA，優化銷售表現。Línea Directa 也正準備整合 AI 代理以轉型顧客服務。"
+    },
+    "highlights": {
+      "en": [
+        "'Product genetics' pilot applies advanced analytics to decode collection performance attributes and optimize catalog sales.",
+        "Data centralization on Google Cloud enabled strategic reporting that translated into better business decisions.",
+        "Google Cloud serves as the main technology provider, supporting e-commerce and a B2B portal with 360° functionality.",
+        "AI agents planned for integration to provide complete support for customer service transformation."
+      ],
+      "zh": [
+        "「商品基因」試點運用進階分析解碼商品集合的表現屬性，優化目錄銷售。",
+        "在 Google Cloud 上集中資料，產生策略性報表，直接轉化為更佳的業務決策。",
+        "Google Cloud 作為主要技術供應商，支援電商平台及具 360° 功能的 B2B 門戶。",
+        "計畫整合 AI 代理，提供完整的顧客服務轉型支援。"
+      ]
+    },
+    "technologies": ["BigQuery", "Vertex AI", "Google Cloud"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "5 casos de éxito de Google Cloud en Colombia",
+        "url": "https://cronica.tech/tecnologia/inteligencia-artificial/5-casos-de-exito-de-google-cloud-en-colombia/"
+      }
+    ]
+  },
+  {
+    "id": "retail-data-lowe-s",
+    "industry": "retail",
+    "agentType": "data",
+    "company": "Lowe's",
+    "isNew": true,
+    "summary": {
+      "en": "Lowe's accelerates data science workloads using Google Cloud's Lightning Engine for Apache Spark, achieving faster analytics performance.",
+      "zh": "Lowe's 採用 Google Cloud Lightning Engine for Apache Spark，大幅加速資料科學工作負載的執行效能。"
+    },
+    "overview": {
+      "en": "Lowe's, the major US home improvement retailer, accelerates its data science workloads by adopting Lightning Engine — Google Cloud's high-performance Spark execution engine — on Google Cloud's Managed Service for Apache Spark. Lightning Engine uses a native C++ vectorized execution engine, intelligent caching, and optimized columnar shuffling to deliver significantly faster Spark performance, enabling Lowe's data science teams to run analytics pipelines more efficiently and cost-effectively.",
+      "zh": "Lowe's 是美國大型家居裝修零售商，透過在 Google Cloud Managed Service for Apache Spark 上採用 Lightning Engine，大幅加速資料科學工作負載。Lightning Engine 使用原生 C++ 向量化執行引擎、智慧快取及優化的列式洗牌技術，提供更快的 Spark 執行效能，讓 Lowe's 資料科學團隊能更高效、更具成本效益地運行分析管線。"
+    },
+    "highlights": {
+      "en": [
+        "Lightning Engine delivers up to 4.9x faster performance versus open-source Spark for data science workloads.",
+        "Up to 2x price-performance improvement over the leading high-speed Spark alternative.",
+        "Native BigQuery connector transmits data in Apache Arrow format to optimize pipeline throughput.",
+        "Enables data scientists to integrate Gemini Enterprise and Spark for AI/ML reasoning engines close to the data."
+      ],
+      "zh": [
+        "Lightning Engine 相較開源 Spark，資料科學工作負載效能最高提升 4.9 倍。",
+        "相較主流高速 Spark 替代方案，價效比最高提升 2 倍。",
+        "原生 BigQuery 連接器以 Apache Arrow 格式傳輸資料，優化管線吞吐量。",
+        "讓資料科學家能將 Gemini Enterprise 與 Spark 整合，在資料側建構 AI/ML 推理引擎。"
+      ]
+    },
+    "technologies": ["Managed Service for Apache Spark", "Lightning Engine", "BigQuery", "Gemini Enterprise"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Introducing Lightning Engine for Apache Spark | Google Cloud Blog",
+        "url": "https://cloud.google.com/blog/products/data-analytics/introducing-lightning-engine-for-apache-spark"
+      }
+    ]
+  }
+]

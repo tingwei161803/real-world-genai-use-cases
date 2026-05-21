@@ -1,0 +1,513 @@
+[
+  {
+    "id": "technology-creative-bewe",
+    "industry": "technology",
+    "agentType": "creative",
+    "company": "Bewe",
+    "isNew": false,
+    "summary": {
+      "en": "Bewe built a generative AI assistant to help Latin American SMEs improve customer management and loyalty.",
+      "zh": "Bewe 為哥倫比亞中小企業打造生成式 AI 助理 Linda，提升客戶管理、忠誠度與轉化率。"
+    },
+    "overview": {
+      "en": "Bewe is a Colombian digital transformation platform for small and medium-sized enterprises. The company developed Linda, a generative AI assistant powered by Google Cloud, to help SMEs automate repetitive tasks, gain business insights, and manage customer relationships more effectively. Linda provides 24/7 support with natural language text-to-action functionality and leverages Vertex AI for custom model building, BigQuery for segmented analysis, Dataflow for real-time processing, and Bigtable for high-speed data processing.",
+      "zh": "Bewe 是哥倫比亞專為中小企業服務的數位轉型平台。公司運用 Google Cloud 開發了生成式 AI 助理 Linda，協助中小企業自動化重複性工作、獲取商業洞察並提升客戶關係管理效率。Linda 以自然語言文字轉行動功能提供全天候支援，底層使用 Vertex AI 建立自訂模型、BigQuery 進行分群分析、Dataflow 處理即時資料，以及 Bigtable 提供高速資料存取。"
+    },
+    "highlights": {
+      "en": [
+        "Developed Linda, the first generative AI assistant specialized for Latin American small businesses, offering 24/7 natural language support.",
+        "Used Vertex AI to create industry-specific custom models tailored to SME needs across diverse market segments.",
+        "Achieved higher customer retention and increased revenue per user after deploying Linda across the platform.",
+        "Accelerated regional market expansion with a B2B innovation leadership position in Colombia and surrounding markets.",
+        "Leveraged BigQuery and Dataflow for real-time segmented analytics, enabling richer and more personalized user experiences."
+      ],
+      "zh": [
+        "開發 Linda，拉丁美洲首款專為中小企業設計的生成式 AI 助理，提供全天候自然語言支援。",
+        "使用 Vertex AI 建立針對不同市場區隔的行業專屬自訂模型。",
+        "部署 Linda 後，各客戶區隔的留存率提升，每用戶收益增加。",
+        "以 B2B 創新領導地位加速在哥倫比亞及周邊市場的區域擴張。",
+        "結合 BigQuery 與 Dataflow 進行即時分群分析，提供更豐富、個人化的用戶體驗。"
+      ]
+    },
+    "technologies": [
+      "Vertex AI",
+      "BigQuery",
+      "Dataflow",
+      "Bigtable",
+      "Generative AI"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Bewe Caso de Éxito | Google Cloud",
+        "url": "https://cloud.google.com/customers/intl/es-419/bewe?hl=es-419"
+      }
+    ]
+  },
+  {
+    "id": "technology-creative-birdie-ai",
+    "industry": "technology",
+    "agentType": "creative",
+    "company": "Birdie.ai",
+    "isNew": false,
+    "summary": {
+      "en": "Birdie.ai uses generative AI on Google Cloud to transform customer feedback into actionable insights, cutting costs 3.5x per text processed.",
+      "zh": "Birdie.ai 藉助 Google Cloud 生成式 AI 將客戶回饋轉化為可行洞察，每筆文字處理成本降低 3.5 倍。"
+    },
+    "overview": {
+      "en": "Birdie.ai is a CX intelligence platform that transforms customer feedback from multiple sources into actionable insights for companies. Using Google Cloud's Cloud Run and generative AI — including Gemini 1.5 Flash — the company achieved a 3.5x reduction in cost per processed text and reduced daily data analysis time from 4 hours to just 15 minutes. Generative AI enables tasks such as chat summarization, text classification, data extraction, and feedback analysis within its platform.",
+      "zh": "Birdie.ai 是一個客戶體驗智慧平台，將來自多個管道的客戶回饋轉化為可供企業採取行動的洞察。藉由 Google Cloud Run 與生成式 AI（包括 Gemini 1.5 Flash），公司每筆文字處理成本降低 3.5 倍，每日資料分析時間從 4 小時縮短至僅 15 分鐘。生成式 AI 支援對話摘要、文字分類、資料擷取及回饋分析等功能。"
+    },
+    "highlights": {
+      "en": [
+        "Reduced cost by 3.5x per processed text using Cloud Run, which scales from zero to hundreds of machines in seconds.",
+        "Cut daily feedback processing time from 4 hours to 15 minutes for millions of feedback entries.",
+        "Improved model accuracy by 9% with Gemini 1.5 Flash, reaching a 96% accuracy rate.",
+        "Reduced processed unit costs by an additional 15% compared to previously used resources.",
+        "Enabled generative AI features including feedback summarization, opportunity discovery, and conversational data querying."
+      ],
+      "zh": [
+        "透過 Cloud Run 彈性擴縮，每筆文字處理成本降低 3.5 倍。",
+        "數百萬筆回饋的每日處理時間從 4 小時縮短至 15 分鐘。",
+        "導入 Gemini 1.5 Flash 後模型準確率提升 9%，達到 96% 準確率。",
+        "相較原有資源，每單位處理成本再降低 15%。",
+        "實現回饋摘要、機會挖掘、對話式資料查詢等生成式 AI 功能。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Cloud Run",
+      "Vertex AI",
+      "Generative AI"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Birdie.ai case study | Google Cloud",
+        "url": "https://cloud.google.com/customers/birdieai"
+      }
+    ]
+  },
+  {
+    "id": "technology-creative-bosch-digital",
+    "industry": "technology",
+    "agentType": "creative",
+    "company": "Bosch Digital",
+    "isNew": false,
+    "summary": {
+      "en": "Bosch Digital uses Gemini models to localize marketing content for global markets, saving time and costs across business units.",
+      "zh": "Bosch Digital 運用 Gemini 模型為全球各市場本地化行銷內容，節省多個業務單位的時間與成本。"
+    },
+    "overview": {
+      "en": "Bosch Digital, one of Europe's leading technology and services companies, is leveraging Gemini models on Google Cloud to deepen connections with its global audiences. Multiple business units have begun localizing marketing content for a diverse range of markets and demographics, using Gemini's multimodal capabilities to generate and translate text and images simultaneously for local market requirements. This has resulted in significant time and cost savings across the organization.",
+      "zh": "Bosch Digital 是歐洲領先的科技與服務公司之一，正在運用 Google Cloud 上的 Gemini 模型深化與全球受眾的連結。多個業務單位已開始為各類市場和人口族群本地化行銷內容，利用 Gemini 的多模態能力同步生成及翻譯文字與圖像以符合當地市場需求，並為整個組織帶來顯著的時間與成本節省。"
+    },
+    "highlights": {
+      "en": [
+        "Multiple Bosch Digital business units adopted Gemini to localize marketing content for diverse global markets and demographics.",
+        "Gemini's multimodal capabilities enable simultaneous generation of images and text, then translation for local market requirements.",
+        "Marketing teams can deliver localized content in just a few clicks, dramatically reducing manual localization effort.",
+        "The solution reduces time-to-market for campaigns targeting international audiences across multiple languages and regions."
+      ],
+      "zh": [
+        "多個 Bosch Digital 業務單位採用 Gemini 為全球多元市場和族群本地化行銷內容。",
+        "Gemini 多模態能力可同步生成圖文，並按各地市場需求進行翻譯。",
+        "行銷團隊只需數次點擊即可交付本地化內容，大幅減少人工本地化工作量。",
+        "解決方案縮短了面向跨語言、跨地區國際受眾行銷活動的上市時間。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Vertex AI",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "From multilingual semantic search to virtual assistants at Bosch Digital - Stack Overflow Blog",
+        "url": "https://stackoverflow.blog/2025/10/20/from-multilingual-semantic-search-to-virtual-assistants-at-bosch-digital/"
+      }
+    ]
+  },
+  {
+    "id": "technology-creative-clearobject",
+    "industry": "technology",
+    "agentType": "creative",
+    "company": "ClearObject",
+    "isNew": false,
+    "summary": {
+      "en": "ClearObject uses Gemini for Google Workspace to boost internal and external content creation, including targeted LinkedIn marketing strategies.",
+      "zh": "ClearObject 利用 Gemini for Google Workspace 提升內外部內容創作效率，包括制定精準的 LinkedIn 行銷策略。"
+    },
+    "overview": {
+      "en": "ClearObject is a developer of visual AI services that uses Vertex AI to build custom AI models for analyzing industrial visual data, identifying defects, and optimizing production lines. The company adopted Gemini for Google Workspace to accelerate both external and internal content creation. A notable example is ClearObject's marketing team using Gemini to craft a LinkedIn strategy targeting decision-makers in manufacturing, utilities, and financial services — complete with detailed personas, keywords, and content pillars.",
+      "zh": "ClearObject 是一家視覺 AI 服務開發商，使用 Vertex AI 建立自訂 AI 模型以分析工業視覺資料、識別缺陷並優化生產線。公司採用 Gemini for Google Workspace 加速內外部內容創作。典型案例是行銷團隊利用 Gemini 制定 LinkedIn 策略，鎖定製造業、公用事業和金融服務業的決策者，並生成詳細的受眾人物誌、關鍵字和內容支柱。"
+    },
+    "highlights": {
+      "en": [
+        "ClearObject's marketing team used Gemini for Google Workspace to build a targeted LinkedIn strategy with detailed personas, keywords, and content pillars.",
+        "Gemini helped democratize content development across teams, including generating pitch decks for the sales team via the 'Ask Gemini' feature in Slides.",
+        "The company leverages Vertex AI to build custom visual AI models for industrial defect detection and production line optimization.",
+        "Both internal and external content creation workflows were accelerated, reducing time spent on marketing and communication tasks."
+      ],
+      "zh": [
+        "行銷團隊使用 Gemini for Google Workspace 建立 LinkedIn 精準策略，涵蓋詳細人物誌、關鍵字與內容支柱。",
+        "Gemini 協助各團隊普及內容創作，包括透過 Slides 中的「詢問 Gemini」功能為業務團隊生成簡報。",
+        "公司運用 Vertex AI 建立自訂視覺 AI 模型，用於工業缺陷偵測與生產線優化。",
+        "內外部內容創作流程均獲加速，減少行銷與溝通工作所需時間。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Gemini for Google Workspace",
+      "Vertex AI"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "ClearObject Customer Success Story - Google Workspace",
+        "url": "https://workspace.google.com/customers/clearobject/"
+      }
+    ]
+  },
+  {
+    "id": "technology-creative-features-labels",
+    "industry": "technology",
+    "agentType": "creative",
+    "company": "Features & Labels",
+    "isNew": false,
+    "summary": {
+      "en": "Features & Labels accelerates generative media inference on Google Cloud and integrates Veo 2 to let developers create high-quality AI videos.",
+      "zh": "Features & Labels 在 Google Cloud 上加速生成式媒體推論，整合 Veo 2 讓開發者快速生成高品質 AI 影片。"
+    },
+    "overview": {
+      "en": "Features & Labels is a generative media platform for developers that focuses on accelerating the inference of generative AI models to improve content generation speed. The company is working with Google Cloud to integrate Veo 2, Google's advanced video generation model, empowering its users to create videos with realistic motion and high-quality output. By reducing latency in AI model inference, the platform helps developers and creators generate compelling media content faster.",
+      "zh": "Features & Labels 是一個面向開發者的生成式媒體平台，專注於加速生成式 AI 模型的推論以提升內容生成速度。公司正與 Google Cloud 合作整合 Veo 2——Google 的先進視訊生成模型——使用戶能夠創作具備真實動態效果和高品質輸出的影片。透過降低 AI 模型推論延遲，平台協助開發者和創作者更快速地生成引人入勝的媒體內容。"
+    },
+    "highlights": {
+      "en": [
+        "Integrating Veo 2 technology to enable developers to create videos with realistic motion and high-quality output.",
+        "Focuses on accelerating AI model inference to reduce content generation latency for developer workflows.",
+        "Part of a cohort of startups using Google Cloud's generative media models to democratize content creation.",
+        "Veo 2 supports text-to-video and image-to-video generation at up to 4K resolution with realistic physics simulation."
+      ],
+      "zh": [
+        "整合 Veo 2 技術，讓開發者能創作具備真實動態效果與高品質輸出的影片。",
+        "專注加速 AI 模型推論，降低開發者工作流程中的內容生成延遲。",
+        "是 Google Cloud 生成式媒體模型新創生態系的成員之一，推動內容創作民主化。",
+        "Veo 2 支援文字轉影片及圖片轉影片，最高支援 4K 解析度並模擬真實物理效果。"
+      ]
+    },
+    "technologies": [
+      "Veo 2",
+      "Vertex AI",
+      "Google Cloud",
+      "Generative AI"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Meet a dozen startups using generative media to revolutionize content creation | Google Cloud Blog",
+        "url": "https://cloud.google.com/transform/generative-media-models-dozen-startups-helping-anyone-create-content-with-ai"
+      }
+    ]
+  },
+  {
+    "id": "technology-creative-higgsfield-ai",
+    "industry": "technology",
+    "agentType": "creative",
+    "company": "Higgsfield.ai",
+    "isNew": false,
+    "summary": {
+      "en": "Higgsfield.ai builds consumer text-to-video apps on Google Cloud, including Diffuse 2.0 which creates realistic AI avatars from photos and videos.",
+      "zh": "Higgsfield.ai 在 Google Cloud 上打造消費者文字轉影片應用，旗艦產品 Diffuse 2.0 可結合照片和影片生成逼真 AI 虛擬形象。"
+    },
+    "overview": {
+      "en": "Higgsfield.ai is an AI-powered video generation platform co-founded by former Snap head of generative AI. The company built several text-to-video applications for consumers on Google Cloud infrastructure, including Diffuse 2.0 — a multimodal AI platform that combines users' photos, videos, and texts to create realistic avatars and personalized story videos. Higgsfield uses a custom text-to-video transformer model combined with diffusion technology to achieve realistic human characters, natural motion, and granular control over camera angles and visual effects.",
+      "zh": "Higgsfield.ai 是一個 AI 驅動的影片生成平台，由前 Snap 生成式 AI 負責人共同創辦。公司在 Google Cloud 基礎設施上為消費者打造多款文字轉影片應用，包括 Diffuse 2.0——一個結合用戶照片、影片與文字以生成逼真虛擬形象和個人化故事影片的多模態 AI 平台。Higgsfield 使用結合擴散技術的自訂文字轉影片 transformer 模型，實現逼真的人物形象、自然動態，以及對鏡頭角度和視覺效果的精細控制。"
+    },
+    "highlights": {
+      "en": [
+        "Built Diffuse 2.0, a multimodal app combining photos, videos, and text to generate realistic personalized AI avatars.",
+        "Leverages a custom text-to-video transformer combined with diffusion technology for granular control over camera motion and visual effects.",
+        "Partners with Google Cloud as the primary cloud infrastructure, citing it as the best foundation for generative AI business.",
+        "Platform enables creators to generate hyper-realistic digital characters for up to five continuous minutes of video."
+      ],
+      "zh": [
+        "打造 Diffuse 2.0，結合照片、影片與文字生成逼真個人化 AI 虛擬形象的多模態應用。",
+        "採用結合擴散技術的自訂文字轉影片 transformer，對鏡頭動態和視覺效果提供精細控制。",
+        "以 Google Cloud 為核心雲端基礎設施，視其為生成式 AI 業務的最佳基礎。",
+        "平台可讓創作者生成長達五分鐘連續影片的超真實數位角色。"
+      ]
+    },
+    "technologies": [
+      "Google Cloud",
+      "Generative AI",
+      "Vertex AI"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "3 lessons for gen AI startups from Higgsfield.ai | Google Cloud Blog",
+        "url": "https://cloud.google.com/transform/3-lessons-for-gen-ai-startups-higgsfield-ai-infrastructure-talent-models"
+      }
+    ]
+  },
+  {
+    "id": "technology-creative-hunty",
+    "industry": "technology",
+    "agentType": "creative",
+    "company": "Hunty",
+    "isNew": false,
+    "summary": {
+      "en": "Hunty, a Colombian HR startup, automated end-to-end hiring processes with generative AI to improve candidate interviews and selection.",
+      "zh": "哥倫比亞 HR 新創 Hunty 以生成式 AI 自動化端對端招募流程，提升面試和人才篩選的品質與效率。"
+    },
+    "overview": {
+      "en": "Hunty is a Colombian HR startup founded in 2020 in Bogotá that developed an AI-driven recruitment assistant capable of automating candidate interviews, filtering, and scheduling using natural language processing across 35+ languages. The platform helps companies improve candidate interviews and selection processes while facilitating and accelerating hiring. Hunty has been recognized at Google Next 2024 as a leading example in generative AI implementation, and received a $6M Seed Round from investors including VentureFriends and Newtopia VC.",
+      "zh": "Hunty 是 2020 年在哥倫比亞波哥大成立的 HR 新創公司，開發了一款 AI 驅動的招募助理，能以超過 35 種語言的自然語言處理技術自動化候選人面試、篩選和排程。平台協助企業改善面試和人才選拔流程，加速招募效率。Hunty 在 Google Next 2024 大會上被選為生成式 AI 實施的領先案例，並獲得包括 VentureFriends 和 Newtopia VC 在內投資者的 600 萬美元種子輪融資。"
+    },
+    "highlights": {
+      "en": [
+        "Automated 100% of the recruitment, selection, and hiring process with AI-driven candidate interviews available 24/7.",
+        "Supports natural language interviewing in 35+ languages, enabling global hiring at scale.",
+        "Selected by Google Next 2024 as a leading example of generative AI implementation in HR tech.",
+        "Raised a $6M Seed Round from VentureFriends, Kalei Ventures, Newtopia VC, and COMETA.",
+        "Recognized by both AWS and Google Cloud among the top global innovators in generative AI solutions."
+      ],
+      "zh": [
+        "以 AI 驅動的 24/7 候選人面試，實現招募、篩選和聘用全流程 100% 自動化。",
+        "支援超過 35 種語言的自然語言面試，實現全球規模化招募。",
+        "在 Google Next 2024 大會上被選為 HR 科技領域生成式 AI 實施的領先案例。",
+        "從 VentureFriends、Kalei Ventures、Newtopia VC 和 COMETA 獲得 600 萬美元種子輪融資。",
+        "同時獲 AWS 和 Google Cloud 認可為全球生成式 AI 解決方案頂尖創新者之一。"
+      ]
+    },
+    "technologies": [
+      "Generative AI",
+      "Google Cloud",
+      "Vertex AI"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Meet HUNTY, Colombia's Startup That Helps People Find a Job",
+        "url": "https://www.hyperlatam.com/meet-hunty/"
+      }
+    ]
+  },
+  {
+    "id": "technology-creative-infinite-reality",
+    "industry": "technology",
+    "agentType": "creative",
+    "company": "Infinite Reality",
+    "isNew": false,
+    "summary": {
+      "en": "Infinite Reality uses Gemini on Google Cloud to help brands quickly build AI-generated immersive 3D experiences for consumers.",
+      "zh": "Infinite Reality 結合 Google Cloud 上的 Gemini 模型，協助品牌快速打造 AI 生成的沉浸式 3D 消費體驗。"
+    },
+    "overview": {
+      "en": "Infinite Reality is a company that helps online retailers and other industries build immersive 3D worlds for consumers. The company signed a five-year strategic partnership with Google Cloud in 2024, leveraging Gemini models and Vertex AI to develop virtual sales assistants and AI-generated experiences. By combining Infinite Reality's immersive tech with Google Cloud's infrastructure, brands can seamlessly create spatial experiences without specialized external hardware. The platform includes the iR Engine, iR Studio (a low/no-code SaaS tool), and bespoke enterprise solutions.",
+      "zh": "Infinite Reality 是一家協助網路零售商和其他行業為消費者打造沉浸式 3D 世界的公司。公司於 2024 年與 Google Cloud 簽署五年策略夥伴關係，利用 Gemini 模型和 Vertex AI 開發虛擬銷售助理及 AI 生成體驗。結合 Infinite Reality 的沉浸式技術與 Google Cloud 基礎設施，品牌無需專用外部硬體即可無縫創建空間體驗。產品組合包括 iR Engine、iR Studio（低代碼/無代碼 SaaS 工具）及企業客製化解決方案。"
+    },
+    "highlights": {
+      "en": [
+        "Signed a five-year strategic partnership with Google Cloud in September 2024 to scale immersive digital experiences.",
+        "Leverages Gemini 2.0 and Vertex AI to develop virtual sales assistants capable of lifelike web-based conversations.",
+        "Enables brands to build and deploy 3D immersive experiences using iR Studio's low-code/no-code SaaS interface.",
+        "Targets e-commerce, sports, entertainment, education, and customer care verticals with AI-powered spatial experiences.",
+        "Websites with 3D and AR assets enabled by the platform see up to 5x more organic engagement."
+      ],
+      "zh": [
+        "2024 年 9 月與 Google Cloud 簽署五年策略夥伴關係，擴大沉浸式數位體驗規模。",
+        "運用 Gemini 2.0 和 Vertex AI 開發能進行逼真網頁對話的虛擬銷售助理。",
+        "透過 iR Studio 低代碼/無代碼 SaaS 介面，讓品牌快速建置和部署 3D 沉浸式體驗。",
+        "聚焦電商、運動、娛樂、教育和客戶服務領域，提供 AI 驅動的空間體驗。",
+        "採用平台 3D 和 AR 資產的網站可獲得高達 5 倍的自然流量互動。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Vertex AI",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Infinite Reality and Google Cloud Ink Five-Year Strategic Partnership",
+        "url": "https://www.theinfinitereality.com/news/infinite-reality-and-google-cloud-ink-5-year-strategic-partnership-to-drive-innovation-adoption-and-scale-of-immersive-digital-experiences"
+      },
+      {
+        "title": "Napster Corp. case study | Google Cloud",
+        "url": "https://cloud.google.com/customers/infinite-reality"
+      }
+    ]
+  },
+  {
+    "id": "technology-creative-jasper",
+    "industry": "technology",
+    "agentType": "creative",
+    "company": "Jasper",
+    "isNew": false,
+    "summary": {
+      "en": "Jasper trains its marketing-focused AI models on Google Cloud infrastructure to deliver on-brand, data-optimized content at scale.",
+      "zh": "Jasper 在 Google Cloud 基礎設施上訓練行銷專屬 AI 模型，為各規模團隊快速交付符合品牌形象的資料優化內容。"
+    },
+    "overview": {
+      "en": "Jasper is an AI platform purpose-built for marketing teams that trains its suite of creativity, writing, and marketing-focused AI models on Google's AI infrastructure. The company announced a partnership with Google Cloud to integrate Vertex AI foundation models into Jasper's AI Engine, which automatically selects the best models for each query and optimizes them to match each customer's brand voice. Jasper is available through the Google Cloud Marketplace and enables teams to automate on-brand content pipelines at scale.",
+      "zh": "Jasper 是一個專為行銷團隊打造的 AI 平台，在 Google 的 AI 基礎設施上訓練其創意、寫作和行銷專屬 AI 模型套件。公司宣布與 Google Cloud 建立夥伴關係，將 Vertex AI 基礎模型整合進 Jasper AI Engine——該引擎可自動為每個查詢選取最佳模型，並根據客戶的品牌聲音進行優化。Jasper 現可透過 Google Cloud Marketplace 取得，幫助團隊大規模自動化符合品牌的內容生產流水線。"
+    },
+    "highlights": {
+      "en": [
+        "Trains creativity, writing, and marketing-focused AI models on Google Cloud's AI infrastructure, including TPUs.",
+        "Partnered with Google Cloud to integrate Vertex AI foundation models into Jasper's AI Engine for smarter model selection.",
+        "AI Engine automatically selects the best model for each user query and optimizes outputs to fit the customer's brand voice.",
+        "Available on Google Cloud Marketplace, providing millions of businesses access to on-brand AI assistance.",
+        "Enables marketing teams to build self-running content pipelines connecting brand voice, data, and campaign logic."
+      ],
+      "zh": [
+        "在 Google Cloud AI 基礎設施（包括 TPU）上訓練創意、寫作和行銷專屬 AI 模型。",
+        "與 Google Cloud 合作將 Vertex AI 基礎模型整合進 Jasper AI Engine，實現更智慧的模型選取。",
+        "AI Engine 自動為每個用戶查詢選取最佳模型，並針對客戶品牌聲音優化輸出。",
+        "上架 Google Cloud Marketplace，讓數百萬企業享有符合品牌的 AI 輔助服務。",
+        "幫助行銷團隊建立連結品牌聲音、資料與行銷邏輯的自動化內容生產流水線。"
+      ]
+    },
+    "technologies": [
+      "Vertex AI",
+      "Google Cloud",
+      "Generative AI"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Jasper and Google Cloud Announce New Partnership | Jasper Blog",
+        "url": "https://www.jasper.ai/blog/jasper-google-partnership"
+      }
+    ]
+  },
+  {
+    "id": "technology-creative-learner-net",
+    "industry": "technology",
+    "agentType": "creative",
+    "company": "Learner Net",
+    "isNew": false,
+    "summary": {
+      "en": "Learner Net uses Gemini and Vertex AI on Google Cloud to scale content creation 20-fold for its global community of 20,000 learners.",
+      "zh": "Learner Net 運用 Google Cloud 上的 Gemini 和 Vertex AI，為逾 2 萬名全球學習者實現內容創作規模提升 20 倍。"
+    },
+    "overview": {
+      "en": "Learner Net is an edtech company serving a global community of over 20,000 learners across Asia, Europe, Africa, the United States, and other regions. The company uses Gemini models and Vertex AI on Google Cloud to scale its content creation operations, achieving a 20-fold jump in content output. Kubernetes Engine enables the platform to scale and maintain high availability across multiple regions with consistent performance during peak usage, while the hybrid cloud approach allowed the business to evolve without scrapping existing investments.",
+      "zh": "Learner Net 是一家服務遍及亞洲、歐洲、非洲、美國等地逾 2 萬名全球學習者的教育科技公司。公司在 Google Cloud 上使用 Gemini 模型和 Vertex AI 擴展內容創作規模，實現內容產出 20 倍的躍升。Kubernetes Engine 讓平台在多個地區保持高可用性並確保高峰期效能穩定，混合雲方式則允許公司在不放棄現有投資的情況下持續演進。"
+    },
+    "highlights": {
+      "en": [
+        "Achieved a 20-fold increase in content creation output using Gemini models and Vertex AI on Google Cloud.",
+        "Serves a global community of over 20,000 learners across Asia, Europe, Africa, and the United States.",
+        "Uses Google Kubernetes Engine to scale and maintain high availability across multiple regions during peak usage.",
+        "Hybrid cloud approach allowed the business to evolve while preserving existing technology investments.",
+        "Integrating Agentic AI capabilities into the e-learning platform for more adaptive and personalized learning experiences."
+      ],
+      "zh": [
+        "使用 Gemini 模型和 Vertex AI 實現內容創作產出 20 倍增長。",
+        "服務遍及亞洲、歐洲、非洲和美國的逾 2 萬名全球學習者。",
+        "使用 Google Kubernetes Engine 跨多個地區擴縮，確保高峰期穩定效能與高可用性。",
+        "混合雲方式讓公司在保留現有技術投資的同時持續演進升級。",
+        "正在 e-learning 平台中整合代理式 AI 能力，提供更自適應的個人化學習體驗。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Vertex AI",
+      "Google Kubernetes Engine",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Learner Net case study | Google Cloud",
+        "url": "https://cloud.google.com/customers/learner"
+      }
+    ]
+  },
+  {
+    "id": "technology-creative-mediology-software",
+    "industry": "technology",
+    "agentType": "creative",
+    "company": "Mediology Software",
+    "isNew": false,
+    "summary": {
+      "en": "Mediology Software integrated Vertex AI and Gemini into its SORTD platform, reducing news article creation from a 1-hour video from 3 days to 3 hours.",
+      "zh": "Mediology Software 將 Vertex AI 和 Gemini 整合進 SORTD 平台，將從一小時影片製作新聞文章的時間從三天縮短至三小時。"
+    },
+    "overview": {
+      "en": "Mediology Software is a digital publishing agency serving publishers across India. The company integrated Vertex AI and Gemini into its SORTD product set to deliver AI-powered content operations, including video analysis, content summarization, image generation, and metadata enrichment. The AI-powered pipeline reduced the average time to create a news article from a one-hour video from up to three days to just three hours. API latency decreased by 50% after migrating to Google Cloud Mumbai, and infrastructure costs were reduced by 15%.",
+      "zh": "Mediology Software 是一家服務全印度出版商的數位出版代理商。公司將 Vertex AI 和 Gemini 整合進 SORTD 產品套件，提供 AI 驅動的內容作業，涵蓋影片分析、內容摘要、圖像生成和元資料豐富化。AI 驅動的工作流程將從一小時影片製作新聞文章的平均時間從最長三天縮短至僅三小時。遷移至 Google Cloud 孟買區域後，API 延遲降低 50%，基礎設施成本下降 15%。"
+    },
+    "highlights": {
+      "en": [
+        "Reduced time to create a news article from a one-hour video from up to three days to just three hours.",
+        "Integrated Gemini 1.5 Pro and Gemini 1.5 Flash into SORTD for video analysis, content summarization, and image generation.",
+        "API latency decreased by 50% following migration to Google Cloud Mumbai region.",
+        "Infrastructure costs reduced by 15% while improving operational efficiency across publishing workflows.",
+        "Enabled real-time translation for instant publishing in multiple Indian languages, boosting productivity and regional reach."
+      ],
+      "zh": [
+        "從一小時影片製作新聞文章的時間從最長三天縮短至僅三小時。",
+        "將 Gemini 1.5 Pro 和 Gemini 1.5 Flash 整合進 SORTD，支援影片分析、內容摘要和圖像生成。",
+        "遷移至 Google Cloud 孟買區域後，API 延遲降低 50%。",
+        "基礎設施成本降低 15%，同時提升出版工作流程的整體運營效率。",
+        "支援多種印度語言的即時翻譯發布，提升生產力並擴大區域覆蓋範圍。"
+      ]
+    },
+    "technologies": [
+      "Vertex AI",
+      "Gemini",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Mediology Software case study | Google Cloud",
+        "url": "https://cloud.google.com/customers/mediology"
+      },
+      {
+        "title": "Inside Mediology's AI-Driven Transformation with Google Cloud",
+        "url": "https://www.mediologysoftware.com/mediology-google-cloud-ai-transformation/"
+      }
+    ]
+  }
+]

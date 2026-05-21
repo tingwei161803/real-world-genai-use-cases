@@ -1,0 +1,1525 @@
+[
+  {
+    "id": "technology-security-ajax-systems",
+    "industry": "technology",
+    "agentType": "security",
+    "company": "Ajax Systems",
+    "isNew": false,
+    "summary": {
+      "en": "Ajax Systems uses Gemini to auto-tag Google Drive documents by security level, labeling 50% of all files within one month.",
+      "zh": "Ajax Systems 用 Gemini 自動替 Google Drive 文件標記安全等級，首月完成 50% 文件分類。"
+    },
+    "overview": {
+      "en": "Ajax Systems, a Ukraine-based security systems manufacturer protecting over four million individuals across 180+ countries, deployed Gemini within Google Workspace to automatically classify and tag Drive documents by sensitivity level. The AI handled 50% of all documents in the first month, with the tagging volume growing 1.5x per month until every document was labeled, significantly minimizing classification errors and strengthening data loss prevention.",
+      "zh": "Ajax Systems 是烏克蘭最大的安全系統製造商，業務覆蓋 180 多個國家、保護逾 400 萬人。該公司在 Google Workspace 中部署 Gemini，自動依敏感程度對 Drive 文件進行分類與標記。首月即完成 50% 文件的標記，此後每月標記量成長 1.5 倍，直至所有文件都完成標記，大幅降低分類錯誤並強化資料外洩防護。"
+    },
+    "highlights": {
+      "en": [
+        "AI tagged 50% of all Google Drive documents within the first month of deployment.",
+        "Tagging volume grew 1.5x per month until the entire document library was labeled.",
+        "Protects over 4 million individuals across 180+ countries with improved data loss prevention.",
+        "Minimized manual classification errors and reduced the risk of sensitive data exposure."
+      ],
+      "zh": [
+        "部署首月即完成 50% Google Drive 文件的 AI 自動標記。",
+        "每月標記量成長 1.5 倍，最終覆蓋全部文件庫。",
+        "業務遍及 180 多個國家，保護逾 400 萬用戶，資料外洩防護能力顯著提升。",
+        "有效減少人工分類錯誤，降低敏感資料外洩風險。"
+      ]
+    },
+    "technologies": ["Gemini", "Google Workspace", "Google Drive"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Ajax Systems Customer Success Story — Google Workspace",
+        "url": "https://workspace.google.com/customers/ajax-systems/"
+      }
+    ]
+  },
+  {
+    "id": "technology-security-ambiguous-ai",
+    "industry": "technology",
+    "agentType": "security",
+    "company": "Ambiguous AI",
+    "isNew": true,
+    "summary": {
+      "en": "Ambiguous AI's Recruiting Coworker automates candidate communication, scheduling, and pipeline tracking natively across Google Workspace.",
+      "zh": "Ambiguous AI 的 Recruiting Coworker 在 Google Workspace 原生環境中自動化候選人溝通、排程與招聘管線追蹤。"
+    },
+    "overview": {
+      "en": "Ambiguous AI has built a Recruiting Coworker agent that manages candidate communication, multi-round interview scheduling, and pipeline tracking from application through offer. The agent operates natively across Gmail, Google Calendar, Google Sheets, Google Drive, and other Google Workspace tools, looping in human decision-makers only for key decisions.",
+      "zh": "Ambiguous AI 打造了一款 Recruiting Coworker 智能代理，能從投遞到錄取全程管理候選人溝通、多輪面試排程與招聘管線追蹤。代理原生運行於 Gmail、Google Calendar、Google Sheets、Google Drive 等 Google Workspace 工具，僅在關鍵決策時通知人工介入。"
+    },
+    "highlights": {
+      "en": [
+        "Automates candidate communication and multi-round scheduling across the full hiring pipeline.",
+        "Works natively within Gmail, Google Calendar, Google Sheets, and Google Drive.",
+        "Loops in human recruiters only for key decisions, reducing manual overhead.",
+        "Covers the full recruitment lifecycle from application to offer."
+      ],
+      "zh": [
+        "自動化候選人溝通與多輪排程，覆蓋完整招聘流程。",
+        "原生整合 Gmail、Google Calendar、Google Sheets 及 Google Drive。",
+        "僅在關鍵決策時通知招募人員，減少人工作業負擔。",
+        "從投遞到錄取，完整覆蓋招聘生命週期。"
+      ]
+    },
+    "technologies": ["Google Workspace", "Gmail", "Google Calendar", "Google Sheets", "Google Drive"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "technology-security-amdocs",
+    "industry": "technology",
+    "agentType": "security",
+    "company": "Amdocs",
+    "isNew": true,
+    "summary": {
+      "en": "Amdocs and Google Cloud combined Gemini Enterprise with Amdocs' Cognitive Core to deliver a telco-specific agentic contact center.",
+      "zh": "Amdocs 與 Google Cloud 合作，將 Gemini Enterprise 與 Cognitive Core 結合，打造電信業專屬的代理式客服中心。"
+    },
+    "overview": {
+      "en": "Amdocs, a leading provider of software and services to communications and media companies, collaborated with Google Cloud to combine Gemini Enterprise for Customer Experience with Amdocs' Cognitive Core. The result is an end-to-end, telco-specific agentic contact center platform designed to lower operational costs, reduce call volumes, and improve customer satisfaction for telecommunications operators worldwide.",
+      "zh": "Amdocs 是通訊與媒體公司的重要軟體及服務供應商，與 Google Cloud 合作，將 Gemini Enterprise for Customer Experience 與自有的 Cognitive Core 整合，打造出一套專為電信業設計的端對端代理式客服中心平台，旨在降低營運成本、減少來電量並提升客戶滿意度。"
+    },
+    "highlights": {
+      "en": [
+        "Combines Gemini Enterprise for Customer Experience with Amdocs' Cognitive Core in a single platform.",
+        "Designed specifically for telecommunications operators' contact center needs.",
+        "Targets lower operational costs, reduced call volumes, and improved customer satisfaction.",
+        "Delivers end-to-end agentic automation across the contact center lifecycle."
+      ],
+      "zh": [
+        "將 Gemini Enterprise for Customer Experience 與 Amdocs Cognitive Core 整合於單一平台。",
+        "專為電信業者的客服中心需求量身打造。",
+        "目標降低營運成本、減少來電量並提升客戶滿意度。",
+        "提供端對端代理式自動化，覆蓋客服中心全流程。"
+      ]
+    },
+    "technologies": ["Gemini", "Google Cloud", "Vertex AI"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "technology-security-anjuna-security",
+    "industry": "technology",
+    "agentType": "security",
+    "company": "Anjuna Security",
+    "isNew": false,
+    "summary": {
+      "en": "Anjuna Security partners with Google Cloud to protect enterprise AI workloads using Confidential VMs with Intel TDX, ensuring data stays encrypted even during processing.",
+      "zh": "Anjuna Security 與 Google Cloud 合作，透過搭載 Intel TDX 的 Confidential VMs 保護企業 AI 工作負載，確保資料在處理過程中全程加密。"
+    },
+    "overview": {
+      "en": "Anjuna Security, a leader in Confidential Computing, partners with Google Cloud to enable the secure and trustworthy deployment of enterprise AI workloads in the cloud. Leveraging Confidential VMs on C3 machines with Intel TDX technology, the solution ensures that data, code, and models remain protected at all times — including during processing — eliminating risks of unauthorized access and tampering.",
+      "zh": "Anjuna Security 是機密運算領域的領導者，與 Google Cloud 合作，讓企業 AI 工作負載能在雲端安全可信地運行。透過 C3 機型上搭載 Intel TDX 技術的 Confidential VMs，確保資料、程式碼與模型在任何時候（包括處理過程中）都受到保護，消除未授權存取與竄改的風險。"
+    },
+    "highlights": {
+      "en": [
+        "Uses Google Cloud Confidential VMs on C3 machines with Intel TDX hardware-level isolation.",
+        "Protects data, code, and AI models even during active processing, preventing unauthorized access.",
+        "Enables trustworthy enterprise AI deployment by eliminating risks of data tampering.",
+        "Supports confidential containers combining Intel TDX with NVIDIA H100 GPU confidential mode."
+      ],
+      "zh": [
+        "採用搭載 Intel TDX 的 Google Cloud Confidential VMs（C3 機型），提供硬體層級隔離。",
+        "即使在主動處理期間也能保護資料、程式碼與 AI 模型，防止未授權存取。",
+        "消除資料竄改風險，實現可信賴的企業 AI 部署。",
+        "支援結合 Intel TDX 與 NVIDIA H100 GPU 機密模式的機密容器。"
+      ]
+    },
+    "technologies": ["Confidential Computing", "Confidential VMs", "Google Cloud"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "From clicks to clusters: Confidential Computing expands with Intel TDX — Google Cloud Blog",
+        "url": "https://cloud.google.com/blog/products/identity-security/from-clicks-to-clusters-confidential-computing-expands-with-intel-tdx"
+      }
+    ]
+  },
+  {
+    "id": "technology-security-appomni",
+    "industry": "technology",
+    "agentType": "security",
+    "company": "AppOmni",
+    "isNew": false,
+    "summary": {
+      "en": "AppOmni uses Vertex AI to power AskOmni, a gen AI security companion for intelligent SaaS security assessments and remediation.",
+      "zh": "AppOmni 以 Vertex AI 驅動 AskOmni，提供智慧型 SaaS 安全評估與修復的 gen AI 安全助理。"
+    },
+    "overview": {
+      "en": "AppOmni harnesses the diverse capabilities of Vertex AI in its gen AI-powered security companion, AskOmni, to provide deeper intelligent contextual security assessments for SaaS environments. AskOmni helps security administrators manage over 100 SaaS applications more efficiently through natural language queries, contextual risk analysis, and automated remediation guidance, enabling faster identification and resolution of security issues.",
+      "zh": "AppOmni 運用 Vertex AI 的多元能力，打造 gen AI 安全助理 AskOmni，為 SaaS 環境提供深度智慧脈絡安全評估。AskOmni 透過自然語言查詢、脈絡風險分析與自動化修復指引，幫助安全管理員更有效率地管理逾 100 款 SaaS 應用程式，加快安全問題的識別與解決速度。"
+    },
+    "highlights": {
+      "en": [
+        "AskOmni uses Vertex AI for intelligent contextual SaaS security posture assessments.",
+        "Supports natural language queries across 100+ SaaS applications including Salesforce, Microsoft 365, and Okta.",
+        "Provides automated remediation scripts tailored to specific security issues.",
+        "Reduces time for security administrators to identify and remediate SaaS security risks."
+      ],
+      "zh": [
+        "AskOmni 運用 Vertex AI 提供智慧脈絡 SaaS 安全態勢評估。",
+        "支援對 100 多款 SaaS 應用程式（包括 Salesforce、Microsoft 365、Okta）進行自然語言查詢。",
+        "針對特定安全問題自動生成量身訂製的修復腳本。",
+        "縮短安全管理員識別與修復 SaaS 安全風險所需的時間。"
+      ]
+    },
+    "technologies": ["Vertex AI", "Google Cloud"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "AskOmni: AI-Powered SaaS Security Assistant — AppOmni",
+        "url": "https://appomni.com/askomni/"
+      }
+    ]
+  },
+  {
+    "id": "technology-security-aptori",
+    "industry": "technology",
+    "agentType": "security",
+    "company": "Aptori",
+    "isNew": false,
+    "summary": {
+      "en": "Aptori uses Gemini to detect vulnerabilities in AI-generated code, prioritize risks, and automate context-aware security fixes in developer workflows.",
+      "zh": "Aptori 利用 Gemini 偵測 AI 生成程式碼中的漏洞、排定風險優先順序，並在開發者工作流程中自動化情境感知安全修復。"
+    },
+    "overview": {
+      "en": "Aptori, an AI security company, uses Gemini to analyze code for security weaknesses and generate context-aware fixes in real time. Its AI Security Engineer integrates directly into developer workflows to detect vulnerabilities in AI-generated code, prioritize risks based on context, and automate remediation — enabling development teams to ship secure code without slowing delivery.",
+      "zh": "Aptori 是一家 AI 安全公司，利用 Gemini 即時分析程式碼的安全弱點並生成情境感知修復建議。其 AI Security Engineer 直接整合進開發者工作流程，偵測 AI 生成程式碼中的漏洞、依情境排定風險優先順序並自動化修復，讓開發團隊能在不影響交付速度的前提下交付安全程式碼。"
+    },
+    "highlights": {
+      "en": [
+        "Detects security vulnerabilities specifically in AI-generated code in real time.",
+        "Uses Gemini to generate context-aware fix recommendations for each identified weakness.",
+        "Integrates the AI Security Engineer directly into existing developer workflows.",
+        "Automates end-to-end risk prioritization and code remediation."
+      ],
+      "zh": [
+        "即時偵測 AI 生成程式碼中的安全漏洞。",
+        "利用 Gemini 針對每個已識別弱點生成情境感知修復建議。",
+        "將 AI Security Engineer 直接整合進現有開發者工作流程。",
+        "自動化端對端風險排序與程式碼修復。"
+      ]
+    },
+    "technologies": ["Gemini", "Google Cloud"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "technology-security-behavox",
+    "industry": "technology",
+    "agentType": "security",
+    "company": "Behavox",
+    "isNew": false,
+    "summary": {
+      "en": "Behavox uses Google Cloud LLMs to power industry-leading regulatory compliance and front-office solutions for global financial institutions.",
+      "zh": "Behavox 運用 Google Cloud LLM 為全球金融機構提供業界領先的法規合規與前台解決方案。"
+    },
+    "overview": {
+      "en": "Behavox leverages Google Cloud technology and large language models to provide regulatory compliance and front-office solutions for financial institutions worldwide. The platform uses AI to monitor communications and detect compliance risks, helping firms meet stringent regulatory requirements while improving operational efficiency across trading and compliance functions.",
+      "zh": "Behavox 運用 Google Cloud 技術與大型語言模型，為全球金融機構提供法規合規與前台解決方案。平台以 AI 監控通訊並偵測合規風險，協助機構滿足嚴格的監管要求，同時提升交易與合規職能的營運效率。"
+    },
+    "highlights": {
+      "en": [
+        "Uses Google Cloud LLMs to monitor financial communications for regulatory compliance.",
+        "Serves financial institutions globally with industry-leading compliance detection.",
+        "Combines regulatory compliance and front-office solutions in a single AI-powered platform.",
+        "Helps firms meet stringent regulatory requirements efficiently."
+      ],
+      "zh": [
+        "運用 Google Cloud LLM 監控金融通訊以確保法規合規。",
+        "為全球金融機構提供業界領先的合規偵測服務。",
+        "在單一 AI 驅動平台中整合法規合規與前台解決方案。",
+        "協助機構有效率地滿足嚴格監管要求。"
+      ]
+    },
+    "technologies": ["Google Cloud", "LLMs"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "technology-security-broadcom",
+    "industry": "technology",
+    "agentType": "security",
+    "company": "Broadcom",
+    "isNew": false,
+    "summary": {
+      "en": "Broadcom powers SymantecAI with Vertex AI on Google Cloud to deliver advanced security monitoring and Zero Trust protection.",
+      "zh": "Broadcom 以 Google Cloud 上的 Vertex AI 驅動 SymantecAI，提供進階安全監控與 Zero Trust 保護。"
+    },
+    "overview": {
+      "en": "Broadcom is modernizing its infrastructure and building a scalable, secure platform for growth on Google Cloud. Central to this effort is SymantecAI, powered by Vertex AI, which provides improved security monitoring and Zero Trust protection. Broadcom migrated Symantec Cloud SWG and CASB workloads to Google Cloud and co-developed a cybersecurity-specific LLM (SecPaLM 2) with Google to enhance threat detection and policy management.",
+      "zh": "Broadcom 正在 Google Cloud 上現代化其基礎設施，打造可擴展的安全成長平台。核心舉措是以 Vertex AI 驅動的 SymantecAI，提供改進的安全監控與 Zero Trust 保護。Broadcom 將 Symantec Cloud SWG 與 CASB 工作負載遷移至 Google Cloud，並與 Google 共同開發了資安專用 LLM（SecPaLM 2），增強威脅偵測與政策管理能力。"
+    },
+    "highlights": {
+      "en": [
+        "SymantecAI powered by Vertex AI provides advanced security monitoring and Zero Trust protection.",
+        "Migrated Symantec Cloud SWG and CASB onto Google Cloud for scalable, efficient operations.",
+        "Co-developed SecPaLM 2, a cybersecurity-specific LLM, with Google Cloud.",
+        "Enables attack prediction and ZTNA optimization using AI-driven insights."
+      ],
+      "zh": [
+        "由 Vertex AI 驅動的 SymantecAI 提供進階安全監控與 Zero Trust 保護。",
+        "將 Symantec Cloud SWG 與 CASB 遷移至 Google Cloud，實現可擴展的高效運營。",
+        "與 Google Cloud 共同開發資安專用 LLM SecPaLM 2。",
+        "透過 AI 驅動洞察實現攻擊預測與 ZTNA 優化。"
+      ]
+    },
+    "technologies": ["Vertex AI", "Google Cloud", "Symantec"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "SymantecAI now enriched by Google Vertex AI — Broadcom",
+        "url": "https://www.broadcom.com/blog/symantecai-now-enriched-by-google-vertex-ai"
+      }
+    ]
+  },
+  {
+    "id": "technology-security-chainguard",
+    "industry": "technology",
+    "agentType": "security",
+    "company": "Chainguard",
+    "isNew": false,
+    "summary": {
+      "en": "Chainguard uses Google Cloud Run and GKE to deliver secure, zero-CVE open-source container images for software supply chain security.",
+      "zh": "Chainguard 利用 Google Cloud Run 與 GKE，提供零已知漏洞的開源容器映像，保障軟體供應鏈安全。"
+    },
+    "overview": {
+      "en": "Chainguard, a software supply chain security company founded by former Google Cloud engineers, uses Google Cloud Run and Google Kubernetes Engine to provide developers with secure open-source building blocks. Its serverless architecture streamlines operations and product development, reducing infrastructure management costs and enabling effortless scaling. Chainguard offers a catalog of 1,700+ minimal container images with zero known vulnerabilities, eliminating 98%+ of open-source risk.",
+      "zh": "Chainguard 是由前 Google Cloud 工程師創立的軟體供應鏈安全公司，利用 Google Cloud Run 與 Google Kubernetes Engine 為開發者提供安全的開源建構模組。其無伺服器架構簡化了營運與產品開發，降低基礎設施管理成本並輕鬆實現規模化。Chainguard 提供超過 1,700 個零已知漏洞的最小化容器映像，消除 98% 以上的開源風險。"
+    },
+    "highlights": {
+      "en": [
+        "Provides 1,700+ minimal container images with zero known CVEs across modern stacks.",
+        "Eliminates 98%+ of open-source supply chain risk by building from verifiable source code.",
+        "Uses Google Cloud Run and GKE for serverless, auto-scaling secure infrastructure.",
+        "Reduces infrastructure management costs while enabling automated compliance for regulated industries."
+      ],
+      "zh": [
+        "提供超過 1,700 個零已知 CVE 的最小化容器映像，覆蓋現代技術堆疊。",
+        "從可驗證原始碼構建，消除 98% 以上開源供應鏈風險。",
+        "使用 Google Cloud Run 與 GKE 實現無伺服器、自動擴展的安全基礎設施。",
+        "降低基礎設施管理成本，同時為受監管行業提供自動化合規能力。"
+      ]
+    },
+    "technologies": ["Google Cloud Run", "Google Kubernetes Engine", "Google Cloud"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Chainguard Case Study — Google Cloud",
+        "url": "https://cloud.google.com/customers/chainguard"
+      }
+    ]
+  },
+  {
+    "id": "technology-security-clavata-ai",
+    "industry": "technology",
+    "agentType": "security",
+    "company": "Clavata.ai",
+    "isNew": false,
+    "summary": {
+      "en": "Clavata.ai delivers an AI governance and safety platform with a Gemini-powered real-time multi-modal evaluation engine for proactive policy enforcement.",
+      "zh": "Clavata.ai 提供 AI 治理與安全平台，以 Gemini 驅動的即時多模態評估引擎實現主動政策執行。"
+    },
+    "overview": {
+      "en": "Clavata.ai delivers an integrated AI governance and safety platform with an intelligent, multi-modal, real-time evaluation engine powered by Gemini. The platform enables proactive policy enforcement, dynamic debugging, iterative development, observability, and problem prevention for enterprise AI applications, acting as a trust layer that organizations can use to govern AI behavior at scale.",
+      "zh": "Clavata.ai 提供整合式 AI 治理與安全平台，核心是由 Gemini 驅動的智慧多模態即時評估引擎。平台為企業 AI 應用提供主動政策執行、動態偵錯、迭代開發、可觀測性與問題預防能力，作為組織大規模治理 AI 行為的信任層。"
+    },
+    "highlights": {
+      "en": [
+        "Multi-modal real-time evaluation engine powered by Gemini for AI governance.",
+        "Enables proactive policy enforcement before AI outputs reach end users.",
+        "Provides dynamic debugging, observability, and problem prevention for AI applications.",
+        "Acts as an integrated trust layer for enterprise-scale AI governance."
+      ],
+      "zh": [
+        "Gemini 驅動的多模態即時評估引擎，用於 AI 治理。",
+        "在 AI 輸出到達終端用戶前進行主動政策執行。",
+        "為 AI 應用提供動態偵錯、可觀測性與問題預防能力。",
+        "作為企業規模 AI 治理的整合信任層。"
+      ]
+    },
+    "technologies": ["Gemini", "Google Cloud", "Vertex AI"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "technology-security-exabeam",
+    "industry": "technology",
+    "agentType": "security",
+    "company": "Exabeam",
+    "isNew": false,
+    "summary": {
+      "en": "Exabeam built a gen AI copilot for security analysts into its New-Scale Security Operations Platform to accelerate threat detection and response.",
+      "zh": "Exabeam 在 New-Scale Security Operations Platform 中內建 gen AI 副駕駛，加速安全分析師的威脅偵測與回應。"
+    },
+    "overview": {
+      "en": "Exabeam has integrated a generative AI copilot directly into its New-Scale Security Operations Platform, enabling security analysts to write complex search queries in natural language, receive concise threat summaries, and get prioritized remediation recommendations. The capability has evolved into Exabeam Nova, which provides multi-agent AI with 10x more training, reducing analyst alert fatigue and streamlining threat detection, investigation, and response workflows.",
+      "zh": "Exabeam 將生成式 AI 副駕駛直接整合進 New-Scale Security Operations Platform，使安全分析師能夠以自然語言撰寫複雜搜尋查詢、接收簡潔的威脅摘要並獲得優先修復建議。此功能已演進為 Exabeam Nova，提供訓練量達 10 倍的多代理 AI，降低分析師警示疲勞並簡化威脅偵測、調查與回應工作流程。"
+    },
+    "highlights": {
+      "en": [
+        "Gen AI copilot enables natural language queries for complex security investigations.",
+        "Provides concise threat summaries with impact assessments and prioritized action recommendations.",
+        "Evolved into Exabeam Nova with 10x more training and multi-agent AI capabilities.",
+        "Reduces alert fatigue and accelerates threat detection, investigation, and response (TDIR)."
+      ],
+      "zh": [
+        "Gen AI 副駕駛支援以自然語言進行複雜安全調查查詢。",
+        "提供包含影響評估與優先行動建議的簡潔威脅摘要。",
+        "已演進為具備 10 倍訓練量與多代理 AI 能力的 Exabeam Nova。",
+        "降低警示疲勞，加速威脅偵測、調查與回應（TDIR）。"
+      ]
+    },
+    "technologies": ["Google Cloud", "LLMs"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Introducing Exabeam Copilot — Exabeam",
+        "url": "https://www.exabeam.com/blog/infosec-trends/introducing-exabeam-copilot-your-new-generative-ai-cybersecurity-virtual-assistant/"
+      }
+    ]
+  },
+  {
+    "id": "technology-security-fivecast",
+    "industry": "technology",
+    "agentType": "security",
+    "company": "Fivecast",
+    "isNew": false,
+    "summary": {
+      "en": "Fivecast uses Vertex AI and Gemini for AI-driven OSINT threat detection, delivering 400% ROI for intelligence analysts.",
+      "zh": "Fivecast 使用 Vertex AI 與 Gemini 進行 AI 驅動的 OSINT 威脅偵測，為情報分析師帶來 400% 的投資回報。"
+    },
+    "overview": {
+      "en": "Fivecast, a provider of open-source intelligence (OSINT) solutions for government, security, and financial institutions, uses Vertex AI and Gemini on Google Cloud for AI-driven threat detection and risk assessment. The platform delivers a 400% ROI for intelligence analysts and significantly improves risk assessment quality and efficiency. Google Code Assist accelerates internal product development and testing, while Google Cloud reduced costs enough for Fivecast to offer gen AI features as standard rather than premium add-ons.",
+      "zh": "Fivecast 是為政府、安全機構及金融機構提供開源情報（OSINT）解決方案的供應商，在 Google Cloud 上使用 Vertex AI 與 Gemini 進行 AI 驅動的威脅偵測與風險評估。平台為情報分析師帶來 400% 的投資回報，顯著提升風險評估品質與效率。Google Code Assist 加速內部產品開發與測試，Google Cloud 的成本降低讓 Fivecast 能夠將 gen AI 功能作為標準功能而非付費附加項提供。"
+    },
+    "highlights": {
+      "en": [
+        "Delivers 400% ROI for intelligence analysts using AI-driven OSINT on Google Cloud.",
+        "Uses Gemini to directly contribute to risk assessments within product features.",
+        "Google Cloud reduced gen AI service costs, enabling standard (not premium) feature delivery.",
+        "Google Code Assist accelerates prototyping and testing for new application features."
+      ],
+      "zh": [
+        "在 Google Cloud 上運用 AI 驅動的 OSINT，為情報分析師帶來 400% 投資回報。",
+        "使用 Gemini 直接為產品功能中的風險評估做出貢獻。",
+        "Google Cloud 降低 gen AI 服務成本，使 Fivecast 能以標準（而非付費）功能提供 gen AI 能力。",
+        "Google Code Assist 加速新應用功能的原型設計與測試。"
+      ]
+    },
+    "technologies": ["Vertex AI", "Gemini", "Google Cloud", "Google Code Assist"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Fivecast case study — Google Cloud",
+        "url": "https://cloud.google.com/customers/fivecast"
+      }
+    ]
+  },
+  {
+    "id": "technology-security-galileo",
+    "industry": "technology",
+    "agentType": "security",
+    "company": "Galileo",
+    "isNew": false,
+    "summary": {
+      "en": "Galileo uses Gemini and Google Cloud to build evaluation agents that de-risk AI applications, helping customers validate over 1,000 AI deployments.",
+      "zh": "Galileo 使用 Gemini 與 Google Cloud 打造評估代理，協助客戶驗證逾 1,000 個 AI 部署，降低 AI 應用風險。"
+    },
+    "overview": {
+      "en": "Galileo, an AI observability and evaluation platform for building trustworthy AI applications, uses Gemini to build its evaluation agents and runs on scalable Google Cloud infrastructure with NVIDIA GPUs. The platform provides a holistic trust layer to address LLM unpredictability and hallucinations. Customers have de-risked over 1,000 AI applications since launch, and Galileo has scaled to handle a petabyte of data, 5,000+ concurrent users, and 20 million requests per day.",
+      "zh": "Galileo 是專為打造可信賴 AI 應用而設計的 AI 可觀測性與評估平台，使用 Gemini 構建評估代理，並在搭載 NVIDIA GPU 的可擴展 Google Cloud 基礎設施上運行。平台提供全面的信任層，解決 LLM 不可預測性與幻覺問題。自推出以來，客戶已對逾 1,000 個 AI 應用進行了風險評估，Galileo 已擴展至處理 1 PB 資料、5,000+ 並發用戶及每日 2,000 萬次請求的規模。"
+    },
+    "highlights": {
+      "en": [
+        "Customers have de-risked over 1,000 AI applications using Galileo's evaluation platform.",
+        "Scaled to handle 1 petabyte of data and 20 million requests per day at 300ms latency.",
+        "Uses Gemini to power evaluation agents that detect hallucinations and LLM unpredictability.",
+        "Google for Startups Cloud Program support accelerates growth and unlocks new opportunities."
+      ],
+      "zh": [
+        "客戶已使用 Galileo 評估平台對逾 1,000 個 AI 應用進行了風險評估。",
+        "已擴展至處理 1 PB 資料，每日 2,000 萬次請求，延遲 300 毫秒。",
+        "使用 Gemini 驅動評估代理，偵測幻覺與 LLM 不可預測性。",
+        "Google for Startups Cloud Program 的支持加速成長並開拓新機會。"
+      ]
+    },
+    "technologies": ["Gemini", "Vertex AI", "Google Kubernetes Engine", "Google Cloud", "NVIDIA GPUs"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Galileo case study — Google Cloud",
+        "url": "https://cloud.google.com/customers/galileo"
+      }
+    ]
+  },
+  {
+    "id": "technology-security-menlo-security",
+    "industry": "technology",
+    "agentType": "security",
+    "company": "Menlo Security",
+    "isNew": true,
+    "summary": {
+      "en": "Menlo Security's A2A HEAT Shield Agent, built on Gemini Enterprise Agent Platform, instantly defuses zero-day phishing and social engineering attacks.",
+      "zh": "Menlo Security 基於 Gemini Enterprise Agent Platform 構建的 A2A HEAT Shield Agent，能即時化解零日網路釣魚與社交工程攻擊。"
+    },
+    "overview": {
+      "en": "Menlo Security's Menlo A2A HEAT Shield Agent instantly defuses zero-day phishing, social engineering, and CAPTCHA bypass attempts. Built on the Gemini Enterprise Agent Platform, it allows administrators to set security policies and view results through natural language conversations in Gemini Enterprise, bringing conversational policy management to enterprise browser security.",
+      "zh": "Menlo Security 的 A2A HEAT Shield Agent 能即時化解零日網路釣魚、社交工程及 CAPTCHA 繞過攻擊。基於 Gemini Enterprise Agent Platform 構建，讓管理員能透過 Gemini Enterprise 中的自然語言對話設定安全政策並查看結果，為企業瀏覽器安全帶來對話式政策管理。"
+    },
+    "highlights": {
+      "en": [
+        "Instantly defuses zero-day phishing, social engineering, and CAPTCHA bypass attempts.",
+        "Built on Gemini Enterprise Agent Platform for conversational policy management.",
+        "Administrators can set and review security policies via natural language in Gemini Enterprise.",
+        "Provides proactive browser-level security against sophisticated web-based threats."
+      ],
+      "zh": [
+        "即時化解零日網路釣魚、社交工程及 CAPTCHA 繞過攻擊。",
+        "基於 Gemini Enterprise Agent Platform 實現對話式政策管理。",
+        "管理員可透過 Gemini Enterprise 中的自然語言設定與審查安全政策。",
+        "提供主動式瀏覽器層級防護，應對複雜的網路威脅。"
+      ]
+    },
+    "technologies": ["Gemini", "Gemini Enterprise Agent Platform", "Google Cloud"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "technology-security-moii-ai",
+    "industry": "technology",
+    "agentType": "security",
+    "company": "Moii.AI",
+    "isNew": false,
+    "summary": {
+      "en": "Moii.AI uses Gemini, Vertex AI, and BigQuery to turn CCTV cameras into autonomous workplace safety agents, reducing video review from days to minutes.",
+      "zh": "Moii.AI 運用 Gemini、Vertex AI 與 BigQuery，將監視攝影機轉化為自主工作場所安全代理，將影片審查時間從數天縮短至幾分鐘。"
+    },
+    "overview": {
+      "en": "Moii.AI, a software startup, transforms passive CCTV cameras into autonomous safety and productivity agents. Using Gemini 1.5 Pro, Vertex AI, and BigQuery, the platform analyzes video footage to detect workplace hazards in real time. What previously required five people manually reviewing footage for two to three days is now completed in a five-minute search, enabling near real-time safety monitoring across manufacturing, retail, hospitals, and construction.",
+      "zh": "Moii.AI 是一家將被動監視攝影機轉化為自主安全與生產力代理的軟體新創公司。平台使用 Gemini 1.5 Pro、Vertex AI 與 BigQuery 即時分析影片畫面，偵測工作場所危險。過去需要五名人員耗費兩到三天手動審查的影像，現在只需五分鐘搜尋即可完成，實現製造業、零售業、醫院與建築業的近即時安全監控。"
+    },
+    "highlights": {
+      "en": [
+        "Reduces video review from 2–3 person-days of manual work to a 5-minute search.",
+        "Uses Gemini 1.5 Pro and Vertex AI for real-time workplace hazard detection in video footage.",
+        "BigQuery enables near real-time video processing and analysis at scale.",
+        "Serves manufacturing, retail, hospitals, and construction industries."
+      ],
+      "zh": [
+        "將影片審查從 2-3 人天的人工作業縮短為 5 分鐘搜尋。",
+        "使用 Gemini 1.5 Pro 與 Vertex AI 即時偵測影片中的工作場所危險。",
+        "BigQuery 實現大規模近即時影片處理與分析。",
+        "服務製造業、零售業、醫院與建築業。"
+      ]
+    },
+    "technologies": ["Gemini", "Vertex AI", "BigQuery", "Google Cloud"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Moii.AI case study — Google Cloud",
+        "url": "https://cloud.google.com/customers/moii-ai"
+      }
+    ]
+  },
+  {
+    "id": "technology-security-netrise",
+    "industry": "technology",
+    "agentType": "security",
+    "company": "NetRise",
+    "isNew": false,
+    "summary": {
+      "en": "NetRise's Trace platform introduces AI-powered intent-driven search for software supply chain security, going beyond signature-based detection.",
+      "zh": "NetRise 的 Trace 平台為軟體供應鏈安全引入 AI 驅動的意圖搜尋，超越傳統基於特徵的偵測方式。"
+    },
+    "overview": {
+      "en": "NetRise developed Trace to provide software supply chain security by introducing AI-powered intent-driven searches. These allow users to query their assets based on the underlying motives or purposes behind code and configurations, rather than solely relying on traditional signature-based methods. This semantic approach enables security teams to uncover hidden risks that conventional scanning would miss.",
+      "zh": "NetRise 開發了 Trace 平台，透過引入 AI 驅動的意圖搜尋為軟體供應鏈安全提供保障。這讓用戶能根據程式碼與配置背後的潛在動機或目的查詢資產，而不僅依賴傳統的特徵偵測方法。這種語義化方式使安全團隊能夠發現傳統掃描可能錯過的隱藏風險。"
+    },
+    "highlights": {
+      "en": [
+        "Intent-driven AI search lets users query assets by purpose and motive, not just signatures.",
+        "Addresses software supply chain security gaps left by traditional signature-based scanning.",
+        "Enables semantic understanding of code and configurations to uncover hidden risks.",
+        "Provides a novel approach to asset security assessment across the software supply chain."
+      ],
+      "zh": [
+        "意圖驅動的 AI 搜尋讓用戶依目的與動機查詢資產，而非僅依賴特徵匹配。",
+        "填補傳統特徵偵測掃描留下的軟體供應鏈安全缺口。",
+        "透過對程式碼與配置的語義理解，發現隱藏風險。",
+        "為整個軟體供應鏈提供全新的資產安全評估方式。"
+      ]
+    },
+    "technologies": ["Google Cloud", "LLMs"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "technology-security-neuraldefend",
+    "industry": "technology",
+    "agentType": "security",
+    "company": "Neuraldefend",
+    "isNew": true,
+    "summary": {
+      "en": "Neuraldefend uses Google Cloud NVIDIA H100 and L4 GPUs for model training and real-time deepfake detection and digital trust solutions.",
+      "zh": "Neuraldefend 在 Google Cloud 上使用 NVIDIA H100 與 L4 GPU 進行模型訓練及即時深偽偵測與數位信任解決方案。"
+    },
+    "overview": {
+      "en": "Neuraldefend is partnering with Google Cloud and NVIDIA to utilize H100 and L4 GPUs for model training and production inference, powering its real-time deepfake detection engine and digital trust solutions. The platform empowers organizations to instantly detect AI-generated deepfakes in video, audio, and images, protecting people, platforms, and reputations from AI-generated threats.",
+      "zh": "Neuraldefend 與 Google Cloud 及 NVIDIA 合作，在 Google Cloud 上使用 H100 與 L4 GPU 進行模型訓練與生產推論，驅動其即時深偽偵測引擎與數位信任解決方案。平台讓組織能即時偵測影片、音訊及圖片中的 AI 生成深偽，保護人員、平台與聲譽免受 AI 生成威脅。"
+    },
+    "highlights": {
+      "en": [
+        "Uses NVIDIA H100 and L4 GPUs on Google Cloud for model training and production inference.",
+        "Provides real-time detection of AI-generated deepfakes in video, audio, and images.",
+        "Delivers digital trust solutions to protect organizations from AI-generated fraud.",
+        "Part of the NVIDIA and Google Cloud joint developer ecosystem for AI security."
+      ],
+      "zh": [
+        "在 Google Cloud 上使用 NVIDIA H100 與 L4 GPU 進行模型訓練與生產推論。",
+        "提供影片、音訊及圖片中 AI 生成深偽的即時偵測。",
+        "提供數位信任解決方案，保護組織免受 AI 生成詐欺攻擊。",
+        "是 NVIDIA 與 Google Cloud 聯合 AI 安全開發者生態系統的一部分。"
+      ]
+    },
+    "technologies": ["Google Cloud", "NVIDIA GPUs"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Neural Defend — Defending Reality",
+        "url": "https://neuraldefend.com/"
+      }
+    ]
+  },
+  {
+    "id": "technology-security-newpush",
+    "industry": "technology",
+    "agentType": "security",
+    "company": "NewPush",
+    "isNew": false,
+    "summary": {
+      "en": "NewPush uses Gemini in Google Workspace to automate threat research and content creation, saving cybersecurity analysts 12 hours per week.",
+      "zh": "NewPush 在 Google Workspace 中使用 Gemini 自動化威脅研究與內容創作，每週為資安分析師節省 12 小時。"
+    },
+    "overview": {
+      "en": "NewPush, a cybersecurity company, uses Google Workspace with Gemini to significantly improve efficiency and security operations. Gemini automates time-consuming tasks like threat research and content creation, saving analysts 12 hours per week and allowing staff to focus on more strategic work. The integration with Google Workspace also improves overall security posture through enhanced access controls and activity monitoring.",
+      "zh": "NewPush 是一家資安公司，使用搭載 Gemini 的 Google Workspace 顯著提升效率與安全營運。Gemini 自動化威脅研究和內容創作等耗時任務，每週為分析師節省 12 小時，讓員工能專注於更具策略性的工作。與 Google Workspace 的整合也透過強化存取控制與活動監控提升了整體安全態勢。"
+    },
+    "highlights": {
+      "en": [
+        "Gemini saves cybersecurity analysts 12 hours per week by automating threat research.",
+        "Automates content creation tasks, freeing staff for higher-value strategic work.",
+        "Google Workspace integration enhances security posture with access controls and monitoring.",
+        "Combines productivity automation with improved security operations in a single platform."
+      ],
+      "zh": [
+        "Gemini 透過自動化威脅研究，每週為資安分析師節省 12 小時。",
+        "自動化內容創作任務，讓員工能投入更高價值的策略性工作。",
+        "Google Workspace 整合透過存取控制與監控強化安全態勢。",
+        "在單一平台中結合生產力自動化與改進的安全營運。"
+      ]
+    },
+    "technologies": ["Gemini", "Google Workspace", "Google Cloud"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Google Workspace Security — NewPush",
+        "url": "https://education.newpush.com/services/google-workspace-security"
+      }
+    ]
+  },
+  {
+    "id": "technology-security-palo-alto-networks",
+    "industry": "technology",
+    "agentType": "security",
+    "company": "Palo Alto Networks",
+    "isNew": false,
+    "summary": {
+      "en": "Palo Alto Networks uses Gemini to build a grounded AI assistant for 24/7 security platform support, improving agent efficiency and response accuracy.",
+      "zh": "Palo Alto Networks 利用 Gemini 打造基於組織資料的 AI 助理，提供全天候安全平台支援，提升代理效率與回應準確性。"
+    },
+    "overview": {
+      "en": "Palo Alto Networks, a leading cybersecurity provider, uses Gemini to create a grounded AI assistant for 24/7 security platform support. By grounding the assistant in organizational data and security protocols, the solution greatly improves the accuracy of responses and enhances agent efficiency and response time. This is part of the company's broader strategic partnership with Google Cloud, which includes a ten-figure multi-year infrastructure commitment.",
+      "zh": "Palo Alto Networks 是領先的資安供應商，使用 Gemini 打造基於組織資料的 AI 助理，提供全天候安全平台支援。透過將助理紮根於組織資料與安全協定，方案大幅提升回應準確性並增強代理效率與回應時間。這是該公司與 Google Cloud 更廣泛戰略合作夥伴關係的一部分，包含十位數的多年期基礎設施承諾。"
+    },
+    "highlights": {
+      "en": [
+        "Gemini-powered grounded AI assistant provides 24/7 security platform support.",
+        "Grounding in organizational data and security protocols greatly improved response accuracy.",
+        "Enhances agent efficiency and reduces response time for security support queries.",
+        "Part of a ten-figure multi-year strategic commitment to Google Cloud as AI infrastructure provider."
+      ],
+      "zh": [
+        "以 Gemini 驅動、紮根於組織資料的 AI 助理提供全天候安全平台支援。",
+        "紮根於組織資料與安全協定，大幅提升回應準確性。",
+        "提升代理效率，縮短安全支援查詢的回應時間。",
+        "是與 Google Cloud 十位數多年期戰略合作的一部分，Google Cloud 為其 AI 基礎設施供應商。"
+      ]
+    },
+    "technologies": ["Gemini", "Google Cloud", "BigQuery"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Palo Alto Networks and Google Cloud Expand Partnership to Revolutionize Cybersecurity with AI",
+        "url": "https://www.prnewswire.com/news-releases/palo-alto-networks-and-google-cloud-expand-partnership-to-revolutionize-cybersecurity-with-ai-302111391.html"
+      }
+    ]
+  },
+  {
+    "id": "technology-security-palo-alto-networks-2",
+    "industry": "technology",
+    "agentType": "security",
+    "company": "Palo Alto Networks",
+    "isNew": false,
+    "summary": {
+      "en": "Palo Alto Networks' Cortex XSIAM is an AI-driven security operations platform built on over a decade of ML expertise and surpassed $1 billion in cumulative bookings.",
+      "zh": "Palo Alto Networks 的 Cortex XSIAM 是建立在十餘年 ML 專業上的 AI 驅動安全營運平台，累計訂單已超過 10 億美元。"
+    },
+    "overview": {
+      "en": "Palo Alto Networks' Cortex XSIAM (Extended Security Intelligence and Automation Management) is the AI-driven platform for the modern security operations center, built on more than a decade of machine learning expertise and the most comprehensive data store in the industry. Backed by Google Cloud's infrastructure and advanced AI services including BigQuery and Gemini, XSIAM unifies EDR, XDR, SOAR, ASM, UEBA, TIP, and SIEM into a single platform and surpassed $1 billion in cumulative bookings.",
+      "zh": "Palo Alto Networks 的 Cortex XSIAM（擴展安全情報與自動化管理）是面向現代安全營運中心的 AI 驅動平台，建立在十餘年的機器學習專業及業界最全面資料庫的基礎上。憑藉 Google Cloud 基礎設施與包括 BigQuery 和 Gemini 在內的先進 AI 服務支持，XSIAM 將 EDR、XDR、SOAR、ASM、UEBA、TIP 和 SIEM 統一至單一平台，累計訂單已突破 10 億美元。"
+    },
+    "highlights": {
+      "en": [
+        "Cortex XSIAM surpassed $1 billion in cumulative bookings in FY25 Q2, the fastest offering to reach this milestone.",
+        "Unifies EDR, XDR, SOAR, ASM, UEBA, TIP, and SIEM into a single AI-driven platform.",
+        "Built on over a decade of ML expertise and the industry's most comprehensive security data store.",
+        "Backed by Google Cloud infrastructure, BigQuery, and Gemini models at global scale."
+      ],
+      "zh": [
+        "Cortex XSIAM 在 FY25 Q2 累計訂單突破 10 億美元，是達成此里程碑速度最快的產品。",
+        "將 EDR、XDR、SOAR、ASM、UEBA、TIP 與 SIEM 統一至單一 AI 驅動平台。",
+        "建立在十餘年 ML 專業與業界最全面安全資料庫的基礎上。",
+        "由 Google Cloud 基礎設施、BigQuery 及 Gemini 模型提供全球規模支撐。"
+      ]
+    },
+    "technologies": ["Google Cloud", "BigQuery", "Gemini"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Palo Alto Networks Cortex XSIAM Delivers Industry's First AI-Driven SecOps Platform",
+        "url": "https://www.prnewswire.com/news-releases/palo-alto-networks-cortex-xsiam-delivers-industrys-first-ai-driven-secops-platform-to-span-proactive-and-reactive-security-302439335.html"
+      }
+    ]
+  },
+  {
+    "id": "technology-security-palo-alto-networks-3",
+    "industry": "technology",
+    "agentType": "security",
+    "company": "Palo Alto Networks",
+    "isNew": false,
+    "summary": {
+      "en": "Palo Alto Networks uses NVIDIA Triton Inference Server on Google Cloud to power near real-time AI-driven threat detection for its data loss prevention platform.",
+      "zh": "Palo Alto Networks 在 Google Cloud 上使用 NVIDIA Triton Inference Server，為資料外洩防護平台提供近即時 AI 驅動威脅偵測。"
+    },
+    "overview": {
+      "en": "Palo Alto Networks uses NVIDIA Triton Inference Server with NVIDIA GPUs on Google Cloud Compute Engine to power AI-driven threat detection for its data loss prevention (DLP) platform. Migrating from a previous cloud provider substantially reduced machine learning latency and costs while enabling near real-time detection and response to cyberattacks. The results were significant enough that Palo Alto Networks plans to migrate all remaining workloads to Google Cloud.",
+      "zh": "Palo Alto Networks 在 Google Cloud Compute Engine 上使用 NVIDIA Triton Inference Server 與 NVIDIA GPU，為其資料外洩防護（DLP）平台提供 AI 驅動威脅偵測。從先前的雲端供應商遷移後，機器學習延遲與成本大幅降低，同時實現對網路攻擊的近即時偵測與回應。成效顯著，Palo Alto Networks 計畫將所有剩餘工作負載遷移至 Google Cloud。"
+    },
+    "highlights": {
+      "en": [
+        "Migration to Google Cloud substantially reduced ML latency and costs for the DLP platform.",
+        "NVIDIA Triton Inference Server on Google Cloud enables near real-time cyberattack detection.",
+        "Results strong enough to prompt plans to migrate all remaining workloads to Google Cloud.",
+        "Combines NVIDIA GPU compute with Google Cloud's scalable infrastructure for threat detection."
+      ],
+      "zh": [
+        "遷移至 Google Cloud 後，DLP 平台的 ML 延遲與成本大幅降低。",
+        "Google Cloud 上的 NVIDIA Triton Inference Server 實現對網路攻擊的近即時偵測。",
+        "成效顯著，促使計畫將所有剩餘工作負載遷移至 Google Cloud。",
+        "結合 NVIDIA GPU 運算與 Google Cloud 可擴展基礎設施，實現威脅偵測。"
+      ]
+    },
+    "technologies": ["Google Cloud", "Compute Engine", "NVIDIA GPUs"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Palo Alto Networks and Google Cloud Expand Partnership to Revolutionize Cybersecurity with AI",
+        "url": "https://www.prnewswire.com/news-releases/palo-alto-networks-and-google-cloud-expand-partnership-to-revolutionize-cybersecurity-with-ai-302111391.html"
+      }
+    ]
+  },
+  {
+    "id": "technology-security-palo-alto-networks-4",
+    "industry": "technology",
+    "agentType": "security",
+    "company": "Palo Alto Networks",
+    "isNew": true,
+    "summary": {
+      "en": "Palo Alto Networks' Prisma AIRS Model Security agent scans over 35 AI model formats to detect poisoned weights, backdoors, and malicious code in neural networks.",
+      "zh": "Palo Alto Networks 的 Prisma AIRS Model Security agent 掃描逾 35 種 AI 模型格式，偵測神經網路中的投毒權重、後門及惡意程式碼。"
+    },
+    "overview": {
+      "en": "Palo Alto Networks' Prisma AIRS Model Security agent scans over 35 model formats to eliminate malicious code hidden deep within model layers. This proactive defense goes beyond standard scanning to ensure neural integrity, detecting poisoned weights and backdoors to prevent unauthorized data exfiltration and model hijacking. The solution addresses the unique security risks introduced by AI model supply chains.",
+      "zh": "Palo Alto Networks 的 Prisma AIRS Model Security agent 掃描逾 35 種模型格式，消除深藏於模型層內的惡意程式碼。這種主動防禦超越標準掃描，確保神經完整性，偵測投毒權重與後門，防止未授權資料外洩與模型劫持。方案針對 AI 模型供應鏈帶來的獨特安全風險提供保護。"
+    },
+    "highlights": {
+      "en": [
+        "Scans over 35 AI model formats for hidden malicious code within model layers.",
+        "Detects poisoned weights and backdoors to prevent model hijacking and data exfiltration.",
+        "Goes beyond standard signature scanning to ensure neural model integrity.",
+        "Addresses AI model supply chain security risks that traditional tools cannot detect."
+      ],
+      "zh": [
+        "掃描逾 35 種 AI 模型格式，偵測模型層內隱藏的惡意程式碼。",
+        "偵測投毒權重與後門，防止模型劫持與資料外洩。",
+        "超越標準特徵掃描，確保神經模型完整性。",
+        "應對傳統工具無法偵測的 AI 模型供應鏈安全風險。"
+      ]
+    },
+    "technologies": ["Google Cloud", "Vertex AI"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Palo Alto Networks and Google Cloud Expand Partnership to Revolutionize Cybersecurity with AI",
+        "url": "https://www.prnewswire.com/news-releases/palo-alto-networks-and-google-cloud-expand-partnership-to-revolutionize-cybersecurity-with-ai-302111391.html"
+      }
+    ]
+  },
+  {
+    "id": "technology-security-prediction-guard",
+    "industry": "technology",
+    "agentType": "security",
+    "company": "Prediction Guard",
+    "isNew": false,
+    "summary": {
+      "en": "Prediction Guard uses Google Cloud Confidential Computing and Vertex AI to add safety and privacy guardrails to enterprise gen AI deployments.",
+      "zh": "Prediction Guard 利用 Google Cloud Confidential Computing 與 Vertex AI，為企業 gen AI 部署增添安全與隱私防護欄。"
+    },
+    "overview": {
+      "en": "Prediction Guard uses Google Cloud services including Confidential Computing and Vertex AI to support its platform for added gen AI safety. The solution helps enterprises deploy generative AI with greater confidence by providing privacy-preserving compute and safety guardrails that prevent data leakage, ensure model outputs are reliable, and maintain compliance with data protection requirements.",
+      "zh": "Prediction Guard 使用包括 Confidential Computing 與 Vertex AI 在內的 Google Cloud 服務，為其 gen AI 安全平台提供支撐。方案透過提供保護隱私的運算環境與安全防護欄，幫助企業更有信心地部署生成式 AI，防止資料洩露、確保模型輸出可靠，並維持對資料保護要求的合規性。"
+    },
+    "highlights": {
+      "en": [
+        "Uses Google Cloud Confidential Computing for privacy-preserving gen AI inference.",
+        "Vertex AI provides scalable, secure model deployment infrastructure.",
+        "Platform adds safety guardrails to prevent data leakage in enterprise AI deployments.",
+        "Enables compliant gen AI adoption for organizations with strict data protection requirements."
+      ],
+      "zh": [
+        "使用 Google Cloud Confidential Computing 進行保護隱私的 gen AI 推論。",
+        "Vertex AI 提供可擴展、安全的模型部署基礎設施。",
+        "平台增添安全防護欄，防止企業 AI 部署中的資料洩露。",
+        "為有嚴格資料保護要求的組織實現合規的 gen AI 採用。"
+      ]
+    },
+    "technologies": ["Confidential Computing", "Vertex AI", "Google Cloud"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "technology-security-rapid7",
+    "industry": "technology",
+    "agentType": "security",
+    "company": "Rapid7",
+    "isNew": false,
+    "summary": {
+      "en": "Rapid7 implemented Gemini models via Ask AI for cybersecurity support, achieving a 30% decrease in case handling times and a 35% increase in agent capacity.",
+      "zh": "Rapid7 透過 Ask AI 導入 Gemini 模型提供資安支援，案件處理時間縮短 30%，代理產能提升 35%。"
+    },
+    "overview": {
+      "en": "Rapid7 worked with Ask AI to implement Gemini models for more efficient cybersecurity support operations. The deployment delivered a 30% decrease in case handling times and a 35% increase in agent capacity, enabling better customer experiences. By adopting an 'ask AI first' approach and automating one-click actions like ticket summarization and response drafting, Rapid7's support teams shifted focus from repetitive tasks to higher-value work.",
+      "zh": "Rapid7 與 Ask AI 合作，導入 Gemini 模型提升資安支援效率。部署後案件處理時間縮短 30%、代理產能提升 35%，帶來更好的客戶體驗。透過採用「先問 AI」方式並自動化票務摘要、回應草稿等一鍵操作，Rapid7 的支援團隊得以從重複性工作轉向更高價值的工作。"
+    },
+    "highlights": {
+      "en": [
+        "30% decrease in case handling times after Gemini model implementation via Ask AI.",
+        "35% increase in agent capacity, enabling higher throughput without additional headcount.",
+        "'Ask AI first' policy requires teams to consult AI before escalating support inquiries.",
+        "One-click AI actions for ticket summarization, response rephrasing, and grammar correction."
+      ],
+      "zh": [
+        "透過 Ask AI 導入 Gemini 模型後，案件處理時間縮短 30%。",
+        "代理產能提升 35%，無需增加人力即可處理更多業務量。",
+        "「先問 AI」政策要求團隊在升級支援問題前先諮詢 AI。",
+        "提供票務摘要、回應改寫與語法修正等一鍵 AI 操作。"
+      ]
+    },
+    "technologies": ["Gemini", "Google Cloud"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "How Rapid7 Uses Mosaic AI Across Its Frontline Teams — Ask AI",
+        "url": "https://www.ask-ai.com/blog/rapid7-proven-approach-to-deploying-ai-across-frontline-teams"
+      }
+    ]
+  },
+  {
+    "id": "technology-security-redis",
+    "industry": "technology",
+    "agentType": "security",
+    "company": "Redis",
+    "isNew": true,
+    "summary": {
+      "en": "Redis uses Wiz Defend and its Blue Agent to achieve consistent cloud threat detection without manual alert investigation.",
+      "zh": "Redis 使用 Wiz Defend 與 Blue Agent 實現一致的雲端威脅偵測，無需人工調查警示。"
+    },
+    "overview": {
+      "en": "Redis, the popular real-time data platform, uses Wiz Defend to achieve consistent and reliable threat detection across its cloud environment. The Blue Agent helps security analysts contextualize alerts without manual investigation, streamlining the security operations workflow and enabling faster, more accurate incident response.",
+      "zh": "Redis 這個廣受歡迎的即時資料平台，使用 Wiz Defend 在其雲端環境中實現一致可靠的威脅偵測。Blue Agent 幫助安全分析師在無需人工調查的情況下理解警示脈絡，簡化安全營運工作流程並實現更快、更準確的事件回應。"
+    },
+    "highlights": {
+      "en": [
+        "Wiz Defend provides consistent, reliable cloud threat detection for the Redis platform.",
+        "Blue Agent contextualizes security alerts automatically, eliminating manual investigation steps.",
+        "Streamlines security operations workflow for faster incident response.",
+        "Enables the data platform team to maintain strong security posture at cloud scale."
+      ],
+      "zh": [
+        "Wiz Defend 為 Redis 平台提供一致可靠的雲端威脅偵測。",
+        "Blue Agent 自動理解安全警示脈絡，消除人工調查步驟。",
+        "簡化安全營運工作流程，加快事件回應速度。",
+        "使資料平台團隊能夠在雲端規模下維持強健的安全態勢。"
+      ]
+    },
+    "technologies": ["Wiz", "Google Cloud"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Wiz helps organizations innovate with AI securely — Wiz Blog",
+        "url": "https://www.wiz.io/blog/wiz-helps-organizations-innovate-with-ai-securely-and-responsibly"
+      }
+    ]
+  },
+  {
+    "id": "technology-security-resistant-ai",
+    "industry": "technology",
+    "agentType": "security",
+    "company": "Resistant AI",
+    "isNew": false,
+    "summary": {
+      "en": "Resistant AI uses Google Cloud and Document AI to run 500+ ML detectors on financial documents, catching 80% of forgeries and protecting automated workflows from fraud.",
+      "zh": "Resistant AI 利用 Google Cloud 與 Document AI 對金融文件運行 500 多個 ML 偵測器，攔截 80% 的偽造文件，保護自動化工作流程免受詐欺。"
+    },
+    "overview": {
+      "en": "Resistant AI, an AI-powered security company, uses Google Cloud infrastructure to build specialized document fraud detectors that scrutinize financial documents in over 500 different ways. The solution protects automated workflows — including those using Google's Document AI — from sophisticated financial crime. The platform detects KYC document forgeries and anomalies to secure digital onboarding processes for financial institutions.",
+      "zh": "Resistant AI 是一家 AI 驅動的安全公司，使用 Google Cloud 基礎設施打造專業化文件詐欺偵測器，以超過 500 種方式審查金融文件。方案保護包括使用 Google Document AI 的自動化工作流程免受複雜金融犯罪侵害。平台偵測 KYC 文件偽造與異常，為金融機構的數位入職流程提供安全保障。"
+    },
+    "highlights": {
+      "en": [
+        "Over 500 ML detectors scrutinize digital financial documents for anomalies and forgeries.",
+        "Catches 80% of document forgeries out of the box without prior knowledge of the document.",
+        "Protects automated workflows using Google's Document AI from financial crime.",
+        "Available on Google Cloud Marketplace for rapid integration into existing workflows."
+      ],
+      "zh": [
+        "超過 500 個 ML 偵測器審查數位金融文件的異常與偽造情況。",
+        "無需事先了解文件，即可攔截 80% 的文件偽造。",
+        "保護使用 Google Document AI 的自動化工作流程免受金融犯罪侵害。",
+        "可在 Google Cloud Marketplace 上獲取，快速整合至現有工作流程。"
+      ]
+    },
+    "technologies": ["Google Cloud", "Document AI"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Resistant AI Document Forensics built on Google Cloud Document AI — Google Cloud Blog",
+        "url": "https://cloud.google.com/blog/topics/financial-services/resistant-ai-document-forensics-built-on-google-cloud-document-ai"
+      }
+    ]
+  },
+  {
+    "id": "technology-security-securiti-ai",
+    "industry": "technology",
+    "agentType": "security",
+    "company": "Securiti AI",
+    "isNew": false,
+    "summary": {
+      "en": "Securiti AI pioneered an AI risk management platform — the Data + AI Command Center — enabling safe use of data and gen AI across hybrid multicloud environments.",
+      "zh": "Securiti AI 開創了 AI 風險管理平台 Data + AI Command Center，在混合多雲環境中安全使用資料與 gen AI。"
+    },
+    "overview": {
+      "en": "Securiti AI has pioneered AI risk management and security with its Data + AI Command Center, a centralized platform that enables the safe use of data and generative AI. The platform provides unified data intelligence, controls, and orchestration across hybrid multicloud environments, helping organizations govern AI systems and sensitive data at enterprise scale.",
+      "zh": "Securiti AI 以其 Data + AI Command Center 開創了 AI 風險管理與安全領域，這是一個讓資料與生成式 AI 得以安全使用的集中化平台。平台在混合多雲環境中提供統一的資料情報、控制與編排能力，幫助組織在企業規模下治理 AI 系統與敏感資料。"
+    },
+    "highlights": {
+      "en": [
+        "Data + AI Command Center provides centralized AI risk management across hybrid multicloud environments.",
+        "Unified data intelligence and controls enable safe, compliant gen AI adoption.",
+        "Orchestration capabilities span on-premises and multiple cloud environments.",
+        "Addresses both data security and AI governance in a single integrated platform."
+      ],
+      "zh": [
+        "Data + AI Command Center 在混合多雲環境中提供集中化 AI 風險管理。",
+        "統一的資料情報與控制能力實現安全、合規的 gen AI 採用。",
+        "編排能力涵蓋本地端與多雲環境。",
+        "在單一整合平台中同時解決資料安全與 AI 治理問題。"
+      ]
+    },
+    "technologies": ["Google Cloud", "Vertex AI"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "technology-security-sheetgo",
+    "industry": "technology",
+    "agentType": "security",
+    "company": "Sheetgo",
+    "isNew": true,
+    "summary": {
+      "en": "Sheetgo is an AI-ready data execution platform that transforms spreadsheet-driven operations into governed, reliable pipelines for BigQuery and Gemini Enterprise.",
+      "zh": "Sheetgo 是 AI 就緒的資料執行平台，將試算表驅動的營運轉化為 BigQuery 與 Gemini Enterprise 的受治理、可靠管線。"
+    },
+    "overview": {
+      "en": "Sheetgo is an AI-ready data execution platform that transforms spreadsheet-driven business operations into governed, reliable data pipelines feeding BigQuery and Gemini Enterprise. By bridging familiar spreadsheet workflows with enterprise-grade AI infrastructure, Sheetgo enables organizations to unlock the analytical power of Google Cloud AI without requiring major process overhauls.",
+      "zh": "Sheetgo 是 AI 就緒的資料執行平台，將企業中試算表驅動的業務營運轉化為向 BigQuery 與 Gemini Enterprise 供給資料的受治理、可靠管線。透過在熟悉的試算表工作流程與企業級 AI 基礎設施之間架橋，Sheetgo 讓組織無需大幅改革流程，即可解鎖 Google Cloud AI 的分析能力。"
+    },
+    "highlights": {
+      "en": [
+        "Transforms spreadsheet-driven operations into governed, reliable data pipelines.",
+        "Natively connects to BigQuery and Gemini Enterprise for AI-powered analytics.",
+        "Bridges familiar spreadsheet workflows with enterprise-grade AI infrastructure.",
+        "Enables AI adoption for operations-heavy teams without major process redesign."
+      ],
+      "zh": [
+        "將試算表驅動的營運轉化為受治理、可靠的資料管線。",
+        "原生連接 BigQuery 與 Gemini Enterprise，實現 AI 驅動分析。",
+        "在熟悉的試算表工作流程與企業級 AI 基礎設施之間架橋。",
+        "讓營運密集型團隊無需大幅流程重設計即可採用 AI。"
+      ]
+    },
+    "technologies": ["BigQuery", "Gemini", "Google Cloud"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "technology-security-specular",
+    "industry": "technology",
+    "agentType": "security",
+    "company": "Specular",
+    "isNew": false,
+    "summary": {
+      "en": "Specular builds AI agents with Gemini 2.5 Pro to automate penetration testing and attack surface management for enterprise cybersecurity.",
+      "zh": "Specular 以 Gemini 2.5 Pro 打造 AI 代理，自動化企業資安的滲透測試與攻擊面管理。"
+    },
+    "overview": {
+      "en": "Specular, an offensive cybersecurity platform, builds AI agents using Gemini 2.5 Pro to automate attack surface management and penetration testing. The platform automates traditional manual security workflows to identify, assess, and remediate cybersecurity vulnerabilities, helping enterprises proactively prioritize and respond to threats before adversaries can exploit them.",
+      "zh": "Specular 是一個進攻性資安平台，使用 Gemini 2.5 Pro 構建 AI 代理，自動化攻擊面管理與滲透測試。平台自動化傳統人工安全工作流程，識別、評估並修復網路安全漏洞，幫助企業在攻擊者利用之前主動排定優先順序並回應威脅。"
+    },
+    "highlights": {
+      "en": [
+        "Builds AI agents with Gemini 2.5 Pro to automate penetration testing workflows.",
+        "Automates attack surface management for proactive identification of security vulnerabilities.",
+        "Helps enterprises prioritize and remediate cybersecurity threats before exploitation.",
+        "Replaces manual offensive security workflows with AI-driven automation at scale."
+      ],
+      "zh": [
+        "使用 Gemini 2.5 Pro 構建 AI 代理，自動化滲透測試工作流程。",
+        "自動化攻擊面管理，主動識別安全漏洞。",
+        "幫助企業在漏洞被利用前排定優先順序並進行修復。",
+        "以大規模 AI 驅動自動化取代人工進攻性安全工作流程。"
+      ]
+    },
+    "technologies": ["Gemini", "Google Cloud"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "technology-security-spot-ai",
+    "industry": "technology",
+    "agentType": "security",
+    "company": "Spot AI",
+    "isNew": false,
+    "summary": {
+      "en": "Spot AI transforms security cameras into AI video agents using Google Cloud to power Iris, its platform for building custom video AI solutions.",
+      "zh": "Spot AI 借助 Google Cloud 將監視攝影機轉化為 AI 影片代理，驅動用於構建自訂影片 AI 方案的 Iris 平台。"
+    },
+    "overview": {
+      "en": "Spot AI, a video AI startup, transforms passive security cameras into AI agents for improving security, safety, and operational productivity across manufacturing, retail, hospitals, and construction. The team uses Google Cloud to power Iris — its new interface for building and deploying custom video AI agents — enabling businesses to derive actionable intelligence from existing camera infrastructure without hardware replacement.",
+      "zh": "Spot AI 是一家影片 AI 新創公司，將被動監視攝影機轉化為 AI 代理，提升製造業、零售業、醫院與建築業的安全、安全保障與營運生產力。團隊使用 Google Cloud 驅動 Iris——其用於構建與部署自訂影片 AI 代理的新介面——讓企業能從現有攝影機基礎設施獲取可行的情報，無需更換硬體。"
+    },
+    "highlights": {
+      "en": [
+        "Turns existing passive security cameras into AI agents for safety and operations.",
+        "Google Cloud powers Iris, Spot AI's platform for building custom video AI agents.",
+        "Serves manufacturing, retail, hospitals, and construction industries.",
+        "Enables actionable intelligence from existing camera infrastructure without hardware changes."
+      ],
+      "zh": [
+        "將現有被動監視攝影機轉化為安全與營運 AI 代理。",
+        "Google Cloud 驅動 Spot AI 用於構建自訂影片 AI 代理的 Iris 平台。",
+        "服務製造業、零售業、醫院與建築業。",
+        "無需更換硬體，即可從現有攝影機基礎設施獲取可行情報。"
+      ]
+    },
+    "technologies": ["Google Cloud", "Vertex AI"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "technology-security-thales",
+    "industry": "technology",
+    "agentType": "security",
+    "company": "Thales",
+    "isNew": false,
+    "summary": {
+      "en": "Thales is building a global Security Operation Centre platform on Google Cloud, integrating Google Security Operations, VirusTotal, and Mandiant Threat Intelligence.",
+      "zh": "Thales 在 Google Cloud 上打造全球安全營運中心平台，整合 Google Security Operations、VirusTotal 與 Mandiant 威脅情報。"
+    },
+    "overview": {
+      "en": "Thales is developing a global Security Operation Centre (SOC) platform based on Google Cloud cybersecurity technologies and expertise. The platform integrates Google Security Operations, VirusTotal, and Mandiant Threat Intelligence, all powered by generative AI. It delivers accurate cyberattack detection with multi-source data analytics, fast AI-assisted incident response, and 24/7 surveillance of IT and OT systems.",
+      "zh": "Thales 正在 Google Cloud 網路安全技術與專業知識的基礎上開發一個全球安全營運中心（SOC）平台。該平台整合 Google Security Operations、VirusTotal 與 Mandiant 威脅情報，全部由生成式 AI 驅動。平台提供多來源資料分析支援的精確網路攻擊偵測、AI 輔助的快速事件回應，以及對 IT 和 OT 系統的全天候監控。"
+    },
+    "highlights": {
+      "en": [
+        "Integrates Google Security Operations, VirusTotal, and Mandiant Threat Intelligence in one SOC platform.",
+        "Gen AI powers accurate cyberattack detection using multi-source data analytics.",
+        "Provides 24/7 surveillance of both IT and OT systems for immediate breach detection.",
+        "AI-assisted incident response reduces time to determine attack impact and remediate."
+      ],
+      "zh": [
+        "在單一 SOC 平台中整合 Google Security Operations、VirusTotal 與 Mandiant 威脅情報。",
+        "Gen AI 透過多來源資料分析驅動精確的網路攻擊偵測。",
+        "提供對 IT 和 OT 系統的全天候監控，實現即時入侵偵測。",
+        "AI 輔助事件回應縮短確定攻擊影響與修復所需時間。"
+      ]
+    },
+    "technologies": ["Google Cloud", "Google Security Operations", "Mandiant", "VirusTotal"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Thales teams up with Google Cloud to provide extensive cyber detection and response capabilities",
+        "url": "https://www.thalesgroup.com/en/news-centre/press-releases/thales-teams-google-cloud-provide-organisations-extensive-set-cyber"
+      }
+    ]
+  },
+  {
+    "id": "technology-security-torq",
+    "industry": "technology",
+    "agentType": "security",
+    "company": "Torq",
+    "isNew": false,
+    "summary": {
+      "en": "Torq's Socrates AI SOC analyst on Google Cloud automates 90% of tier-1 analyst tasks with 10x faster response times and a 95% reduction in manual tasks.",
+      "zh": "Torq 的 Socrates AI SOC 分析師在 Google Cloud 上自動化 90% 的一線分析師任務，回應速度提升 10 倍，人工任務減少 95%。"
+    },
+    "overview": {
+      "en": "Torq uses agentic AI to automate the entire security operations lifecycle through Socrates, an AI SOC analyst that coordinates specialized agents. Running on Google Cloud's infrastructure and integrated with Google Security Operations, teams achieve 90% automation of tier-1 analyst tasks auto-remediated without human involvement, a 95% decrease in manual tasks, and 10x faster response times. By day 90 of implementation, 90% of Tier-1 alerts are typically resolved end-to-end without human intervention.",
+      "zh": "Torq 透過 Socrates（一個協調專業代理的 AI SOC 分析師）使用代理式 AI 自動化整個安全營運生命週期。在 Google Cloud 基礎設施上運行並與 Google Security Operations 整合，團隊實現 90% 的一線分析師任務自動修復（無需人工介入）、人工任務減少 95% 及回應速度提升 10 倍。實施第 90 天，通常 90% 的一線警示能在無人工介入的情況下端對端解決。"
+    },
+    "highlights": {
+      "en": [
+        "90% of tier-1 SOC analyst tasks auto-remediated without human involvement.",
+        "95% decrease in manual security operations tasks across the incident lifecycle.",
+        "10x faster incident response times compared to traditional SOC operations.",
+        "By day 90, typically 90% of Tier-1 alerts resolved end-to-end automatically."
+      ],
+      "zh": [
+        "90% 的一線 SOC 分析師任務實現無人工介入的自動修復。",
+        "整個事件生命週期中人工安全營運任務減少 95%。",
+        "事件回應時間較傳統 SOC 營運提升 10 倍。",
+        "實施第 90 天，通常 90% 的一線警示能自動端對端解決。"
+      ]
+    },
+    "technologies": ["Google Cloud", "Google Security Operations"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Torq + Google SecOps: The AI SOC",
+        "url": "https://torq.io/blog/google-cloud-torq-ai-soc/"
+      },
+      {
+        "title": "The AI SOC Analyst That Offloads 90%+ of Tier-1 Cases — Torq",
+        "url": "https://torq.io/blog/ai-soc-analyst/"
+      }
+    ]
+  },
+  {
+    "id": "technology-security-transparently-ai",
+    "industry": "technology",
+    "agentType": "security",
+    "company": "Transparently.AI",
+    "isNew": false,
+    "summary": {
+      "en": "Transparently.AI's Manipulation Risk Analyzer uses AI to generate accounting fraud risk reports for any organization within seconds by mining large financial datasets.",
+      "zh": "Transparently.AI 的 Manipulation Risk Analyzer 運用 AI 在幾秒內從大型財務資料集中挖掘會計舞弊風險，生成任何組織的風險報告。"
+    },
+    "overview": {
+      "en": "Transparently.AI's Manipulation Risk Analyzer uses AI algorithms to dig deep into large financial datasets, unearthing accounting red flags that the human eye might miss. The platform generates highly accurate risk reports for any organization — and for any financial year — within seconds, enabling financial professionals, auditors, and investors to quickly assess manipulation risk across their portfolios.",
+      "zh": "Transparently.AI 的 Manipulation Risk Analyzer 使用 AI 演算法深入挖掘大型財務資料集，發現人眼可能錯過的會計警示訊號。平台在幾秒內為任何組織——任何財務年度——生成高度精確的風險報告，使金融專業人士、審計師和投資者能夠快速評估其投資組合的操縱風險。"
+    },
+    "highlights": {
+      "en": [
+        "Generates accurate accounting manipulation risk reports for any company within seconds.",
+        "AI algorithms uncover financial red flags invisible to human reviewers.",
+        "Supports analysis across any financial year for comprehensive historical risk assessment.",
+        "Enables auditors, investors, and financial professionals to rapidly assess fraud risk at scale."
+      ],
+      "zh": [
+        "在幾秒內為任何公司生成精確的會計操縱風險報告。",
+        "AI 演算法發現人工審查者無法察覺的財務警示訊號。",
+        "支援跨任何財務年度的分析，實現全面的歷史風險評估。",
+        "使審計師、投資者和金融專業人士能夠大規模快速評估詐欺風險。"
+      ]
+    },
+    "technologies": ["Google Cloud"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "technology-security-unico",
+    "industry": "technology",
+    "agentType": "security",
+    "company": "Unico",
+    "isNew": false,
+    "summary": {
+      "en": "Unico, a Brazilian identity validation company, uses Google Cloud AI to power data protection solutions at scale for privacy-preserving real identity verification.",
+      "zh": "Unico 是巴西的身份驗證公司，使用 Google Cloud AI 大規模驅動保護隱私的真實身份驗證資料保護解決方案。"
+    },
+    "overview": {
+      "en": "Unico, a Brazilian technology company that validates people's real identities to ensure data privacy, puts Google Cloud's AI technologies at the core of its data protection solutions. The platform manages scale and security for identity verification services, helping businesses verify the authenticity of users' identities while keeping personal data private and secure.",
+      "zh": "Unico 是一家驗證真實身份以確保資料隱私的巴西科技公司，將 Google Cloud 的 AI 技術置於資料保護解決方案的核心。平台為身份驗證服務管理規模與安全性，幫助企業在保持個人資料私密安全的同時驗證用戶身份的真實性。"
+    },
+    "highlights": {
+      "en": [
+        "Google Cloud AI is central to Unico's data protection and identity validation solutions.",
+        "Validates real identities at scale while ensuring personal data privacy.",
+        "Serves businesses needing privacy-preserving identity verification in Brazil.",
+        "Manages scale and security requirements for high-volume identity verification operations."
+      ],
+      "zh": [
+        "Google Cloud AI 是 Unico 資料保護與身份驗證解決方案的核心。",
+        "大規模驗證真實身份，同時確保個人資料隱私。",
+        "服務巴西需要保護隱私身份驗證的企業。",
+        "為大量身份驗證業務管理規模與安全要求。"
+      ]
+    },
+    "technologies": ["Google Cloud", "Vertex AI"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "technology-security-valiance",
+    "industry": "technology",
+    "agentType": "security",
+    "company": "Valiance",
+    "isNew": false,
+    "summary": {
+      "en": "Valiance's Wildlife Eye platform on Google Cloud processes 7 billion images and 30 TB of data monthly, reducing human-wildlife conflict fatalities from 57 to zero in deployed areas.",
+      "zh": "Valiance 的 Wildlife Eye 平台在 Google Cloud 上每月處理 70 億張圖片與 30 TB 資料，在部署區域將人獸衝突死亡人數從 57 人降至零。"
+    },
+    "overview": {
+      "en": "Valiance, a deep tech company in India, uses Google Cloud to power its Wildlife Eye platform — an AI-driven wildlife detection system that processes 7 billion images and 30 TB of data monthly through real-time camera surveillance. The solution identifies wildlife species, triggers warnings, and alerts forest authorities within three seconds. In deployed areas protecting a population of approximately 5 million, human fatalities from wildlife conflict have dropped from 57 to zero.",
+      "zh": "Valiance 是印度一家深科技公司，使用 Google Cloud 驅動 Wildlife Eye 平台——一個透過即時攝影機監控每月處理 70 億張圖片與 30 TB 資料的 AI 驅動野生動物偵測系統。方案在三秒內識別野生動物物種、觸發警告並通知林業主管機關。在覆蓋約 500 萬人口的部署區域，因野生動物衝突造成的人員死亡從 57 人降至零。"
+    },
+    "highlights": {
+      "en": [
+        "Processes 7 billion images and 30 TB of wildlife sighting data per month on Google Cloud.",
+        "Detects wildlife species and alerts authorities within 3 seconds of a sighting.",
+        "Human fatalities from wildlife conflict dropped from 57 to zero in deployed areas.",
+        "Protects a population of approximately 5 million people across multiple Tiger Reserves."
+      ],
+      "zh": [
+        "在 Google Cloud 上每月處理 70 億張圖片與 30 TB 野生動物目擊資料。",
+        "在目擊後 3 秒內偵測野生動物物種並通知主管機關。",
+        "在部署區域，因野生動物衝突造成的人員死亡從 57 人降至零。",
+        "跨多個老虎保護區保護約 500 萬人口。"
+      ]
+    },
+    "technologies": ["Google Cloud", "Vertex AI"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Valiance case study — Google Cloud",
+        "url": "https://cloud.google.com/customers/valiance"
+      },
+      {
+        "title": "AI for a better planet: Wildlife Eye by Valiance cuts rate of man-animal conflict",
+        "url": "https://www.connectedtoindia.com/ai-for-a-better-planet-wildlife-eye-by-indian-start-up-valiance-cuts-rate-of-man-animal-conflict/"
+      }
+    ]
+  },
+  {
+    "id": "technology-security-verihubs",
+    "industry": "technology",
+    "agentType": "security",
+    "company": "Verihubs",
+    "isNew": false,
+    "summary": {
+      "en": "Verihubs uses GKE, Gemini API, and Vertex AI to scale to 30 million monthly identity verifications and build a production-ready deepfake detection service in two months.",
+      "zh": "Verihubs 使用 GKE、Gemini API 與 Vertex AI 擴展至每月 3,000 萬次身份驗證，並在兩個月內打造出可上線的深偽偵測服務。"
+    },
+    "overview": {
+      "en": "Verihubs, an Indonesian identity verification company serving over 400 brands across banking, fintech, and healthcare, uses Google Kubernetes Engine to scale its verification services to over 30 million monthly requests with a 20% improvement in performance. The company leverages the Gemini API and Vertex AI to develop a deepfake detection solution, creating a ready-to-production service in just two months through seamless integration with Google Cloud.",
+      "zh": "Verihubs 是印尼的身份驗證公司，服務銀行、金融科技與醫療保健領域的逾 400 個品牌，使用 Google Kubernetes Engine 將驗證服務擴展至每月超過 3,000 萬次請求，效能提升 20%。公司利用 Gemini API 與 Vertex AI 開發深偽偵測解決方案，透過與 Google Cloud 的無縫整合，僅用兩個月即打造出可上線的服務。"
+    },
+    "highlights": {
+      "en": [
+        "Scales to over 30 million monthly identity verification requests using Google Kubernetes Engine.",
+        "20% improvement in performance after migrating to GKE.",
+        "Deepfake detection solution built and ready for production in just two months using Gemini API and Vertex AI.",
+        "Serves 400+ brands across banking, fintech, and healthcare in Indonesia."
+      ],
+      "zh": [
+        "使用 Google Kubernetes Engine 擴展至每月超過 3,000 萬次身份驗證請求。",
+        "遷移至 GKE 後效能提升 20%。",
+        "使用 Gemini API 與 Vertex AI 在兩個月內打造出可上線的深偽偵測解決方案。",
+        "在印尼服務銀行、金融科技與醫療保健領域的 400 多個品牌。"
+      ]
+    },
+    "technologies": ["Google Kubernetes Engine", "Gemini", "Vertex AI", "Google Cloud"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Verihubs Case Study — Google Cloud",
+        "url": "https://cloud.google.com/customers/verihubs"
+      }
+    ]
+  },
+  {
+    "id": "technology-security-virtusa",
+    "industry": "technology",
+    "agentType": "security",
+    "company": "Virtusa",
+    "isNew": false,
+    "summary": {
+      "en": "Virtusa uses Google Workspace with Gemini in Docs, Sheets, and NotebookLM to help employees analyze data, conduct research, and deliver better technology solutions globally.",
+      "zh": "Virtusa 在 Docs、Sheets 和 NotebookLM 中使用搭載 Gemini 的 Google Workspace，幫助員工分析資料、進行研究並在全球提供更好的技術解決方案。"
+    },
+    "overview": {
+      "en": "Virtusa, a global digital engineering and technology services provider for Forbes Global 2000 companies, uses Google Workspace with Gemini embedded in Docs, Sheets, and NotebookLM. The AI tools help employees analyze customer data and trends, conduct industry research, and deliver technology solutions. This enables Virtusa to transform enterprise operations and provide better service to clients in financial services, healthcare, manufacturing, and other industries.",
+      "zh": "Virtusa 是為 Forbes Global 2000 公司提供服務的全球數位工程與技術服務供應商，在 Docs、Sheets 和 NotebookLM 中使用搭載 Gemini 的 Google Workspace。AI 工具幫助員工分析客戶資料與趨勢、進行行業研究並交付技術解決方案。這使 Virtusa 能夠轉型企業營運，為金融服務、醫療保健、製造業等行業的客戶提供更好的服務。"
+    },
+    "highlights": {
+      "en": [
+        "Gemini embedded in Google Docs, Sheets, and NotebookLM for enterprise productivity.",
+        "Employees use AI tools to analyze customer data trends and conduct industry research.",
+        "Serves Forbes Global 2000 clients across financial services, healthcare, and manufacturing.",
+        "AI-driven tools help Virtusa deliver improved technology solutions to enterprise clients."
+      ],
+      "zh": [
+        "Gemini 嵌入 Google Docs、Sheets 與 NotebookLM，提升企業生產力。",
+        "員工使用 AI 工具分析客戶資料趨勢並進行行業研究。",
+        "服務金融服務、醫療保健與製造業的 Forbes Global 2000 客戶。",
+        "AI 驅動工具幫助 Virtusa 為企業客戶提供更優質的技術解決方案。"
+      ]
+    },
+    "technologies": ["Gemini", "Google Workspace", "NotebookLM", "Google Cloud"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "technology-security-wiz",
+    "industry": "technology",
+    "agentType": "security",
+    "company": "Wiz",
+    "isNew": false,
+    "summary": {
+      "en": "Wiz created a Vertex AI integration to help security teams monitor and manage security risks associated with running AI models on Google Cloud.",
+      "zh": "Wiz 建立了 Vertex AI 整合，幫助安全團隊監控並管理在 Google Cloud 上運行 AI 模型的安全風險。"
+    },
+    "overview": {
+      "en": "Wiz, an Israeli cloud security startup, helps security teams deploy AI applications faster and more responsibly. The company created a Vertex AI integration that monitors and manages the security risks associated with running AI models — detecting misconfigurations, sensitive data exposure, data poisoning risks, and identity vulnerabilities behind Vertex AI services. Wiz now integrates with Google Cloud's AI Protection and Vertex AI Agent Engine to detect threats involving AI agents.",
+      "zh": "Wiz 是一家以色列雲端安全新創公司，幫助安全團隊更快速、更負責任地部署 AI 應用程式。公司建立了 Vertex AI 整合，監控並管理與運行 AI 模型相關的安全風險——偵測 Vertex AI 服務背後的錯誤配置、敏感資料暴露、資料投毒風險與身份漏洞。Wiz 現已整合 Google Cloud 的 AI Protection 與 Vertex AI Agent Engine，偵測涉及 AI 代理的威脅。"
+    },
+    "highlights": {
+      "en": [
+        "Vertex AI integration provides agentless inventory and security monitoring of AI models.",
+        "Detects misconfigurations, sensitive data exposure, data poisoning, and identity risks in Vertex AI.",
+        "Integrates with Google Cloud AI Protection and Vertex AI Agent Engine for AI agent threat detection.",
+        "Model Armour extends controls to MCP servers for prompt injection and data leakage prevention."
+      ],
+      "zh": [
+        "Vertex AI 整合提供無代理的 AI 模型清單與安全監控。",
+        "偵測 Vertex AI 中的錯誤配置、敏感資料暴露、資料投毒與身份風險。",
+        "整合 Google Cloud AI Protection 與 Vertex AI Agent Engine，偵測 AI 代理威脅。",
+        "Model Armour 將控制擴展至 MCP 伺服器，防止提示注入與資料洩露。"
+      ]
+    },
+    "technologies": ["Vertex AI", "Google Cloud", "Google Kubernetes Engine"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Wiz helps organizations innovate with AI securely — Wiz Blog",
+        "url": "https://www.wiz.io/blog/wiz-helps-organizations-innovate-with-ai-securely-and-responsibly"
+      }
+    ]
+  },
+  {
+    "id": "technology-security-zefr",
+    "industry": "technology",
+    "agentType": "security",
+    "company": "Zefr",
+    "isNew": false,
+    "summary": {
+      "en": "Zefr uses patented Cognitive AI with Gemini Flash and Vertex AI to deliver brand safety and suitability analysis for Fortune 500 advertisers on YouTube and TikTok.",
+      "zh": "Zefr 使用搭載 Gemini Flash 與 Vertex AI 的專利 Cognitive AI，為財富 500 強廣告主在 YouTube 和 TikTok 上提供品牌安全與適宜性分析。"
+    },
+    "overview": {
+      "en": "Zefr, a global leader in responsible AI, powers Fortune 500 brand advertising with safety and suitability analysis on platforms like YouTube and TikTok. Using patented Cognitive AI with Gemini Flash and Vertex AI, Zefr analyzes video, image, audio, and text at frame level to deliver trusted, scalable brand safety solutions mapped to GARM industry standards. Zefr has received MRC accreditation for content-level brand safety labeling on YouTube.",
+      "zh": "Zefr 是負責任 AI 的全球領導者，為財富 500 強品牌廣告在 YouTube 和 TikTok 等平台提供安全與適宜性分析。使用搭載 Gemini Flash 與 Vertex AI 的專利 Cognitive AI，Zefr 在幀級別分析影片、圖片、音訊與文字，提供符合 GARM 行業標準的可信、可擴展品牌安全解決方案。Zefr 已獲得 MRC 對 YouTube 內容層面品牌安全標記的認證。"
+    },
+    "highlights": {
+      "en": [
+        "Patented Cognitive AI uses Gemini Flash and Vertex AI for multi-modal content analysis (video, image, audio, text).",
+        "Powers brand safety and suitability for Fortune 500 advertisers on YouTube and TikTok.",
+        "MRC-accredited for content-level brand safety and suitability labeling on YouTube.",
+        "Frame-by-frame analysis mapped to GARM industry standards for trusted brand protection."
+      ],
+      "zh": [
+        "專利 Cognitive AI 使用 Gemini Flash 與 Vertex AI 進行多模態內容分析（影片、圖片、音訊、文字）。",
+        "為財富 500 強廣告主在 YouTube 和 TikTok 上提供品牌安全與適宜性保護。",
+        "獲 MRC 認證，在 YouTube 上進行內容層面品牌安全與適宜性標記。",
+        "幀級別分析符合 GARM 行業標準，提供可信的品牌保護。"
+      ]
+    },
+    "technologies": ["Gemini", "Vertex AI", "Google Cloud"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "How Google Cloud's AI tech stack powers today's startups — Google Cloud Blog",
+        "url": "https://cloud.google.com/blog/topics/startups/differentiated-ai-tech-stack-drives-startup-innovation-google-builders-forum"
+      }
+    ]
+  }
+]

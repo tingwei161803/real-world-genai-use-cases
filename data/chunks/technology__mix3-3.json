@@ -1,0 +1,473 @@
+[
+  {
+    "id": "technology-customer-quora",
+    "industry": "technology",
+    "agentType": "customer",
+    "company": "Quora",
+    "isNew": false,
+    "summary": {
+      "en": "Quora's Poe platform hosts 200+ AI models on Google Cloud's Vertex AI infrastructure.",
+      "zh": "Quora 的 Poe 平台在 Google Cloud Vertex AI 基礎設施上整合逾 200 個 AI 模型，提供統一的多模型對話體驗。"
+    },
+    "overview": {
+      "en": "Quora developed Poe, a multi-model generative AI platform allowing users to discover and chat with AI bots including Gemini, Claude, Llama, and Mistral. The models are hosted on Google Cloud's purpose-built AI infrastructure via Vertex AI, which handles orchestration and reduces operational burden. Grounding with Google Search on Poe improves answer accuracy and trustworthiness. Running Anthropic's Claude on Vertex AI achieves 40% better performance compared to other cloud platforms.",
+      "zh": "Quora 開發了 Poe，一個可讓使用者探索並與多種 AI 機器人對話的生成式 AI 平台，涵蓋 Gemini、Claude、Llama 及 Mistral 等模型。所有模型均透過 Vertex AI 託管於 Google Cloud 的專用 AI 基礎設施，降低了維運負擔。Poe 整合 Google Search Grounding 以提升回答準確性，且在 Vertex AI 上執行 Claude 模型比其他雲端平台效能提升 40%。"
+    },
+    "highlights": {
+      "en": [
+        "Poe aggregates 200+ AI models including Gemini, Claude, Llama, and Mistral on a single platform.",
+        "Gemini and Claude models are hosted and orchestrated via Vertex AI, reducing infrastructure management burden.",
+        "Running Claude on Vertex AI delivers 40% better performance compared to other cloud infrastructure platforms.",
+        "Grounding with Google Search on Poe enables more accurate, up-to-date, and trustworthy answers.",
+        "Poe supports multimodal interactions across text, image, video, and audio generators."
+      ],
+      "zh": [
+        "Poe 在單一平台上整合了逾 200 個 AI 模型，包括 Gemini、Claude、Llama 及 Mistral。",
+        "Gemini 與 Claude 模型透過 Vertex AI 進行託管與協作，降低了基礎設施的維護負擔。",
+        "在 Vertex AI 上執行 Claude 模型，比其他雲端基礎設施效能提升 40%。",
+        "透過 Google Search Grounding，Poe 能提供更準確、即時且可信賴的答案。",
+        "Poe 支援文字、圖片、影片及音訊等多模態互動。"
+      ]
+    },
+    "technologies": ["Vertex AI", "Gemini", "Google Cloud"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Quora Case Study | Google Cloud",
+        "url": "https://cloud.google.com/customers/quora"
+      }
+    ]
+  },
+  {
+    "id": "technology-customer-reddit",
+    "industry": "technology",
+    "agentType": "customer",
+    "company": "Reddit",
+    "isNew": false,
+    "summary": {
+      "en": "Reddit Answers uses Gemini on Vertex AI to deliver conversational search grounded in Reddit communities.",
+      "zh": "Reddit Answers 使用 Gemini 與 Vertex AI Search，提供以 Reddit 社群內容為基礎的對話式搜尋體驗。"
+    },
+    "overview": {
+      "en": "Reddit launched Reddit Answers, a conversational AI search platform powered by Gemini on Vertex AI, grounded in Reddit's vast repository of community posts and comments. The platform entered beta in December 2024 and announced expanded Google Cloud partnership at Cloud Next 2025. Gemini summarizes relevant discussions while ensuring proper citation and enabling follow-up questions. Vertex AI Search also improves Reddit's homepage experience, driving more users to navigate directly through Reddit Answers.",
+      "zh": "Reddit 推出了 Reddit Answers，這是一個以 Gemini on Vertex AI 為基礎的對話式 AI 搜尋平台，所有回答皆以 Reddit 龐大的社群貼文與留言為依據。平台於 2024 年 12 月進入測試版，並於 2025 年 Cloud Next 宣布擴展 Google Cloud 合作。Gemini 負責摘要相關討論並確保引用來源，同時支援追問。Vertex AI Search 也改善了 Reddit 首頁體驗，促使更多使用者透過 Reddit Answers 直接瀏覽。"
+    },
+    "highlights": {
+      "en": [
+        "Reddit Answers launched in beta in December 2024, grounding AI responses in real Reddit community posts.",
+        "Gemini on Vertex AI powers summarization with proper citation and follow-up question support.",
+        "Vertex AI Search improves homepage relevance, increasing users navigating directly through Reddit Answers.",
+        "The platform is currently available in the US, helping users find recommendations and insights from real communities.",
+        "Partnership with Google Cloud expanded at Cloud Next 2025."
+      ],
+      "zh": [
+        "Reddit Answers 於 2024 年 12 月進入測試版，AI 回答以真實 Reddit 社群貼文為依據。",
+        "Gemini on Vertex AI 提供附來源引用的摘要功能，並支援追問。",
+        "Vertex AI Search 改善首頁相關性，帶動更多使用者直接透過 Reddit Answers 瀏覽。",
+        "平台目前於美國提供服務，協助使用者從真實社群中找到建議與洞察。",
+        "與 Google Cloud 的合作於 2025 年 Cloud Next 進一步擴展。"
+      ]
+    },
+    "technologies": ["Gemini", "Vertex AI", "Vertex AI Search"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Google Cloud Powers Reddit Answers with Generative AI",
+        "url": "https://www.prnewswire.com/news-releases/google-cloud-powers-part-of-reddit-answers-on-platform-search-experiences-with-generative-ai-302423847.html"
+      },
+      {
+        "title": "Reddit's conversational AI search tool leverages Google Gemini | TechCrunch",
+        "url": "https://techcrunch.com/2025/04/09/reddits-conversational-ai-search-tool-leverages-google-gemini/"
+      }
+    ]
+  },
+  {
+    "id": "technology-customer-replicant",
+    "industry": "technology",
+    "agentType": "customer",
+    "company": "Replicant",
+    "isNew": false,
+    "summary": {
+      "en": "Replicant uses Gemini to power 24/7 voice and chat AI agents that automate enterprise customer service.",
+      "zh": "Replicant 透過 Gemini 提供全天候語音與對話 AI 客服代理，為企業品牌自動化客戶互動。"
+    },
+    "overview": {
+      "en": "Replicant automates customer conversations for enterprise brands using voice and chat AI agents that replicate the expertise of top-performing human agents. Gemini powers Replicant's platform to deliver consistent, 24/7 service that deploys quickly, scales effortlessly, and continuously improves over time. The solution aims to boost both ROI and customer experience (CX) by resolving customer inquiries autonomously.",
+      "zh": "Replicant 為企業品牌自動化客戶對話，其語音與聊天 AI 代理能複製頂尖客服人員的專業能力。Gemini 驅動 Replicant 平台，提供一致的全天候服務，能快速部署、輕鬆擴展，並持續自我改進。此方案旨在透過自主解決客戶諮詢，同時提升 ROI 與客戶體驗。"
+    },
+    "highlights": {
+      "en": [
+        "Gemini enables Replicant to deliver consistent, 24/7 automated customer service at enterprise scale.",
+        "Voice and chat AI agents replicate the expertise of the very best human agents.",
+        "The platform deploys quickly, scales effortlessly, and continuously improves to boost ROI and CX.",
+        "Replicant serves enterprise brands needing reliable, round-the-clock customer conversation automation."
+      ],
+      "zh": [
+        "Gemini 讓 Replicant 能以企業規模提供一致的全天候自動化客戶服務。",
+        "語音與聊天 AI 代理能複製頂尖人工客服的專業能力。",
+        "平台可快速部署、輕鬆擴展，並持續改善以提升 ROI 與客戶體驗。",
+        "Replicant 服務需要可靠、全天候客戶對話自動化的企業品牌。"
+      ]
+    },
+    "technologies": ["Gemini", "Google Cloud"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "technology-customer-signify-s",
+    "industry": "technology",
+    "agentType": "customer",
+    "company": "Signify's",
+    "isNew": false,
+    "summary": {
+      "en": "Signify's Philips Hue platform processes 3.5 billion daily transactions on Google Kubernetes Engine.",
+      "zh": "Signify 的 Philips Hue 平台建置於 Google Kubernetes Engine，每日處理逾 35 億筆交易，管理全球 1.53 億個連網燈光節點。"
+    },
+    "overview": {
+      "en": "Signify's Philips Hue Platform manages over 153 million connected light points worldwide, with its cloud infrastructure built on Google Kubernetes Engine (GKE) to handle natural lighting patterns across global time zones. Philips Hue was an early GKE adopter, experimenting with Kubernetes just one year after its 2014 open-source release. Over the past decade, the platform scaled from 200 million to 3.5 billion daily transactions while maintaining sub-second response times.",
+      "zh": "Signify 的 Philips Hue 平台管理全球逾 1.53 億個連網燈光節點，雲端基礎設施建置於 Google Kubernetes Engine（GKE），以應對全球各時區的自然照明模式。Philips Hue 是 GKE 的早期採用者，在 Kubernetes 2014 年開源後僅一年即開始測試。過去十年間，平台每日交易量從 2 億筆擴展至 35 億筆，同時維持毫秒級回應時間。"
+    },
+    "highlights": {
+      "en": [
+        "Manages over 153 million connected light points globally across IoT devices.",
+        "Processes over 3.5 billion transactions daily, including 100 million lighting commands.",
+        "Achieved a 1,150% increase in traffic over the past decade while maintaining response times under a few hundred milliseconds.",
+        "Scaled from 1 GKE cluster to 7 clusters, with 20 clusters worldwide including development and staging environments.",
+        "Exploring GKE for new AI workloads including multi-cluster supervision."
+      ],
+      "zh": [
+        "在全球管理逾 1.53 億個物聯網連網燈光節點。",
+        "每日處理逾 35 億筆交易，包含 1 億個照明指令。",
+        "過去十年流量增長 1,150%，同時維持數百毫秒以內的回應時間。",
+        "GKE 叢集從 1 個擴展至 7 個，全球共有 20 個叢集（含開發與測試環境）。",
+        "正探索將 GKE 用於新 AI 工作負載，包括多叢集監管。"
+      ]
+    },
+    "technologies": ["Google Kubernetes Engine", "Google Cloud"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Signify Case Study | Google Cloud",
+        "url": "https://cloud.google.com/customers/signify"
+      },
+      {
+        "title": "100 million light commands per day: Hue reveals details from the cloud",
+        "url": "https://hueblog.com/2025/06/12/100-million-light-commands-per-day-hue-reveals-details-from-the-cloud/"
+      }
+    ]
+  },
+  {
+    "id": "technology-customer-simular",
+    "industry": "technology",
+    "agentType": "customer",
+    "company": "Simular",
+    "isNew": false,
+    "summary": {
+      "en": "Simular builds personal AI agents that operate computers like humans, backed by Google for Startups.",
+      "zh": "Simular 在 Google for Startups Cloud AI Accelerator 支持下，開發能像人類一樣操作電腦的個人 AI 代理。"
+    },
+    "overview": {
+      "en": "Simular, based in Palo Alto, is part of the Google for Startups Cloud AI Accelerator program and is developing personal AI agents capable of using computers like a human. The 10-week accelerator program provides access to Vertex AI, Gemini, and Google Agentspace, along with mentorship from Google Cloud experts. Simular participated in the 2025 cohort, which includes pitch opportunities and a Demo Day to showcase agentic AI capabilities.",
+      "zh": "Simular 位於矽谷帕洛阿爾托，是 Google for Startups Cloud AI Accelerator 計畫的成員，正在開發能像人類一樣操作電腦的個人 AI 代理。這個為期 10 週的加速器計畫提供 Vertex AI、Gemini 及 Google Agentspace 的使用權限，以及 Google Cloud 專家的指導。Simular 參與了 2025 年的計畫，包含上台展示與 Demo Day 等活動。"
+    },
+    "highlights": {
+      "en": [
+        "Building personal AI agents that can use computers like a human, targeting broad automation use cases.",
+        "Selected for Google for Startups Cloud AI Accelerator 2025 cohort in North America.",
+        "Receives access to Vertex AI, Gemini, and Google Agentspace during the 10-week program.",
+        "Participates in mentorship, workshops on infrastructure, UX, growth, and leadership."
+      ],
+      "zh": [
+        "打造能像人類一樣使用電腦的個人 AI 代理，針對廣泛的自動化應用場景。",
+        "入選 2025 年北美 Google for Startups Cloud AI Accelerator 計畫。",
+        "在 10 週計畫期間獲得 Vertex AI、Gemini 及 Google Agentspace 的使用權限。",
+        "參與基礎設施、UX、成長、銷售及領導力等主題的導師指導與工作坊。"
+      ]
+    },
+    "technologies": ["Vertex AI", "Gemini", "Google Agentspace", "Google Cloud"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "15 new startups join Google AI Accelerator | Google Cloud Blog",
+        "url": "https://cloud.google.com/blog/topics/startups/new-startups-join-google-ai-accelerator"
+      }
+    ]
+  },
+  {
+    "id": "technology-customer-snap",
+    "industry": "technology",
+    "agentType": "customer",
+    "company": "Snap",
+    "isNew": false,
+    "summary": {
+      "en": "Snap's My AI chatbot uses Gemini multimodal capabilities, boosting US engagement by 2.5x.",
+      "zh": "Snap 在其 My AI 聊天機器人中部署 Gemini 多模態功能，使美國市場的 Snapping 互動量提升逾 2.5 倍。"
+    },
+    "overview": {
+      "en": "Snap partnered with Google Cloud in September 2024 to deploy Gemini's multimodal capabilities within its My AI chatbot on Snapchat. Gemini on Vertex AI enables My AI to understand and respond across text, images, video, and audio. Since deployment, Snap saw over 2.5 times as much engagement with Snapping to My AI in the United States. Use cases include translating street signs in photos while traveling or analyzing snack options by video.",
+      "zh": "Snap 於 2024 年 9 月與 Google Cloud 合作，在 Snapchat 的 My AI 聊天機器人中部署 Gemini 多模態功能。Gemini on Vertex AI 讓 My AI 能理解並回應文字、圖片、影片及音訊等不同媒介。自部署以來，美國地區透過 Snapping 與 My AI 的互動量提升逾 2.5 倍。應用案例包括旅行時翻譯照片中的路牌，或透過影片分析零食選項的健康程度。"
+    },
+    "highlights": {
+      "en": [
+        "Deployed Gemini's multimodal capabilities in the My AI chatbot in September 2024.",
+        "Achieved over 2.5x more engagement within Snapping to My AI in the United States after deployment.",
+        "Gemini on Vertex AI enables My AI to process text, images, video, and audio.",
+        "Use cases include photo translation, video analysis, and real-time multimodal queries.",
+        "Snapchat's My AI is one of the largest consumer-facing AI chatbots available."
+      ],
+      "zh": [
+        "於 2024 年 9 月在 My AI 聊天機器人中部署 Gemini 多模態功能。",
+        "部署後，美國地區透過 Snapping 與 My AI 的互動量提升逾 2.5 倍。",
+        "Gemini on Vertex AI 讓 My AI 能處理文字、圖片、影片及音訊。",
+        "應用案例包括圖片翻譯、影片分析及即時多模態查詢。",
+        "Snapchat 的 My AI 是目前規模最大的消費者端 AI 聊天機器人之一。"
+      ]
+    },
+    "technologies": ["Gemini", "Vertex AI", "Google Cloud"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Snap Partners with Google Cloud to Power Multi-Modal Generative AI Experiences Within My AI",
+        "url": "https://newsroom.snap.com/snap-google-gemini-my-ai"
+      },
+      {
+        "title": "Snapchat taps Google's Gemini to power its chatbot's generative AI features | TechCrunch",
+        "url": "https://techcrunch.com/2024/09/24/snapchat-taps-googles-gemini-to-power-its-chatbots-generative-ai-features/"
+      }
+    ]
+  },
+  {
+    "id": "technology-customer-transsion",
+    "industry": "technology",
+    "agentType": "customer",
+    "company": "Transsion",
+    "isNew": false,
+    "summary": {
+      "en": "Transsion built AI features for TECNO CAMON 40 using Gemini Flash and Imagen on Vertex AI, with a 0.23-second response assistant.",
+      "zh": "Transsion 使用 Gemini Flash 與 Imagen on Vertex AI，為 TECNO CAMON 40 系列打造 AI 功能，包含回應僅需 0.23 秒的 Ella 助理，並支援 136 種語言翻譯。"
+    },
+    "overview": {
+      "en": "Transsion, a leading mobile phone manufacturer with 14% global market share, built AI features for the TECNO CAMON 40 smartphone series using Gemini Flash and Imagen on Vertex AI. The multimodal assistant named Ella responds in just 0.23 seconds. The phones support text translation in 136 languages, voice translation in 44 languages, and photo translation in 51 languages, bringing advanced AI to emerging market users. Vertex AI's graphical interface enabled rapid innovation and deployment.",
+      "zh": "Transsion 是全球市占率達 14% 的手機製造商，使用 Gemini Flash 與 Imagen on Vertex AI 為 TECNO CAMON 40 系列打造 AI 功能。名為 Ella 的多模態助理僅需 0.23 秒即可回應。手機支援 136 種語言的文字翻譯、44 種語言的語音翻譯及 51 種語言的圖片翻譯，將先進 AI 帶給新興市場使用者。Vertex AI 的圖形介面讓團隊能快速創新與部署。"
+    },
+    "highlights": {
+      "en": [
+        "Transsion holds 14% global smartphone market share, focused on emerging markets.",
+        "Ella, the multimodal AI assistant on TECNO CAMON 40, responds in 0.23 seconds.",
+        "Supports text translation in 136 languages, voice translation in 44 languages, and photo translation in 51 languages.",
+        "AI Image Generator built with Gemini Flash text refinement and Imagen on Vertex AI.",
+        "Vertex AI's rapid development environment enabled quick iteration and deployment of AI features."
+      ],
+      "zh": [
+        "Transsion 佔有全球 14% 智慧型手機市場份額，專注於新興市場。",
+        "TECNO CAMON 40 上的多模態 AI 助理 Ella 回應時間僅 0.23 秒。",
+        "支援 136 種語言文字翻譯、44 種語言語音翻譯及 51 種語言圖片翻譯。",
+        "AI 圖片生成器結合 Gemini Flash 文字精煉與 Imagen on Vertex AI 構建。",
+        "Vertex AI 的快速開發環境讓團隊能快速迭代並部署 AI 功能。"
+      ]
+    },
+    "technologies": ["Gemini Flash", "Imagen", "Vertex AI", "Google Cloud"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Transsion Case Study | Google Cloud",
+        "url": "https://cloud.google.com/customers/transsion"
+      }
+    ]
+  },
+  {
+    "id": "technology-customer-twilio",
+    "industry": "technology",
+    "agentType": "customer",
+    "company": "Twilio",
+    "isNew": false,
+    "summary": {
+      "en": "Twilio and Google Cloud expanded their partnership to bring Vertex AI generative AI to customer engagement at scale.",
+      "zh": "Twilio 與 Google Cloud 擴大合作，將 Vertex AI 生成式 AI 整合至客戶互動平台，為數十萬企業打造個人化體驗。"
+    },
+    "overview": {
+      "en": "Twilio, a leading customer engagement platform, expanded its long-standing partnership with Google Cloud to bring Vertex AI generative AI capabilities to its products. The collaboration integrates Twilio's customer engagement and Segment data platform with Google Cloud's Vertex AI models, enabling hundreds of thousands of businesses to enhance contact center experiences and marketing automation. AI-powered features include best-next-action recommendations, after-call summaries, intent and sentiment analysis.",
+      "zh": "Twilio 是領先的客戶互動平台，與 Google Cloud 擴大了長期合作關係，將 Vertex AI 生成式 AI 功能引入其產品。此合作結合 Twilio 的客戶互動平台與 Segment 數據平台及 Google Cloud Vertex AI 模型，讓數十萬企業能強化客服中心體驗與行銷自動化。AI 功能包含最佳下一步行動建議、通話後摘要，以及意圖與情感分析。"
+    },
+    "highlights": {
+      "en": [
+        "Twilio and Google Cloud have collaborated for over 10 years in customer engagement innovation.",
+        "Vertex AI integration enables personalized customer experiences for hundreds of thousands of businesses.",
+        "AI provides best-next-action recommendations based on Segment customer profile data.",
+        "Generative AI automates after-call summaries including intent and sentiment analysis.",
+        "Native integration between Google Cloud Contact Center AI and Twilio Flex enables AI-powered virtual agents."
+      ],
+      "zh": [
+        "Twilio 與 Google Cloud 在客戶互動領域已合作逾 10 年。",
+        "Vertex AI 整合讓數十萬企業能打造個人化客戶體驗。",
+        "AI 根據 Segment 客戶資料提供最佳下一步行動建議。",
+        "生成式 AI 自動產生通話後摘要，包含意圖與情感分析。",
+        "Google Cloud Contact Center AI 與 Twilio Flex 原生整合，支援 AI 驅動的虛擬客服代理。"
+      ]
+    },
+    "technologies": ["Vertex AI", "Google Cloud", "Gemini"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Twilio and Google Cloud Expand Partnership to Improve Customer Experience with AI",
+        "url": "https://www.twilio.com/en-us/press/releases/twilio-and-google-cloud-expand-partnership-to-improve-customer-experience-with-ai"
+      }
+    ]
+  },
+  {
+    "id": "technology-customer-vapi",
+    "industry": "technology",
+    "agentType": "customer",
+    "company": "Vapi",
+    "isNew": true,
+    "summary": {
+      "en": "Vapi uses Gemini as its intelligence core to power scalable, premium conversational voice AI for developers.",
+      "zh": "Vapi 以 Gemini 為核心智慧，讓開發者能以優異的效能建構大規模對話語音 AI，實現每元計算效益最大化。"
+    },
+    "overview": {
+      "en": "Vapi is a developer-first platform for building conversational voice AI agents, using Gemini as its intelligence core to maximize compute-per-dollar efficiency and deliver a premium voice experience at scale. The platform abstracts telephony, audio streaming, and model hosting complexity behind a clean API. In 2025, Vapi raised a $50M Series B (total $72M), reached 1 billion calls served, 1 million developers, and 2.7 million unique agents, with enterprise customers including Amazon Ring and Intuit.",
+      "zh": "Vapi 是面向開發者的對話語音 AI 建構平台，以 Gemini 為核心智慧，在大規模部署中實現每元計算效益最大化，同時提供優質語音體驗。平台透過簡潔的 API 抽象化了電話系統、音訊串流及模型託管的複雜性。2025 年，Vapi 完成 5,000 萬美元 B 輪融資（累計 7,200 萬美元），達成 10 億通電話、100 萬名開發者及 270 萬個獨特 AI 代理的里程碑，企業客戶包括 Amazon Ring 與 Intuit。"
+    },
+    "highlights": {
+      "en": [
+        "Gemini serves as Vapi's intelligence core, maximizing compute-per-dollar for voice AI applications.",
+        "Platform reached 1 billion calls served and 1 million developers as of 2025.",
+        "2.7 million unique voice AI agents created on the platform.",
+        "Raised $50M Series B in 2025, reaching a $500M valuation.",
+        "Enterprise customers include Amazon Ring, Intuit, New York Life, and ServiceTitan."
+      ],
+      "zh": [
+        "Gemini 作為 Vapi 的核心智慧，在語音 AI 應用中最大化每元計算效益。",
+        "截至 2025 年，平台已服務 10 億通電話，擁有 100 萬名開發者。",
+        "平台上已建立 270 萬個獨特語音 AI 代理。",
+        "2025 年完成 5,000 萬美元 B 輪融資，估值達 5 億美元。",
+        "企業客戶包括 Amazon Ring、Intuit、New York Life 及 ServiceTitan。"
+      ]
+    },
+    "technologies": ["Gemini", "Google Cloud"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Vapi: A Developer-First Platform for Voice AI at Scale",
+        "url": "https://chatgate.ai/post/vapi"
+      },
+      {
+        "title": "AI voice startup Vapi hits $500M valuation after winning Amazon Ring over 40 rivals | TechCrunch",
+        "url": "https://techcrunch.com/2026/05/12/vapi-hits-500m-valuation-as-amazon-ring-chose-its-ai-platform-over-40-rivals/"
+      }
+    ]
+  },
+  {
+    "id": "technology-customer-videoshow",
+    "industry": "technology",
+    "agentType": "customer",
+    "company": "VideoShow",
+    "isNew": false,
+    "summary": {
+      "en": "VideoShow launched an AI Chat assistant in 3 weeks using Gemini Flash, Natural Language AI, and Text-to-Speech for 400M users.",
+      "zh": "VideoShow 在 3 週內使用 Gemini Flash、Natural Language AI 及 Text-to-Speech AI 上線 AI 聊天助理，服務全球近 4 億用戶。"
+    },
+    "overview": {
+      "en": "VideoShow, a mobile video editing company with nearly 400 million global users, integrated Gemini Flash, Natural Language AI, and Text-to-Speech AI to power its AI Chat language assistant. The assistant provides accurate, emotionally intelligent conversational experiences and launched in just 3 weeks from concept to deployment using Google Cloud's multimodal AI. Additional capabilities include Imagen on Vertex AI for image generation and Translation API for multilingual prompt support.",
+      "zh": "VideoShow 是擁有近 4 億全球用戶的行動影片編輯公司，整合 Gemini Flash、Natural Language AI 及 Text-to-Speech AI 來驅動其 AI 聊天語言助理。助理提供準確且具情感智慧的對話體驗，從概念到上線僅花費 3 週，充分利用 Google Cloud 的多模態 AI 能力。額外功能包含 Imagen on Vertex AI 圖片生成及 Translation API 多語言提示支援。"
+    },
+    "highlights": {
+      "en": [
+        "AI Chat assistant launched in just 3 weeks from concept to deployment using Google Cloud multimodal AI.",
+        "Nearly 400 million global users benefit from the AI-powered video editing and chat features.",
+        "Gemini Flash, Natural Language AI, and Text-to-Speech AI power emotionally intelligent conversations.",
+        "Imagen on Vertex AI generates images from simple prompts, which proprietary algorithms then animate into short videos.",
+        "Translation API automatically identifies languages and translates prompts into English for better model results."
+      ],
+      "zh": [
+        "AI 聊天助理從概念到部署僅花費 3 週，充分利用 Google Cloud 多模態 AI。",
+        "全球近 4 億用戶受益於 AI 驅動的影片編輯與聊天功能。",
+        "Gemini Flash、Natural Language AI 及 Text-to-Speech AI 提供具情感智慧的對話體驗。",
+        "Imagen on Vertex AI 根據簡單提示生成圖片，再由專有演算法將多幀圖片轉換為短影片。",
+        "Translation API 自動識別語言並翻譯成英文，讓用戶從模型獲得更佳結果。"
+      ]
+    },
+    "technologies": ["Gemini Flash", "Natural Language AI", "Text-to-Speech AI", "Imagen", "Vertex AI", "Translation API", "Google Cloud"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "VideoShow Case Study | Google Cloud",
+        "url": "https://cloud.google.com/customers/videoshow"
+      }
+    ]
+  },
+  {
+    "id": "technology-customer-vivo",
+    "industry": "technology",
+    "agentType": "customer",
+    "company": "vivo",
+    "isNew": false,
+    "summary": {
+      "en": "vivo integrated Gemini on Vertex AI and Chirp Speech-to-Text to deliver multi-language AI features for 500M+ users.",
+      "zh": "vivo 整合 Gemini on Vertex AI 與 Chirp Speech-to-Text，為逾 5 億用戶的智慧型手機提供多語言寫作、摘要與語音轉錄功能。"
+    },
+    "overview": {
+      "en": "vivo, a global smartphone maker serving over 500 million users across 60+ markets, integrated Gemini on Vertex AI and Speech-to-Text with Chirp to deliver multi-language writing, summarization, and transcription features. The company launched its first AI phones in 2024 with the X series and V series demonstrating strong market acceptance. Chirp enhances speech recognition particularly for regional accents in India and Southeast Asia, while Gemini powers context-aware, privacy-conscious AI features.",
+      "zh": "vivo 是全球超過 60 個市場逾 5 億用戶的智慧型手機製造商，整合 Gemini on Vertex AI 與 Chirp Speech-to-Text，為手機提供多語言寫作、摘要及語音轉錄功能。公司於 2024 年推出首款 AI 手機，X 系列與 V 系列獲得市場高度認可。Chirp 特別強化了印度及東南亞地區口音的語音辨識，而 Gemini 則驅動具備情境感知與隱私保護的 AI 功能。"
+    },
+    "highlights": {
+      "en": [
+        "Serves over 500 million users across 60+ global markets.",
+        "Launched first AI phones in 2024, with X series and V series showing strong market acceptance.",
+        "Gemini on Vertex AI enables multi-language writing, summarization, and transcription features.",
+        "Chirp Speech-to-Text enhances recognition of regional accents in India and Southeast Asia.",
+        "Continuing to expand AI capabilities to more users worldwide across its smartphone lineup."
+      ],
+      "zh": [
+        "在全球逾 60 個市場服務超過 5 億用戶。",
+        "2024 年推出首款 AI 手機，X 系列與 V 系列獲得市場高度認可。",
+        "Gemini on Vertex AI 提供多語言寫作、摘要及語音轉錄功能。",
+        "Chirp Speech-to-Text 強化印度及東南亞地區口音的語音辨識。",
+        "持續將 AI 功能擴展至更多全球用戶與手機系列。"
+      ]
+    },
+    "technologies": ["Gemini", "Vertex AI", "Speech-to-Text", "Chirp", "Google Cloud"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "vivo Case Study | Google Cloud",
+        "url": "https://cloud.google.com/customers/vivo"
+      }
+    ]
+  }
+]

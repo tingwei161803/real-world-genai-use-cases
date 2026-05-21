@@ -1,0 +1,799 @@
+[
+  {
+    "id": "media-marketing-gaming-data-amber-mobile",
+    "industry": "media-marketing-gaming",
+    "agentType": "data",
+    "company": "Amber Mobile",
+    "isNew": false,
+    "summary": {
+      "en": "Amber Mobile modernized its data lake on Google Cloud, delivering 5x data service capacity and sub-day insights.",
+      "zh": "Amber Mobile 在 Google Cloud 上現代化資料湖，實現五倍資料服務容量並將洞察時間縮短至一天內。"
+    },
+    "overview": {
+      "en": "Amber Mobile, a mobile game publisher with hit titles generating tens of millions in monthly revenue and over 200 million global downloads, began modernizing its data lake and warehouse on Google Cloud in 2021 using BigQuery, Dataproc, and Cloud Storage. The migration replaced legacy infrastructure with fully managed, serverless services and enabled the data team to support over 30 open-source frameworks including Apache Hadoop, Apache Spark, and Apache Flink. Cloud Composer orchestrates complex pipelines end-to-end, while Vertex AI powers AI/ML model training at scale.",
+      "zh": "Amber Mobile 是一家擁有熱門手機遊戲的發行商，月營收達數千萬美元、全球下載量超過兩億次。2021 年起，該公司透過 BigQuery、Dataproc 和 Cloud Storage 在 Google Cloud 上現代化其資料湖與資料倉儲。遷移後，資料團隊可支援包含 Apache Hadoop、Spark 和 Flink 在內的 30 多種開源框架，Cloud Composer 負責端對端管線編排，Vertex AI 則支援大規模 AI/ML 模型訓練。"
+    },
+    "highlights": {
+      "en": [
+        "Reduced data insights acquisition time to within one day, enabling faster product and business decisions.",
+        "Delivered 5× data service capacity compared to before modernization, supporting thousands of daily tasks with consistent stability.",
+        "Enabled training of AI/ML models with millions to tens of millions of parameters and averaged one million reinforcement learning samples per day.",
+        "Boosted AI/ML-driven computer vision inspection and user behavior prediction accuracy to 99%.",
+        "Supported over 30 open-source tools and frameworks via fully managed Dataproc, eliminating manual cluster management."
+      ],
+      "zh": [
+        "資料洞察獲取時間縮短至一天內，加速產品與業務決策。",
+        "資料服務容量提升至現代化前的五倍，每日穩定支援數千項任務。",
+        "可訓練參數量達數百萬至數千萬的 AI/ML 模型，強化學習平均每日產生一百萬個樣本。",
+        "AI/ML 驅動的電腦視覺檢測與用戶行為預測準確率提升至 99%。",
+        "透過全託管 Dataproc 支援 30 多種開源工具與框架，無需手動管理叢集。"
+      ]
+    },
+    "technologies": ["BigQuery", "Dataproc", "Cloud Storage", "Cloud Composer", "Vertex AI", "Google Kubernetes Engine"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Amber Mobile case study | Google Cloud",
+        "url": "https://cloud.google.com/customers/amber-mobile"
+      }
+    ]
+  },
+  {
+    "id": "media-marketing-gaming-data-andesml",
+    "industry": "media-marketing-gaming",
+    "agentType": "data",
+    "company": "AndesML",
+    "isNew": false,
+    "summary": {
+      "en": "AndesML's retail media platform on Vertex AI and Gemini delivers 30% campaign performance lift and 30-day faster production.",
+      "zh": "AndesML 的零售媒體平台基於 Vertex AI 與 Gemini，為客戶廣告活動帶來 30% 效能提升並縮短逾 30 天生產時間。"
+    },
+    "overview": {
+      "en": "AndesML is a retail media platform that helps large enterprises launch and monetize their own ad networks by matching the right ad to the right customer at the right time. Built on Vertex AI, BigQuery, and Gemini models, the platform automates audience targeting, creative optimization, and campaign analytics. By leveraging Google Cloud's AI infrastructure, AndesML enables brands to build first-party data-driven ad ecosystems with significantly reduced operational overhead.",
+      "zh": "AndesML 是一個零售媒體平台，協助大型企業建立並變現自有廣告網路，在正確時機向正確用戶投放合適廣告。平台基於 Vertex AI、BigQuery 與 Gemini 模型，自動化受眾定向、創意優化與廣告分析，讓品牌能以較低運營成本建立第一方資料驅動的廣告生態系。"
+    },
+    "highlights": {
+      "en": [
+        "Delivered a 30% performance lift in customer ad campaigns compared to baseline.",
+        "Accelerated campaign production time by more than 30 days through AI-driven automation.",
+        "Reduced operational costs for enterprise clients running retail media networks.",
+        "Built on Vertex AI and Gemini models enabling advanced audience targeting and real-time optimization.",
+        "BigQuery underpins the data analytics layer for campaign measurement and audience insights."
+      ],
+      "zh": [
+        "客戶廣告活動效能較基準提升 30%。",
+        "透過 AI 自動化將廣告製作時間縮短逾 30 天。",
+        "降低企業客戶運營零售媒體網路的運營成本。",
+        "基於 Vertex AI 與 Gemini 模型，實現進階受眾定向與即時優化。",
+        "BigQuery 支撐廣告活動衡量與受眾洞察的資料分析層。"
+      ]
+    },
+    "technologies": ["Vertex AI", "BigQuery", "Gemini"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Real-world gen AI use cases from the world's leading organizations | Google Cloud Blog",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "media-marketing-gaming-data-audiomob",
+    "industry": "media-marketing-gaming",
+    "agentType": "data",
+    "company": "Audiomob",
+    "isNew": false,
+    "summary": {
+      "en": "Audiomob replaced legacy BI with BigQuery and Looker, enabling triple-digit yearly revenue growth from billions of monthly transactions.",
+      "zh": "Audiomob 以 BigQuery 和 Looker 取代舊式 BI，從每月數十億筆交易中獲得即時洞察，推動年收入三位數增長。"
+    },
+    "overview": {
+      "en": "Audiomob is an in-game audio advertising platform that lets advertisers reach mobile gamers without interrupting gameplay. The company replaced its legacy business intelligence stack with BigQuery and Looker to gain real-time insights from its global transaction data. Processing hundreds of gigabytes of operational data per day and billions of monthly transactions, Audiomob achieved triple-digit yearly revenue growth within one year of deploying Looker and saved hundreds of thousands of dollars annually in engineering time.",
+      "zh": "Audiomob 是一個遊戲內音訊廣告平台，讓廣告主在不打斷遊戲的情況下觸達手機遊戲玩家。公司以 BigQuery 和 Looker 取代舊式 BI 系統，從全球交易資料中獲取即時洞察。每日處理數百 GB 運營資料與每月數十億筆交易，部署 Looker 一年後實現年收入三位數增長，並每年節省數十萬美元的工程時間。"
+    },
+    "highlights": {
+      "en": [
+        "Achieved triple-digit yearly revenue growth within one year of deploying Looker and BigQuery.",
+        "Processes billions of monthly transactions and hundreds of gigabytes of operational data per day in BigQuery.",
+        "Saved hundreds of thousands of dollars per year in product engineering time through automated BI.",
+        "Gained expanded real-time insights into advertiser demand, publisher supply, and programmatic buying patterns.",
+        "Enabled the platform to scale to handle a rapidly growing global ad inventory without infrastructure bottlenecks."
+      ],
+      "zh": [
+        "部署 Looker 與 BigQuery 後一年內實現年收入三位數增長。",
+        "BigQuery 每月處理數十億筆交易，每日攝取數百 GB 運營資料。",
+        "透過自動化 BI 每年節省數十萬美元產品工程時間。",
+        "獲得廣告主需求、發行商供應及程序化購買模式的擴展即時洞察。",
+        "平台得以擴展規模，處理快速增長的全球廣告庫存而無基礎設施瓶頸。"
+      ]
+    },
+    "technologies": ["BigQuery", "Looker"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Audiomob Case study | Google Cloud",
+        "url": "https://cloud.google.com/customers/audiomob-looker"
+      },
+      {
+        "title": "AudioMob, which serves audio ads inside mobile games, raises a $14M Series A | TechCrunch",
+        "url": "https://techcrunch.com/2021/11/09/audiomob-which-serves-audio-ads-inside-mobile-games-raises-a-14m-series-a/"
+      }
+    ]
+  },
+  {
+    "id": "media-marketing-gaming-data-brandlovers",
+    "industry": "media-marketing-gaming",
+    "agentType": "data",
+    "company": "BrandLovers",
+    "isNew": true,
+    "summary": {
+      "en": "BrandLovers built Smart Match AI on Google Cloud to automatically match 200,000+ creators with brand campaigns.",
+      "zh": "BrandLovers 在 Google Cloud 上建構 Smart Match AI，自動為品牌活動從 20 萬多個創作者中匹配最佳人選。"
+    },
+    "overview": {
+      "en": "BrandLovers is a Brazilian media platform for content creators that developed Smart Match AI, a proprietary AI solution built in the cloud to optimize the selection of content creators for brand campaigns. The platform analyzes over 200,000 creator profiles in microseconds to identify those that best align with campaign objectives and target audiences. Smart Match AI transforms influencer marketing into a structured media buying model, enabling brands to activate thousands of creators automatically at scale.",
+      "zh": "BrandLovers 是一個巴西創作者媒體平台，開發了 Smart Match AI——一個雲端原生的專有 AI 解決方案，用於優化品牌活動的創作者篩選。平台能在微秒內分析超過 20 萬個創作者檔案，找出最符合活動目標與受眾需求的人選。Smart Match AI 將網紅行銷轉化為結構化媒體購買模式，讓品牌能自動大規模啟動數千位創作者。"
+    },
+    "highlights": {
+      "en": [
+        "Smart Match AI analyzes over 200,000 creator profiles in microseconds to find the best campaign matches.",
+        "Transforms influencer marketing into an automated, structured media buying model for enterprise brands.",
+        "Enables large-scale campaigns without increasing operational complexity through AI-powered automation.",
+        "Built on Google Cloud infrastructure to support rapid and reliable creator-brand matching at scale."
+      ],
+      "zh": [
+        "Smart Match AI 在微秒內分析超過 20 萬個創作者檔案，找出最佳活動匹配人選。",
+        "將網紅行銷轉化為自動化、結構化的企業媒體購買模式。",
+        "透過 AI 自動化實現大規模活動而不增加運營複雜度。",
+        "基於 Google Cloud 基礎設施，支援快速可靠的創作者與品牌大規模配對。"
+      ]
+    },
+    "technologies": ["Google Cloud", "Vertex AI"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Smart Match AI: IA Avançada para Encontrar os Creators | BrandLovers",
+        "url": "https://www.brandlovers.ai/smart-match-ai"
+      }
+    ]
+  },
+  {
+    "id": "media-marketing-gaming-data-formula-e",
+    "industry": "media-marketing-gaming",
+    "agentType": "data",
+    "company": "Formula E,",
+    "isNew": false,
+    "summary": {
+      "en": "Formula E's Driver Agent on Vertex AI and Gemini analyzes multimodal race data to give drivers instant performance coaching.",
+      "zh": "Formula E 的 Driver Agent 基於 Vertex AI 與 Gemini，分析多模態賽車資料，為車手提供即時表現指導。"
+    },
+    "overview": {
+      "en": "Formula E, the world's first all-electric FIA World Championship, developed the Driver Agent in partnership with Google Cloud — an AI tool powered by Vertex AI and Gemini that analyzes extensive multimodal data generated during racing. The tool processes telemetry including lap times, speed, braking, acceleration, and G-forces, comparing a driver's performance against professional benchmark laps and delivering instant text or audio coaching insights. Google Cloud became Formula E's Principal AI Partner in January 2026.",
+      "zh": "Formula E 是全球首個純電動 FIA 世界錦標賽，與 Google Cloud 共同開發了 Driver Agent——一個基於 Vertex AI 與 Gemini 的 AI 工具，用於分析賽車過程中產生的大量多模態資料。該工具處理包含圈速、速度、剎車、加速度和 G 力在內的遙測資料，將車手表現與職業車手基準圈速比較，並透過文字或語音提供即時指導。Google Cloud 於 2026 年 1 月成為 Formula E 的主要 AI 合作夥伴。"
+    },
+    "highlights": {
+      "en": [
+        "Driver Agent processes race telemetry via Cloud Storage, Pub/Sub, Cloud Run, and BigQuery to generate real-time performance heatmaps and coaching.",
+        "Compares each driver's lap against professional Formula E benchmark laps to pinpoint time lost and suggest immediate improvements.",
+        "Democratizes elite analytics for drivers of all backgrounds through Google Cloud's More than Equal Driver Development Programme.",
+        "Google Cloud elevated to Principal AI Partner of the ABB FIA Formula E World Championship in January 2026.",
+        "The tool uses Vertex AI and Gemini to ingest high-volume multimodal telemetry and deliver audio or text coaching in real time."
+      ],
+      "zh": [
+        "Driver Agent 透過 Cloud Storage、Pub/Sub、Cloud Run 與 BigQuery 處理賽車遙測資料，生成即時表現熱力圖與指導建議。",
+        "將每位車手的圈速與職業 Formula E 基準圈速比較，精準定位失時點並提供立即改善建議。",
+        "透過 Google Cloud 的 More than Equal 車手發展計畫，讓各背景車手均能獲得頂級分析服務。",
+        "Google Cloud 於 2026 年 1 月升級為 ABB FIA Formula E 世界錦標賽主要 AI 合作夥伴。",
+        "基於 Vertex AI 與 Gemini，攝取大量多模態遙測資料並即時提供語音或文字指導。"
+      ]
+    },
+    "technologies": ["Vertex AI", "Gemini", "BigQuery", "Cloud Storage", "Cloud Run", "Pub/Sub"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Formula E's AI equation: A new Driver Agent | Google Cloud Blog",
+        "url": "https://cloud.google.com/blog/products/ai-machine-learning/formula-e-ai-equation-a-new-driver-agent-for-the-next-generation-of-racers"
+      },
+      {
+        "title": "Formula E and Google Cloud Announce Multi-Year 'Principal Partnership'",
+        "url": "https://www.googlecloudpresscorner.com/2026-01-26-Formula-E-and-Google-Cloud-Announce-Multi-Year-Principal-Partnership"
+      }
+    ]
+  },
+  {
+    "id": "media-marketing-gaming-data-formula-e-2",
+    "industry": "media-marketing-gaming",
+    "agentType": "data",
+    "company": "Formula E",
+    "isNew": true,
+    "summary": {
+      "en": "Formula E's Strategy Agent delivers real-time race insights to millions of live broadcast viewers via Gemini, while digital twins reduce the championship's carbon footprint.",
+      "zh": "Formula E 的 Strategy Agent 透過 Gemini 向數百萬名直播觀眾提供即時賽況洞察，數位孿生技術則助力降低錦標賽碳足跡。"
+    },
+    "overview": {
+      "en": "Formula E integrated Gemini models into live race broadcasts through a Strategy Agent that delivers real-time insights, predictions, and race strategy explanations to millions of global viewers. Beyond fan experience, Formula E is also leveraging AI modeling to create race and event digital twins — virtual simulations that reduce the need for on-site reconnaissance and heavy equipment transport, thereby cutting operational carbon emissions. This dual use of AI demonstrates how Formula E extends Google Cloud beyond performance into sustainability.",
+      "zh": "Formula E 透過 Strategy Agent 將 Gemini 模型整合至賽事直播，為全球數百萬名觀眾提供即時洞察、預測與賽事策略說明。在提升觀賽體驗之外，Formula E 也運用 AI 建模創建賽事與活動的數位孿生——虛擬模擬減少了現場勘查與大型設備運輸的需求，從而降低運營碳排放。這種 AI 雙重應用展現了 Formula E 如何將 Google Cloud 延伸至永續發展領域。"
+    },
+    "highlights": {
+      "en": [
+        "Strategy Agent integrated into live broadcasts delivers tailored race insights, predictions, and strategy explanations to millions of viewers in real time.",
+        "Race and event digital twins created via AI modeling reduce on-site reconnaissance and heavy equipment transport needs.",
+        "Digital twin technology has potential to deliver further reductions in operational carbon footprint.",
+        "Google Workspace with Gemini enables greater agility and efficiency across Formula E's internal organisation.",
+        "Multi-year Principal AI Partnership with Google Cloud established in January 2026, deepening AI integration across operations."
+      ],
+      "zh": [
+        "Strategy Agent 整合至直播，即時向數百萬名觀眾提供客製化賽況洞察、預測與策略說明。",
+        "透過 AI 建模創建賽事與活動數位孿生，減少現場勘查與大型設備運輸需求。",
+        "數位孿生技術具有進一步降低運營碳足跡的潛力。",
+        "搭載 Gemini 的 Google Workspace 提升 Formula E 內部組織的敏捷性與效率。",
+        "2026 年 1 月與 Google Cloud 建立多年期主要 AI 合作夥伴關係，深化各業務領域 AI 整合。"
+      ]
+    },
+    "technologies": ["Gemini", "Vertex AI", "Google Workspace", "Google Cloud"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Formula E and Google Cloud Announce Multi-Year 'Principal Partnership'",
+        "url": "https://www.googlecloudpresscorner.com/2026-01-26-Formula-E-and-Google-Cloud-Announce-Multi-Year-Principal-Partnership"
+      },
+      {
+        "title": "How Google AI Powers Formula E's Racing Revolution | Technology Magazine",
+        "url": "https://technologymagazine.com/news/how-google-ai-powers-formula-es-racing-revolution"
+      }
+    ]
+  },
+  {
+    "id": "media-marketing-gaming-data-jaguar-tcs-racing",
+    "industry": "media-marketing-gaming",
+    "agentType": "data",
+    "company": "Jaguar TCS Racing",
+    "isNew": false,
+    "summary": {
+      "en": "Jaguar TCS Racing uses Google Cloud AI to analyze ~3 TB of race weekend data in real time for competitive Formula E performance.",
+      "zh": "Jaguar TCS Racing 透過 Google Cloud AI 即時分析約 3 TB 的賽事週末資料，在 Formula E 中獲得競爭優勢。"
+    },
+    "overview": {
+      "en": "Jaguar TCS Racing selected Google Cloud as its Official Cloud Partner for the 2024/25 Formula E season to use AI for real-time analysis of race car performance data. The team collects approximately 3 terabytes of data per race weekend, processed through Google Cloud to enable engineers and drivers to receive AI-powered suggestions and make live decisions the moment the Jaguar I-Type 6 enters the pit garage. More recently, the Driver Agent — built on Vertex AI and Gemini — processes over 100 TB of data per hour to deliver elite coaching insights to drivers.",
+      "zh": "Jaguar TCS Racing 選擇 Google Cloud 作為 2024/25 Formula E 賽季的官方雲端合作夥伴，利用 AI 即時分析賽車表現資料。車隊每個賽事週末收集約 3 TB 的資料，透過 Google Cloud 處理，讓工程師和車手在 Jaguar I-Type 6 進入維修區的瞬間即可獲得 AI 建議並做出即時決策。近期，基於 Vertex AI 與 Gemini 的 Driver Agent 每小時處理超過 100 TB 資料，為車手提供頂級指導洞察。"
+    },
+    "highlights": {
+      "en": [
+        "Collects approximately 3 terabytes of data per race weekend, processed in real time via Google Cloud.",
+        "Engineers and drivers receive AI-powered suggestions from the moment the race car enters the pit garage.",
+        "Driver Agent built on Vertex AI and Gemini processes over 100 TB of data per hour for instant coaching.",
+        "Partnership with Google Cloud aims to improve on-track decision-making and help secure team and driver championship wins.",
+        "Google Cloud announced as Official Cloud Partner for the Jaguar TCS Racing 2024/25 Formula E season."
+      ],
+      "zh": [
+        "每個賽事週末收集約 3 TB 資料，透過 Google Cloud 即時處理。",
+        "賽車進入維修區的瞬間，工程師和車手即可獲得 AI 建議。",
+        "基於 Vertex AI 與 Gemini 的 Driver Agent 每小時處理超過 100 TB 資料以提供即時指導。",
+        "與 Google Cloud 的合作旨在改善賽道決策，助力車隊與車手贏得錦標賽。",
+        "Google Cloud 宣布成為 Jaguar TCS Racing 2024/25 Formula E 賽季官方雲端合作夥伴。"
+      ]
+    },
+    "technologies": ["Vertex AI", "Gemini", "Google Cloud", "BigQuery"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Jaguar TCS Racing to use Google Cloud AI to optimise performance | Autocar Professional",
+        "url": "https://www.autocarpro.in/news-international/jaguar-tcs-racing-to-use-google-cloud-ai-to-further-optimise-fia-formula-e-performance-121613"
+      },
+      {
+        "title": "JAGUAR TCS RACING ACCELERATES INTO THE FUTURE WITH GOOGLE CLOUD | Jaguar Racing Media",
+        "url": "https://media.jaguarracing.com/news/2024/07/jaguar-tcs-racing-accelerates-future-google-cloud-official-cloud-partner"
+      }
+    ]
+  },
+  {
+    "id": "media-marketing-gaming-data-mavely",
+    "industry": "media-marketing-gaming",
+    "agentType": "data",
+    "company": "Mavely",
+    "isNew": false,
+    "summary": {
+      "en": "Mavely's influencer platform uses BigQuery and Vertex AI to drive $1B+ GMV through 550M purchase paths with 99.999% uptime.",
+      "zh": "Mavely 的網紅平台利用 BigQuery 和 Vertex AI，透過 5.5 億條購買路徑推動超過 10 億美元 GMV，且維持 99.999% 正常運行時間。"
+    },
+    "overview": {
+      "en": "Mavely is an everyday influencer marketing platform supporting more than 120,000 creators who promote brands to their audiences. Built on Google Cloud using BigQuery, Vertex AI, Cloud SQL, and Cloud Storage, the platform delivers real-time insights and predictive analytics that help creators optimize their content strategies. Originally built on Firebase, Mavely migrated to more robust Google Cloud infrastructure to scale with its rapid growth. The platform has driven over $1 billion in gross merchandise value through 550 million influencer-driven purchase paths while maintaining 99.999% uptime. Mavely was acquired by Later in early 2025.",
+      "zh": "Mavely 是一個日常網紅行銷平台，支援超過 12 萬名創作者向其受眾推廣品牌。平台基於 Google Cloud，使用 BigQuery、Vertex AI、Cloud SQL 和 Cloud Storage，提供即時洞察和預測分析，協助創作者優化內容策略。Mavely 最初基於 Firebase 構建，後遷移至更強大的 Google Cloud 基礎設施以應對快速增長。平台透過 5.5 億條網紅驅動購買路徑創造了超過 10 億美元的商品交易總額，同時維持 99.999% 的正常運行時間。Mavely 於 2025 年初被 Later 收購。"
+    },
+    "highlights": {
+      "en": [
+        "Driven over $1 billion in gross merchandise value (GMV) through 550 million influencer-driven purchase paths.",
+        "Supports 120,000+ everyday influencers with real-time content performance analytics and predictive recommendations.",
+        "Maintains 99.999% platform uptime, supporting high-traffic commerce events reliably.",
+        "Mavely reached a $1.4 billion GMV run rate in 2024, representing over 300% growth year-over-year.",
+        "After acquisition by Later in 2025, combined platform surpassed $2.4 billion annual GMV run rate."
+      ],
+      "zh": [
+        "透過 5.5 億條網紅驅動購買路徑創造超過 10 億美元商品交易總額 (GMV)。",
+        "為超過 12 萬名日常網紅提供即時內容表現分析與預測建議。",
+        "維持 99.999% 平台正常運行時間，可靠支援高流量電商活動。",
+        "2024 年 Mavely GMV 年化運行率達 14 億美元，較上年同期增長超過 300%。",
+        "2025 年被 Later 收購後，合併平台年化 GMV 運行率超過 24 億美元。"
+      ]
+    },
+    "technologies": ["BigQuery", "Vertex AI", "Cloud SQL", "Cloud Storage", "Compute Engine", "Memorystore"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Mavely Case Study | Google Cloud",
+        "url": "https://cloud.google.com/customers/mavely"
+      },
+      {
+        "title": "Mavely Announces $1.4 Billion GMV Run Rate | PR Newswire",
+        "url": "https://www.prnewswire.com/news-releases/mavely-announces-1-4-billion-gmv-run-rate-and-exponential-growth-headed-into-2025--302365527.html"
+      }
+    ]
+  },
+  {
+    "id": "media-marketing-gaming-data-mclaren-racing",
+    "industry": "media-marketing-gaming",
+    "agentType": "data",
+    "company": "McLaren Racing",
+    "isNew": false,
+    "summary": {
+      "en": "McLaren Racing uses Google AI and Cloud to analyze terabytes of race data per event in milliseconds for a competitive F1 edge.",
+      "zh": "McLaren Racing 利用 Google AI 與雲端技術，以毫秒級速度分析每場賽事數 TB 的資料，在 F1 中獲得競爭優勢。"
+    },
+    "overview": {
+      "en": "McLaren Racing, Google Cloud's Official Cloud and Preferred Technology Partner for its Formula 1 team, uses AI to analyze terabytes of real-time data across every race for competitive advantage. The team leverages Google Cloud AI to visualize race data, create efficiencies across processes and resources, and run AI-powered simulations that model thousands of race strategies in seconds. Gemini is embedded in McLaren's technological and creative workflows, while Android devices capture pit stop performance data and Chrome delivers speed in track-side operations.",
+      "zh": "McLaren Racing 以 Google Cloud 為 F1 車隊的官方雲端及首選技術合作夥伴，透過 AI 即時分析每場賽事數 TB 的資料以獲得競爭優勢。車隊利用 Google Cloud AI 視覺化賽事資料、提升跨流程資源效率，並運行可在數秒內模擬數千種賽事策略的 AI 模擬。Gemini 嵌入 McLaren 的技術和創意工作流程，Android 裝置負責採集進站表現資料，Chrome 在賽道現場提供高速可靠的支援。"
+    },
+    "highlights": {
+      "en": [
+        "Analyzes terabytes of race data in near real-time per event, covering drivers, cars, pit stops, and radio communications.",
+        "AI-powered simulations model thousands of race strategies in seconds to enable real-time, data-backed decisions.",
+        "Gemini AI is embedded at the core of McLaren's racing and creative workflows, enabling faster analysis across race weekends.",
+        "Android devices capture and analyze pit stop performance data trackside.",
+        "Google and McLaren Racing deepened partnership in November 2025, doubling down on Gemini and AI integration."
+      ],
+      "zh": [
+        "每場賽事近即時分析數 TB 資料，涵蓋車手、賽車、進站及無線電通訊。",
+        "AI 模擬可在數秒內為數千種賽事策略建模，支援即時資料驅動決策。",
+        "Gemini AI 嵌入 McLaren 賽事與創意工作流程核心，加速賽事週末各類分析。",
+        "Android 裝置在賽道現場採集並分析進站表現資料。",
+        "2025 年 11 月 Google 與 McLaren Racing 深化合作夥伴關係，進一步加強 Gemini 與 AI 整合。"
+      ]
+    },
+    "technologies": ["Google Cloud", "Gemini", "Vertex AI", "BigQuery"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "AI at the track: How McLaren leverages terabytes of data each race | Google Cloud Blog",
+        "url": "https://cloud.google.com/transform/mclaren-racing-miami-grand-prix-win-ai-cloud-performance-innovation"
+      },
+      {
+        "title": "McLaren Racing Accelerates Innovation with Deepened Google Gemini & Cloud Deal",
+        "url": "https://www.thesportsplaymaker.com/post/mclaren-racing-accelerates-innovation-with-deepened-google-gemini-cloud-deal"
+      }
+    ]
+  },
+  {
+    "id": "media-marketing-gaming-data-mntn",
+    "industry": "media-marketing-gaming",
+    "agentType": "data",
+    "company": "MNTN",
+    "isNew": false,
+    "summary": {
+      "en": "MNTN powers its Connected TV ad platform with Google Cloud AI, making TV campaigns as measurable as search or social at scale.",
+      "zh": "MNTN 透過 Google Cloud AI 驅動其聯網電視廣告平台，使電視廣告活動的可衡量性媲美搜尋與社交媒體廣告。"
+    },
+    "overview": {
+      "en": "MNTN's Performance TV platform uses Google Cloud to power Connected TV advertising, enabling brands to run TV campaigns with the same measurement rigor as search or social media. With AI-driven tools like MNTN Matched — which scores consumers across nearly every U.S. household based on shopping behavior and life events — and Security Command Center for secure scaling, MNTN brings keyword-based audience targeting to CTV for the first time. The platform integrates with Google Analytics and other data tools to deliver performance-driven TV advertising at speed.",
+      "zh": "MNTN 的 Performance TV 平台利用 Google Cloud 驅動聯網電視廣告，讓品牌能以與搜尋或社交媒體廣告相同的嚴格程度衡量電視廣告活動效果。MNTN Matched 這一 AI 工具能根據購物行為和生活事件為幾乎每個美國家庭的消費者評分，而 Security Command Center 則確保安全擴展規模。MNTN 首次將關鍵字受眾定向引入 CTV，並與 Google Analytics 等資料工具整合，以高效率提供績效導向的電視廣告服務。"
+    },
+    "highlights": {
+      "en": [
+        "MNTN Matched scores consumers in nearly every U.S. household based on shopping behavior, life events, and interests for keyword-based CTV audience targeting.",
+        "Makes TV campaigns as measurable as search or social with performance tracking and attribution.",
+        "Security Command Center ensures secure and compliant scaling of creative and targeting operations.",
+        "Platform integrates with Google Analytics, enabling seamless data flow between TV and digital performance metrics.",
+        "Powers the world's first keyword-based audience builder for Connected TV advertising."
+      ],
+      "zh": [
+        "MNTN Matched 根據購物行為、生活事件和興趣為幾乎每個美國家庭的消費者評分，支援關鍵字定向 CTV 受眾定位。",
+        "透過效果追蹤與歸因分析，讓電視廣告活動的可衡量性媲美搜尋與社交媒體廣告。",
+        "Security Command Center 確保創意和定向操作安全合規地擴展規模。",
+        "平台與 Google Analytics 整合，實現電視與數位廣告效果指標之間的無縫資料流。",
+        "為全球首個基於關鍵字的聯網電視廣告受眾構建器提供支援。"
+      ]
+    },
+    "technologies": ["Google Cloud", "Security Command Center", "Google Analytics"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "MNTN Matched - AI-Powered Audience Targeting",
+        "url": "https://mountain.com/performance-tv/matched/"
+      }
+    ]
+  },
+  {
+    "id": "media-marketing-gaming-data-nacon",
+    "industry": "media-marketing-gaming",
+    "agentType": "data",
+    "company": "NACON",
+    "isNew": false,
+    "summary": {
+      "en": "NACON uses BigQuery and Gemini Flash to analyze gamer feedback in real time, saving Community Managers up to 50% of their time.",
+      "zh": "NACON 使用 BigQuery 和 Gemini Flash 即時分析玩家回饋，為社群管理員節省多達 50% 的工作時間。"
+    },
+    "overview": {
+      "en": "NACON, a French video game publisher with 16 studios distributing games in more than 100 countries, uses BigQuery and Gemini 1.5 Flash to analyze player comments from gaming platforms and social media in real time. The AI-powered platform filters and categorizes gamer feedback, performing thematic analyses that identify what needs to be adjusted or improved in a game. BigQuery's serverless architecture allows the team to focus on analyzing the player experience rather than managing infrastructure, while Gemini Flash handles high-volume comment processing.",
+      "zh": "NACON 是一家法國視頻遊戲發行商，旗下擁有 16 個工作室，在 100 多個國家發行遊戲。公司使用 BigQuery 和 Gemini 1.5 Flash 即時分析來自遊戲平台和社交媒體的玩家評論。AI 驅動平台篩選並分類玩家回饋，進行主題分析以識別遊戲需要調整或改進的地方。BigQuery 的無伺服器架構讓團隊專注於分析玩家體驗而非管理基礎設施，Gemini Flash 則處理大量評論。"
+    },
+    "highlights": {
+      "en": [
+        "Community Managers expected to gain up to 50% more time by automating manual feedback analysis and reporting.",
+        "Gemini 1.5 Flash filters and performs thematic analyses on player comments from gaming platforms and social media in real time.",
+        "BigQuery's serverless service eliminates infrastructure management, letting the team focus on player experience analytics.",
+        "Operates across 16 studios with games distributed in more than 100 countries, requiring scalable multilingual analysis.",
+        "AI platform identifies specific improvement areas from player sentiment, accelerating game update decision-making."
+      ],
+      "zh": [
+        "透過自動化人工回饋分析與報告，社群管理員預期可節省多達 50% 的時間。",
+        "Gemini 1.5 Flash 即時篩選並對來自遊戲平台和社交媒體的玩家評論進行主題分析。",
+        "BigQuery 無伺服器服務消除基礎設施管理負擔，讓團隊專注於玩家體驗分析。",
+        "橫跨 16 個工作室、在 100 多個國家發行遊戲，需要可擴展的多語言分析能力。",
+        "AI 平台從玩家情緒中識別具體改進領域，加速遊戲更新決策。"
+      ]
+    },
+    "technologies": ["BigQuery", "Gemini"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "NACON case study | Google Cloud",
+        "url": "https://cloud.google.com/customers/nacon"
+      }
+    ]
+  },
+  {
+    "id": "media-marketing-gaming-data-newscorp",
+    "industry": "media-marketing-gaming",
+    "agentType": "data",
+    "company": "NewsCorp",
+    "isNew": false,
+    "summary": {
+      "en": "NewsCorp uses Vertex AI to search across 30,000 sources and 2.5 billion news articles updated daily.",
+      "zh": "NewsCorp 使用 Vertex AI 在每日更新的 3 萬個來源與 25 億篇新聞文章中進行資料搜尋。"
+    },
+    "overview": {
+      "en": "News Corp, one of the world's largest news and information services companies, uses Vertex AI to power search across a massive corpus of 30,000 sources and 2.5 billion news articles that are updated daily. This infrastructure enables journalists, analysts, and business teams to surface relevant content quickly from an enormous and constantly growing archive. The deployment demonstrates how leading media organizations leverage Google Cloud's AI capabilities to manage large-scale content discovery and data retrieval at speed.",
+      "zh": "News Corp 是全球最大的新聞與資訊服務公司之一，使用 Vertex AI 在每日更新的 3 萬個來源與 25 億篇新聞文章組成的龐大語料庫中提供搜尋服務。此基礎設施讓記者、分析師和業務團隊能夠從不斷增長的巨型檔案庫中快速找到相關內容。此部署展示了領先媒體組織如何運用 Google Cloud 的 AI 能力，以高速管理大規模內容探索與資料檢索。"
+    },
+    "highlights": {
+      "en": [
+        "Searches across 30,000 sources and 2.5 billion news articles updated daily using Vertex AI.",
+        "Enables journalists and analysts to rapidly surface relevant content from a constantly growing archive.",
+        "Demonstrates enterprise-scale AI-powered content retrieval for one of the world's largest news organizations.",
+        "Part of the broader trend of major media companies integrating Google Cloud AI for content intelligence."
+      ],
+      "zh": [
+        "使用 Vertex AI 在每日更新的 3 萬個來源與 25 億篇新聞文章中進行搜尋。",
+        "讓記者和分析師能夠從不斷增長的巨型檔案庫中快速找到相關內容。",
+        "展示了全球最大新聞機構之一的企業級 AI 驅動內容檢索能力。",
+        "是大型媒體公司整合 Google Cloud AI 實現內容智能這一廣泛趨勢的一部分。"
+      ]
+    },
+    "technologies": ["Vertex AI"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "How GenAI use is evolving for Google Cloud customers | Computer Weekly",
+        "url": "https://www.computerweekly.com/news/366580494/How-genAI-use-is-evolving-for-Google-Cloud-customers"
+      }
+    ]
+  },
+  {
+    "id": "media-marketing-gaming-data-noz-mh-n-medien",
+    "industry": "media-marketing-gaming",
+    "agentType": "data",
+    "company": "NOZ/mh:n MEDIEN",
+    "isNew": false,
+    "summary": {
+      "en": "NOZ/mh:n MEDIEN migrated to Google Cloud after a DDoS attack, replacing 12-week infrastructure waits with instant scaling and personalized reader content.",
+      "zh": "NOZ/mh:n MEDIEN 在遭受 DDoS 攻擊後遷移至 Google Cloud，以即時擴展取代長達 12 週的基礎設施等待，並透過 BigQuery 與 Looker 向讀者提供個性化內容。"
+    },
+    "overview": {
+      "en": "NOZ/mh:n MEDIEN, a German publisher with more than 3,000 employees across 43 companies, migrated to Google Cloud and Google Workspace after a 2022 DDoS attack exposed vulnerabilities in its on-premises infrastructure. Working with partner happtiq, the company migrated its data centers to Google Compute Engine and BigQuery. Every piece of content produced is run through data lakes for tagging and analysis, linked securely to customer data. Looker dashboards now give journalists real-time visibility into top-performing articles, peak usage times, and audience behavior for more targeted, personalized content delivery.",
+      "zh": "NOZ/mh:n MEDIEN 是一家擁有 43 家公司、逾 3,000 名員工的德國出版商，在 2022 年遭受 DDoS 攻擊揭露本地基礎設施的脆弱性後，遷移至 Google Cloud 與 Google Workspace。與合作夥伴 happtiq 合作，公司將資料中心遷移至 Google Compute Engine 和 BigQuery。每篇發布內容均透過資料湖進行標記和分析，並安全關聯客戶資料。Looker 儀表板現在讓記者能即時了解最佳表現文章、高峰使用時段和受眾行為，以提供更精準的個性化內容。"
+    },
+    "highlights": {
+      "en": [
+        "Can now expand infrastructure instantly instead of waiting up to 12 weeks for on-premises hardware procurement.",
+        "Migrated to Google Cloud following a 2022 DDoS attack that blocked access to internal services for all employees.",
+        "Every piece of content is processed through data lakes for tagging and audience analysis, linked to customer data.",
+        "Looker dashboards give editorial teams real-time insight into best-performing articles, high-volume periods, and audience behavior.",
+        "BigQuery and Google Cloud collaboration tools enable faster, more personalized content delivery to readers across 43 companies."
+      ],
+      "zh": [
+        "現在可以即時擴展基礎設施，而無需等待長達 12 週的本地硬體採購。",
+        "2022 年 DDoS 攻擊導致所有員工無法存取內部服務，此後遷移至 Google Cloud。",
+        "每篇發布內容均透過資料湖進行標記和受眾分析，並與客戶資料安全關聯。",
+        "Looker 儀表板讓編輯團隊即時了解最佳表現文章、高流量時段和受眾行為。",
+        "BigQuery 和 Google Cloud 協作工具讓 43 家公司能夠更快速地向讀者提供個性化內容。"
+      ]
+    },
+    "technologies": ["BigQuery", "Looker", "Google Compute Engine", "Google Workspace", "Cloud Storage"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "NOZ/mh:n MEDIEN case study | Google Cloud",
+        "url": "https://cloud.google.com/customers/nozmedien"
+      },
+      {
+        "title": "NOZ/mh:n MEDIEN - Transforming regional journalism with cloud-based collaboration | happtiq",
+        "url": "https://www.happtiq.com/success-stories/noz-mhn-medien"
+      }
+    ]
+  },
+  {
+    "id": "media-marketing-gaming-data-perfect-memory",
+    "industry": "media-marketing-gaming",
+    "agentType": "data",
+    "company": "Perfect Memory",
+    "isNew": true,
+    "summary": {
+      "en": "Perfect Memory turns traditional media storage into a context-aware knowledge engine, enabling instant AI-powered content discovery from massive archives.",
+      "zh": "Perfect Memory 將傳統媒體儲存轉化為情境感知知識引擎，讓創意團隊能從龐大檔案庫中即時找到完美內容。"
+    },
+    "overview": {
+      "en": "Perfect Memory is a third-generation MAM (Media Asset Management) and DAM (Digital Asset Management) platform that helps customers transform traditional storage into a context-aware knowledge engine. The platform uses AI to understand relationships between athletes, historical events, and emotional nuances in sports and media content, transforming massive archives into an intelligent library. By detecting emotion, text, and contextual meaning from audio, video, and text, Perfect Memory enables creative teams to instantly surface the perfect content for any story — going far beyond basic metadata tags. The platform natively integrates with Google Cloud cold storage and leverages custom and pre-trained AI models.",
+      "zh": "Perfect Memory 是第三代 MAM（媒體資產管理）與 DAM（數位資產管理）平台，協助客戶將傳統儲存轉化為情境感知知識引擎。平台透過 AI 理解運動員、歷史事件和媒體內容中情感細微差異之間的關聯性，將龐大檔案庫轉化為智能圖書館。透過從音訊、影片和文字中偵測情感、文字和情境含義，Perfect Memory 讓創意團隊能即時找到任何故事的完美內容——遠超基本元資料標籤的範疇。平台原生整合 Google Cloud 冷儲存並運用自訂及預訓練 AI 模型。"
+    },
+    "highlights": {
+      "en": [
+        "Transforms massive media archives into an intelligent, context-aware knowledge engine understanding athlete relationships, historical events, and emotional nuances.",
+        "Detects emotion, text, and contextual meaning from audio, video, and text to enable sentiment-driven content discovery.",
+        "Natively integrates with Google Cloud cold storage for cost-effective archival of infrequently accessed content.",
+        "Enables creative teams to instantly surface the perfect content for any story from millions of assets.",
+        "Partners with Ontotext to advance semantic knowledge management for richer content understanding."
+      ],
+      "zh": [
+        "將龐大媒體檔案庫轉化為智能情境感知知識引擎，理解運動員關係、歷史事件和情感細微差異。",
+        "從音訊、影片和文字中偵測情感、文字和情境含義，實現情感驅動的內容探索。",
+        "原生整合 Google Cloud 冷儲存，以低成本歸檔不常存取的內容。",
+        "讓創意團隊能從數百萬個資產中即時找到任何故事的完美內容。",
+        "與 Ontotext 合作推進語義知識管理，實現更豐富的內容理解。"
+      ]
+    },
+    "technologies": ["Google Cloud", "Vertex AI", "Cloud Storage"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Perfect Memory | MAM & DAM AI Platform",
+        "url": "https://perfect-memory.com/"
+      },
+      {
+        "title": "Perfect Memory and Ontotext Enter a Strategic Partnership | Ontotext",
+        "url": "https://www.ontotext.com/company/news/perfect-memory-and-ontotext-enter-a-strategic-partnership/"
+      }
+    ]
+  },
+  {
+    "id": "media-marketing-gaming-data-quickplay",
+    "industry": "media-marketing-gaming",
+    "agentType": "data",
+    "company": "Quickplay",
+    "isNew": true,
+    "summary": {
+      "en": "Quickplay deployed Gray Media's streaming platform on Google Cloud AI across 113 TV markets, managing 1,300 digital touchpoints for 37% of U.S. TV households.",
+      "zh": "Quickplay 在 Google Cloud AI 上為 Gray Media 在 113 個電視市場部署串流平台，管理 1,300 個數位接觸點，覆蓋 37% 的美國電視家庭。"
+    },
+    "overview": {
+      "en": "Quickplay, a cloud-native streaming platform provider, deployed Gray Media's next-generation streaming platform powered by Google Cloud AI across all of Gray's 113 television markets in April 2026. The platform consolidates Gray Media's entire digital footprint — 163 websites, 326 mobile apps, and 815 smart TV applications — onto a single data-driven architecture built on Quickplay's orchestration infrastructure and Google Cloud's unified AI stack including Vertex AI and Gemini models. The integration enables Gray to manage 1,300 digital touchpoints with real-time viewer intelligence and deliver hyper-local news and entertainment to 37% of U.S. TV households.",
+      "zh": "Quickplay 是一家雲端原生串流平台供應商，於 2026 年 4 月在 Google Cloud AI 支援下，在 Gray Media 所有 113 個電視市場部署了下一代串流平台。該平台將 Gray Media 的整個數位足跡——163 個網站、326 個行動應用程式和 815 個智慧電視應用程式——整合到基於 Quickplay 編排基礎設施和 Google Cloud 統一 AI 技術棧（包括 Vertex AI 和 Gemini 模型）的單一資料驅動架構上。此整合讓 Gray 能以即時觀眾智能管理 1,300 個數位接觸點，向佔美國電視家庭 37% 的受眾提供超本地化新聞和娛樂內容。"
+    },
+    "highlights": {
+      "en": [
+        "Platform live across Gray Media's 113 television markets, delivering content to 37% of U.S. TV households.",
+        "Manages 1,300 digital touchpoints including 163 websites, 326 mobile apps, and 815 smart TV apps on a single architecture.",
+        "Handles 269 live channels simultaneously plus 123 FAST channels across Amazon, Roku, Samsung TV Plus, and Vizio.",
+        "Vertex AI and BigQuery enable hyper-personalization at scale with real-time viewer intent understanding.",
+        "Announced at NAB Show in April 2026, following partnership announcement in August 2025."
+      ],
+      "zh": [
+        "平台在 Gray Media 的 113 個電視市場上線，向美國 37% 的電視家庭提供內容。",
+        "在單一架構上管理 1,300 個數位接觸點，包括 163 個網站、326 個行動應用程式和 815 個智慧電視應用程式。",
+        "同時處理 269 個直播頻道，以及在 Amazon、Roku、Samsung TV Plus 和 Vizio 上的 123 個 FAST 頻道。",
+        "Vertex AI 和 BigQuery 透過即時觀眾意圖理解實現大規模超個性化內容推薦。",
+        "2026 年 4 月在 NAB Show 宣布，此前於 2025 年 8 月宣布合作夥伴關係。"
+      ]
+    },
+    "technologies": ["Vertex AI", "Gemini", "BigQuery", "Google Cloud"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Quickplay Deploys Gray Media's New Streaming Platform — Powered by Google Cloud AI — Across 113 Markets | PR Newswire",
+        "url": "http://www.prnewswire.com/news-releases/quickplay-deploys-gray-medias-new-streaming-platform----powered-by-google-cloud-ai----across-113-markets-redefining-the-future-of-local-media-delivery-302744795.html"
+      },
+      {
+        "title": "Gray Media Announces Pioneering Hyper-Personalized Video Streaming Strategy Using Google Cloud and Quickplay",
+        "url": "https://www.globenewswire.com/news-release/2025/08/21/3137054/0/en/Gray-Media-Announces-Pioneering-Hyper-Personalized-Video-Streaming-Strategy-Using-Google-Cloud-and-Quickplay.html"
+      }
+    ]
+  },
+  {
+    "id": "media-marketing-gaming-data-spotify",
+    "industry": "media-marketing-gaming",
+    "agentType": "data",
+    "company": "Spotify",
+    "isNew": false,
+    "summary": {
+      "en": "Spotify uses Google Dataflow to generate ML-powered podcast previews at scale, improving discovery for its hundreds of millions of users.",
+      "zh": "Spotify 利用 Google Dataflow 大規模生成 ML 驅動的播客預覽，改善數億用戶的內容探索體驗。"
+    },
+    "overview": {
+      "en": "Spotify leveraged Google Cloud Dataflow — a managed pipeline execution engine built on Apache Beam — for the large-scale generation of ML podcast previews. As Spotify's podcast catalog grew at hundreds of thousands of new episodes per day, their existing ML services could only handle a few thousand episodes daily. By adopting Dataflow with Klio (Spotify's open-source audio processing framework), Spotify scaled preview generation to match catalog growth, enabling short audio teasers to surface on the home feed and improve content discovery for listeners and creators alike.",
+      "zh": "Spotify 利用 Google Cloud Dataflow——一個基於 Apache Beam 的託管管線執行引擎——大規模生成 ML 播客預覽。隨著 Spotify 播客目錄每天增加數十萬個新單集，既有 ML 服務每天只能處理數千個單集。透過採用 Dataflow 與 Klio（Spotify 的開源音訊處理框架），Spotify 將預覽生成規模擴展至與目錄增長速度相匹配，讓短音訊預告片得以出現在首頁動態並改善聆聽者和創作者的內容探索體驗。"
+    },
+    "highlights": {
+      "en": [
+        "Scaled ML podcast preview generation from thousands to hundreds of thousands of episodes per day using Google Dataflow.",
+        "Podcast previews launched March 2023, enabling audio content to serve as interactive teasers on the home feed.",
+        "Klio, Spotify's open-source Apache Beam framework for audio processing, powers the Dataflow pipeline.",
+        "Managed Dataflow service lowers infrastructure management burden, allowing engineers to focus on ML algorithms.",
+        "Spotify plans to continue pushing boundaries with data engineering and data science to build better experiences for customers and creators."
+      ],
+      "zh": [
+        "利用 Google Dataflow 將 ML 播客預覽生成規模從每天數千個擴展至數十萬個單集。",
+        "播客預覽於 2023 年 3 月推出，讓音訊內容得以在首頁動態作為互動式預告片。",
+        "Klio——Spotify 的開源 Apache Beam 音訊處理框架——為 Dataflow 管線提供支援。",
+        "託管 Dataflow 服務降低基礎設施管理負擔，讓工程師能專注於 ML 演算法。",
+        "Spotify 計劃繼續在資料工程和資料科學方面突破邊界，為客戶和創作者構建更好的體驗。"
+      ]
+    },
+    "technologies": ["Dataflow", "Google Cloud"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Large-Scale Generation of ML Podcast Previews at Spotify with Google Dataflow | Spotify Engineering",
+        "url": "https://engineering.atspotify.com/2023/04/large-scale-generation-of-ml-podcast-previews-at-spotify-with-google-dataflow"
+      }
+    ]
+  },
+  {
+    "id": "media-marketing-gaming-data-the-united-daily-news-group",
+    "industry": "media-marketing-gaming",
+    "agentType": "data",
+    "company": "The United Daily News Group",
+    "isNew": false,
+    "summary": {
+      "en": "Taiwan's United Daily News Group worked with Merkle and Vertex AI to build an ad targeting model in 8 months, achieving up to 4× higher clickthrough rates.",
+      "zh": "台灣聯合報系與 Merkle 合作，透過 Vertex AI 在 8 個月內建立廣告定向模型，在部分廣告類別中實現高達四倍的點擊率提升。"
+    },
+    "overview": {
+      "en": "The United Daily News Group (UDN), one of Taiwan's largest media organizations, worked with Merkle to develop a new AI model using Vertex AI to create more accurate ad targeting. The project trained an AI model in just eight months that extracts keywords from UDN's online content for tagging, matches content tags with ad categories, and generates targeted audiences for advertisers. The model has enhanced unique clickthrough rates for certain ad categories by up to four times and won the Digital Singularity Award for Best Precise Marketing Application from the Digital Marketing Association in Taiwan in November 2023.",
+      "zh": "聯合報系（UDN）是台灣最大的媒體機構之一，與 Merkle 合作利用 Vertex AI 開發新的 AI 模型以實現更精準的廣告定向。該專案在短短八個月內訓練出一個 AI 模型，可從 UDN 的線上內容中提取關鍵詞進行標記，將內容標籤與廣告類別匹配，並為廣告主生成目標受眾。該模型使特定廣告類別的唯一點擊率提升高達四倍，並於 2023 年 11 月榮獲台灣數位行銷協會頒發的最佳精準行銷應用數位奇點獎。"
+    },
+    "highlights": {
+      "en": [
+        "Built and trained an AI ad targeting model using Vertex AI in just eight months, working with Merkle as implementation partner.",
+        "AI model extracts content keywords for tagging, matches tags to ad categories, and generates targeted audience segments.",
+        "Enhanced unique clickthrough rate for certain ad categories by up to four times.",
+        "Won the Digital Singularity Award for Best Precise Marketing Application from Taiwan's Digital Marketing Association in November 2023.",
+        "Enabled UDN to reclaim advertising revenue by delivering more relevant, data-driven ad targeting at scale."
+      ],
+      "zh": [
+        "與 Merkle 合作，僅用 8 個月便利用 Vertex AI 建立並訓練廣告定向 AI 模型。",
+        "AI 模型從內容中提取關鍵詞進行標記，將標籤與廣告類別匹配，並生成目標受眾區隔。",
+        "特定廣告類別的唯一點擊率提升高達四倍。",
+        "2023 年 11 月榮獲台灣數位行銷協會頒發的最佳精準行銷應用數位奇點獎。",
+        "讓聯合報系能透過更相關、資料驅動的大規模廣告定向重新奪回廣告收入。"
+      ]
+    },
+    "technologies": ["Vertex AI"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "UDN Group Case Study | Google Cloud",
+        "url": "https://cloud.google.com/customers/udn"
+      },
+      {
+        "title": "Data drives 280% subscription growth at Taiwan's United Daily News Group | WAN-IFRA",
+        "url": "https://wan-ifra.org/2025/01/data-drives-280-subscription-growth-at-taiwans-united-daily-news/"
+      }
+    ]
+  },
+  {
+    "id": "media-marketing-gaming-data-vionlabs",
+    "industry": "media-marketing-gaming",
+    "agentType": "data",
+    "company": "Vionlabs",
+    "isNew": true,
+    "summary": {
+      "en": "Vionlabs uses AI on Vertex AI to extract mood, emotion, and sentiment metadata from video, enabling nuanced content discovery for streaming platforms.",
+      "zh": "Vionlabs 在 Vertex AI 上利用 AI 從影片中提取情緒、情感與情境元資料，為串流平台實現細緻的情感驅動內容探索。"
+    },
+    "overview": {
+      "en": "Vionlabs, a Swedish content intelligence company, uses AI to analyze and index video content libraries — making assets more accessible and enabling rich metadata generation. By understanding the specific mood, emotion, and aesthetic of each scene using Llama models hosted on Vertex AI, Vionlabs helps streaming platforms move beyond basic genre tags toward nuanced, sentiment-driven content discovery and marketing. The platform is available on Google Cloud Marketplace and works with clients including Cineverse, Plex, and Crunchyroll. Vionlabs also provides APIs for metadata enrichment, dynamic thumbnails, AI-generated clips, and ad-break intelligence.",
+      "zh": "Vionlabs 是一家瑞典內容智能公司，利用 AI 分析和索引影片內容庫——讓資產更易存取並實現豐富的元資料生成。透過在 Vertex AI 上託管的 Llama 模型理解每個場景的特定情緒、感情和美學，Vionlabs 協助串流平台超越基本類型標籤，走向細緻的情感驅動內容探索和行銷。平台可在 Google Cloud Marketplace 上取得，與 Cineverse、Plex 和 Crunchyroll 等客戶合作。Vionlabs 也提供元資料豐富化、動態縮圖、AI 生成片段和廣告插播智能等 API。"
+    },
+    "highlights": {
+      "en": [
+        "AI extracts deep metadata including moods, emotions, environments, and plot details from audio, video, and text content.",
+        "Uses Llama 3.1 models hosted on Vertex AI for advanced scene-level sentiment and aesthetic analysis.",
+        "Enables streaming platforms to move beyond basic genre tags to nuanced, sentiment-driven content discovery.",
+        "Available on Google Cloud Marketplace, with clients including Cineverse, Plex, and Crunchyroll.",
+        "Provides APIs for metadata enrichment, dynamic thumbnails, AI-generated clips, and ad-break intelligence."
+      ],
+      "zh": [
+        "AI 從音訊、影片和文字內容中提取深度元資料，包括情緒、感情、環境和情節細節。",
+        "使用在 Vertex AI 上託管的 Llama 3.1 模型進行進階場景級情感與美學分析。",
+        "讓串流平台能超越基本類型標籤，實現細緻的情感驅動內容探索。",
+        "可在 Google Cloud Marketplace 上取得，客戶包括 Cineverse、Plex 和 Crunchyroll。",
+        "提供元資料豐富化、動態縮圖、AI 生成片段和廣告插播智能等 API。"
+      ]
+    },
+    "technologies": ["Vertex AI", "Google Cloud Marketplace"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Vionlabs case study | Google Cloud",
+        "url": "https://cloud.google.com/customers/vionlabs"
+      },
+      {
+        "title": "Vionlabs available on Google Cloud Marketplace | Vionlabs",
+        "url": "https://www.vionlabs.com/news/vionlabs-google-cloud"
+      }
+    ]
+  }
+]

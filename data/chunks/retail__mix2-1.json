@@ -1,0 +1,468 @@
+[
+  {
+    "id": "retail-data-backcountry",
+    "industry": "retail",
+    "agentType": "data",
+    "company": "Backcountry",
+    "isNew": false,
+    "summary": {
+      "en": "Backcountry built a scalable, secure data foundation on BigQuery and Looker to enable future gen AI capabilities.",
+      "zh": "Backcountry 以 BigQuery 與 Looker 打造可擴展的安全資料基礎，為未來 gen AI 應用奠定基礎。"
+    },
+    "overview": {
+      "en": "Backcountry, an outdoor gear and apparel retailer, partnered with Infosys and Google Cloud to modernize its infrastructure. By migrating marketing, product, sales, order, inventory, and supply chain data to BigQuery, and deploying Looker for real-time analytics, Backcountry reduced infrastructure management burden while building a strong, secure, and scalable data foundation. This platform positions the retailer to deliver advanced gen AI capabilities in the future.",
+      "zh": "戶外運動裝備零售商 Backcountry 與 Infosys 和 Google Cloud 合作，進行基礎架構現代化改造。透過將行銷、產品、銷售、訂單、庫存及供應鏈資料遷移至 BigQuery，並導入 Looker 進行即時分析，Backcountry 大幅降低了基礎設施管理負擔，同時建立起穩固、安全且可擴展的資料基礎，為未來部署進階 gen AI 功能奠定基礎。"
+    },
+    "highlights": {
+      "en": [
+        "Migrated all marketing, product, sales, order, inventory, and supply chain data to BigQuery for unified analytics.",
+        "Deployed Looker to provide daily reports and real-time data insights across the entire organization.",
+        "Reduced infrastructure management burden while building a scalable, secure foundation for future gen AI capabilities.",
+        "Freed the data team to focus on strategic projects by enabling business users to self-service their analytics."
+      ],
+      "zh": [
+        "將行銷、產品、銷售、訂單、庫存及供應鏈等所有資料遷移至 BigQuery，實現統一分析。",
+        "導入 Looker 提供每日報表與即時資料洞察，服務全組織的決策需求。",
+        "降低基礎設施管理負擔，同時為未來 gen AI 能力建立可擴展的安全基礎。",
+        "讓業務使用者能夠自助取得資料洞察，釋放資料團隊專注於策略性專案。"
+      ]
+    },
+    "technologies": [
+      "BigQuery",
+      "Looker",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "How Backcountry gears up for gen AI with ongoing cloud investments | Google Cloud Blog",
+        "url": "https://cloud.google.com/transform/ai-explorers-backcountry-pitched-its-tent-in-the-cloud-now-its-gearing-up-for-gen-ai"
+      },
+      {
+        "title": "Backcountry Taps Infosys and Google Cloud to Create Seamless, Secure Digital Experience",
+        "url": "https://www.prnewswire.com/news-releases/backcountry-taps-infosys-and-google-cloud-to-create-seamless-secure-digital-experience-for-outdoor-enthusiasts-301552809.html"
+      }
+    ]
+  },
+  {
+    "id": "retail-data-colgate-palmolive",
+    "industry": "retail",
+    "agentType": "data",
+    "company": "Colgate-Palmolive",
+    "isNew": true,
+    "summary": {
+      "en": "Colgate-Palmolive cut external cloud exposure issues by 44% and achieved sustained zero critical risks using Wiz.",
+      "zh": "Colgate-Palmolive 使用 Wiz 將外部雲端暴露問題減少 44%，並長期維持零重大風險。"
+    },
+    "overview": {
+      "en": "Colgate-Palmolive deployed Wiz (now part of Google Cloud) to gain full agentless visibility into its multi-cloud environment within minutes. The solution empowered cross-functional teams with a unified tool for identifying and remediating risks — including open-source vulnerabilities and supply chain risks. As a result, external exposure issues fell by 44% and the company now sustains extended periods of zero critical risks.",
+      "zh": "Colgate-Palmolive 部署了 Wiz（現已納入 Google Cloud）以在幾分鐘內對其多雲環境實現完整的無代理可見性。此解決方案讓跨職能團隊擁有統一工具來識別和修復風險，包括開源漏洞和供應鏈風險。因此，外部暴露問題減少了 44%，公司現在能夠長期維持零重大風險。"
+    },
+    "highlights": {
+      "en": [
+        "Decreased external cloud exposure issues by 44% using Wiz's agentless cloud security platform.",
+        "Achieved and sustained long periods of zero critical risks across its multi-cloud environment.",
+        "Gained full cloud environment visibility within minutes of deployment.",
+        "Created a single source of truth for security, enabling cross-functional teams to identify and remediate risks independently."
+      ],
+      "zh": [
+        "使用 Wiz 無代理雲端安全平台，將外部雲端暴露問題減少 44%。",
+        "在多雲環境中實現並長期維持零重大風險的狀態。",
+        "部署後在幾分鐘內即獲得完整的雲端環境可見性。",
+        "建立安全的單一事實來源，讓跨職能團隊能夠獨立識別和修復風險。"
+      ]
+    },
+    "technologies": [
+      "Wiz",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Colgate-Palmolive case study | Wiz",
+        "url": "https://www.wiz.io/customers/colgate-palmolive"
+      }
+    ]
+  },
+  {
+    "id": "retail-data-coop",
+    "industry": "retail",
+    "agentType": "data",
+    "company": "Coop",
+    "isNew": false,
+    "summary": {
+      "en": "Coop achieved 43% improvement in demand forecasting accuracy with Vertex AI Forecast, reducing food waste.",
+      "zh": "Coop 透過 Vertex AI Forecast 將需求預測準確率提升 43%，有效減少食物浪費。"
+    },
+    "overview": {
+      "en": "Coop, a major Scandinavian grocery retailer, deployed Vertex AI Forecast to predict product demand and optimize inventory levels across its distribution centers. The AI-powered forecasting model significantly outperformed Coop's previous in-house models, delivering a 43% improvement in forecasting accuracy. This improvement leads to reduced food waste, better sustainability outcomes, and streamlined order management through integration with SAP.",
+      "zh": "北歐大型連鎖超市 Coop 部署 Vertex AI Forecast 來預測產品需求並優化配送中心的庫存水準。這套 AI 驅動的預測模型表現遠超 Coop 原有的內部模型，預測準確率提升 43%。此成效有助於減少食物浪費、改善永續發展成果，並透過與 SAP 整合來優化訂單管理流程。"
+    },
+    "highlights": {
+      "en": [
+        "Achieved a 43% improvement in forecasting accuracy (14.5 WAPE) compared to in-house models trained on custom VMs.",
+        "Deployed Vertex AI Forecast to optimize inventory levels and reduce food waste across distribution centers.",
+        "Integrated forecasting insights back into SAP for streamlined order management processes.",
+        "Piloted in one distribution center with plans to scale to full production across all centers."
+      ],
+      "zh": [
+        "相較於在自訂虛擬機上訓練的內部模型，預測準確率（WAPE 14.5）提升 43%。",
+        "部署 Vertex AI Forecast 優化配送中心庫存水準，有效減少食物浪費。",
+        "將預測洞察回傳整合至 SAP，優化訂單管理流程。",
+        "在單一配送中心完成試驗，計畫擴展至所有配送中心全面投產。"
+      ]
+    },
+    "technologies": [
+      "Vertex AI",
+      "Vertex AI Forecast",
+      "BigQuery",
+      "Google Kubernetes Engine"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Coop reduces food waste with Google Cloud AI and Data cloud | Google Cloud Blog",
+        "url": "https://cloud.google.com/blog/products/ai-machine-learning/coop-reduces-food-waste-with-google-cloud-ai-and-data-cloud"
+      },
+      {
+        "title": "Coop reduces food waste by forecasting with Google's AI and Data Cloud",
+        "url": "https://sustainablefuture.cio.com/data-driven-sustainability/coop-reduces-food-waste-by-forecasting-with-googles-ai-and-data-cloud/"
+      }
+    ]
+  },
+  {
+    "id": "retail-data-cvlb-group",
+    "industry": "retail",
+    "agentType": "data",
+    "company": "CVLB Group",
+    "isNew": true,
+    "summary": {
+      "en": "CVLB Group used Google Cloud data analytics to unify post-merger operations, power loyalty programs, and drive catalog improvements.",
+      "zh": "CVLB Group 運用 Google Cloud 資料分析整合合併後的營運，強化忠誠度計畫並改善商品目錄。"
+    },
+    "overview": {
+      "en": "CVLB Group, formed from the 2023 merger of Brazilian retail brands CASA&VIDEO and Le biscuit, faced the challenge of integrating fragmented data spread across multiple clouds and on-premises systems. The group adopted Google Cloud data analytics — including BigQuery and Cloud Functions — to centralize data governance, enable personalized CRM campaigns, and provide actionable insights to business teams. With BigQuery, analytical query times dropped from over 15 minutes to under 10 seconds even on tables with 200 million+ records.",
+      "zh": "CVLB Group 由巴西零售品牌 CASA&VIDEO 與 Le biscuit 於 2023 年合併而成，面臨資料分散於多個雲端及本地系統的整合挑戰。集團採用 Google Cloud 資料分析解決方案（包括 BigQuery 與 Cloud Functions），實現資料治理集中化、啟用個人化 CRM 行銷活動，並為各業務部門提供可行的洞察。導入 BigQuery 後，即便在超過 2 億筆記錄的資料表上，分析查詢時間也從逾 15 分鐘縮短至不到 10 秒。"
+    },
+    "highlights": {
+      "en": [
+        "Reduced analytical query times from over 15 minutes to under 10 seconds on tables with 200 million+ records using BigQuery.",
+        "Centralized data governance to provide a unified view of sales across the entire post-merger company.",
+        "Integrated BigQuery with CRM via Cloud Functions to enable personalized campaigns and improve customer engagement.",
+        "Enabled loyalty programs and catalog improvements with AI and data analytics insights."
+      ],
+      "zh": [
+        "使用 BigQuery 將超過 2 億筆記錄資料表的分析查詢時間從逾 15 分鐘縮短至不到 10 秒。",
+        "集中資料治理，為合併後的整個公司提供統一的銷售視圖。",
+        "透過 Cloud Functions 整合 BigQuery 與 CRM，實現個人化行銷活動，提升客戶參與度。",
+        "透過 AI 與資料分析洞察，強化忠誠度計畫並改善商品目錄。"
+      ]
+    },
+    "technologies": [
+      "BigQuery",
+      "Cloud Functions",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Grupo CVLB - Caso de sucesso | Google Cloud",
+        "url": "https://cloud.google.com/customers/intl/pt-br/cvlb?hl=pt-BR"
+      }
+    ]
+  },
+  {
+    "id": "retail-data-dunelm",
+    "industry": "retail",
+    "agentType": "data",
+    "company": "Dunelm",
+    "isNew": false,
+    "summary": {
+      "en": "Dunelm modernized its security operations with Google Security Operations and Acora to defend against sophisticated threats.",
+      "zh": "Dunelm 結合 Google Security Operations 與 Acora，現代化其資安營運以抵禦複雜威脅。"
+    },
+    "overview": {
+      "en": "Dunelm, the UK's leading homewares retailer with over 178 stores and 12 million annual online transactions, integrated Google Security Operations with managed security partner Acora to create a comprehensive risk profile. This modernized security operations approach delivers adaptive, agile, and highly automated defense capabilities. The initiative enables Dunelm to respond to the most sophisticated cyber threats while supporting its high-velocity e-commerce operations.",
+      "zh": "英國最大家居零售商 Dunelm 擁有超過 178 家門市，每年線上交易量逾 1,200 萬筆。該公司整合 Google Security Operations 與託管安全合作夥伴 Acora，建立全面的風險剖析，並現代化其資安營運模式。此舉提供了自適應、敏捷且高度自動化的防禦能力，使 Dunelm 在支撐高速電商運營的同時，有效應對最複雜的網路威脅。"
+    },
+    "highlights": {
+      "en": [
+        "Integrated Google Security Operations with managed security partner Acora to build a comprehensive risk profile.",
+        "Modernized security operations to deliver adaptive, agile, and highly automated defense against sophisticated threats.",
+        "Supports high-velocity e-commerce operations with up to 250 platform updates per month.",
+        "Established a modern Managed SOC aligned with a risk-based cybersecurity program."
+      ],
+      "zh": [
+        "整合 Google Security Operations 與 Acora，建立全面的風險剖析。",
+        "現代化資安營運，提供自適應、敏捷且高度自動化的防禦能力以應對複雜威脅。",
+        "支援每月多達 250 次平台更新的高速電商運營。",
+        "建立以風險為基礎的現代化託管 SOC 資安計畫。"
+      ]
+    },
+    "technologies": [
+      "Google Security Operations",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "MSSP strategic partner web page: Acora | Google Cloud",
+        "url": "https://cloud.google.com/solutions/acora"
+      },
+      {
+        "title": "New Way Now: Dunelm delivers style to homes securely with Google Cloud",
+        "url": "https://www.youtube.com/watch?v=MUQGfgoJ7VY"
+      }
+    ]
+  },
+  {
+    "id": "retail-data-essilorluxottica",
+    "industry": "retail",
+    "agentType": "data",
+    "company": "EssilorLuxottica",
+    "isNew": true,
+    "summary": {
+      "en": "EssilorLuxottica migrated to BigQuery with NTT DATA and is now exploring Gemini-powered agentic AI for business insights.",
+      "zh": "EssilorLuxottica 與 NTT DATA 合作遷移至 BigQuery，並正在探索 Gemini 驅動的代理式 AI 以提升業務洞察。"
+    },
+    "overview": {
+      "en": "EssilorLuxottica, the global eyewear group, transitioned from restrictive legacy data systems to a modern data platform on Google Cloud. Working with NTT DATA, the group migrated to BigQuery, establishing a secure and reliable foundation for organization-wide data access. Building on this foundation, EssilorLuxottica is now exploring agentic AI powered by Gemini to simplify data access for business users, support natural language querying, and help teams uncover new insights to improve daily operations.",
+      "zh": "全球眼鏡集團 EssilorLuxottica 與 NTT DATA 合作，從受限的舊有資料系統遷移至以 BigQuery 為基礎的現代 Google Cloud 資料平台，為全公司資料存取建立安全可靠的基礎。在此基礎上，EssilorLuxottica 目前正探索由 Gemini 驅動的代理式 AI，以簡化業務使用者的資料存取、支援自然語言查詢，並協助各團隊發掘新洞察、優化日常營運。"
+    },
+    "highlights": {
+      "en": [
+        "Migrated from legacy data systems to BigQuery in partnership with NTT DATA, creating a secure, reliable enterprise data foundation.",
+        "Exploring Gemini-powered agentic AI to enable natural language data access and self-service analytics for business users.",
+        "Transitioning from restrictive legacy systems enables teams to uncover new insights and improve daily operations.",
+        "Partnership showcased at Google Cloud Next 2026 as a model for enterprise agentic AI adoption."
+      ],
+      "zh": [
+        "與 NTT DATA 合作，從舊有資料系統遷移至 BigQuery，建立安全可靠的企業資料基礎。",
+        "探索 Gemini 驅動的代理式 AI，讓業務使用者能以自然語言存取資料並自助分析。",
+        "擺脫受限的舊有系統，讓各團隊得以發掘新洞察，改善日常運作效率。",
+        "此合作案於 Google Cloud Next 2026 作為企業代理式 AI 採用的典範展示。"
+      ]
+    },
+    "technologies": [
+      "BigQuery",
+      "Gemini",
+      "Vertex AI",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "NTT DATA Partners with Google Cloud to Accelerate Agentic AI Adoption",
+        "url": "https://www.nttdata.com/global/en/news/press-release/2025/august/081300"
+      }
+    ]
+  },
+  {
+    "id": "retail-data-estee-lauder-companies",
+    "industry": "retail",
+    "agentType": "data",
+    "company": "Estee Lauder Companies",
+    "isNew": false,
+    "summary": {
+      "en": "Estee Lauder Companies uses BigQuery to efficiently analyze data and improve operational efficiency across 20+ brands.",
+      "zh": "Estee Lauder Companies 運用 BigQuery 高效分析旗下 20 多個品牌的資料，提升整體營運效率。"
+    },
+    "overview": {
+      "en": "The Estée Lauder Companies (ELC) leverages BigQuery — alongside Vertex AI and Looker — to consolidate data from 20+ brands across 40+ countries into a single analytics environment. This enables ELC to better understand consumer intent, analyze sentiment in real time, and tailor consumer experiences. The platform also supports AI-powered classification of customer contacts and personalized recommendations, improving both operational efficiency and the consumer journey.",
+      "zh": "Estée Lauder Companies（ELC）運用 BigQuery、Vertex AI 和 Looker，將旗下 20 多個品牌在 40 多個國家的資料整合至單一分析環境。這使 ELC 能夠更深入了解消費者意圖、即時分析情感，並為消費者量身打造個人化體驗。該平台還支援 AI 驅動的客戶來電分類與個人化推薦，同時提升營運效率與消費者旅程品質。"
+    },
+    "highlights": {
+      "en": [
+        "Consolidated data from 20+ brands across 40+ countries into a single BigQuery environment for unified analytics.",
+        "Deployed AI models for real-time consumer sentiment analysis across social media and digital touchpoints.",
+        "AI-powered call classification proved twice as accurate as human operators, speeding issue resolution.",
+        "Used Google Cloud Retail Search and Recommendations AI to create personalized cross-selling opportunities."
+      ],
+      "zh": [
+        "將 40 多個國家、20 多個品牌的資料整合至單一 BigQuery 環境，實現統一分析。",
+        "部署 AI 模型，跨社群媒體與數位接觸點進行即時消費者情感分析。",
+        "AI 驅動的來電分類準確率是人工操作員的兩倍，加快問題解決速度。",
+        "運用 Google Cloud Retail Search 與 Recommendations AI 創造個人化交叉銷售機會。"
+      ]
+    },
+    "technologies": [
+      "BigQuery",
+      "Vertex AI",
+      "Looker",
+      "Google Cloud Retail Search",
+      "Recommendations AI"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "The Estée Lauder Companies Inc. and Google Cloud Partner to Transform the Online Consumer Experience with Generative AI",
+        "url": "https://www.prnewswire.com/news-releases/the-estee-lauder-companies-inc-and-google-cloud-partner-to-transform-the-online-consumer-experience-with-generative-ai-301912131.html"
+      },
+      {
+        "title": "Estée Lauder Expands Use of Generative AI with Google Cloud | Consumer Goods Technology",
+        "url": "https://consumergoods.com/estee-lauder-expands-use-generative-ai-google-cloud"
+      }
+    ]
+  },
+  {
+    "id": "retail-data-etsy",
+    "industry": "retail",
+    "agentType": "data",
+    "company": "Etsy",
+    "isNew": false,
+    "summary": {
+      "en": "Etsy migrated to AI-powered Google Security Operations in one week, improving log management and incident response.",
+      "zh": "Etsy 在一週內完成遷移至 AI 驅動的 Google Security Operations，改善日誌管理與事件回應能力。"
+    },
+    "overview": {
+      "en": "Etsy, the global marketplace for unique handmade goods, deployed AI-powered Google Security Operations to overhaul its security operations. The migration — completed in just one week — simplified log management and ingestion, accelerated detection creation and review, and improved incident response capabilities. The platform's AI features, including Gemini-assisted investigation and natural language search, help Etsy's security analysts work more efficiently at scale.",
+      "zh": "全球手工藝品交易平台 Etsy 部署了 AI 驅動的 Google Security Operations，全面翻新其資安營運。整個遷移過程僅在一週內完成，簡化了日誌管理與匯入、加速了偵測規則的建立與審查，並提升了事件回應能力。平台的 AI 功能（包括 Gemini 輔助調查與自然語言搜尋）協助 Etsy 的資安分析師更有效率地處理大規模安全事件。"
+    },
+    "highlights": {
+      "en": [
+        "Completed full migration to Google Security Operations in just one week.",
+        "Simplified log management and ingestion, enabling petabyte-scale analysis with 12-month hot retention by default.",
+        "Accelerated detection creation and review using AI-assisted capabilities.",
+        "Improved incident response with Gemini-powered investigation assistance, contextualized summaries, and recommended actions."
+      ],
+      "zh": [
+        "僅花一週時間完成遷移至 Google Security Operations。",
+        "簡化日誌管理與匯入，預設支援 PB 級資料分析，熱儲存期限達 12 個月。",
+        "利用 AI 輔助功能加速偵測規則的建立與審查。",
+        "透過 Gemini 驅動的調查輔助、情境化摘要和建議行動，改善事件回應效率。"
+      ]
+    },
+    "technologies": [
+      "Google Security Operations",
+      "Gemini",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Introducing Google Security Operations: Intel-driven, AI-powered SecOps | Google Cloud Blog",
+        "url": "https://cloud.google.com/blog/products/identity-security/introducing-google-security-operations-intel-driven-ai-powered-secops-at-rsa"
+      }
+    ]
+  },
+  {
+    "id": "retail-data-fifco",
+    "industry": "retail",
+    "agentType": "data",
+    "company": "FIFCO",
+    "isNew": false,
+    "summary": {
+      "en": "FIFCO used Vertex AI to classify 36,000 confiscated marine shells with 90%+ accuracy, returning 450+ kg to Costa Rica's ecosystems.",
+      "zh": "FIFCO 運用 Vertex AI 以超過 90% 的準確率分類 36,000 個沒收貝殼，協助將逾 450 公斤歸還哥斯大黎加海洋生態系。"
+    },
+    "overview": {
+      "en": "Costa Rican beverage and food company FIFCO launched the 'Back Home' initiative, partnering with the Ministry of Environment and Energy, AERIS, and the University of Costa Rica to use Vertex AI for classifying confiscated marine shells by ecosystem of origin. The AI model was trained on over 18,500 photographs covering 525 different species and distinguishes between Caribbean and Pacific shells. The model achieved over 90% accuracy and has enabled the return of more than 36,000 shells — weighing over 450 kilograms — to their native marine habitats.",
+      "zh": "哥斯大黎加飲料與食品公司 FIFCO 發起「Back Home」計畫，與環境能源部、AERIS 及哥斯大黎加大學合作，利用 Vertex AI 依原生生態系分類沒收的海洋貝殼。AI 模型以超過 18,500 張涵蓋 525 種物種的照片訓練而成，能有效區分加勒比海與太平洋的貝殼。模型達到逾 90% 的準確率，已使超過 36,000 個（重逾 450 公斤）貝殼成功回歸其原生海洋棲地。"
+    },
+    "highlights": {
+      "en": [
+        "Trained an AI model on 18,500+ photographs of 525 shell species to classify shells by ecosystem of origin.",
+        "Classified 36,000 confiscated shells with over 90% accuracy, enabling proper repatriation.",
+        "Returned over 450 kilograms of shells to Costa Rica's Caribbean and Pacific marine ecosystems.",
+        "Open-sourced the model on Hugging Face, enabling other countries to build their own shell classification systems."
+      ],
+      "zh": [
+        "以超過 18,500 張涵蓋 525 種貝殼物種的照片訓練 AI 模型，依原生生態系進行分類。",
+        "以逾 90% 的準確率分類 36,000 個沒收貝殼，實現精準歸還。",
+        "將逾 450 公斤貝殼歸還哥斯大黎加加勒比海與太平洋海洋生態系。",
+        "將模型在 Hugging Face 開源，讓其他國家能建立自己的貝殼分類系統。"
+      ]
+    },
+    "technologies": [
+      "Vertex AI",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Back Home by FIFCO: Through AI, Costa Rica returns over 36,000 seashells to their habitat",
+        "url": "https://www.prnewswire.com/news-releases/back-home-by-fifco-through-ai-costa-rica-returns-over-36-000-seashells-to-their-habitat-to-restore-the-ecosystem-302356538.html"
+      },
+      {
+        "title": "Costa Rica makes available the model that made possible returning 36,000 shells to their place of origin – FIFCO",
+        "url": "https://www.fifco.com/en/costa-rica-makes-available-to-the-scientific-community-the-model-that-made-possible-returning-36000-shells-to-their-place-of-origin/"
+      }
+    ]
+  },
+  {
+    "id": "retail-data-flipkart",
+    "industry": "retail",
+    "agentType": "data",
+    "company": "Flipkart",
+    "isNew": true,
+    "summary": {
+      "en": "Flipkart is accelerating its data science workloads using Google Cloud's Lightning Engine for Apache Spark.",
+      "zh": "Flipkart 使用 Google Cloud 的 Lightning Engine（Apache Spark）加速其資料科學工作負載。"
+    },
+    "overview": {
+      "en": "Flipkart, India's leading e-commerce platform, is accelerating its data science workloads with Lightning Engine, Google Cloud's high-performance engine for Apache Spark. Lightning Engine delivers up to 4.9x performance improvement over open-source Apache Spark, enabling Flipkart's data science teams to run complex workloads faster and more cost-effectively. Flipkart has a history of deep Google Cloud integration, including use of Dataproc, Bigtable, and BigQuery for large-scale data processing.",
+      "zh": "印度領先電商平台 Flipkart 使用 Google Cloud 的 Apache Spark 高效能引擎 Lightning Engine，加速其資料科學工作負載。Lightning Engine 相較開源 Apache Spark 可提升最高 4.9 倍效能，讓 Flipkart 的資料科學團隊能更快速、更具成本效益地執行複雜工作負載。Flipkart 長期深度整合 Google Cloud，包括使用 Dataproc、Bigtable 和 BigQuery 進行大規模資料處理。"
+    },
+    "highlights": {
+      "en": [
+        "Accelerating data science workloads with Lightning Engine, which delivers up to 4.9x performance boost over open-source Apache Spark.",
+        "Lightning Engine's native BigQuery connector eliminates row-to-columnar conversion overhead for faster data transfer.",
+        "Flipkart's data platform leverages Dataproc, Bigtable, and BigQuery for large-scale data processing."
+      ],
+      "zh": [
+        "使用 Lightning Engine 加速資料科學工作負載，相較開源 Apache Spark 效能提升最高 4.9 倍。",
+        "Lightning Engine 的原生 BigQuery 連接器消除了行列轉換開銷，加快資料傳輸速度。",
+        "Flipkart 資料平台整合 Dataproc、Bigtable 和 BigQuery，支援大規模資料處理。"
+      ]
+    },
+    "technologies": [
+      "Lightning Engine",
+      "Apache Spark",
+      "Dataproc",
+      "BigQuery",
+      "Bigtable",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Introducing Lightning Engine for Apache Spark | Google Cloud Blog",
+        "url": "https://cloud.google.com/blog/products/data-analytics/introducing-lightning-engine-for-apache-spark"
+      },
+      {
+        "title": "How Flipkart gets the most out of every byte with Bigtable | Google Cloud Blog",
+        "url": "https://cloud.google.com/blog/products/databases/how-flipkart-gets-the-most-out-of-every-byte-with-bigtable"
+      }
+    ]
+  }
+]

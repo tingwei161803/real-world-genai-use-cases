@@ -1,0 +1,1932 @@
+[
+  {
+    "id": "hospitality-travel-customer-agoda",
+    "industry": "hospitality-travel",
+    "agentType": "customer",
+    "company": "Agoda",
+    "isNew": false,
+    "summary": {
+      "en": "Agoda uses Gemini and Imagen to deliver hyper-personalized travel itineraries and destination images in seconds.",
+      "zh": "Agoda 運用 Gemini 與 Imagen，在數秒內生成超個人化旅遊行程與目的地影像。"
+    },
+    "overview": {
+      "en": "Agoda integrated Google's Gemini and Imagen models into its AI Vacation Planner, which requires just eight user inputs to generate detailed, personalized travel plans in seconds. Imagen creates hyper-realistic destination images of hidden gems across up to 80 cities, replacing costly traditional image sourcing. The feature enhances visitor engagement and drives bookings on the platform.",
+      "zh": "Agoda 將 Google Gemini 與 Imagen 模型整合至 AI Vacation Planner，使用者僅需輸入八項偏好即可在數秒內獲得詳細個人化旅遊計畫。Imagen 為多達 80 座城市的隱藏景點生成超寫實目的地影像，取代傳統高成本圖片授權。此功能提升訪客參與度並促進訂單轉換。"
+    },
+    "highlights": {
+      "en": [
+        "AI Vacation Planner requires only 8 user inputs to generate detailed itineraries in seconds.",
+        "Imagen generates hyper-realistic destination images for up to 80 cities at low cost vs. traditional sourcing.",
+        "Platform covers 5M+ properties, 130K flight routes, and 300K activities for AI recommendations.",
+        "Feature enhances visitor engagement and drives bookings on the platform.",
+        "Plans are shareable, allowing travelers to collaborate with companions."
+      ],
+      "zh": [
+        "AI Vacation Planner 僅需 8 項輸入即可在數秒內生成詳細行程。",
+        "Imagen 可為多達 80 座城市生成超寫實目的地影像，成本遠低於傳統授權。",
+        "平台涵蓋 500 萬餘間房源、13 萬條航線及 30 萬項活動供 AI 推薦。",
+        "此功能有效提升訪客參與度並促進訂單成長。",
+        "行程計畫可一鍵分享，方便旅伴協同規劃。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Imagen",
+      "Vertex AI"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Agoda case study | Google Cloud",
+        "url": "https://cloud.google.com/customers/agoda"
+      },
+      {
+        "title": "Agoda launches AI-powered vacation planner for Indian travelers | PhocusWire",
+        "url": "https://www.phocuswire.com/agoda-launches-ai-powered-vacation-planner-indian-travelers"
+      }
+    ]
+  },
+  {
+    "id": "hospitality-travel-customer-alaska-airlines",
+    "industry": "hospitality-travel",
+    "agentType": "customer",
+    "company": "Alaska Airlines",
+    "isNew": false,
+    "needsReview": true,
+    "summary": {
+      "en": "Alaska Airlines is building a conversational AI chatbot to replicate the experience of a knowledgeable travel agent for booking.",
+      "zh": "Alaska Airlines 正開發對話式 AI 聊天機器人，複製專業旅行社的訂票服務體驗。"
+    },
+    "overview": {
+      "en": "Alaska Airlines is developing a natural language search experience powered by generative AI, giving travelers a conversational interface akin to consulting a knowledgeable travel agent. The chatbot aims to streamline the travel booking process, enhance overall customer experience, and reinforce the airline's brand identity.",
+      "zh": "Alaska Airlines 正運用生成式 AI 開發自然語言搜尋體驗，讓旅客能透過對話方式完成訂票，猶如諮詢專業旅行社。此聊天機器人旨在簡化訂票流程、提升整體顧客體驗，並強化品牌識別度。"
+    },
+    "highlights": {
+      "en": [
+        "Conversational AI chatbot enables natural language travel search and booking.",
+        "Experience designed to mirror interacting with a knowledgeable travel agent.",
+        "Aims to streamline booking and enhance customer experience.",
+        "Reinforces brand identity through AI-powered personalization."
+      ],
+      "zh": [
+        "對話式 AI 聊天機器人支援自然語言旅遊搜尋與訂票。",
+        "體驗設計模擬與專業旅行社互動的感受。",
+        "旨在簡化訂票流程並提升顧客體驗。",
+        "透過 AI 個人化服務強化品牌識別度。"
+      ]
+    },
+    "technologies": [
+      "Vertex AI",
+      "Gemini"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ]
+  },
+  {
+    "id": "hospitality-travel-customer-bookme",
+    "industry": "hospitality-travel",
+    "agentType": "customer",
+    "company": "Bookme",
+    "isNew": false,
+    "summary": {
+      "en": "Bookme, Pakistan's largest travel e-ticketing platform, cut API load time 50% with a Google Cloud migration and Gemini-powered chatbot.",
+      "zh": "巴基斯坦最大旅遊電子票務平台 Bookme 遷移至 Google Cloud 後，API 載入時間縮短 50%，並導入 Gemini 聊天機器人。"
+    },
+    "overview": {
+      "en": "Bookme, Pakistan's largest travel tech and e-ticketing company serving over 12 million registered customers, deployed Document AI, Vertex AI, and Gemini to power a conversational chatbot delivering more efficient customer interactions. The Google Cloud migration reduced average API load time by 50% (user dashboard APIs dropped from 700ms to 255ms) and improved platform latency from 240ms to 180ms.",
+      "zh": "Bookme 是巴基斯坦最大旅遊科技與電子票務公司，服務超過 1,200 萬名註冊用戶。部署 Document AI、Vertex AI 及 Gemini 後打造對話式聊天機器人，提升客服效率。遷移至 Google Cloud 後，API 載入時間縮短 50%（儀表板 API 從 700ms 降至 255ms），平台延遲從 240ms 改善至 180ms。"
+    },
+    "highlights": {
+      "en": [
+        "Serves over 12 million registered customers across Pakistan.",
+        "Average API load time cut 50% (user dashboard: 700ms → 255ms).",
+        "Platform latency improved from 240ms to 180ms after migration.",
+        "Gemini-powered chatbot delivers more efficient customer interactions."
+      ],
+      "zh": [
+        "在巴基斯坦服務超過 1,200 萬名註冊用戶。",
+        "平均 API 載入時間縮短 50%（儀表板 API：700ms → 255ms）。",
+        "遷移後平台延遲從 240ms 改善至 180ms。",
+        "Gemini 驅動的聊天機器人大幅提升客服效率。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Vertex AI",
+      "Document AI"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ]
+  },
+  {
+    "id": "hospitality-travel-customer-catchtable",
+    "industry": "hospitality-travel",
+    "agentType": "customer",
+    "company": "Catchtable",
+    "isNew": false,
+    "summary": {
+      "en": "Catchtable achieved 30% higher reservation conversions and 150% more impressions using Vertex AI personalized restaurant recommendations.",
+      "zh": "Catchtable 透過 Vertex AI 個人化餐廳推薦，訂位轉換率提升 30%，曝光量增加 150%。"
+    },
+    "overview": {
+      "en": "Catchtable built personalized restaurant recommendation models on Vertex AI and Kubeflow with GPU optimization, integrating BigQuery for data, Gemini for review analysis, and hybrid AI models combining LLMs with custom embeddings to understand customer search intent. The result was a 30% increase in reservation conversion rates and 150% increase in impressions per restaurant search.",
+      "zh": "Catchtable 在 Vertex AI 與 Kubeflow 上建立個人化餐廳推薦模型並進行 GPU 優化，整合 BigQuery 作資料基礎、Gemini 進行評論分析，以及結合 LLM 與自訂嵌入的混合 AI 模型理解顧客搜尋意圖。最終訂位轉換率提升 30%，每次搜尋曝光量增加 150%。"
+    },
+    "highlights": {
+      "en": [
+        "30% increase in reservation conversion rates through AI personalization.",
+        "150% increase in impressions per restaurant search.",
+        "Hybrid AI models combine LLMs with custom embeddings to understand search intent.",
+        "Gemini used for review analysis to enrich recommendation quality.",
+        "BigQuery powers data integration across the platform."
+      ],
+      "zh": [
+        "AI 個人化推動訂位轉換率提升 30%。",
+        "每次餐廳搜尋曝光量增加 150%。",
+        "混合 AI 模型結合 LLM 與自訂嵌入理解搜尋意圖。",
+        "Gemini 用於評論分析，提升推薦品質。",
+        "BigQuery 支援平台整體資料整合。"
+      ]
+    },
+    "technologies": [
+      "Vertex AI",
+      "Kubeflow",
+      "BigQuery",
+      "Gemini"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ]
+  },
+  {
+    "id": "hospitality-travel-customer-fitness-park",
+    "industry": "hospitality-travel",
+    "agentType": "customer",
+    "company": "Fitness Park",
+    "isNew": false,
+    "needsReview": true,
+    "summary": {
+      "en": "French fitness chain Fitness Park uses BigQuery and plans Vertex AI and Gemini for AI-powered personalized fitness recommendations.",
+      "zh": "法國健身連鎖 Fitness Park 運用 BigQuery，並計畫導入 Vertex AI 與 Gemini 提供 AI 個人化健身建議。"
+    },
+    "overview": {
+      "en": "Fitness Park, a leading French fitness chain, migrated its data infrastructure to BigQuery, reducing query times from hours to seconds and enabling real-time marketing campaigns previously blocked by infrastructure limitations. The company plans to leverage Vertex AI and Gemini for AI-powered personalized exercise recommendations, nutrition guidance, and intelligent training programs.",
+      "zh": "法國大型健身連鎖 Fitness Park 將資料基礎設施遷移至 BigQuery，查詢時間從數小時縮短至數秒，並解鎖先前受基礎設施限制的即時行銷活動。公司計畫進一步運用 Vertex AI 與 Gemini，為會員提供 AI 驅動的個人化運動建議、營養指導及智慧訓練計畫。"
+    },
+    "highlights": {
+      "en": [
+        "BigQuery migration reduced query times from hours to seconds.",
+        "Enabled real-time marketing campaigns previously blocked by infrastructure.",
+        "Plans to use Vertex AI and Gemini for personalized exercise recommendations.",
+        "AI roadmap includes nutrition guidance and intelligent training programs."
+      ],
+      "zh": [
+        "遷移至 BigQuery 後查詢時間從數小時縮短至數秒。",
+        "解鎖先前受基礎設施限制的即時行銷活動。",
+        "計畫運用 Vertex AI 與 Gemini 提供個人化運動建議。",
+        "AI 規劃藍圖包含營養指導與智慧訓練計畫。"
+      ]
+    },
+    "technologies": [
+      "BigQuery",
+      "Vertex AI",
+      "Gemini"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ]
+  },
+  {
+    "id": "hospitality-travel-customer-gymshark",
+    "industry": "hospitality-travel",
+    "agentType": "customer",
+    "company": "Gymshark",
+    "isNew": false,
+    "needsReview": true,
+    "summary": {
+      "en": "Gymshark builds a unified data platform on BigQuery, Looker, and Vertex AI to deliver personalized fitness experiences at scale.",
+      "zh": "Gymshark 在 BigQuery、Looker 與 Vertex AI 上建立統一資料平台，大規模提供個人化健身體驗。"
+    },
+    "overview": {
+      "en": "Gymshark, a leading UK fitness community and gymwear brand, is building a unified data platform using BigQuery, Looker, Dataflow, and Vertex AI. This platform enhances customer insights and enables personalized fitness experiences at scale, supporting the brand's mission to build the world's most empowering fitness community.",
+      "zh": "英國知名健身社群品牌 Gymshark 正以 BigQuery、Looker、Dataflow 及 Vertex AI 建立統一資料平台，強化顧客洞察力並大規模提供個人化健身體驗，支持打造全球最具影響力健身社群的品牌使命。"
+    },
+    "highlights": {
+      "en": [
+        "Unified data platform built on BigQuery, Looker, Dataflow, and Vertex AI.",
+        "Enhances customer insights across a large global fitness community.",
+        "Enables personalized fitness experiences at scale."
+      ],
+      "zh": [
+        "統一資料平台建構於 BigQuery、Looker、Dataflow 及 Vertex AI 之上。",
+        "強化對全球大型健身社群的顧客洞察能力。",
+        "大規模實現個人化健身體驗。"
+      ]
+    },
+    "technologies": [
+      "BigQuery",
+      "Looker",
+      "Dataflow",
+      "Vertex AI"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ]
+  },
+  {
+    "id": "hospitality-travel-customer-hershey-entertainment-resorts",
+    "industry": "hospitality-travel",
+    "agentType": "customer",
+    "company": "Hershey Entertainment & Resorts",
+    "isNew": false,
+    "summary": {
+      "en": "Hershey Entertainment & Resorts built a personalized guest chatbot in 40 hours using Google Cloud Conversational Agents.",
+      "zh": "Hershey Entertainment & Resorts 僅花 40 小時以 Google Cloud Conversational Agents 建立個人化賓客聊天機器人。"
+    },
+    "overview": {
+      "en": "Hershey Entertainment & Resorts built a fully functional natural language chatbot using Google Cloud's Conversational Agents in just 40 hours, serving millions of annual guests across Hersheypark, Hotel Hershey, and other Pennsylvania attractions. The AI assistant personalizes responses for diverse audiences — from vacationing families to corporate event planners — autonomously handling requests and adapting content to deliver tailored guest experiences at scale.",
+      "zh": "Hershey Entertainment & Resorts 僅花 40 小時以 Google Cloud Conversational Agents 建立功能完整的自然語言聊天機器人，服務每年數百萬造訪 Hersheypark、Hotel Hershey 及賓州其他景點的遊客。AI 助理能為家庭旅客到企業活動規劃者等不同受眾個人化回應，自主處理請求並動態調整內容。"
+    },
+    "highlights": {
+      "en": [
+        "Chatbot built in just 40 hours using Conversational Agents.",
+        "Serves millions of annual guests across multiple Pennsylvania attractions.",
+        "Personalizes responses for families, corporate planners, and other guest segments.",
+        "Autonomously handles requests and adapts content dynamically."
+      ],
+      "zh": [
+        "聊天機器人僅花 40 小時以 Conversational Agents 完成建置。",
+        "服務每年造訪賓州多個景點的數百萬名遊客。",
+        "為家庭旅客、企業規劃者等不同受眾個人化回應。",
+        "自主處理請求並動態調整內容。"
+      ]
+    },
+    "technologies": [
+      "Conversational Agents",
+      "Gemini",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Hershey Entertainment & Resorts case study | Google Cloud",
+        "url": "https://cloud.google.com/customers/hershey"
+      },
+      {
+        "title": "Reimagining travel and hospitality with agentic AI | Google Cloud Blog",
+        "url": "https://cloud.google.com/transform/reimagining-travel-hospitality-agentic-ai"
+      }
+    ]
+  },
+  {
+    "id": "hospitality-travel-customer-hometogo",
+    "industry": "hospitality-travel",
+    "agentType": "customer",
+    "company": "HomeToGo",
+    "isNew": false,
+    "needsReview": true,
+    "summary": {
+      "en": "HomeToGo created AI Sunny, an AI travel assistant for vacation rental guests, with plans to evolve it into a full end-to-end companion.",
+      "zh": "HomeToGo 推出 AI Sunny 智慧旅遊助理，協助度假租屋賓客，並計畫發展為全程端到端智慧旅伴。"
+    },
+    "overview": {
+      "en": "HomeToGo, a leading vacation-rental app, created AI Sunny — an AI-powered travel assistant that supports guests throughout the booking process. The company plans to evolve AI Sunny into Super AI Sunny, a comprehensive end-to-end smart travel companion assisting travelers from initial discovery through post-trip activities.",
+      "zh": "度假租屋領導平台 HomeToGo 推出 AI Sunny——一款 AI 驅動的旅遊助理，在訂房全程為賓客提供支援。公司計畫將 AI Sunny 進化為 Super AI Sunny，打造從旅遊探索到行後服務的全程端到端智慧旅伴。"
+    },
+    "highlights": {
+      "en": [
+        "AI Sunny supports guests throughout the vacation rental booking process.",
+        "Plans to evolve into Super AI Sunny as a full end-to-end travel companion.",
+        "Reflects strategy to embed generative AI across the entire travel lifecycle."
+      ],
+      "zh": [
+        "AI Sunny 在度假租屋訂房全程為賓客提供支援。",
+        "計畫進化為 Super AI Sunny 成為全程端到端智慧旅伴。",
+        "體現將生成式 AI 嵌入整個旅遊生命週期的戰略。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Vertex AI"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ]
+  },
+  {
+    "id": "hospitality-travel-customer-hotelplan-suisse",
+    "industry": "hospitality-travel",
+    "agentType": "customer",
+    "company": "Hotelplan Suisse",
+    "isNew": false,
+    "needsReview": true,
+    "summary": {
+      "en": "Hotelplan Suisse built a travel expertise chatbot for real-time customer inquiry responses and plans AI-generated travel content.",
+      "zh": "Hotelplan Suisse 建立旅遊專業知識聊天機器人即時回應諮詢，並計畫以 gen AI 生成旅遊內容。"
+    },
+    "overview": {
+      "en": "Hotelplan Suisse built a chatbot trained on its deep travel expertise to answer customer inquiries in real time. Following the deployment's success, the Swiss travel company plans to use generative AI to create travel content at scale, expanding AI use from customer support into content creation.",
+      "zh": "Hotelplan Suisse 建立以公司豐富旅遊專業知識訓練的聊天機器人，即時回答顧客諮詢。在此部署成功後，這家瑞士旅遊公司計畫進一步運用生成式 AI 大規模創作旅遊內容，將 AI 應用從客服延伸至內容生成。"
+    },
+    "highlights": {
+      "en": [
+        "Chatbot trained on Hotelplan's travel expertise answers customer inquiries in real time.",
+        "Successful deployment led to an expanded AI roadmap.",
+        "Plans to use gen AI for travel content creation at scale."
+      ],
+      "zh": [
+        "以 Hotelplan 旅遊專業知識訓練的聊天機器人即時回應顧客諮詢。",
+        "成功部署後進一步擴展 AI 規劃藍圖。",
+        "計畫大規模運用生成式 AI 進行旅遊內容創作。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Vertex AI"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ]
+  },
+  {
+    "id": "hospitality-travel-customer-ihg-hotels-resorts",
+    "industry": "hospitality-travel",
+    "agentType": "customer",
+    "company": "IHG Hotels & Resorts",
+    "isNew": false,
+    "needsReview": true,
+    "summary": {
+      "en": "IHG Hotels & Resorts is building a gen AI chatbot in its IHG One Rewards app to help guests plan vacations conversationally.",
+      "zh": "IHG Hotels & Resorts 正在 IHG One Rewards App 建構生成式 AI 聊天機器人，讓賓客以對話方式規劃假期。"
+    },
+    "overview": {
+      "en": "IHG Hotels & Resorts is building a generative AI-powered chatbot directly integrated into the IHG One Rewards mobile app, enabling guests to plan their next vacation through natural conversation. The initiative aims to deepen loyalty program engagement and deliver more personalized travel planning assistance to its global guest base.",
+      "zh": "IHG Hotels & Resorts 正在 IHG One Rewards 行動應用程式中整合生成式 AI 聊天機器人，讓賓客能透過自然對話規劃下次假期，旨在深化忠誠計畫參與度並為全球賓客提供更個人化的旅遊規劃協助。"
+    },
+    "highlights": {
+      "en": [
+        "Gen AI chatbot integrated directly into the IHG One Rewards mobile app.",
+        "Enables guests to plan vacations through natural conversation.",
+        "Deepens loyalty program engagement via AI personalization."
+      ],
+      "zh": [
+        "生成式 AI 聊天機器人直接整合於 IHG One Rewards 行動應用程式。",
+        "讓賓客能透過自然對話規劃假期。",
+        "透過 AI 個人化服務深化忠誠計畫參與度。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Vertex AI"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ]
+  },
+  {
+    "id": "hospitality-travel-customer-intravel",
+    "industry": "hospitality-travel",
+    "agentType": "customer",
+    "company": "Intravel",
+    "isNew": false,
+    "needsReview": true,
+    "summary": {
+      "en": "Intravel uses Gemini AI and Edge Video to make travel storytelling shoppable with real-time video analysis for instant booking.",
+      "zh": "Intravel 運用 Gemini AI 與 Edge Video 讓旅遊故事內容可直接購買，即時分析影片並串連即時訂購。"
+    },
+    "overview": {
+      "en": "Intravel makes travel storytelling shoppable by using Google's Gemini AI and Edge Video to analyze travel videos in real time, identifying and matching tours, hotels, and experiences. The platform creates instant, interactive overlays enabling direct booking from within video content, automating all commerce logic from discovery to commissioning without manual tagging.",
+      "zh": "Intravel 運用 Google Gemini AI 與 Edge Video 即時分析旅遊影片，辨識並配對影片中的導覽行程、飯店及體驗活動，在影片上自動生成互動式覆蓋層支援直接訂購，全自動處理從探索到佣金結算的商務邏輯，無需人工標記。"
+    },
+    "highlights": {
+      "en": [
+        "Gemini AI analyzes travel videos in real time to match bookable tours, hotels, and experiences.",
+        "Interactive overlays enable instant direct booking without leaving the content.",
+        "Automates all commerce logic from discovery to commissioning.",
+        "Removes the need for manual content tagging."
+      ],
+      "zh": [
+        "Gemini AI 即時分析旅遊影片，自動配對可訂購的導覽、飯店及體驗。",
+        "互動式覆蓋層讓用戶無需離開內容即可即時訂購。",
+        "自動處理從探索到佣金結算的全部商務邏輯。",
+        "無需人工進行內容標記。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Vertex AI"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ]
+  },
+  {
+    "id": "hospitality-travel-customer-latam-airlines",
+    "industry": "hospitality-travel",
+    "agentType": "customer",
+    "company": "LATAM Airlines",
+    "isNew": true,
+    "summary": {
+      "en": "LATAM Airlines built Cosmos on Vertex AI to standardize AI deployment, producing marketing videos 95% faster at 99% lower cost.",
+      "zh": "LATAM Airlines 在 Vertex AI 上建構 Cosmos 平台統一 AI 部署，行銷影片製作提速 95%、成本降低 99%。"
+    },
+    "overview": {
+      "en": "LATAM Airlines, Latin America's largest airline group, migrated its data platform to BigQuery then built Cosmos — a proprietary middleware platform on Vertex AI that standardizes and governs AI deployment across operations. Key innovations include an AI concierge agent for natural language trip planning, Google Veo-powered marketing videos produced up to 95% faster at 99% lower cost, and multimodal BigQuery AI capabilities that transformed million-dollar analyses into lean, low-cost processes.",
+      "zh": "拉丁美洲最大航空集團 LATAM Airlines 將資料平台遷移至 BigQuery，並在 Vertex AI 上建構 Cosmos——一個標準化並統一管理全公司 AI 部署的自有中介平台。創新應用包括：自然語言行程規劃 AI 禮賓代理、Veo 驅動的行銷影片製作提速 95% 且成本降低 99%，以及 BigQuery 多模態 AI 將百萬美元級分析轉化為低成本精簡流程。"
+    },
+    "highlights": {
+      "en": [
+        "Cosmos middleware standardizes and governs AI deployment company-wide on Vertex AI.",
+        "AI concierge agent enables natural language trip planning for travelers.",
+        "Veo-powered marketing videos produced up to 95% faster at 99% lower cost.",
+        "Multimodal BigQuery AI turned million-dollar analyses into lean, low-cost processes.",
+        "BigQuery migration unified all data in one cloud environment with flexible analytics."
+      ],
+      "zh": [
+        "Cosmos 中介平台在 Vertex AI 上標準化並統一管理全公司 AI 部署。",
+        "AI 禮賓代理支援旅客以自然語言規劃行程。",
+        "Veo 驅動的行銷影片製作提速達 95%，成本降低 99%。",
+        "BigQuery 多模態 AI 將百萬美元級分析轉化為低成本精簡流程。",
+        "遷移至 BigQuery 後，資料統一於單一雲端環境，具備彈性分析能力。"
+      ]
+    },
+    "technologies": [
+      "Vertex AI",
+      "BigQuery",
+      "Veo",
+      "Gemini"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Reimagining travel and hospitality with agentic AI | Google Cloud Blog",
+        "url": "https://cloud.google.com/transform/reimagining-travel-hospitality-agentic-ai"
+      }
+    ]
+  },
+  {
+    "id": "hospitality-travel-customer-mustard",
+    "industry": "hospitality-travel",
+    "agentType": "customer",
+    "company": "Mustard",
+    "isNew": false,
+    "needsReview": true,
+    "summary": {
+      "en": "Mustard uses computer vision and AI to deliver personalized coaching for golfers and baseball pitchers via a mobile app.",
+      "zh": "Mustard 運用電腦視覺與 AI，透過行動應用程式為高爾夫球員和棒球投手提供個人化教練指導。"
+    },
+    "overview": {
+      "en": "Mustard leverages proprietary computer vision and AI technology to provide exceptional, personalized coaching experiences for golfers and baseball pitchers through an accessible mobile app. The platform analyzes movement and technique in real time to deliver actionable coaching insights, democratizing high-quality athletic coaching for anyone wanting to improve their game.",
+      "zh": "Mustard 運用自有電腦視覺與 AI 技術，透過行動應用程式為高爾夫球員和棒球投手提供個人化教練體驗。平台即時分析動作與技術，提供可行的教練洞察，讓所有希望提升球技的運動員都能獲得高品質指導。"
+    },
+    "highlights": {
+      "en": [
+        "Proprietary computer vision analyzes golfer and pitcher movement in real time.",
+        "Delivers personalized coaching through a simple mobile app.",
+        "Democratizes access to high-quality athletic coaching at scale."
+      ],
+      "zh": [
+        "自有電腦視覺技術即時分析高爾夫球員與投手的動作。",
+        "透過簡單行動應用程式提供個人化教練指導。",
+        "大規模普及高品質運動教練服務。"
+      ]
+    },
+    "technologies": [
+      "Vertex AI",
+      "Gemini"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ]
+  },
+  {
+    "id": "hospitality-travel-customer-mystifly",
+    "industry": "hospitality-travel",
+    "agentType": "customer",
+    "company": "Mystifly",
+    "isNew": false,
+    "needsReview": true,
+    "summary": {
+      "en": "Mystifly built Mystic, a generative AI chatbot on Google Cloud, to offer self-serve options that reduce agent support needs.",
+      "zh": "Mystifly 在 Google Cloud 上建構 Mystic 生成式 AI 聊天機器人，提供自助服務選項以降低人工客服需求。"
+    },
+    "overview": {
+      "en": "Mystifly, a Singapore-based travel tech company, developed Mystic — a chatbot built on Google Cloud's conversational and generative AI platforms. Mystic offers self-serve options that reduce the need for direct agent support, improving efficiency and customer satisfaction. The solution enables Mystifly to scale customer service without proportionally growing headcount.",
+      "zh": "總部位於新加坡的旅遊科技公司 Mystifly 在 Google Cloud 的對話式與生成式 AI 平台上開發了 Mystic 聊天機器人。Mystic 提供自助服務選項，減少直接客服人員需求，提升效率與顧客滿意度，讓 Mystifly 無需等比例增加人力即可擴展客服規模。"
+    },
+    "highlights": {
+      "en": [
+        "Mystic chatbot built on Google Cloud's conversational and generative AI platforms.",
+        "Self-serve options reduce the need for direct agent support.",
+        "Improves customer service efficiency and satisfaction."
+      ],
+      "zh": [
+        "Mystic 聊天機器人建構於 Google Cloud 對話式與生成式 AI 平台之上。",
+        "自助服務選項減少直接客服人員需求。",
+        "提升客服效率與顧客滿意度。"
+      ]
+    },
+    "technologies": [
+      "Conversational Agents",
+      "Gemini",
+      "Vertex AI"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ]
+  },
+  {
+    "id": "hospitality-travel-customer-papa-john-s",
+    "industry": "hospitality-travel",
+    "agentType": "customer",
+    "company": "Papa John's",
+    "isNew": false,
+    "needsReview": true,
+    "summary": {
+      "en": "Papa John's uses BigQuery, Vertex AI, and Gemini to build predictive ordering tools, an enhanced loyalty program, and personalized marketing.",
+      "zh": "Papa John's 運用 BigQuery、Vertex AI 與 Gemini 建構預測性點餐工具、升級忠誠計畫及個人化行銷。"
+    },
+    "overview": {
+      "en": "Papa John's is using BigQuery, Vertex AI, and Gemini models to build predictive tools that anticipate customer orders in the app, along with an enhanced loyalty program and more personalized marketing offers. The company also plans to build an AI-powered chatbot to handle orders, reflecting a broader AI transformation of the customer experience across digital channels.",
+      "zh": "Papa John's 運用 BigQuery、Vertex AI 及 Gemini 模型，建構可預測顧客 App 點餐內容的預測工具，同時升級忠誠計畫並提供更個人化的行銷優惠。公司還計畫建立 AI 聊天機器人協助處理訂單，體現對數位通路顧客體驗進行全面 AI 轉型的布局。"
+    },
+    "highlights": {
+      "en": [
+        "Predictive tools anticipate customer orders in-app using Gemini and Vertex AI.",
+        "Enhanced loyalty program powered by AI-driven customer insights.",
+        "More personalized marketing offers through BigQuery analytics.",
+        "Plans to build an AI chatbot for order intake."
+      ],
+      "zh": [
+        "預測工具運用 Gemini 與 Vertex AI 預判顧客在 App 的點餐內容。",
+        "以 AI 驅動顧客洞察強化忠誠計畫。",
+        "透過 BigQuery 分析提供更個人化的行銷優惠。",
+        "計畫建立 AI 聊天機器人協助處理訂單。"
+      ]
+    },
+    "technologies": [
+      "BigQuery",
+      "Vertex AI",
+      "Gemini"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ]
+  },
+  {
+    "id": "hospitality-travel-customer-priceline",
+    "industry": "hospitality-travel",
+    "agentType": "customer",
+    "company": "Priceline",
+    "isNew": false,
+    "summary": {
+      "en": "Priceline's Trip Intelligence suite features 30+ AI tools powered by Google Cloud Vertex AI to streamline travel planning and booking.",
+      "zh": "Priceline 的 Trip Intelligence 套件搭載 30 多項 Google Cloud Vertex AI 驅動的 AI 工具，大幅簡化旅遊規劃與訂購流程。"
+    },
+    "overview": {
+      "en": "Priceline's Trip Intelligence suite features one of the travel industry's most comprehensive arrays of AI tools, including more than 30 new features built on Google Cloud's Vertex AI. The suite dramatically streamlines travel planning and booking, powered by Penny, Priceline's AI travel assistant that can help with destination recommendations, deal-finding, and personalized customer service around the clock.",
+      "zh": "Priceline 的 Trip Intelligence 套件是旅遊業最全面的 AI 工具陣容之一，包含逾 30 項建構於 Google Cloud Vertex AI 的新功能，大幅簡化旅遊規劃與訂購流程。套件由 AI 旅遊助理 Penny 驅動，提供全天候目的地推薦、最優惠機票飯店搜尋及個人化客服。"
+    },
+    "highlights": {
+      "en": [
+        "Trip Intelligence suite features 30+ new AI tools built on Google Cloud Vertex AI.",
+        "Penny, Priceline's AI assistant, handles destination recommendations, deals, and customer service 24/7.",
+        "Personalized GenAI itineraries with dining and activity suggestions in the iOS app.",
+        "Over half of travelers surveyed say they would use AI tools to cut down trip planning time.",
+        "Represents one of travel's most comprehensive AI tool deployments."
+      ],
+      "zh": [
+        "Trip Intelligence 套件包含 30 多項建構於 Google Cloud Vertex AI 的新 AI 工具。",
+        "AI 助理 Penny 提供全天候目的地推薦、優惠搜尋及客服支援。",
+        "iOS App 內提供生成式 AI 行程建議，包含餐廳與活動推薦。",
+        "超過半數受訪旅客表示願意使用 AI 工具縮短旅遊規劃時間。",
+        "代表旅遊業最全面的 AI 工具部署之一。"
+      ]
+    },
+    "technologies": [
+      "Vertex AI",
+      "Gemini"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Priceline Debuts New AI-Powered Trip Intelligence Features | Booking Holdings",
+        "url": "https://ir.bookingholdings.com/news/news-details/2024/Priceline-Debuts-New-AI-Powered-Trip-Intelligence-Features-To-Save-Consumers-Time-and-Money/default.aspx"
+      },
+      {
+        "title": "Priceline and Google Cloud partner on AI tech | Hotel Dive",
+        "url": "https://www.hoteldive.com/news/priceline-googlecloud-ai-chatbot-travel-booking/652434/"
+      }
+    ]
+  },
+  {
+    "id": "hospitality-travel-customer-riu-hotels-resorts",
+    "industry": "hospitality-travel",
+    "agentType": "customer",
+    "company": "RIU Hotels & Resorts",
+    "isNew": true,
+    "needsReview": true,
+    "summary": {
+      "en": "RIU Hotels & Resorts leverages Google Cloud AI and ML models to predict user purchase probability for its e-commerce team.",
+      "zh": "RIU Hotels & Resorts 運用 Google Cloud AI 與機器學習模型，為電商團隊預測用戶購買意願。"
+    },
+    "overview": {
+      "en": "RIU Hotels & Resorts leverages Google Cloud AI and machine learning models to predict user purchase probability for the e-commerce team. This enables the hotel group to optimize digital marketing spend, personalize offers, and prioritize high-intent customers across its online booking channels.",
+      "zh": "RIU Hotels & Resorts 運用 Google Cloud AI 與機器學習模型，為電商團隊預測用戶購買意願。此舉讓集團能優化數位行銷預算、個人化優惠，並在線上訂房管道中優先服務高購買意願的顧客。"
+    },
+    "highlights": {
+      "en": [
+        "Google Cloud AI and ML models predict user purchase probability.",
+        "Enables e-commerce team to optimize digital marketing and personalize offers.",
+        "Prioritizes high-intent customers across online booking channels."
+      ],
+      "zh": [
+        "Google Cloud AI 與機器學習模型預測用戶購買意願。",
+        "協助電商團隊優化數位行銷預算並個人化優惠。",
+        "在線上訂房管道中優先觸達高購買意願的顧客。"
+      ]
+    },
+    "technologies": [
+      "Vertex AI",
+      "Google Cloud AI"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ]
+  },
+  {
+    "id": "hospitality-travel-customer-sabre",
+    "industry": "hospitality-travel",
+    "agentType": "customer",
+    "company": "Sabre",
+    "isNew": false,
+    "summary": {
+      "en": "Sabre Travel AI on Vertex AI personalizes travel offers, optimizes revenue management, and streamlines operations for travel companies.",
+      "zh": "Sabre Travel AI 在 Vertex AI 上為旅遊公司個人化旅遊優惠、優化收益管理並簡化營運。"
+    },
+    "overview": {
+      "en": "Sabre Travel AI developed an AI agent on Google Cloud's Vertex AI that personalizes offers, optimizes revenue management, and streamlines operations for travel companies. Sabre IQ processes 1.5 trillion signals daily from live travel operations, and combines Google's Gemini models with 50 petabytes of travel data to deliver real-time, personalized travel commerce. Solutions like SabreMosaic Ancillary IQ drive up to 10% higher ancillary revenue for airline partners.",
+      "zh": "Sabre Travel AI 在 Google Cloud Vertex AI 上開發了 AI 代理，為旅遊公司個人化旅遊優惠、優化收益管理並簡化營運。Sabre IQ 每日處理 1.5 兆個即時旅遊營運訊號，結合 Google Gemini 模型與 50 拍位元組的旅遊資料，實現即時個人化旅遊商務。SabreMosaic Ancillary IQ 可為航空合作夥伴帶來高達 10% 的附加收益成長。"
+    },
+    "highlights": {
+      "en": [
+        "Sabre IQ processes 1.5 trillion signals daily from live travel operations.",
+        "Combines Gemini models with 50 petabytes of travel data for real-time personalization.",
+        "SabreMosaic Ancillary IQ drives up to 10% higher ancillary revenue for airlines.",
+        "Concierge IQ built on Vertex AI Agent Builder enables conversational travel planning.",
+        "AI-powered improvements lead to expanded revenue and margin growth for partners."
+      ],
+      "zh": [
+        "Sabre IQ 每日處理 1.5 兆個即時旅遊營運訊號。",
+        "結合 Gemini 模型與 50 拍位元組旅遊資料，實現即時個人化服務。",
+        "SabreMosaic Ancillary IQ 可為航空公司帶來高達 10% 的附加收益成長。",
+        "基於 Vertex AI Agent Builder 的 Concierge IQ 支援對話式旅遊規劃。",
+        "AI 驅動的改進為合作夥伴創造更多收益與利潤成長。"
+      ]
+    },
+    "technologies": [
+      "Vertex AI",
+      "Gemini",
+      "Vertex AI Agent Builder"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Sabre case study | Google Cloud",
+        "url": "https://cloud.google.com/customers/sabre"
+      },
+      {
+        "title": "Sabre and Google partnership for travel AI | Sabre",
+        "url": "https://www.sabre.com/google-partnership/"
+      }
+    ]
+  },
+  {
+    "id": "hospitality-travel-customer-six-flags",
+    "industry": "hospitality-travel",
+    "agentType": "customer",
+    "company": "Six Flags",
+    "isNew": false,
+    "needsReview": true,
+    "summary": {
+      "en": "Six Flags built an industry-first AI digital assistant to answer guest questions and help plan a full day at the park.",
+      "zh": "Six Flags 打造業界首創 AI 數位助理，回答賓客問題並協助規劃完整的一日遊行程。"
+    },
+    "overview": {
+      "en": "Six Flags theme parks built an industry-first digital assistant that can answer guests' questions and help them plan their entire day at the park. The company is also applying Google Cloud's capabilities in AI, analytics, and infrastructure to offer improved operations, personalization, and customer experiences across its diverse portfolio of parks.",
+      "zh": "Six Flags 主題樂園打造業界首創數位助理，能回答賓客問題並協助規劃整日遊覽行程。公司同時運用 Google Cloud 的 AI、分析與基礎設施能力，提升其多元公園組合的營運效率、個人化服務與顧客體驗。"
+    },
+    "highlights": {
+      "en": [
+        "Industry-first AI digital assistant helps guests plan their entire day at Six Flags parks.",
+        "Answers guest questions about attractions, wait times, and park logistics.",
+        "Google Cloud AI applied to improve operations and personalization across the park portfolio."
+      ],
+      "zh": [
+        "業界首創 AI 數位助理協助賓客規劃 Six Flags 樂園的整日遊覽行程。",
+        "回答有關景點、等候時間及園內資訊的賓客問題。",
+        "Google Cloud AI 用於提升整個公園組合的營運效率與個人化服務。"
+      ]
+    },
+    "technologies": [
+      "Vertex AI",
+      "Gemini",
+      "Google Cloud AI"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ]
+  },
+  {
+    "id": "hospitality-travel-customer-studiosus-reisen",
+    "industry": "hospitality-travel",
+    "agentType": "customer",
+    "company": "Studiosus Reisen",
+    "isNew": false,
+    "summary": {
+      "en": "German travel company Studiosus Reisen migrated a 40-year-old legacy system to Google Cloud, increasing booking conversion rates by 40%.",
+      "zh": "德國旅遊公司 Studiosus Reisen 將 40 年舊系統遷移至 Google Cloud，訂單轉換率提升 40%。"
+    },
+    "overview": {
+      "en": "Studiosus Reisen, a German travel company, worked with partners happtiq and Solid Cloud to migrate its 40-year-old on-premise COBOL system and SAP workloads to Google Cloud. The migration enabled real-time reservation synchronization of availability and pricing, increasing booking conversion rates by 40% and significantly improving customer satisfaction.",
+      "zh": "德國旅遊公司 Studiosus Reisen 與合作夥伴 happtiq 及 Solid Cloud 合作，將 40 年歷史的舊版 COBOL 本地系統及 SAP 工作負載遷移至 Google Cloud。遷移後實現即時預訂同步（包含可用性與定價），訂單轉換率提升 40%，顧客滿意度顯著改善。"
+    },
+    "highlights": {
+      "en": [
+        "Migrated a 40-year-old on-premise COBOL system and SAP workloads to Google Cloud.",
+        "Real-time synchronization of availability and pricing enabled by cloud microservices architecture.",
+        "Booking conversion rates increased by 40% after migration.",
+        "SAP system performance improved without increasing virtual machine size.",
+        "Partners happtiq and Solid Cloud provided technical support throughout the migration."
+      ],
+      "zh": [
+        "將 40 年歷史的本地 COBOL 系統及 SAP 工作負載遷移至 Google Cloud。",
+        "雲端微服務架構實現可用性與定價的即時同步。",
+        "遷移後訂單轉換率提升 40%。",
+        "SAP 系統效能提升，且無需擴大虛擬機器規模。",
+        "happtiq 與 Solid Cloud 在整個遷移過程中提供技術支援。"
+      ]
+    },
+    "technologies": [
+      "Google Cloud",
+      "Vertex AI"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Studiosus case study | Google Cloud",
+        "url": "https://cloud.google.com/customers/studiosus"
+      },
+      {
+        "title": "How Studiosus Transformed Travel Bookings with happtiq & Cloud — happtiq",
+        "url": "https://www.happtiq.com/success-stories/studiosus"
+      }
+    ]
+  },
+  {
+    "id": "hospitality-travel-customer-technogym",
+    "industry": "hospitality-travel",
+    "agentType": "customer",
+    "company": "Technogym",
+    "isNew": false,
+    "summary": {
+      "en": "Technogym uses Vertex AI and Gemini to power Technogym Coach, an AI virtual trainer delivering hyper-personalized fitness programs.",
+      "zh": "Technogym 運用 Vertex AI 與 Gemini 驅動 Technogym Coach AI 虛擬教練，提供超個人化健身計畫。"
+    },
+    "overview": {
+      "en": "Technogym leverages Vertex AI and Google Cloud's Model Garden to power Technogym Coach, an AI-driven virtual trainer that creates hyper-personalized fitness programs. Users can interact via text, images, or voice to receive personalized, actionable tips on training, recovery, and nutrition. The platform increased user engagement and motivation while improving fitness outcomes through precision, adaptive programs.",
+      "zh": "Technogym 運用 Vertex AI 與 Google Cloud Model Garden 驅動 Technogym Coach——一款創建超個人化健身計畫的 AI 虛擬教練。用戶可透過文字、圖片或語音互動，獲得個人化的訓練、恢復及營養建議。平台透過精準自適應計畫，提升用戶參與度、訓練動力並改善健身成效。"
+    },
+    "highlights": {
+      "en": [
+        "Technogym Coach powered by Vertex AI and Model Garden creates hyper-personalized fitness programs.",
+        "Users can interact via text, image, or voice for personalized training, recovery, and nutrition tips.",
+        "Integration with Gemini enables natural language fitness coaching at scale.",
+        "Increased user engagement, motivation, and fitness outcomes.",
+        "GDPR-compliant data handling via BigQuery and Google Cloud's enterprise AI architecture."
+      ],
+      "zh": [
+        "Technogym Coach 由 Vertex AI 與 Model Garden 驅動，生成超個人化健身計畫。",
+        "用戶可透過文字、圖片或語音互動，獲得個人化訓練、恢復及營養建議。",
+        "整合 Gemini 實現大規模自然語言健身教練服務。",
+        "提升用戶參與度、訓練動力及健身成效。",
+        "透過 BigQuery 與 Google Cloud 企業 AI 架構確保符合 GDPR 規範。"
+      ]
+    },
+    "technologies": [
+      "Vertex AI",
+      "Model Garden",
+      "Gemini",
+      "BigQuery"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Google Cloud, Technogym Partner on Gemini AI",
+        "url": "https://techedgeai.com/google-cloud-technogym-partner-on-gemini-ai/"
+      }
+    ]
+  },
+  {
+    "id": "hospitality-travel-customer-trivago",
+    "industry": "hospitality-travel",
+    "agentType": "customer",
+    "company": "trivago",
+    "isNew": false,
+    "needsReview": true,
+    "summary": {
+      "en": "trivago's Smart AI Search powered by Vertex AI Search lets users find hotels with natural language for a more personalized experience.",
+      "zh": "trivago 的 Smart AI Search 以 Vertex AI Search 驅動，讓用戶以自然語言搜尋飯店，提供更個人化的體驗。"
+    },
+    "overview": {
+      "en": "trivago launched 'Smart AI Search,' an advanced free-text search functionality powered by Vertex AI Search, allowing users to search for hotels using natural language queries. This makes it easier and more personalized to find ideal accommodations by understanding nuanced traveler preferences rather than requiring structured keyword searches.",
+      "zh": "trivago 推出「Smart AI Search」——由 Vertex AI Search 驅動的進階自由文字搜尋功能，讓用戶以自然語言查詢搜尋飯店。透過理解旅客的細微偏好而非要求結構化關鍵字搜尋，讓用戶更輕鬆、更個人化地找到理想住宿。"
+    },
+    "highlights": {
+      "en": [
+        "Smart AI Search powered by Vertex AI Search enables natural language hotel searches.",
+        "Users can search with conversational queries instead of structured keywords.",
+        "More personalized and intuitive hotel discovery experience."
+      ],
+      "zh": [
+        "Smart AI Search 由 Vertex AI Search 驅動，支援自然語言飯店搜尋。",
+        "用戶可以對話式查詢取代結構化關鍵字搜尋。",
+        "提供更個人化、更直覺的飯店探索體驗。"
+      ]
+    },
+    "technologies": [
+      "Vertex AI Search"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ]
+  },
+  {
+    "id": "hospitality-travel-customer-vail-resorts",
+    "industry": "hospitality-travel",
+    "agentType": "customer",
+    "company": "Vail Resorts",
+    "isNew": true,
+    "summary": {
+      "en": "Vail Resorts' My Epic Assistant, powered by Gemini, acts as an agentic ski guide for season passes, snow reports, and lessons.",
+      "zh": "Vail Resorts 的 My Epic Assistant 由 Gemini 驅動，作為滑雪者的 AI 代理嚮導，提供季票、雪況及課程資訊。"
+    },
+    "overview": {
+      "en": "Vail Resorts launched My Epic Assistant during the 2024-2025 snow season and expanded it with more features for 2025-2026, powered by Google's Gemini models. The AI assistant acts as an agentic guide to the slopes, helping skiers and snowboarders choose the right season pass, check the latest snow report, prepare for lessons, or find a good spot for hot cocoa. It operates 24/7 within the My Epic app across multiple Colorado resorts.",
+      "zh": "Vail Resorts 於 2024-2025 雪季推出 My Epic Assistant，並在 2025-2026 年擴展更多功能，由 Google Gemini 模型驅動。AI 助理作為斜坡代理嚮導，協助滑雪者選擇正確的季票、查看最新雪況、準備課程或尋找熱可可休憩點，全天候在多個科羅拉多度假村的 My Epic App 內運作。"
+    },
+    "highlights": {
+      "en": [
+        "My Epic Assistant launched during 2024-2025 season and expanded for 2025-2026.",
+        "Powered by Google Gemini models, providing 24/7 in-app AI assistance.",
+        "Agentic guide helps with season pass selection, snow reports, lesson prep, and dining recommendations.",
+        "Initially available across four Colorado resorts: Vail, Beaver Creek, Breckenridge, and Keystone.",
+        "Built with Google Cloud specialist 66degrees for continuous feature updates."
+      ],
+      "zh": [
+        "My Epic Assistant 於 2024-2025 雪季推出，並在 2025-2026 年擴展新功能。",
+        "由 Google Gemini 模型驅動，在 App 內提供全天候 AI 協助。",
+        "代理嚮導協助選擇季票、查看雪況、準備課程及餐飲推薦。",
+        "初期在 Vail、Beaver Creek、Breckenridge 及 Keystone 四個科羅拉多度假村提供服務。",
+        "與 Google Cloud 專業合作夥伴 66degrees 合作持續更新功能。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Vertex AI"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "How Vail Resorts built an AI assistant to automate personalized recommendations | Google Cloud Blog",
+        "url": "https://cloud.google.com/blog/products/ai-machine-learning/how-vail-resorts-built-an-ai-assistant-to-automate-personalized-recommendations"
+      },
+      {
+        "title": "Vail Resorts Announces My Epic Assistant | Vail Resorts Newsroom",
+        "url": "https://news.vailresorts.com/2024-03-18-Vail-Resorts-Announces-My-Epic-Assistant-in-the-My-Epic-app-Powered-by-Advanced-AI-and-Resort-Experts"
+      }
+    ]
+  },
+  {
+    "id": "hospitality-travel-customer-virgin-voyages",
+    "industry": "hospitality-travel",
+    "agentType": "customer",
+    "company": "Virgin Voyages",
+    "isNew": true,
+    "summary": {
+      "en": "Virgin Voyages' Rovey agent, built on Gemini Enterprise and Google Distributed Cloud, brings a personalized AI concierge to cruise guests.",
+      "zh": "Virgin Voyages 的 Rovey 代理基於 Gemini Enterprise 與 Google Distributed Cloud，為郵輪賓客帶來個人化 AI 禮賓服務。"
+    },
+    "overview": {
+      "en": "Virgin Voyages unveiled Rovey — the cruise industry's first AI crew assistant built on Gemini Enterprise and Google Distributed Cloud — at Google Cloud Next 2026. Rovey empowers crew with natural language intelligence to deliver warm, informed, and personalized interactions with sailors. It forms the first element of Project Ruby, Virgin Voyages' broader AI initiative to support the full sailor journey from discovery through booking.",
+      "zh": "Virgin Voyages 在 Google Cloud Next 2026 發表 Rovey——郵輪業首個基於 Gemini Enterprise 與 Google Distributed Cloud 建構的 AI 船員助理。Rovey 賦予船員自然語言智慧，為旅客提供溫暖、知情且個人化的互動體驗。Rovey 是 Project Ruby 的首個元件——Virgin Voyages 支持旅客從探索到訂購全程旅程的更宏觀 AI 計畫。"
+    },
+    "highlights": {
+      "en": [
+        "Rovey is the cruise industry's first AI crew assistant, unveiled at Google Cloud Next 2026.",
+        "Built on Gemini Enterprise Agent Platform and Google Distributed Cloud.",
+        "Empowers crew with natural language intelligence for personalized sailor interactions.",
+        "First element of Project Ruby, covering the full sailor journey from discovery to booking.",
+        "Virgin Voyages launched 50+ AI agents across the business via Gemini Enterprise."
+      ],
+      "zh": [
+        "Rovey 是郵輪業首個 AI 船員助理，於 Google Cloud Next 2026 發表。",
+        "基於 Gemini Enterprise Agent Platform 與 Google Distributed Cloud 建構。",
+        "賦予船員自然語言智慧，為旅客提供個人化互動體驗。",
+        "Project Ruby 的首個元件，涵蓋旅客從探索到訂購的完整旅程。",
+        "Virgin Voyages 透過 Gemini Enterprise 在全公司推出逾 50 個 AI 代理。"
+      ]
+    },
+    "technologies": [
+      "Gemini Enterprise",
+      "Google Distributed Cloud",
+      "Vertex AI"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Virgin Voyages Debuts Rovey with Google Cloud | Google Cloud Press Corner",
+        "url": "https://www.googlecloudpresscorner.com/2026-04-22-Virgin-Voyages-Debuts-Rovey-with-Google-Cloud,-the-First-AI-Crew-Assistant-Built-to-Redefine-Cruise-Booking-Economics"
+      },
+      {
+        "title": "Project Ruby: Virgin Voyages' AI Platform Built with Google Cloud",
+        "url": "https://www.virginvoyages.com/press/latest-releases/project-ruby-ai-platform-google-cloud"
+      }
+    ]
+  },
+  {
+    "id": "hospitality-travel-customer-vivaticket",
+    "industry": "hospitality-travel",
+    "agentType": "customer",
+    "company": "Vivaticket",
+    "isNew": false,
+    "needsReview": true,
+    "summary": {
+      "en": "Vivaticket plans to use Vertex AI Search to accelerate event discovery and generate SEO-friendly event descriptions faster.",
+      "zh": "Vivaticket 計畫運用 Vertex AI Search 加速活動資訊搜尋，並更快速生成 SEO 友善的活動說明。"
+    },
+    "overview": {
+      "en": "Vivaticket, an international event management and ticketing platform, plans to use Vertex AI Search to accelerate customer access to information about interesting events. Generative AI will also help Vivaticket generate personalized event recommendations and create SEO-friendly event and venue descriptions faster, improving discoverability and customer engagement.",
+      "zh": "國際活動管理與票務平台 Vivaticket 計畫運用 Vertex AI Search，加速顧客搜尋感興趣活動的資訊。生成式 AI 還將協助 Vivaticket 更快速生成個人化活動推薦及 SEO 友善的活動與場館說明，提升搜尋可見度與顧客參與度。"
+    },
+    "highlights": {
+      "en": [
+        "Plans to use Vertex AI Search to accelerate customer event information access.",
+        "Generative AI to generate personalized event recommendations.",
+        "SEO-friendly event and venue descriptions to be created faster with AI."
+      ],
+      "zh": [
+        "計畫運用 Vertex AI Search 加速顧客搜尋活動資訊。",
+        "生成式 AI 生成個人化活動推薦。",
+        "以 AI 更快速創建 SEO 友善的活動與場館說明。"
+      ]
+    },
+    "technologies": [
+      "Vertex AI Search",
+      "Gemini"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ]
+  },
+  {
+    "id": "hospitality-travel-employee-attache",
+    "industry": "hospitality-travel",
+    "agentType": "employee",
+    "company": "Attache",
+    "isNew": false,
+    "summary": {
+      "en": "Attache uses Gemini for Google Workspace to analyze historical data, achieving an 80% reduction in calls from new arrivals.",
+      "zh": "Attache 運用 Gemini for Google Workspace 分析歷史資料，使新住客來電減少 80%。"
+    },
+    "overview": {
+      "en": "Attache leverages Gemini for Google Workspace to streamline various operational tasks, including analyzing historical data about guest needs and behaviors. This AI-powered approach achieved an 80% reduction in calls from new arrivals, leading to happier customers and smoother stays by proactively addressing common guest queries before they arise.",
+      "zh": "Attache 運用 Gemini for Google Workspace 簡化各項營運任務，包括分析賓客需求與行為的歷史資料。這種 AI 驅動的方式使新住客來電減少 80%，透過提前解答常見問題，讓顧客更滿意、入住更順暢。"
+    },
+    "highlights": {
+      "en": [
+        "80% reduction in calls from new arrivals after implementing Gemini for Google Workspace.",
+        "Historical data analysis enables proactive guest service.",
+        "Results in happier customers and smoother stays."
+      ],
+      "zh": [
+        "導入 Gemini for Google Workspace 後，新住客來電減少 80%。",
+        "歷史資料分析實現主動式賓客服務。",
+        "顧客滿意度提升，入住體驗更順暢。"
+      ]
+    },
+    "technologies": [
+      "Gemini for Google Workspace",
+      "Gemini"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ]
+  },
+  {
+    "id": "hospitality-travel-employee-hershey-entertainment-resorts",
+    "industry": "hospitality-travel",
+    "agentType": "employee",
+    "company": "Hershey Entertainment & Resorts",
+    "isNew": false,
+    "summary": {
+      "en": "Hershey's Agnes AI IVR system handles 25%+ of employee call-offs, saving 8 hours of staff work daily via Customer Engagement Suite.",
+      "zh": "Hershey 的 Agnes AI IVR 系統處理逾 25% 的員工缺席申請，每日為人員節省 8 小時工時。"
+    },
+    "overview": {
+      "en": "Hershey Entertainment & Resorts uses Customer Engagement Suite to power Agnes, an agentic AI Interactive Voice Response (IVR) system that identifies employees by caller ID, addresses them by name, and processes call-off requests, late notifications, and schedule inquiries. Agnes now handles over 25% of employee call-offs, saving eight hours of staff work per day and enabling HR staff to focus on more complex guest and employee issues.",
+      "zh": "Hershey Entertainment & Resorts 運用 Customer Engagement Suite 驅動 Agnes——一套代理式 AI 互動語音應答（IVR）系統，可透過來電顯示辨識員工身份、以名字稱呼員工，並處理缺席申請、遲到通知及排班查詢。Agnes 目前處理超過 25% 的員工缺席申請，每日為人員節省 8 小時工時，讓人力資源人員得以專注處理更複雜的賓客與員工事務。"
+    },
+    "highlights": {
+      "en": [
+        "Agnes AI IVR handles over 25% of all employee call-offs.",
+        "Saves 8 hours of HR staff work per day.",
+        "Identifies employees by caller ID and addresses them by name.",
+        "Processes call-offs, late notifications, and schedule inquiries automatically.",
+        "Frees staff to focus on complex guest and employee problems."
+      ],
+      "zh": [
+        "Agnes AI IVR 處理超過 25% 的員工缺席申請。",
+        "每日為人力資源人員節省 8 小時工時。",
+        "透過來電顯示辨識員工身份並以名字稱呼。",
+        "自動處理缺席申請、遲到通知及排班查詢。",
+        "讓人員得以專注處理更複雜的賓客與員工事務。"
+      ]
+    },
+    "technologies": [
+      "Customer Engagement Suite",
+      "Gemini",
+      "Conversational Agents"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Hershey Entertainment & Resorts case study | Google Cloud",
+        "url": "https://cloud.google.com/customers/hershey"
+      }
+    ]
+  },
+  {
+    "id": "hospitality-travel-employee-korean-air",
+    "industry": "hospitality-travel",
+    "agentType": "employee",
+    "company": "Korean Air",
+    "isNew": true,
+    "needsReview": true,
+    "summary": {
+      "en": "Korean Air is using Gemini in Google Workspace to improve employee collaboration and productivity.",
+      "zh": "Korean Air 正運用 Gemini for Google Workspace 提升員工協作效率與生產力。"
+    },
+    "overview": {
+      "en": "Korean Air is using Gemini in Google Workspace to improve employee collaboration and productivity across the airline. The initiative reflects a broader trend of major carriers adopting AI-powered productivity tools to streamline internal workflows and communications.",
+      "zh": "Korean Air 正運用 Google Workspace 中的 Gemini 提升全航空公司的員工協作效率與生產力，體現大型航空公司採用 AI 生產力工具以簡化內部工作流程與溝通的趨勢。"
+    },
+    "highlights": {
+      "en": [
+        "Korean Air deploying Gemini in Google Workspace for employee productivity.",
+        "Aims to improve collaboration and streamline internal workflows."
+      ],
+      "zh": [
+        "Korean Air 在 Google Workspace 部署 Gemini 提升員工生產力。",
+        "旨在改善協作效率並簡化內部工作流程。"
+      ]
+    },
+    "technologies": [
+      "Gemini for Google Workspace",
+      "Gemini"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ]
+  },
+  {
+    "id": "hospitality-travel-employee-koufu",
+    "industry": "hospitality-travel",
+    "agentType": "employee",
+    "company": "Koufu",
+    "isNew": true,
+    "needsReview": true,
+    "summary": {
+      "en": "Koufu uses Gemini Enterprise to automate sales reporting and BigQuery analysis, freeing shop managers for front-of-house service.",
+      "zh": "Koufu 運用 Gemini Enterprise 自動化銷售報表與 BigQuery 分析，讓店長能專注於現場服務品質。"
+    },
+    "overview": {
+      "en": "Koufu, one of Singapore's largest food and beverage companies operating a large network of food courts and coffee shops, is using Gemini Enterprise to automate sales reporting and BigQuery data analysis. By reducing spreadsheet bottlenecks, shop managers can redirect their time from data processing to front-of-house service quality and customer experience.",
+      "zh": "新加坡最大餐飲公司之一的 Koufu 管理大型美食廣場與咖啡店網絡，正運用 Gemini Enterprise 自動化銷售報表生成與 BigQuery 資料分析。透過減少試算表操作的瓶頸，店長可將時間從資料處理轉移至現場服務品質與顧客體驗的改善。"
+    },
+    "highlights": {
+      "en": [
+        "Gemini Enterprise automates sales reporting for shop managers.",
+        "BigQuery data analysis automated to reduce spreadsheet bottlenecks.",
+        "Frees shop managers to focus on front-of-house service quality."
+      ],
+      "zh": [
+        "Gemini Enterprise 為店長自動化銷售報表生成。",
+        "BigQuery 資料分析自動化，減少試算表操作的瓶頸。",
+        "讓店長得以專注於現場服務品質提升。"
+      ]
+    },
+    "technologies": [
+      "Gemini Enterprise",
+      "BigQuery",
+      "Gemini"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ]
+  },
+  {
+    "id": "hospitality-travel-employee-loveholidays",
+    "industry": "hospitality-travel",
+    "agentType": "employee",
+    "company": "loveholidays",
+    "isNew": false,
+    "summary": {
+      "en": "loveholidays saved 20% of customer service costs per year and £3M annually after deploying Google's Customer Engagement Suite.",
+      "zh": "loveholidays 部署 Google Customer Engagement Suite 後，每年節省 20% 客服成本，年度節省達 300 萬英鎊。"
+    },
+    "overview": {
+      "en": "loveholidays, one of the UK's fastest-growing online travel agencies, deployed Google's Customer Engagement Suite and achieved 20% savings in customer service costs per year, equating to £3 million ($3.8 million) annually. Their self-service AI agent Sandy, built using Conversational Agents, now resolves 55% of customer queries in under one minute. Multi-language capabilities also enabled market expansion in Europe using the existing workforce.",
+      "zh": "英國成長最快速的線上旅行社之一 loveholidays 部署 Google Customer Engagement Suite 後，每年節省 20% 客服成本，相當於年度節省 300 萬英鎊（約 380 萬美元）。以 Conversational Agents 建構的自助 AI 代理 Sandy 現可在一分鐘內解決 55% 的顧客查詢。多語言能力也讓公司得以利用現有員工拓展歐洲市場。"
+    },
+    "highlights": {
+      "en": [
+        "20% reduction in customer service cost per year.",
+        "£3M ($3.8M) in annual operational savings.",
+        "Sandy AI agent resolves 55% of customer queries in under one minute.",
+        "Multi-language support enabled European market expansion with existing workforce."
+      ],
+      "zh": [
+        "每年客服成本降低 20%。",
+        "年度營運節省達 300 萬英鎊（約 380 萬美元）。",
+        "AI 代理 Sandy 在一分鐘內解決 55% 的顧客查詢。",
+        "多語言支援讓現有員工即可拓展歐洲市場。"
+      ]
+    },
+    "technologies": [
+      "Customer Engagement Suite",
+      "Conversational Agents",
+      "Gemini"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "loveholidays case study | Google Cloud",
+        "url": "https://cloud.google.com/customers/loveholidays"
+      }
+    ]
+  },
+  {
+    "id": "hospitality-travel-employee-sweets-and-meats-bbq",
+    "industry": "hospitality-travel",
+    "agentType": "employee",
+    "company": "Sweets and Meats BBQ",
+    "isNew": false,
+    "needsReview": true,
+    "summary": {
+      "en": "Sweets and Meats BBQ uses Gemini in Sheets to instantly generate a weekly food truck schedule by finding local events.",
+      "zh": "Sweets and Meats BBQ 運用 Gemini in Sheets 即時搜尋在地活動並生成每週餐車行程表。"
+    },
+    "overview": {
+      "en": "Sweets and Meats BBQ food truck uses Gemini in Google Sheets to quickly find local events and generate a weekly schedule in seconds. This AI-assisted workflow eliminates manual event research, allowing the team to focus on food preparation and customer service instead of administrative scheduling.",
+      "zh": "Sweets and Meats BBQ 餐車運用 Google Sheets 中的 Gemini 快速搜尋在地活動並在數秒內生成每週行程表。這種 AI 輔助工作流程省去手動查找活動的時間，讓團隊得以專注於食物製作與顧客服務，而非行政排程。"
+    },
+    "highlights": {
+      "en": [
+        "Gemini in Sheets finds local events and generates a weekly food truck schedule in seconds.",
+        "Eliminates manual event research for the food truck team.",
+        "Frees staff to focus on food preparation and customer service."
+      ],
+      "zh": [
+        "Gemini in Sheets 在數秒內搜尋在地活動並生成每週餐車行程表。",
+        "省去餐車團隊手動查找活動的時間。",
+        "讓員工得以專注於食物製作與顧客服務。"
+      ]
+    },
+    "technologies": [
+      "Gemini for Google Workspace",
+      "Gemini"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ]
+  },
+  {
+    "id": "hospitality-travel-employee-tau-resorts",
+    "industry": "hospitality-travel",
+    "agentType": "employee",
+    "company": "Tauá Resorts",
+    "isNew": true,
+    "needsReview": true,
+    "summary": {
+      "en": "Tauá Resorts created an AI agent that generates real-time insights and dialogue suggestions to help its sales team answer complex client questions instantly.",
+      "zh": "Tauá Resorts 建立 AI 代理，即時生成洞察與對話建議，協助銷售團隊即刻回答複雜的客戶問題。"
+    },
+    "overview": {
+      "en": "Tauá Resorts group created an intelligent AI agent that generates real-time insights and dialogue suggestions for its sales team. By leveraging data from previous events, the agent helps sales staff craft perfectly tailored proposals for every client instantly, enabling them to answer complex questions about event planning and resort services without delays.",
+      "zh": "Tauá Resorts 集團建立了一個智慧 AI 代理，為銷售團隊即時生成洞察與對話建議。透過運用過往活動資料，該代理協助銷售人員即刻為每位客戶量身打造完美提案，能立即回答有關活動規劃與度假村服務的複雜問題。"
+    },
+    "highlights": {
+      "en": [
+        "AI agent generates real-time insights and dialogue suggestions for sales staff.",
+        "Leverages historical event data to craft tailored client proposals instantly.",
+        "Enables sales team to answer complex questions about events and resort services without delays."
+      ],
+      "zh": [
+        "AI 代理為銷售人員即時生成洞察與對話建議。",
+        "運用歷史活動資料即刻為客戶量身打造提案。",
+        "讓銷售團隊能立即回答有關活動與度假村服務的複雜問題。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Vertex AI"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ]
+  },
+  {
+    "id": "hospitality-travel-employee-thrive-restaurant-group",
+    "industry": "hospitality-travel",
+    "agentType": "employee",
+    "company": "Thrive Restaurant Group",
+    "isNew": true,
+    "needsReview": true,
+    "summary": {
+      "en": "Thrive Restaurant Group is enabling any employee to explore business data conversationally through gen AI.",
+      "zh": "Thrive Restaurant Group 透過生成式 AI 讓任何員工都能以對話方式探索業務資料。"
+    },
+    "overview": {
+      "en": "Thrive Restaurant Group is deploying generative AI to democratize data access across its organization, enabling any employee — not just analysts — to explore business data conversationally. This removes barriers to data-driven decision-making at all levels of the restaurant operation.",
+      "zh": "Thrive Restaurant Group 部署生成式 AI，讓組織內任何員工（不只是分析師）都能以對話方式探索業務資料，從而打破餐飲營運各層級的資料驅動決策障礙。"
+    },
+    "highlights": {
+      "en": [
+        "Any employee can explore business data conversationally using gen AI.",
+        "Democratizes data access across the restaurant organization.",
+        "Removes barriers to data-driven decision-making at all levels."
+      ],
+      "zh": [
+        "任何員工都能透過生成式 AI 以對話方式探索業務資料。",
+        "在整個餐飲組織中普及資料存取能力。",
+        "消除各層級資料驅動決策的障礙。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "BigQuery",
+      "Vertex AI"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ]
+  },
+  {
+    "id": "hospitality-travel-employee-virgin-voyages",
+    "industry": "hospitality-travel",
+    "agentType": "employee",
+    "company": "Virgin Voyages",
+    "isNew": true,
+    "summary": {
+      "en": "Virgin Voyages deployed 1,000+ specialized AI agents on Gemini Enterprise, cutting campaign creation time by 40%.",
+      "zh": "Virgin Voyages 在 Gemini Enterprise 上部署逾 1,000 個專業 AI 代理，行銷活動創建時間縮短 40%。"
+    },
+    "overview": {
+      "en": "Virgin Voyages deployed more than 1,000 specialized AI agents on Gemini Enterprise to transform its marketing operations. These agents reduce campaign creation times by 40% by turning behavioral signals into personalized actions at scale, enabling the marketing team to deliver highly targeted campaigns much faster than before.",
+      "zh": "Virgin Voyages 在 Gemini Enterprise 上部署逾 1,000 個專業 AI 代理，徹底轉型行銷營運模式。這些代理將行為訊號轉化為大規模個人化行動，使行銷活動創建時間縮短 40%，讓行銷團隊能以比以往快得多的速度推出高度精準的行銷活動。"
+    },
+    "highlights": {
+      "en": [
+        "1,000+ specialized AI agents deployed on Gemini Enterprise.",
+        "Campaign creation times reduced by 40%.",
+        "Agents turn behavioral signals into personalized actions at scale.",
+        "Enables faster delivery of highly targeted marketing campaigns."
+      ],
+      "zh": [
+        "在 Gemini Enterprise 上部署逾 1,000 個專業 AI 代理。",
+        "行銷活動創建時間縮短 40%。",
+        "代理將行為訊號大規模轉化為個人化行動。",
+        "讓行銷團隊能更快速推出高度精準的行銷活動。"
+      ]
+    },
+    "technologies": [
+      "Gemini Enterprise",
+      "Vertex AI"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Virgin Voyages Partners with Google Cloud to Launch 50+ AI Agents | PR Newswire",
+        "url": "https://www.prnewswire.com/news-releases/virgin-voyages-partners-with-google-cloud-to-launch-a-fleet-of-50-ai-agents-on-gemini-enterprise-powering-a-company-wide-transformation-302579376.html"
+      }
+    ]
+  },
+  {
+    "id": "hospitality-travel-data-brushbuck-wildlife-tours",
+    "industry": "hospitality-travel",
+    "agentType": "data",
+    "company": "BrushBuck Wildlife Tours",
+    "isNew": false,
+    "needsReview": true,
+    "summary": {
+      "en": "BrushBuck Wildlife Tours tracks seasonal animal movements with Gemini in Sheets to ensure every visitor sees Wyoming's wildlife.",
+      "zh": "BrushBuck Wildlife Tours 運用 Gemini in Sheets 追蹤季節性動物移動，確保每位訪客都能欣賞懷俄明野生動物。"
+    },
+    "overview": {
+      "en": "BrushBuck Wildlife Tours uses Gemini in Google Sheets to track seasonal animal movements in Wyoming. By analyzing movement patterns and seasonal data through AI, the company ensures every visitor has the best possible chance to observe local wildlife, enhancing the tour experience and customer satisfaction.",
+      "zh": "BrushBuck Wildlife Tours 運用 Google Sheets 中的 Gemini 追蹤懷俄明州的季節性動物移動。透過 AI 分析移動模式與季節資料，公司確保每位訪客都有最佳機會觀賞當地野生動物，提升導覽體驗與顧客滿意度。"
+    },
+    "highlights": {
+      "en": [
+        "Gemini in Sheets tracks seasonal animal movements in Wyoming.",
+        "AI analysis helps ensure every visitor has a chance to observe local wildlife.",
+        "Improves tour planning and customer satisfaction."
+      ],
+      "zh": [
+        "Gemini in Sheets 追蹤懷俄明州的季節性動物移動。",
+        "AI 分析協助確保每位訪客都有機會觀賞當地野生動物。",
+        "提升導覽規劃品質與顧客滿意度。"
+      ]
+    },
+    "technologies": [
+      "Gemini for Google Workspace",
+      "Gemini"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ]
+  },
+  {
+    "id": "hospitality-travel-data-fetcherr",
+    "industry": "hospitality-travel",
+    "agentType": "data",
+    "company": "Fetcherr",
+    "isNew": false,
+    "summary": {
+      "en": "Fetcherr's Large Market Model on Vertex AI replaces fractured airline pricing with AI that simulates millions of scenarios for optimal fares.",
+      "zh": "Fetcherr 在 Vertex AI 上的 Large Market Model 取代破碎的航空定價系統，透過模擬數百萬個情境選出最佳票價。"
+    },
+    "overview": {
+      "en": "Fetcherr replaces airlines' fragmented decision-making systems with its proprietary Large Market Model (LMM) — a generative AI system built on Vertex AI that simulates millions of market scenarios before selecting optimal pricing actions. Major airlines including Virgin Atlantic, Delta, Viva Aerobus, and WestJet use the platform for predictive pricing and long-term automation strategies. Some partners have seen double-digit growth in Revenue per Available Seat Kilometre (RASK).",
+      "zh": "Fetcherr 以自有的 Large Market Model（LMM）取代航空公司零散的決策系統——這是一套建構於 Vertex AI 的生成式 AI 系統，在選出最佳定價行動前模擬數百萬個市場情境。包括 Virgin Atlantic、Delta、Viva Aerobus 及 WestJet 在內的大型航空公司使用此平台進行預測性定價與長期自動化策略。部分合作夥伴的每可用座位收益（RASK）呈現兩位數成長。"
+    },
+    "highlights": {
+      "en": [
+        "Large Market Model (LMM) simulates millions of market scenarios to select optimal pricing actions.",
+        "Built on Vertex AI for scalable model deployment and fast predictions.",
+        "Partners include Virgin Atlantic, Delta, Viva Aerobus, and WestJet.",
+        "Some airline partners achieved double-digit growth in Revenue per Available Seat Kilometre (RASK).",
+        "Raised $42M Series C to expand AI pricing technology globally."
+      ],
+      "zh": [
+        "Large Market Model（LMM）模擬數百萬個市場情境，選出最佳定價行動。",
+        "建構於 Vertex AI，實現可擴展的模型部署與快速預測。",
+        "合作夥伴包括 Virgin Atlantic、Delta、Viva Aerobus 及 WestJet。",
+        "部分航空合作夥伴的每可用座位收益（RASK）呈現兩位數成長。",
+        "完成 4,200 萬美元 C 輪融資，以擴展全球 AI 定價技術。"
+      ]
+    },
+    "technologies": [
+      "Vertex AI",
+      "BigQuery"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Fetcherr case study | Google Cloud",
+        "url": "https://cloud.google.com/customers/fetcherr-ai"
+      },
+      {
+        "title": "Fetcherr's Generative AI drives efficient airline pricing | AeroTime",
+        "url": "https://www.aerotime.aero/articles/how-fetcherr-uses-generative-ai-to-drive-hyper-efficient-airline-pricing"
+      }
+    ]
+  },
+  {
+    "id": "hospitality-travel-data-fitz-s-bottling-company",
+    "industry": "hospitality-travel",
+    "agentType": "data",
+    "company": "Fitz's Bottling Company",
+    "isNew": false,
+    "needsReview": true,
+    "summary": {
+      "en": "Fitz's Bottling Company, selling root beer since 1947, uses Gemini in Sheets to quickly organize and format inventory information.",
+      "zh": "自 1947 年起販售根汁啤酒的 Fitz's Bottling Company 運用 Gemini in Sheets 快速整理與格式化庫存資訊。"
+    },
+    "overview": {
+      "en": "Fitz's Bottling Company, which has been selling root beer since 1947 and operates the world's first root beer microbrewery, uses Gemini in Google Sheets to quickly pull together and format inventory information. This AI-assisted workflow helps the historic small business maintain operational efficiency without requiring dedicated data management resources.",
+      "zh": "自 1947 年起販售根汁啤酒的 Fitz's Bottling Company 是全球最早的根汁啤酒微型釀酒廠，運用 Google Sheets 中的 Gemini 快速整合並格式化庫存資訊。這種 AI 輔助工作流程協助這家歷史悠久的小企業維持營運效率，而無需配置專職資料管理人員。"
+    },
+    "highlights": {
+      "en": [
+        "Gemini in Sheets quickly pulls together and formats inventory information.",
+        "Enables a historic small business to maintain operational efficiency.",
+        "Supports the world's first root beer microbrewery's continued success."
+      ],
+      "zh": [
+        "Gemini in Sheets 快速整合並格式化庫存資訊。",
+        "協助歷史悠久的小企業維持營運效率。",
+        "支持全球最早根汁啤酒微型釀酒廠的持續經營。"
+      ]
+    },
+    "technologies": [
+      "Gemini for Google Workspace",
+      "Gemini"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ]
+  },
+  {
+    "id": "hospitality-travel-data-hog-island-oyster",
+    "industry": "hospitality-travel",
+    "agentType": "data",
+    "company": "Hog Island Oyster",
+    "isNew": false,
+    "needsReview": true,
+    "summary": {
+      "en": "Hog Island Oyster simplifies sales analysis with Gemini in Sheets, generating oyster sales reports by type, size, and quantity with a single prompt.",
+      "zh": "Hog Island Oyster 運用 Gemini in Sheets 簡化銷售分析，以一個提示即可生成按種類、尺寸與數量分類的牡蠣銷售報告。"
+    },
+    "overview": {
+      "en": "Hog Island Oyster uses Gemini in Google Sheets to simplify sales analysis, enabling the team to create detailed reports on oyster sales broken down by type, size, and quantity with a single prompt. This AI-powered approach replaces manual spreadsheet analysis, making data insights accessible to everyone on the team.",
+      "zh": "Hog Island Oyster 運用 Google Sheets 中的 Gemini 簡化銷售分析，讓團隊只需一個提示即可生成按種類、尺寸與數量分類的詳細牡蠣銷售報告。這種 AI 驅動的方式取代了手動試算表分析，讓整個團隊都能輕鬆獲取資料洞察。"
+    },
+    "highlights": {
+      "en": [
+        "Single prompt generates detailed oyster sales reports by type, size, and quantity.",
+        "Replaces manual spreadsheet analysis with AI-powered reporting.",
+        "Makes sales data insights accessible to the entire team."
+      ],
+      "zh": [
+        "單一提示即可生成按種類、尺寸與數量分類的詳細銷售報告。",
+        "以 AI 驅動的報告取代手動試算表分析。",
+        "讓整個團隊都能輕鬆獲取銷售資料洞察。"
+      ]
+    },
+    "technologies": [
+      "Gemini for Google Workspace",
+      "Gemini"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ]
+  },
+  {
+    "id": "hospitality-travel-data-latam-airlines",
+    "industry": "hospitality-travel",
+    "agentType": "data",
+    "company": "Latam Airlines",
+    "isNew": false,
+    "summary": {
+      "en": "LATAM Airlines uses Google Cloud AI to automate data governance tasks like table classification and metadata management, reducing time and costs.",
+      "zh": "LATAM Airlines 運用 Google Cloud AI 自動化資料表分類與元資料管理等治理工作，減少時間與成本。"
+    },
+    "overview": {
+      "en": "LATAM Airlines leverages Google Cloud AI to automate data management and governance processes, enhancing customer experience by ensuring data quality and accessibility. By using generative AI for tasks like table classification and metadata management, the airline has significantly reduced the time and costs associated with maintaining its large-scale data platform.",
+      "zh": "LATAM Airlines 運用 Google Cloud AI 自動化資料管理與治理流程，透過確保資料品質與可存取性來提升顧客體驗。透過將生成式 AI 應用於資料表分類與元資料管理等任務，航空公司大幅降低維護大規模資料平台所需的時間與成本。"
+    },
+    "highlights": {
+      "en": [
+        "Generative AI automates table classification for large-scale data management.",
+        "Metadata management automated to reduce manual effort and costs.",
+        "Improved data governance enhances customer experience across operations."
+      ],
+      "zh": [
+        "生成式 AI 自動化大規模資料管理中的資料表分類。",
+        "元資料管理自動化，降低人工工作量與成本。",
+        "改善的資料治理提升整體營運的顧客體驗。"
+      ]
+    },
+    "technologies": [
+      "Vertex AI",
+      "BigQuery",
+      "Gemini"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ]
+  },
+  {
+    "id": "hospitality-travel-data-studiosus-reisen",
+    "industry": "hospitality-travel",
+    "agentType": "data",
+    "company": "Studiosus Reisen",
+    "isNew": false,
+    "summary": {
+      "en": "Studiosus Reisen used Vertex AI to build a model that classifies security alerts automatically, reducing manual effort by 75%.",
+      "zh": "Studiosus Reisen 運用 Vertex AI 建立自動分類安全警示的模型，將人工處理工作量降低 75%。"
+    },
+    "overview": {
+      "en": "Studiosus Reisen worked with partner happtiq to use Vertex AI to build a custom AI model that automatically classifies and filters security alerts relevant to travelers. This system reduces the manual effort required to identify and act on active security concerns for travelers by 75%, enabling the team to respond faster to genuine threats while filtering out irrelevant noise.",
+      "zh": "Studiosus Reisen 與合作夥伴 happtiq 合作，運用 Vertex AI 建立自訂 AI 模型，自動分類並篩選與旅客相關的安全警示。此系統將辨識並處理旅客主動安全問題所需的人工工作量降低 75%，讓團隊能更快速應對真實威脅，同時過濾無關噪音。"
+    },
+    "highlights": {
+      "en": [
+        "Custom Vertex AI model automatically classifies and filters travel security alerts.",
+        "Manual effort to address active traveler security concerns reduced by 75%.",
+        "Enables faster response to genuine threats while filtering irrelevant alerts.",
+        "Built in partnership with happtiq."
+      ],
+      "zh": [
+        "自訂 Vertex AI 模型自動分類並篩選旅遊安全警示。",
+        "處理旅客主動安全問題的人工工作量降低 75%。",
+        "在過濾無關警示的同時，加快對真實威脅的應對速度。",
+        "與 happtiq 合作建立。"
+      ]
+    },
+    "technologies": [
+      "Vertex AI"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "How Studiosus Transformed Travel Bookings with happtiq & Cloud",
+        "url": "https://www.happtiq.com/success-stories/studiosus"
+      }
+    ]
+  },
+  {
+    "id": "hospitality-travel-creative-curb-free",
+    "industry": "hospitality-travel",
+    "agentType": "creative",
+    "company": "Curb Free",
+    "isNew": false,
+    "needsReview": true,
+    "summary": {
+      "en": "Curb Free with Cory Lee uses Gemini in Docs to brainstorm accessible travel content ideas, keeping the wheelchair travel blog fresh.",
+      "zh": "Curb Free with Cory Lee 運用 Gemini in Docs 腦力激盪無障礙旅遊內容創意，讓輪椅旅遊部落格保持新鮮感。"
+    },
+    "overview": {
+      "en": "Curb Free with Cory Lee, a popular wheelchair travel website, uses Gemini in Google Docs to brainstorm new content ideas for accessible travel guides. By leveraging AI to generate fresh angles and topics, the site continues delivering valuable and timely information to readers with mobility challenges who rely on detailed accessibility guidance.",
+      "zh": "知名輪椅旅遊網站 Curb Free with Cory Lee 運用 Google Docs 中的 Gemini 為無障礙旅遊指南腦力激盪新的內容創意。透過 AI 生成新角度與主題，網站持續為倚賴詳細無障礙資訊的行動不便讀者提供有價值的即時資訊。"
+    },
+    "highlights": {
+      "en": [
+        "Gemini in Docs brainstorms new accessible travel guide content ideas.",
+        "Keeps wheelchair travel content fresh and valuable for readers with mobility challenges.",
+        "AI assists with ideation while human expertise guides content quality."
+      ],
+      "zh": [
+        "Gemini in Docs 為無障礙旅遊指南腦力激盪新內容創意。",
+        "讓輪椅旅遊內容對行動不便讀者保持新鮮且有價值。",
+        "AI 協助創意發想，人類專業知識確保內容品質。"
+      ]
+    },
+    "technologies": [
+      "Gemini for Google Workspace",
+      "Gemini"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ]
+  },
+  {
+    "id": "hospitality-travel-creative-japan-airlines",
+    "industry": "hospitality-travel",
+    "agentType": "creative",
+    "company": "Japan Airlines",
+    "isNew": false,
+    "summary": {
+      "en": "Japan Airlines partnered with Brandtech's Pencil and Jellyfish to create AI-generated in-flight tourism videos using Veo 2 in under 15 hours.",
+      "zh": "Japan Airlines 與 Brandtech 旗下 Pencil 及 Jellyfish 合作，以 Veo 2 在 15 小時內創作 AI 生成的機上旅遊影片。"
+    },
+    "overview": {
+      "en": "Japan Airlines partnered with Brandtech Group companies Pencil and Jellyfish to create AI-generated films for in-flight entertainment using Google's Veo 2 model. The entire creative process from concept to final production was completed in under 15 hours by a hybrid team, resulting in stunning 60-second tourism films and six-second YouTube iterations. The project used Veo 2 for video generation, Gemini for scripting, and Imagen 3 for image creation.",
+      "zh": "Japan Airlines 與 Brandtech 集團旗下的 Pencil 和 Jellyfish 合作，以 Google Veo 2 模型創作機上娛樂 AI 生成影片。從概念到最終製作的整個創作流程由混合團隊在 15 小時內完成，產出精彩的 60 秒旅遊影片和 6 秒 YouTube 版本。此專案使用 Veo 2 進行影片生成、Gemini 進行腳本創作、Imagen 3 進行圖像創作。"
+    },
+    "highlights": {
+      "en": [
+        "Entire creative process from concept to production completed in under 15 hours.",
+        "Veo 2 used to generate stunning 60-second in-flight tourism films and 6-second YouTube ads.",
+        "Gemini models used for scripting and curation; Imagen 3 for image creation.",
+        "High-end creative executions saw 20-30% cost reduction; mass-scale executions saw up to 80-90% savings.",
+        "Content designed to encourage tourism in Japan shown on seat-back monitors on select flights."
+      ],
+      "zh": [
+        "從概念到製作完成的整個創作流程在 15 小時內完成。",
+        "Veo 2 生成精彩的 60 秒機上旅遊影片及 6 秒 YouTube 廣告。",
+        "Gemini 模型用於腳本創作與內容策展；Imagen 3 用於圖像創作。",
+        "高端創意製作成本降低 20-30%；大規模製作節省高達 80-90%。",
+        "旨在推動日本旅遊的內容在特定航班的座椅背後螢幕播放。"
+      ]
+    },
+    "technologies": [
+      "Veo 2",
+      "Gemini",
+      "Imagen 3",
+      "Vertex AI"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Japan Airlines uses Google's Veo 2 AI model to create videos | Ad Age",
+        "url": "https://adage.com/technology/ai/aa-japan-airlines-uses-google-veo-2-ai-for-in-flight-videos/"
+      },
+      {
+        "title": "Brandtech's Pencil unit makes use of Google's Veo 2 tech | Digiday",
+        "url": "https://digiday.com/marketing/brandtechs-pencil-unit-makes-use-of-googles-veo-2-tech-to-craft-ai-content-in-hours-not-weeks/"
+      }
+    ]
+  },
+  {
+    "id": "hospitality-travel-creative-radisson-hotel-group",
+    "industry": "hospitality-travel",
+    "agentType": "creative",
+    "company": "Radisson Hotel Group",
+    "isNew": false,
+    "summary": {
+      "en": "Radisson Hotel Group used Vertex AI and Gemini with Accenture to personalize ads at scale, boosting productivity 50% and ad revenue 22%.",
+      "zh": "Radisson Hotel Group 與 Accenture 合作，運用 Vertex AI 與 Gemini 大規模個人化廣告，廣告生產力提升 50%，廣告收益增加 22%。"
+    },
+    "overview": {
+      "en": "Radisson Hotel Group personalized its advertising at scale in collaboration with Accenture, using Vertex AI and Gemini models trained on extensive datasets in BigQuery. The solution generates personalized, culturally relevant ad copy translated into 30+ languages in hours instead of weeks. Ad teams saw productivity rise by around 50%, while AI-powered campaigns delivered a 22% increase in ad-driven revenue and a 35% increase in return on ad spend (ROAS).",
+      "zh": "Radisson Hotel Group 與 Accenture 合作，運用 Vertex AI 與 Gemini 模型（以 BigQuery 中的大型資料集訓練）大規模個人化廣告。解決方案能在數小時內（而非數週）生成並翻譯成 30 多種語言的個人化、具文化共鳴的廣告文案。廣告團隊的生產力提升約 50%，AI 驅動的行銷活動帶來 22% 的廣告收益成長及 35% 的廣告支出回報（ROAS）提升。"
+    },
+    "highlights": {
+      "en": [
+        "Ad team productivity increased ~50% through AI-powered ad personalization.",
+        "22% increase in ad-driven revenue from AI-powered campaigns.",
+        "35% increase in return on ad spend (ROAS).",
+        "Personalized ad copy translated into 30+ languages in hours, down from up to 8 weeks.",
+        "Built on Vertex AI and Gemini with BigQuery datasets in collaboration with Accenture."
+      ],
+      "zh": [
+        "透過 AI 廣告個人化，廣告團隊生產力提升約 50%。",
+        "AI 驅動的行銷活動帶來廣告收益成長 22%。",
+        "廣告支出回報（ROAS）提升 35%。",
+        "個人化廣告文案翻譯成 30 多種語言的時間從最長 8 週縮短至數小時。",
+        "與 Accenture 合作，基於 Vertex AI、Gemini 及 BigQuery 資料集建構。"
+      ]
+    },
+    "technologies": [
+      "Vertex AI",
+      "Gemini",
+      "BigQuery"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Radisson Case Study | Google Cloud",
+        "url": "https://cloud.google.com/customers/radisson"
+      },
+      {
+        "title": "Accenture Helps Organizations Advance Agentic AI with Gemini Enterprise",
+        "url": "https://newsroom.accenture.com/news/2025/accenture-helps-organizations-advance-agentic-ai-with-gemini-enterprise"
+      }
+    ]
+  },
+  {
+    "id": "hospitality-travel-creative-three-fold-noodles-dumpling",
+    "industry": "hospitality-travel",
+    "agentType": "creative",
+    "company": "Three Fold Noodles + Dumpling",
+    "isNew": false,
+    "needsReview": true,
+    "summary": {
+      "en": "Three Fold Noodles + Dumpling drafts social media posts with Gemini in Docs to stay active online without sacrificing kitchen time.",
+      "zh": "Three Fold Noodles + Dumpling 以 Gemini in Docs 起草社群媒體貼文，在不犧牲廚房時間的前提下維持線上活躍度。"
+    },
+    "overview": {
+      "en": "Three Fold Noodles + Dumpling uses Gemini in Google Docs to draft social media posts, enabling the restaurant to maintain an active online presence without taking team members away from kitchen duties. This AI-assisted content creation approach helps small food businesses stay engaged with customers digitally while prioritizing the quality of their craft.",
+      "zh": "Three Fold Noodles + Dumpling 運用 Google Docs 中的 Gemini 起草社群媒體貼文，讓餐廳能在不讓員工離開廚房崗位的情況下維持活躍的線上存在感。這種 AI 輔助內容創作方式協助小型餐飲業者在優先確保工藝品質的同時，與顧客保持數位互動。"
+    },
+    "highlights": {
+      "en": [
+        "Gemini in Docs drafts social media posts for the restaurant.",
+        "Maintains active online presence without distracting staff from kitchen work.",
+        "Enables small food businesses to compete digitally without dedicated marketing resources."
+      ],
+      "zh": [
+        "Gemini in Docs 為餐廳起草社群媒體貼文。",
+        "在不影響員工廚房工作的情況下維持活躍的線上存在感。",
+        "讓小型餐飲業者無需專職行銷資源即可參與數位競爭。"
+      ]
+    },
+    "technologies": [
+      "Gemini for Google Workspace",
+      "Gemini"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ]
+  },
+  {
+    "id": "hospitality-travel-creative-virgin-voyages",
+    "industry": "hospitality-travel",
+    "agentType": "creative",
+    "company": "Virgin Voyages",
+    "isNew": false,
+    "summary": {
+      "en": "Virgin Voyages uses Veo and Imagen to create thousands of hyper-personalized ads and emails that match its unique brand voice at scale.",
+      "zh": "Virgin Voyages 運用 Veo 與 Imagen 大規模創建數千個符合品牌調性的超個人化廣告與電子郵件。"
+    },
+    "overview": {
+      "en": "Virgin Voyages is using Veo's text-to-video features and Imagen to create thousands of hyper-personalized advertisements and emails, each perfectly matched to Virgin Voyages' unique brand voice. This level of personalized creative production at scale was impossible just a year prior and represents a fundamental shift in how the cruise line approaches marketing content creation.",
+      "zh": "Virgin Voyages 運用 Veo 的文字轉影片功能與 Imagen，大規模創建數千個超個人化廣告與電子郵件，每一個都完美契合 Virgin Voyages 獨特的品牌調性。如此規模的個人化創意製作在一年前尚屬不可能，代表郵輪公司在行銷內容創作方式上的根本性轉變。"
+    },
+    "highlights": {
+      "en": [
+        "Veo text-to-video and Imagen create thousands of hyper-personalized ads and emails at scale.",
+        "Each creative piece matches Virgin Voyages' unique brand voice.",
+        "Scale of personalized creative production was impossible just a year prior.",
+        "Represents a fundamental shift in cruise line marketing content creation."
+      ],
+      "zh": [
+        "Veo 文字轉影片功能與 Imagen 大規模創建數千個超個人化廣告與電子郵件。",
+        "每個創意作品完美契合 Virgin Voyages 獨特的品牌調性。",
+        "如此規模的個人化創意製作在一年前尚屬不可能。",
+        "代表郵輪公司行銷內容創作方式的根本性轉變。"
+      ]
+    },
+    "technologies": [
+      "Veo",
+      "Imagen",
+      "Gemini",
+      "Vertex AI"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Virgin Voyages Partners with Google Cloud to Launch 50+ AI Agents | PR Newswire",
+        "url": "https://www.prnewswire.com/news-releases/virgin-voyages-partners-with-google-cloud-to-launch-a-fleet-of-50-ai-agents-on-gemini-enterprise-powering-a-company-wide-transformation-302579376.html"
+      }
+    ]
+  },
+  {
+    "id": "hospitality-travel-security-priceline",
+    "industry": "hospitality-travel",
+    "agentType": "security",
+    "company": "Priceline",
+    "isNew": true,
+    "needsReview": true,
+    "summary": {
+      "en": "Priceline uses Wiz to ensure all acquisitions comply with its security framework regardless of cloud environment.",
+      "zh": "Priceline 運用 Wiz 確保所有收購案的雲端環境皆符合其安全框架，不受雲端平台限制。"
+    },
+    "overview": {
+      "en": "Priceline uses Wiz to ensure that all company acquisitions comply with its security framework, regardless of the cloud environment they operate in. This approach enables Priceline to maintain consistent security posture across a diverse portfolio of acquired companies with varying cloud infrastructure configurations.",
+      "zh": "Priceline 運用 Wiz 確保旗下所有收購公司皆符合其安全框架，不受其所使用的雲端環境限制。此方法讓 Priceline 能在擁有不同雲端基礎設施配置的多元收購公司組合中，維持一致的安全態勢。"
+    },
+    "highlights": {
+      "en": [
+        "Wiz used to enforce security framework compliance across all acquisitions.",
+        "Maintains consistent security posture regardless of cloud environment.",
+        "Enables scalable security governance across a diverse portfolio of companies."
+      ],
+      "zh": [
+        "運用 Wiz 強制執行所有收購案的安全框架合規性。",
+        "無論使用何種雲端環境，均維持一致的安全態勢。",
+        "在多元公司組合中實現可擴展的安全治理。"
+      ]
+    },
+    "technologies": [
+      "Wiz",
+      "Google Cloud Security"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ]
+  }
+]

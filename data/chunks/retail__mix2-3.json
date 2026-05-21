@@ -1,0 +1,485 @@
+[
+  {
+    "id": "retail-data-lvmh",
+    "industry": "retail",
+    "agentType": "data",
+    "company": "LVMH",
+    "isNew": true,
+    "summary": {
+      "en": "LVMH uses Wiz and Google Cloud Security to build a secure-by-design AI-driven future.",
+      "zh": "LVMH 採用 Wiz 與 Google Cloud Security，打造以安全為核心的 AI 驅動未來。"
+    },
+    "overview": {
+      "en": "LVMH, the world's largest luxury brand house, relies on Wiz and Google Cloud Security to ensure its AI-driven transformation is secure by design. By integrating Wiz into its Google Cloud environment, LVMH closes the loop between security defenders and builders, embedding risk visibility across code, cloud, and runtime layers.",
+      "zh": "LVMH 是全球最大的奢侈品集團，透過整合 Wiz 與 Google Cloud Security，確保其 AI 轉型從設計之初便具備安全性。Wiz 平台將程式碼、雲端與執行時期的風險可視化，縮短安全團隊與開發團隊之間的回饋迴圈。"
+    },
+    "highlights": {
+      "en": [
+        "Adopted Wiz integrated with Google Cloud Security as part of LVMH's AI-driven cloud strategy.",
+        "Implements secure-by-design principles, connecting code, cloud, and runtime security contexts.",
+        "LVMH is listed as one of Wiz's leading global enterprise customers alongside BMW, Morgan Stanley, and Mars.",
+        "Approach closes the loop between defenders and builders to reduce AI security risk from the ground up."
+      ],
+      "zh": [
+        "將 Wiz 整合至 Google Cloud Security，作為 LVMH AI 雲端策略的核心安全基礎。",
+        "落實「安全為設計原則」，串連程式碼、雲端與執行時期的安全情境。",
+        "LVMH 是 Wiz 全球主要企業客戶之一，與 BMW、Morgan Stanley、Mars 等並列。",
+        "以閉環方式連結防禦者與建構者，從根本降低 AI 安全風險。"
+      ]
+    },
+    "technologies": [
+      "Wiz",
+      "Google Cloud Security"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Next '26: Redefining security for the AI era with Google Cloud and Wiz | Google Cloud Blog",
+        "url": "https://cloud.google.com/blog/products/identity-security/next26-redefining-security-for-the-ai-era-with-google-cloud-and-wiz"
+      },
+      {
+        "title": "Welcoming Wiz to Google Cloud: Redefining security for the AI era | Google Cloud Blog",
+        "url": "https://cloud.google.com/blog/products/identity-security/google-completes-acquisition-of-wiz"
+      }
+    ]
+  },
+  {
+    "id": "retail-data-mantech",
+    "industry": "retail",
+    "agentType": "data",
+    "company": "ManTech",
+    "isNew": false,
+    "summary": {
+      "en": "ManTech launched an advanced Google Workspace practice to enable secure generative AI for U.S. government clients.",
+      "zh": "ManTech 推出 Google Workspace 實務服務，協助美國政府機構安全導入生成式 AI。"
+    },
+    "overview": {
+      "en": "ManTech, a defense technology firm serving the U.S. government, launched an Advanced Google Workspace Practice in January 2024 to accelerate secure AI-driven innovation for federal agencies. As the first federal systems integrator to adopt Google Workspace (11,500 users) and to deploy Chronicle, ManTech offers government clients immersion workshops to test-drive the latest generative AI and collaboration tools within FedRAMP HIGH/IL4 environments.",
+      "zh": "ManTech 是服務美國政府的國防科技公司，於 2024 年 1 月推出 Google Workspace 進階實務服務，協助聯邦機構加速安全 AI 創新。作為首家導入 Google Workspace（11,500 名用戶）及部署 Chronicle 的聯邦系統整合商，ManTech 提供沉浸式工作坊，讓政府客戶在 FedRAMP HIGH/IL4 環境中試用最新生成式 AI 工具。"
+    },
+    "highlights": {
+      "en": [
+        "First federal systems integrator (FSI) to deploy Google Workspace for 11,500 users in a FedRAMP HIGH/IL4 environment.",
+        "First FSI to deploy Google Chronicle security platform for government operations.",
+        "Added Duet AI (generative AI) capabilities to Google Workspace in Q4 2023.",
+        "Offers agency-specific immersion workshops to test-drive the latest generative AI and Google Workspace features.",
+        "Implemented Vertex AI and Gemini models at Cybersecurity Maturity Model Certification Level 2 for responsible AI adoption."
+      ],
+      "zh": [
+        "首家在 FedRAMP HIGH/IL4 環境中為 11,500 名用戶部署 Google Workspace 的聯邦系統整合商。",
+        "首家為政府業務部署 Google Chronicle 安全平台的聯邦系統整合商。",
+        "2023 年第四季將 Duet AI 生成式 AI 功能整合至 Google Workspace。",
+        "提供機構專屬沉浸式工作坊，供政府客戶試用最新 AI 與 Workspace 功能。",
+        "在 CMMC Level 2 環境中導入 Vertex AI 與 Gemini 模型，推動受控 AI 採用。"
+      ]
+    },
+    "technologies": [
+      "Google Workspace",
+      "Vertex AI",
+      "Gemini",
+      "Google Chronicle",
+      "Duet AI"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "ManTech Unveils Advanced Google Workspace Practice for Secure AI-Driven Innovation",
+        "url": "https://www.globenewswire.com/news-release/2024/01/24/2815213/7056/en/ManTech-Unveils-Advanced-Google-Workspace-Practice-for-Secure-AI-Driven-Innovation.html"
+      },
+      {
+        "title": "ManTech Leads the Way to Google Workspace | Google Cloud Blog",
+        "url": "https://cloud.google.com/blog/topics/public-sector/proven-here-first-mantech-leads-way-google-workspace/"
+      }
+    ]
+  },
+  {
+    "id": "retail-data-mattel",
+    "industry": "retail",
+    "agentType": "data",
+    "company": "Mattel",
+    "isNew": false,
+    "summary": {
+      "en": "Mattel built an AI feedback classification system with BigQuery and Gemini, achieving 100x data processing capacity and cutting analysis from a month to one minute.",
+      "zh": "Mattel 以 BigQuery 與 Gemini 打造 AI 回饋分類系統，資料處理能力提升 100 倍，分析時間從一個月縮短至一分鐘。"
+    },
+    "overview": {
+      "en": "Mattel developed an AI-powered feedback classification system using BigQuery, Vertex AI, and Gemini models to analyze millions of customer feedback points from reviews, social media, and contact centers in seconds. The system shifted Mattel from reactive, batch-based analysis to real-time consumer insight, enabling product teams to act on feedback immediately. By running the entire pipeline within Google Cloud, Mattel eliminated third-party vendor dependency and saved an estimated $1 million in build costs.",
+      "zh": "Mattel 使用 BigQuery、Vertex AI 與 Gemini 打造 AI 回饋分類系統，能在數秒內分析來自客戶評論、社群媒體及客服中心的數百萬筆回饋。系統將分析模式從被動批次轉為即時洞察，讓產品團隊能立即採取行動。整個流程在 Google Cloud 內部完成，節省約 100 萬美元的外部供應商費用。"
+    },
+    "highlights": {
+      "en": [
+        "Achieved 100x increase in data processing capacity for customer feedback analysis.",
+        "Reduced feedback analysis time from approximately one month to one minute.",
+        "Saved an estimated $1 million versus building with external vendors.",
+        "Analyzes millions of feedback points from reviews, social media, and contact centers simultaneously.",
+        "Freed analysts from manual noise-filtering to focus on deeper brand and product research."
+      ],
+      "zh": [
+        "客戶回饋資料處理能力提升 100 倍。",
+        "分析時間從約一個月縮短至一分鐘。",
+        "相較委外建置節省約 100 萬美元成本。",
+        "同時分析來自評論、社群媒體與客服中心的數百萬筆回饋。",
+        "分析師從手動篩選雜訊中解放，專注於更深層的品牌與產品研究。"
+      ]
+    },
+    "technologies": [
+      "BigQuery",
+      "Vertex AI",
+      "Gemini"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Mattel's game changer: How AI is turning customer feedback into real-time product updates | Google Cloud Blog",
+        "url": "https://cloud.google.com/transform/mattel-gen-ai-customer-feedback-real-time-product-improvements"
+      },
+      {
+        "title": "Mattel taps into Google Cloud to accelerate product innovation | Computer Weekly",
+        "url": "https://www.computerweekly.com/news/366622315/Mattel-taps-into-Google-Cloud-to-accelerate-product-innovation-in-response-to-customer-feedback"
+      }
+    ]
+  },
+  {
+    "id": "retail-data-mcdonald-s",
+    "industry": "retail",
+    "agentType": "data",
+    "company": "McDonald's",
+    "isNew": false,
+    "summary": {
+      "en": "McDonald's deploys Google Distributed Cloud edge computing across thousands of restaurants to apply generative AI and reduce operational disruptions.",
+      "zh": "McDonald's 在全球數千家餐廳部署 Google Distributed Cloud 邊緣運算，運用生成式 AI 減少營運中斷並提升服務品質。"
+    },
+    "overview": {
+      "en": "McDonald's entered a multi-year strategic partnership with Google Cloud in December 2023, deploying Google Distributed Cloud edge appliances across thousands of restaurants worldwide. This infrastructure enables real-time AI applications on-site, sharpening equipment performance insights, reducing operational disruptions, and allowing crew members to focus on customer experience. A dedicated Google Cloud team works alongside McDonald's Speedee Labs innovation center in Chicago to co-develop generative AI solutions for key business priorities.",
+      "zh": "McDonald's 於 2023 年 12 月與 Google Cloud 簽訂多年策略合作協議，在全球數千家餐廳部署 Google Distributed Cloud 邊緣設備。此基礎架構支援現場即時 AI 應用，提升設備效能洞察、減少營運中斷，並讓員工更專注於顧客服務。Google Cloud 專屬團隊與 McDonald's 芝加哥創新中心 Speedee Labs 並肩合作，共同開發生成式 AI 解決方案。"
+    },
+    "highlights": {
+      "en": [
+        "McDonald's is the largest global foodservice retailer to deploy Google Distributed Cloud edge computing.",
+        "Edge appliances enable both cloud-based and local on-site AI inference within restaurants.",
+        "Generative AI reduces equipment-related operational disruptions and improves performance monitoring.",
+        "A Generative Scheduling Engine uses LLMs to auto-generate 14-day staff rosters, cutting manual planning time by 85%.",
+        "Dedicated Google Cloud team co-located at McDonald's Speedee Labs innovation center in Chicago."
+      ],
+      "zh": [
+        "McDonald's 是全球最大採用 Google Distributed Cloud 邊緣運算的餐飲零售商。",
+        "邊緣設備同時支援雲端與本地 AI 推論，直接在餐廳現場執行。",
+        "生成式 AI 減少設備相關的營運中斷，並改善效能監控。",
+        "生成式排班引擎利用大型語言模型自動產生 14 天員工排班表，減少 85% 手動排班時間。",
+        "Google Cloud 專屬團隊進駐 McDonald's 芝加哥 Speedee Labs 創新中心共同研發。"
+      ]
+    },
+    "technologies": [
+      "Google Distributed Cloud",
+      "Vertex AI",
+      "Gemini"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "McDonald's and Google Cloud Announce Strategic Partnership",
+        "url": "https://www.prnewswire.com/news-releases/mcdonalds-and-google-cloud-announce-strategic-partnership-to-connect-latest-cloud-technology-and-apply-generative-ai-solutions-across-its-restaurants-worldwide-302006915.html"
+      },
+      {
+        "title": "McDonald's deploys Google Distributed Cloud at restaurants - DCD",
+        "url": "https://www.datacenterdynamics.com/en/news/mcdonalds-deploys-google-distributed-cloud-at-restaurants/"
+      }
+    ]
+  },
+  {
+    "id": "retail-data-meesho",
+    "industry": "retail",
+    "agentType": "data",
+    "company": "Meesho",
+    "isNew": true,
+    "summary": {
+      "en": "Meesho accelerates its data science workloads on Google Cloud using Lightning Engine for Apache Spark.",
+      "zh": "印度電商平台 Meesho 使用 Google Cloud Lightning Engine 加速 Apache Spark 資料科學工作負載。"
+    },
+    "overview": {
+      "en": "Meesho, a popular Indian e-commerce platform, is accelerating its data science workloads by adopting Lightning Engine, Google Cloud's high-performance query accelerator for Apache Spark. Lightning Engine delivers up to 4.9x faster performance than open-source Spark and up to 2x better price-performance than competing high-speed Spark alternatives, enabling Meesho to process large-scale datasets more efficiently without changing existing code.",
+      "zh": "Meesho 是印度知名電商平台，透過採用 Google Cloud 的 Lightning Engine（Apache Spark 高效能查詢加速器）來加速資料科學工作負載。Lightning Engine 效能最高可達開源 Spark 的 4.9 倍，性價比最高可達主要競品的 2 倍，讓 Meesho 無需修改現有程式碼即可更高效地處理大規模資料集。"
+    },
+    "highlights": {
+      "en": [
+        "Meesho is among early production adopters of Lightning Engine alongside Flipkart and Lowe's.",
+        "Lightning Engine delivers up to 4.9x faster performance than open-source Apache Spark.",
+        "Achieves up to 2x price-performance improvement over the leading high-speed Spark alternative.",
+        "Compatible with Apache Spark DataFrame and SQL APIs — no code changes required for existing workloads."
+      ],
+      "zh": [
+        "Meesho 是 Lightning Engine 早期生產環境採用者之一，與 Flipkart 和 Lowe's 並列。",
+        "Lightning Engine 效能最高可達開源 Apache Spark 的 4.9 倍。",
+        "相較主要高速 Spark 競品，性價比最高提升 2 倍。",
+        "相容 Apache Spark DataFrame 與 SQL API，現有工作負載無需修改程式碼。"
+      ]
+    },
+    "technologies": [
+      "Lightning Engine",
+      "Managed Service for Apache Spark",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Introducing Lightning Engine for Apache Spark | Google Cloud Blog",
+        "url": "https://cloud.google.com/blog/products/data-analytics/introducing-lightning-engine-for-apache-spark"
+      },
+      {
+        "title": "Accelerate Spark workloads with Lightning Engine | Google Cloud Documentation",
+        "url": "https://docs.cloud.google.com/dataproc/docs/guides/lightning-engine"
+      }
+    ]
+  },
+  {
+    "id": "retail-data-mercado-libre",
+    "industry": "retail",
+    "agentType": "data",
+    "company": "Mercado Libre",
+    "isNew": false,
+    "summary": {
+      "en": "Mercado Libre uses Vertex AI Vector Search and embeddings to deliver precise, semantically relevant search results for online shoppers.",
+      "zh": "Mercado Libre 採用 Vertex AI Vector Search 與向量嵌入，為網路購物者提供語意精準的搜尋結果。"
+    },
+    "overview": {
+      "en": "Mercado Libre, Latin America's largest e-commerce marketplace, deployed Vertex AI Vector Search and embeddings to address the limitations of traditional keyword-based search. The system generates vector embeddings for each product in the catalog, capturing semantic meaning and placing similar items closer together in high-dimensional space. This enables shoppers to get precise results even for complex, contextual queries that constitute roughly half of all search traffic.",
+      "zh": "Mercado Libre 是拉丁美洲最大的電商平台，部署 Vertex AI Vector Search 與向量嵌入技術，突破傳統關鍵字搜尋的限制。系統為每項商品生成向量嵌入，在高維空間中捕捉語意關係，使語意相近的商品彼此靠近。這讓約佔總搜尋流量一半的複雜情境查詢也能獲得精準結果。"
+    },
+    "highlights": {
+      "en": [
+        "Deployed Vertex AI Vector Search to handle complex, contextual search queries that represent ~50% of all search traffic.",
+        "Product embeddings capture semantic meaning, enabling similarity search beyond exact keyword matching.",
+        "Improved click-through and conversion rates for complex queries following implementation.",
+        "Sr. Engineering Manager Nicolas Presta: 'Most of our successful sales start with a search, so it is important that we give precise results that best match a user's query.'"
+      ],
+      "zh": [
+        "部署 Vertex AI Vector Search 處理約佔總流量 50% 的複雜情境搜尋查詢。",
+        "商品向量嵌入捕捉語意關係，超越純關鍵字比對的搜尋能力。",
+        "導入後，複雜查詢的點擊率與轉換率均有所提升。",
+        "資深工程總監 Nicolas Presta：「大多數成功銷售都始於搜尋，提供最符合用戶查詢的精準結果至關重要。」"
+      ]
+    },
+    "technologies": [
+      "Vertex AI",
+      "Vector Search",
+      "Embeddings"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "How Vertex AI Vector Search helps create interactive shopping experiences | Google Cloud Blog",
+        "url": "https://cloud.google.com/blog/topics/retail/how-vertex-ai-vector-search-helps-create-interactive-shopping-experiences"
+      },
+      {
+        "title": "Mercado Libre / Grupo Boticario: Enhancing E-commerce Search with Vector Embeddings and Generative AI - ZenML LLMOps Database",
+        "url": "https://www.zenml.io/llmops-database/enhancing-e-commerce-search-with-vector-embeddings-and-generative-ai"
+      }
+    ]
+  },
+  {
+    "id": "retail-data-mobiaauto",
+    "industry": "retail",
+    "agentType": "data",
+    "company": "MobiaAuto",
+    "isNew": false,
+    "summary": {
+      "en": "MobiaAuto migrated its automotive marketplace to Google Cloud in 2024, using Gemini and BigQuery for AI-powered data analysis.",
+      "zh": "MobiaAuto 於 2024 年將其汽車分類廣告平台遷移至 Google Cloud，以 Gemini 和 BigQuery 實現 AI 驅動的資料分析。"
+    },
+    "overview": {
+      "en": "MobiaAuto, an automotive marketplace offering classified ads, dealer services, and market insights, migrated its platform to Google Cloud in 2024. The company leverages Gemini models in Vertex AI and BigQuery for AI-powered data analysis, while Kubernetes infrastructure handles traffic peaks to ensure reliability across its buyer-seller connections and market intelligence services.",
+      "zh": "MobiaAuto 是提供分類廣告、經銷商服務與市場洞察的汽車交易平台，於 2024 年完成遷移至 Google Cloud。該公司採用 Vertex AI 中的 Gemini 模型與 BigQuery 進行 AI 驅動的資料分析，並以 Kubernetes 基礎架構應對流量高峰，確保買賣雙方連結及市場情報服務的穩定性。",
+      "needsReview": true
+    },
+    "highlights": {
+      "en": [
+        "Migrated automotive marketplace platform to Google Cloud in 2024.",
+        "Uses Gemini models via Vertex AI for AI-powered data analysis across classified ads and market insights.",
+        "BigQuery supports data analytics for dealer services and market intelligence offerings.",
+        "Kubernetes infrastructure manages traffic peaks across the platform's buyer-seller and dealer service verticals."
+      ],
+      "zh": [
+        "2024 年完成汽車交易平台遷移至 Google Cloud。",
+        "透過 Vertex AI 的 Gemini 模型，對分類廣告與市場洞察進行 AI 資料分析。",
+        "BigQuery 支援經銷商服務與市場情報的資料分析。",
+        "Kubernetes 基礎架構管理平台買賣雙方及經銷商服務各垂直領域的流量高峰。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Vertex AI",
+      "BigQuery",
+      "Google Kubernetes Engine"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "retail-data-morrisons",
+    "industry": "retail",
+    "agentType": "data",
+    "company": "Morrisons",
+    "isNew": false,
+    "summary": {
+      "en": "Morrisons migrated to BigQuery and Looker to achieve real-time data access with under 15-minute latency, a 98.96% improvement over daily batch reports.",
+      "zh": "Morrisons 遷移至 BigQuery 與 Looker，首次實現即時資料存取，延遲不超過 15 分鐘，較原先每日報表改善 98.96%。"
+    },
+    "overview": {
+      "en": "Morrisons, one of the UK's largest supermarkets serving nine million customers weekly, partnered with Google Cloud and TCS to migrate its data infrastructure to BigQuery and Looker. For the first time, the company gained real-time access to business data with no more than a 15-minute delay — a 98.96% improvement on its previous daily batch reporting setup. Every sale in every store now feeds directly into BigQuery, with Looker dashboards auto-updating to give store managers immediate visibility into stock levels and sales.",
+      "zh": "Morrisons 是英國最大超市之一，每週服務 900 萬名顧客。該公司與 Google Cloud 及 TCS 合作，將資料基礎架構遷移至 BigQuery 與 Looker，首次實現延遲不超過 15 分鐘的即時資料存取，較原先每日批次報表改善 98.96%。每家門市的每筆銷售現在直接進入 BigQuery，Looker 儀表板自動更新，讓門市經理立即掌握庫存與銷售狀況。"
+    },
+    "highlights": {
+      "en": [
+        "Achieved 98.96% improvement in reporting latency — from daily batch reports to under 15-minute real-time insights.",
+        "Every sale from every store feeds directly into BigQuery with automatic Looker dashboard updates.",
+        "Store managers can now see current stock levels and ordering needs in real time via Looker.",
+        "Later launched an AI-powered in-store Product Finder using Gemini, built on the same BigQuery foundation.",
+        "Chief Data Officer Peter Laflin: 'Within two minutes, we know what we sold and where we sold it.'"
+      ],
+      "zh": [
+        "報表延遲從每日批次縮短至 15 分鐘以內，改善幅度達 98.96%。",
+        "每家門市的每筆銷售直接進入 BigQuery，Looker 儀表板自動更新。",
+        "門市經理可透過 Looker 即時查看目前庫存狀況與補貨需求。",
+        "後續在相同 BigQuery 基礎上，以 Gemini 推出 AI 驅動的門市商品定位功能。",
+        "首席資料長 Peter Laflin：「兩分鐘內，我們就知道賣了什麼、在哪裡賣的。」"
+      ]
+    },
+    "technologies": [
+      "BigQuery",
+      "Looker",
+      "Gemini"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Morrisons case study | Google Cloud",
+        "url": "https://cloud.google.com/customers/morrisons"
+      },
+      {
+        "title": "Morrisons Revolutionizes Data Infrastructure for Real-Time Insights and Customer Satisfaction | Striim",
+        "url": "https://www.striim.com/case-study/morrisons/"
+      }
+    ]
+  },
+  {
+    "id": "retail-data-nestl",
+    "industry": "retail",
+    "agentType": "data",
+    "company": "Nestlé",
+    "isNew": true,
+    "summary": {
+      "en": "Nestlé uses Wiz and Google Cloud Security to build a secure-by-design foundation for its AI-driven future.",
+      "zh": "Nestlé 採用 Wiz 與 Google Cloud Security，為 AI 驅動的未來打造以安全為核心的基礎架構。"
+    },
+    "overview": {
+      "en": "Nestlé relies on Wiz and Google Cloud Security to ensure its AI-driven transformation is secure by design. By closing the loop between security defenders and builders, Nestlé embeds risk visibility and automated hardening across its cloud and AI environment, consistent with the secure-by-design principles championed by Google Cloud and Wiz.",
+      "zh": "Nestlé 採用 Wiz 與 Google Cloud Security，確保其 AI 轉型從設計之初便具備安全性。透過縮短安全防禦者與建構者之間的回饋迴圈，Nestlé 在雲端與 AI 環境中建立風險可視化與自動化強化機制，符合 Google Cloud 與 Wiz 倡導的安全設計原則。"
+    },
+    "highlights": {
+      "en": [
+        "Adopted Wiz integrated with Google Cloud Security to underpin its AI-driven cloud strategy.",
+        "Applies secure-by-design principles, connecting code, cloud, and runtime security contexts.",
+        "Closes the loop between security defenders and builders to reduce risk in AI deployments.",
+        "Part of Wiz's global enterprise customer base, leveraging unified cloud security posture management."
+      ],
+      "zh": [
+        "採用 Wiz 整合 Google Cloud Security，作為 AI 雲端策略的安全基礎。",
+        "落實安全設計原則，串連程式碼、雲端與執行時期的安全情境。",
+        "縮短安全防禦者與建構者的回饋迴圈，降低 AI 部署風險。",
+        "作為 Wiz 全球企業客戶群的一員，運用統一的雲端安全態勢管理。"
+      ]
+    },
+    "technologies": [
+      "Wiz",
+      "Google Cloud Security"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Next '26: Redefining security for the AI era with Google Cloud and Wiz | Google Cloud Blog",
+        "url": "https://cloud.google.com/blog/products/identity-security/next26-redefining-security-for-the-ai-era-with-google-cloud-and-wiz"
+      },
+      {
+        "title": "Wiz | Google Cloud",
+        "url": "https://cloud.google.com/wiz"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "retail-data-notco",
+    "industry": "retail",
+    "agentType": "data",
+    "company": "NotCo",
+    "isNew": false,
+    "summary": {
+      "en": "NotCo partnered with Eleven Solutions to build a Gemini-powered chatbot that gives employees instant natural-language access to SAP data.",
+      "zh": "NotCo 與 Eleven Solutions 合作，打造由 Gemini 驅動的聊天機器人，讓員工能以自然語言即時查詢 SAP 系統資料。"
+    },
+    "overview": {
+      "en": "NotCo, a Chilean food-tech company, worked with Google Cloud partner Eleven Solutions to develop a conversational AI chatbot powered by Gemini and built on BigQuery with Google Cloud's Cortex Framework. The chatbot allows employees to query their SAP system in plain language — asking about sales, inventory, or any enterprise data — and receive real-time insights instantly, eliminating the need for manual reports and enabling faster data-driven decision-making.",
+      "zh": "NotCo 是智利食品科技公司，與 Google Cloud 合作夥伴 Eleven Solutions 共同開發以 Gemini 為核心、建立在 BigQuery 與 Google Cloud Cortex Framework 上的對話式 AI 聊天機器人。員工可用自然語言查詢 SAP 系統，直接詢問銷售、庫存或其他企業資料，即時獲得洞察，無需等待人工報表，實現更快速的資料驅動決策。"
+    },
+    "highlights": {
+      "en": [
+        "Chatbot provides 24/7 natural-language access to SAP system data — sales, inventory, and enterprise metrics.",
+        "Built on BigQuery and Google Cloud's Cortex Framework, powered by Gemini.",
+        "Eliminates time-consuming manual reporting processes for data queries.",
+        "Enables real-time, data-driven decision-making for NotCo's teams across operations.",
+        "Developed in collaboration with Eleven Solutions, a Google Cloud partner."
+      ],
+      "zh": [
+        "聊天機器人提供 24/7 自然語言存取 SAP 系統資料，涵蓋銷售、庫存及企業指標。",
+        "建立在 BigQuery 與 Google Cloud Cortex Framework 上，以 Gemini 驅動。",
+        "消除耗時的手動報表流程，員工可直接查詢所需資料。",
+        "讓 NotCo 各部門團隊實現即時、資料驅動的決策。",
+        "與 Google Cloud 合作夥伴 Eleven Solutions 共同開發。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "BigQuery",
+      "Google Cloud Cortex Framework",
+      "Vertex AI"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "NotCo case study | Google Cloud",
+        "url": "https://cloud.google.com/customers/notco"
+      }
+    ]
+  }
+]

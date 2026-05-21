@@ -1,0 +1,467 @@
+[
+  {
+    "id": "retail-data-ok-corporation",
+    "industry": "retail",
+    "agentType": "data",
+    "company": "OK Corporation",
+    "isNew": false,
+    "summary": {
+      "en": "OK Corporation uses BigQuery for near real-time purchase analytics across 147 Tokyo-region discount stores.",
+      "zh": "OK Corporation 利用 BigQuery 對東京地區 147 家折扣超市進行近即時銷售數據分析，以優化現成食品備量。"
+    },
+    "overview": {
+      "en": "OK Corporation, a discount supermarket chain with 147 stores in the Tokyo region, replaced a legacy on-premises data warehouse with BigQuery to handle purchase data from over 100 stores. The cloud analytics platform enables near real-time purchase analysis, letting stores dynamically adjust prepared food quantities based on current sales trends. The migration also supports the company's goal of 20% annual growth and lays groundwork for future machine learning-based sales forecasting.",
+      "zh": "OK Corporation 是東京地區擁有 147 家門市的折扣超市連鎖，原有的本地資料倉儲已無法承載龐大的銷售數據，因此遷移至 BigQuery。全新的雲端分析平台支援超過 100 家門市的近即時採購分析，讓各門市能根據即時銷售趨勢動態調整現成食品的備貨量。這項轉型也為公司每年 20% 的成長目標提供基礎，並為未來導入機器學習銷售預測預做準備。"
+    },
+    "highlights": {
+      "en": [
+        "Replaced an on-premises data warehouse that could not handle data volume from 100+ stores with BigQuery on Google Cloud.",
+        "Enabled near real-time purchase analysis so stores can adjust prepared food quantities based on live sales trends.",
+        "Supports OK Corporation's strategic goal of 20% annual growth.",
+        "Plans underway to add machine learning for sales forecasting on the same platform."
+      ],
+      "zh": [
+        "以 BigQuery 取代無法承載 100 多家門市數據量的本地資料倉儲。",
+        "實現近即時採購分析，讓門市能根據即時銷售趨勢調整現成食品備量。",
+        "支援 OK Corporation 每年 20% 成長的策略目標。",
+        "計畫在同一平台上新增機器學習銷售預測功能。"
+      ]
+    },
+    "technologies": [
+      "BigQuery",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "retail-data-otto",
+    "industry": "retail",
+    "agentType": "data",
+    "company": "OTTO",
+    "isNew": false,
+    "summary": {
+      "en": "OTTO improved demand forecasting accuracy by up to 30% using Google Cloud's TiDE model on Vertex AI and GKE.",
+      "zh": "德國電商 OTTO 採用 Google Cloud TiDE 模型於 Vertex AI 和 GKE 上執行，需求預測準確率最高提升 30%。"
+    },
+    "overview": {
+      "en": "OTTO, a leading German ecommerce retailer, implemented Google Cloud's Time-series Dense Encoder (TiDE) model on Vertex AI and Google Kubernetes Engine to enhance demand forecasting. TiDE captures both short- and long-term demand patterns using multivariate time-series data—including seasonal demand, pricing changes, promotions, weather, and macroeconomic indicators. The solution improved forecasting accuracy by up to 30%, resulting in reduced inventory costs and better product availability for customers.",
+      "zh": "德國領先電商 OTTO 在 Vertex AI 和 Google Kubernetes Engine 上部署 Google Cloud 的時序稠密編碼器（TiDE）模型，以強化需求預測。TiDE 能利用多變量時序資料（包括季節性需求、定價變動、促銷活動、天氣及總體經濟指標）同時捕捉短期與長期需求模式。此解決方案將預測準確率最高提升 30%，有效降低庫存成本並提升商品到貨率。"
+    },
+    "highlights": {
+      "en": [
+        "Improved demand forecasting accuracy by up to 30% using the TiDE model on Vertex AI.",
+        "Deployed on Google Kubernetes Engine, enabling the model to scale with large multivariate time-series datasets.",
+        "Incorporated external signals such as weather and macroeconomic indicators to improve prediction quality.",
+        "Resulted in reduced inventory costs and increased product availability for customers."
+      ],
+      "zh": [
+        "在 Vertex AI 上使用 TiDE 模型，需求預測準確率最高提升 30%。",
+        "部署於 Google Kubernetes Engine，可針對大型多變量時序資料集彈性擴展。",
+        "納入天氣和總體經濟指標等外部訊號，進一步提升預測品質。",
+        "有效降低庫存成本，並提升消費者的商品可購率。"
+      ]
+    },
+    "technologies": [
+      "Vertex AI",
+      "Google Kubernetes Engine",
+      "BigQuery"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "OTTO case study | Google Cloud",
+        "url": "https://cloud.google.com/customers/otto"
+      }
+    ]
+  },
+  {
+    "id": "retail-data-pernambucanas",
+    "industry": "retail",
+    "agentType": "data",
+    "company": "Pernambucanas",
+    "isNew": false,
+    "summary": {
+      "en": "Pernambucanas uses Google Cloud OCR AI to cut manual document fraud review by 80% across 340+ Brazilian cities.",
+      "zh": "巴西零售商 Pernambucanas 使用 Google Cloud OCR AI，將人工文件詐欺審核工作減少 80%，服務遍及 340 多座城市。"
+    },
+    "overview": {
+      "en": "Pernambucanas, a Brazilian retailer operating in more than 340 cities, built a fraud detection solution called 'Documentoscopia' using Google Cloud's OCR technology. The tool automatically recognizes and extracts text from ID cards and driver's licenses submitted by customers applying for the Pernambucanas Digital Account. By automating document analysis, the solution reduced manual evaluation effort by 80% and cut customer onboarding time from hours to as fast as 10 seconds, while operating 24/7 on a fully cloud-based infrastructure.",
+      "zh": "Pernambucanas 是在巴西 340 多座城市營運的零售商，利用 Google Cloud OCR 技術打造了名為「Documentoscopia」的詐欺偵測解決方案。該工具可自動辨識並擷取客戶申辦 Pernambucanas 數位帳戶時所提交之身分證與駕照上的文字。透過文件分析自動化，人工審核工作減少 80%，客戶開戶時間也從數小時縮短至最快 10 秒，整套系統 24/7 全雲端運作。"
+    },
+    "highlights": {
+      "en": [
+        "Reduced manual document evaluation effort for fraud detection by 80%.",
+        "Cut customer onboarding time from hours to as fast as 10 seconds.",
+        "Processes over 300,000 document images per month, each in approximately one second.",
+        "System operates 24/7 on a fully cloud-based, scalable infrastructure."
+      ],
+      "zh": [
+        "詐欺偵測的人工文件審核工作量減少 80%。",
+        "客戶開戶時間從數小時縮短至最快 10 秒。",
+        "每月處理逾 30 萬份文件影像，每份平均約一秒完成。",
+        "系統全天候 24/7 運作，架構完全雲端化且可彈性擴展。"
+      ]
+    },
+    "technologies": [
+      "Document AI",
+      "Google Cloud",
+      "Cloud Vision API"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Pernambucanas Case Study | Google Cloud",
+        "url": "https://cloud.google.com/customers/pernambucanas"
+      }
+    ]
+  },
+  {
+    "id": "retail-data-product-genius",
+    "industry": "retail",
+    "agentType": "data",
+    "company": "Product Genius",
+    "isNew": true,
+    "summary": {
+      "en": "Product Genius delivers AI-powered ecommerce analytics directly inside Gemini Enterprise—no code install required.",
+      "zh": "Product Genius 將 AI 驅動的電商智慧分析直接整合進 Gemini Enterprise，無需安裝任何程式碼。"
+    },
+    "overview": {
+      "en": "Product Genius is a partner-built agent available within the Gemini Enterprise platform that provides AI-powered ecommerce intelligence to online merchants. Users can share their website URL and instantly receive insights, actionable policies, and interact with a conversational analyst to optimize their store—all without requiring a code installation. The agent is distributed through Google Cloud's Agent Gallery inside the Gemini Enterprise app.",
+      "zh": "Product Genius 是 Gemini Enterprise 平台中的合作夥伴代理，為線上商家提供 AI 驅動的電商智慧服務。使用者只需提供網站網址，即可立即獲得洞察分析、可行策略建議，並透過對話式分析師優化其商店，全程無需安裝任何程式碼。該代理透過 Gemini Enterprise 應用程式內的 Agent Gallery 提供服務。"
+    },
+    "highlights": {
+      "en": [
+        "Provides instant ecommerce insights by analysing a store's website URL—no code install required.",
+        "Offers a conversational AI analyst to help merchants understand and act on store performance data.",
+        "Available as a partner-built agent inside Google's Gemini Enterprise Agent Gallery.",
+        "Delivers actionable policies to help optimize ecommerce operations."
+      ],
+      "zh": [
+        "只需分析商店網址即可即時提供電商洞察，無需安裝程式碼。",
+        "提供對話式 AI 分析師，協助商家理解並採取行動改善商店表現。",
+        "以合作夥伴代理形式提供，內建於 Google Gemini Enterprise Agent Gallery。",
+        "提供可行策略建議，協助優化電商營運。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Gemini Enterprise",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Partner-built agents available in Gemini Enterprise | Google Cloud Blog",
+        "url": "https://cloud.google.com/blog/products/ai-machine-learning/partner-built-agents-available-in-gemini-enterprise"
+      }
+    ]
+  },
+  {
+    "id": "retail-data-revionics",
+    "industry": "retail",
+    "agentType": "data",
+    "company": "Revionics",
+    "isNew": false,
+    "summary": {
+      "en": "Revionics built a gen AI chat agent on Google Cloud to turn big retail pricing data into conversational, actionable insights.",
+      "zh": "Revionics 在 Google Cloud 上打造 gen AI 對話代理，將大量零售定價數據轉化為可即時對話查詢的行動洞察。"
+    },
+    "overview": {
+      "en": "Revionics, an intelligent retail pricing platform, incorporated generative AI to transform how retailers interact with pricing data. The company built a chat-based AI agent on Google Cloud's Vertex AI and Agent Development Kit (ADK) that allows users to query system configuration, understand optimization settings, and explore the factors influencing pricing decisions through natural language. Revionics also announced a multi-agent AI pricing system at Google Cloud Next 2025, with plans for availability on Google Agentspace.",
+      "zh": "Revionics 是智慧零售定價平台，透過導入生成式 AI，徹底改變零售商與定價數據的互動方式。公司在 Google Cloud Vertex AI 和 Agent Development Kit（ADK）上打造對話式 AI 代理，讓使用者能以自然語言查詢系統設定、了解優化配置，並深入探索影響定價決策的各項因素。Revionics 也在 2025 年 Google Cloud Next 大會上發表多代理 AI 定價系統，並計畫上架 Google Agentspace。"
+    },
+    "highlights": {
+      "en": [
+        "Built a chat-based AI agent using Google Cloud's Vertex AI and Agent Development Kit (ADK) for natural language pricing queries.",
+        "Enables users to explore pricing system configuration and optimization through conversational AI without technical expertise.",
+        "Announced a multi-agent AI pricing system at Google Cloud Next 2025, leveraging ADK on Vertex AI.",
+        "Plans to expand availability to Google Agentspace, enabling enterprise-wide access to pricing intelligence."
+      ],
+      "zh": [
+        "使用 Google Cloud Vertex AI 和 Agent Development Kit（ADK）打造對話式 AI 代理，支援自然語言定價查詢。",
+        "讓非技術用戶也能透過對話式 AI 探索定價系統設定與優化方向。",
+        "於 2025 年 Google Cloud Next 發表多代理 AI 定價系統，採用 Vertex AI 上的 ADK 架構。",
+        "計畫將服務擴展至 Google Agentspace，實現企業全員級定價智慧存取。"
+      ]
+    },
+    "technologies": [
+      "Vertex AI",
+      "Google Agentspace",
+      "Google Cloud",
+      "Agent Development Kit"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Revionics Unveils Alpha Release for Multi-Agent AI Pricing System at Google Cloud Next",
+        "url": "https://revionics.com/news/revionics-unveils-alpha-release-for-multi-agent-pricing-system"
+      },
+      {
+        "title": "New Way Now: Revionics delivers next-generation retail pricing analytics with Google Cloud",
+        "url": "https://revionics.com/resource/new-way-now-revionics-delivers-next-generation-retail-pricing-analytics-with-google-cloud"
+      }
+    ]
+  },
+  {
+    "id": "retail-data-sbf-group",
+    "industry": "retail",
+    "agentType": "data",
+    "company": "SBF Group",
+    "isNew": true,
+    "summary": {
+      "en": "SBF Group used Google Cloud AI to cut customer feedback analysis costs by ~95% and raise classification accuracy from 16% to 84%.",
+      "zh": "SBF Group 運用 Google Cloud AI 優化客戶回饋分析，年度成本降低約 95%，回饋分類準確率從 16% 躍升至 84%。"
+    },
+    "overview": {
+      "en": "SBF Group, the Brazilian retail conglomerate behind the Centauro brand, deployed Google Cloud AI to automate the analysis of customer feedback and Net Promoter Score (NPS) forms. The solution eliminated manual data analysis work, reduced annual costs by approximately 95%, and dramatically improved feedback classification accuracy from 16% to 84%. Information that had previously gone unanalyzed could now be processed daily, providing the business with timely insights into customer satisfaction.",
+      "zh": "SBF Group 是旗下擁有 Centauro 品牌的巴西零售集團，導入 Google Cloud AI 自動化分析客戶回饋與 NPS 問卷。此解決方案不僅消除了人工數據分析作業，年度成本降低約 95%，回饋分類準確率更從 16% 大幅提升至 84%。原本無法被分析的資訊現可每日處理，讓企業能即時掌握客戶滿意度動態。"
+    },
+    "highlights": {
+      "en": [
+        "Reduced annual costs of customer feedback analysis by approximately 95%.",
+        "Improved feedback classification accuracy from 16% to 84%.",
+        "Eliminated manual data analysis work for NPS and customer satisfaction forms.",
+        "Enabled daily processing of customer feedback data that was previously left unanalyzed."
+      ],
+      "zh": [
+        "客戶回饋分析年度成本降低約 95%。",
+        "回饋分類準確率從 16% 提升至 84%。",
+        "消除 NPS 與客戶滿意度問卷的人工數據分析作業。",
+        "原本未被分析的客戶回饋資料現可每日處理。"
+      ]
+    },
+    "technologies": [
+      "Google Cloud AI",
+      "Gemini",
+      "BigQuery",
+      "Natural Language AI"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Google Cloud Brings a New Era of AI Innovation to Brazil",
+        "url": "https://www.googlecloudpresscorner.com/2025-09-10-Google-Cloud-Brings-a-New-Era-of-AI-Innovation-to-Brazil"
+      }
+    ]
+  },
+  {
+    "id": "retail-data-shopify",
+    "industry": "retail",
+    "agentType": "data",
+    "company": "Shopify",
+    "isNew": false,
+    "summary": {
+      "en": "Shopify unified its entire data infrastructure on Google Cloud to power AI-driven business intelligence for millions of merchants.",
+      "zh": "Shopify 將全部數據基礎設施整合至 Google Cloud，為數百萬商家提供 AI 驅動的商業智慧服務。"
+    },
+    "overview": {
+      "en": "Shopify, the world's leading ecommerce platform, completely transformed its data infrastructure by consolidating all data on Google Cloud technologies including BigQuery, Bigtable, Dataflow, and Vertex AI. This unified foundation connects the latest data and AI technologies to deliver powerful business intelligence and AI insights to merchants at scale. Shopify processes millions of embeddings per day, powers semantic search on storefronts, and leverages Vertex AI's Feature Store for real-time ML inference across its platform.",
+      "zh": "Shopify 是全球領先的電商平台，透過整合 BigQuery、Bigtable、Dataflow 及 Vertex AI 等 Google Cloud 技術，徹底重塑其數據基礎設施。這個統一的基礎架構將最新的數據與 AI 技術串聯，為大規模的商家提供強大的商業智慧與 AI 洞察。Shopify 每天處理數百萬次 embedding 計算，為店面提供語意搜尋功能，並透過 Vertex AI Feature Store 實現跨平台的即時機器學習推論。"
+    },
+    "highlights": {
+      "en": [
+        "Consolidated all data on Google Cloud using BigQuery, Bigtable, Dataflow, and Vertex AI for unified BI and AI.",
+        "Processes approximately 216 million embeddings per day (roughly 2,500 per second) across image and text pipelines.",
+        "Implemented semantic search on merchant storefronts using real-time ML to improve consumer search intent.",
+        "Leverages Vertex AI Feature Store 2.0 with BigQuery as the offline store to eliminate data duplication and enable fast online inference."
+      ],
+      "zh": [
+        "整合 BigQuery、Bigtable、Dataflow 和 Vertex AI，構建統一的商業智慧與 AI 平台。",
+        "每天處理約 2.16 億次 embedding（每秒約 2,500 次），涵蓋影像與文字管道。",
+        "在商家店面導入語意搜尋，以即時機器學習提升消費者搜尋意圖理解。",
+        "採用以 BigQuery 為離線儲存的 Vertex AI Feature Store 2.0，消除數據重複並實現快速線上推論。"
+      ]
+    },
+    "technologies": [
+      "BigQuery",
+      "Vertex AI",
+      "Bigtable",
+      "Dataflow",
+      "Google Kubernetes Engine",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Shopify case study | Google Cloud",
+        "url": "https://cloud.google.com/customers/shopify"
+      },
+      {
+        "title": "How Shopify improved consumer search intent with real-time ML | Google Cloud Blog",
+        "url": "https://cloud.google.com/blog/products/data-analytics/how-shopify-improved-consumer-search-intent-with-real-time-ml"
+      }
+    ]
+  },
+  {
+    "id": "retail-data-simbe",
+    "industry": "retail",
+    "agentType": "data",
+    "company": "Simbe",
+    "isNew": false,
+    "summary": {
+      "en": "Simbe's AI-powered Store Intelligence platform on Google Cloud uses autonomous robots to deliver 4x ROI within 90 days.",
+      "zh": "Simbe 在 Google Cloud 上建置 AI 驅動的 Store Intelligence 平台，部署自主機器人，90 天內可達到 4 倍投資報酬率。"
+    },
+    "overview": {
+      "en": "Simbe, a multimodal retail-focused computer vision company, built its Store Intelligence platform on Google Cloud, deploying autonomous robots and fixed sensors throughout retail stores. The platform provides real-time insights into shelf inventory accuracy and pricing compliance, helping retailers reduce out-of-stock instances and improve pricing and promotion execution. Retailers typically achieve a 4x return on investment within 90 days of deployment, with the potential to reach up to 15x ROI over time.",
+      "zh": "Simbe 是一家專注零售業的多模態電腦視覺公司，在 Google Cloud 上建置 Store Intelligence 平台，在零售門市部署自主機器人與固定感測器。該平台提供貨架庫存準確性與定價合規性的即時洞察，協助零售商減少缺貨情況並改善定價與促銷執行。零售商通常在部署後 90 天內即可實現 4 倍投資報酬率，長期可達 15 倍。"
+    },
+    "highlights": {
+      "en": [
+        "Achieves 4x return on investment within 90 days, with potential for up to 15x ROI over time.",
+        "Improves pricing and promotion execution to the high 90% range through real-time shelf monitoring.",
+        "Delivers 98.7% SKU-level identification accuracy and over 99.3% shelf condition recall.",
+        "Platform is hosted at scale on Google Cloud, combining autonomous robots, fixed sensors, and computer vision AI."
+      ],
+      "zh": [
+        "部署後 90 天內可實現 4 倍投資報酬率，長期潛在報酬率可達 15 倍。",
+        "透過即時貨架監控，將定價與促銷執行率提升至 90% 以上。",
+        "實現 98.7% 的 SKU 識別準確率及超過 99.3% 的貨架狀況召回率。",
+        "平台在 Google Cloud 上大規模託管，結合自主機器人、固定感測器與電腦視覺 AI。"
+      ]
+    },
+    "technologies": [
+      "Google Cloud",
+      "Vertex AI",
+      "Cloud Vision AI",
+      "BigQuery"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Simbe Robotics case study | Google Cloud",
+        "url": "https://cloud.google.com/customers/simberobotics"
+      },
+      {
+        "title": "Simbe Store Intelligence",
+        "url": "https://www.simberobotics.com/store-intelligence/intelligence"
+      }
+    ]
+  },
+  {
+    "id": "retail-data-spoon-guru",
+    "industry": "retail",
+    "agentType": "data",
+    "company": "Spoon Guru",
+    "isNew": false,
+    "summary": {
+      "en": "Spoon Guru uses Vertex AI to process 14 billion nutrition data points daily, helping retailers serve shoppers with precise dietary needs.",
+      "zh": "Spoon Guru 利用 Vertex AI 每天處理 140 億筆營養數據點，協助零售商為有特定飲食需求的消費者提供精準產品推薦。"
+    },
+    "overview": {
+      "en": "Spoon Guru processes more than 14 billion data points per day—including pack labels, ingredients, nutritional values, allergens, and lifestyle metadata—using Vertex AI, BigQuery, and Cloud Run. ML models trained on this dataset tag supermarket products with hundreds of dietary attributes, enabling retailers and consumers to determine a product's suitability for any health, nutrition, or lifestyle diet. The platform processes 20,000 products per minute and has recently expanded to generative AI features allowing natural language product and recipe search.",
+      "zh": "Spoon Guru 每天透過 Vertex AI、BigQuery 和 Cloud Run 處理超過 140 億筆數據點，涵蓋包裝標籤、成分、營養值、過敏原及生活型態元數據。基於這些數據訓練的機器學習模型能為超市商品標記數百個飲食屬性，協助零售商與消費者判斷特定商品是否符合任何健康、營養或生活型態需求。平台每分鐘可處理 2 萬件商品，近期更擴展至生成式 AI 功能，支援自然語言商品與食譜搜尋。"
+    },
+    "highlights": {
+      "en": [
+        "Processes over 14 billion data points per day covering ingredients, allergens, nutritional values, and lifestyle metadata.",
+        "Tags 20,000 supermarket products per minute with hundreds of dietary attributes using Vertex AI and BigQuery.",
+        "Shoppers using dietary search features spend 10% more on average; using dietary filters leads to 13% more items added to cart.",
+        "Recently extended to generative AI, enabling natural language product and recipe suggestions for shoppers."
+      ],
+      "zh": [
+        "每天處理超過 140 億筆數據點，涵蓋成分、過敏原、營養值與生活型態元數據。",
+        "使用 Vertex AI 和 BigQuery，每分鐘為 2 萬件超市商品標記數百個飲食屬性。",
+        "使用飲食搜尋功能的購物者平均消費增加 10%；使用飲食篩選器則多加入 13% 的商品至購物車。",
+        "近期擴展至生成式 AI，支援購物者以自然語言搜尋商品與食譜建議。"
+      ]
+    },
+    "technologies": [
+      "Vertex AI",
+      "BigQuery",
+      "Cloud Run",
+      "Cloud Firestore",
+      "Cloud Storage"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Spoon Guru case study | Google Cloud",
+        "url": "https://cloud.google.com/customers/spoon-guru"
+      },
+      {
+        "title": "Google Cloud connects with Spoon Guru mission to help shoppers with allergies and food intolerances",
+        "url": "https://retailtechinnovationhub.com/home/2024/8/29/google-cloud-connects-with-spoon-guru-ai-powered-mission-to-help-shoppers-with-allergies-and-food-intolerances"
+      }
+    ]
+  },
+  {
+    "id": "retail-data-stylitics",
+    "industry": "retail",
+    "agentType": "data",
+    "company": "Stylitics",
+    "isNew": true,
+    "summary": {
+      "en": "Stylitics uses the Gemini Enterprise Agent Platform to power 1,000+ AI programs—from image generation to styling and analytics—for top retailers.",
+      "zh": "Stylitics 使用 Gemini Enterprise Agent Platform 為頂尖零售商驅動超過 1,000 個 AI 應用，涵蓋圖像生成、穿搭造型與 AI 分析。"
+    },
+    "overview": {
+      "en": "Stylitics, a leading retail AI platform for outfitting, imagery, and personalization, leverages the Gemini Enterprise Agent Platform to power more than 1,000 AI programs for world-class retailers. These programs span AI image generation, outfitting and styling recommendations, and AI analytics. Stylitics serves over 150 enterprise retailers, managing catalogues of millions of SKUs, and enables retailers to go live with AI-powered styling experiences in as little as 30 days.",
+      "zh": "Stylitics 是領先的零售 AI 平台，專注於穿搭造型、影像與個性化服務，透過 Gemini Enterprise Agent Platform 為頂尖零售商驅動超過 1,000 個 AI 應用。這些應用涵蓋 AI 圖像生成、穿搭造型推薦及 AI 分析。Stylitics 服務逾 150 家企業零售商，管理數百萬 SKU 的商品目錄，並能讓零售商在最短 30 天內上線 AI 驅動的穿搭體驗。"
+    },
+    "highlights": {
+      "en": [
+        "Powers more than 1,000 AI programs for world-class retailers using the Gemini Enterprise Agent Platform.",
+        "Capabilities include AI image generation, outfitting and styling recommendations, and AI analytics.",
+        "Serves over 150 enterprise retailers with AI-enriched catalogues covering millions of SKUs.",
+        "Retailers can go live with AI-powered styling experiences in as little as 30 days with minimal IT dependency."
+      ],
+      "zh": [
+        "透過 Gemini Enterprise Agent Platform 為頂尖零售商提供超過 1,000 個 AI 應用。",
+        "功能涵蓋 AI 圖像生成、穿搭造型推薦與 AI 分析。",
+        "服務超過 150 家企業零售商，AI 強化的商品目錄涵蓋數百萬 SKU。",
+        "零售商最短可在 30 天內上線 AI 穿搭體驗，幾乎不需仰賴 IT 資源。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Gemini Enterprise",
+      "Vertex AI",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Stylitics: Retail AI Platform for Outfitting, Imagery & Personalization",
+        "url": "https://stylitics.com/"
+      },
+      {
+        "title": "Introducing Gemini Enterprise Agent Platform | Google Cloud Blog",
+        "url": "https://cloud.google.com/blog/products/ai-machine-learning/introducing-gemini-enterprise-agent-platform"
+      }
+    ]
+  }
+]

@@ -1,0 +1,474 @@
+[
+  {
+    "id": "technology-creative-nerdmonster",
+    "industry": "technology",
+    "agentType": "creative",
+    "company": "Nerdmonster",
+    "isNew": false,
+    "summary": {
+      "en": "Nerdmonster uses Gemini to auto-classify store images and videos, cutting operational costs 40%.",
+      "zh": "Nerdmonster 透過 Gemini 自動分類零售店影像，降低高達 40% 的營運成本。"
+    },
+    "overview": {
+      "en": "Nerdmonster is a Brazilian digital platform serving over 40,000 retail establishments, providing end-to-end retail solutions spanning demand stimulation, execution, and transactions. The company integrated Gemini to automatically classify and analyze images and videos uploaded from client stores, transforming raw visual content into actionable data and real-time alerts. This eliminated the need for manual categorization, enabling clients to instantly understand consumer-generated content at scale.",
+      "zh": "Nerdmonster 是一家服務超過 40,000 家巴西零售商的數位平台，提供涵蓋需求激發、執行到交易的端到端解決方案。公司導入 Gemini 自動分類和分析客戶門市上傳的影像與影片，將視覺內容轉化為可行動的數據與即時警示，省去人工分類的需求，讓客戶能即時掌握消費者自製內容。"
+    },
+    "highlights": {
+      "en": [
+        "Serves over 40,000 retail establishments across Brazil.",
+        "Reduced operational costs by up to 40% through automated visual content classification.",
+        "Processes 200 to 300 images in seconds using Gemini.",
+        "Enables clients to understand consumer-generated content without manual categorization.",
+        "Transforms visual data into actionable alerts for store-level insights."
+      ],
+      "zh": [
+        "在巴西服務超過 40,000 家零售門市。",
+        "透過自動化視覺內容分類，降低高達 40% 的營運成本。",
+        "使用 Gemini 在數秒內處理 200 至 300 張影像。",
+        "讓客戶無需人工分類即可理解消費者自製內容。",
+        "將視覺數據轉化為可行動的門市洞察警示。"
+      ]
+    },
+    "technologies": ["Gemini", "Vertex AI"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "NerdMonster | Top Retail solutions Company in Latin America 2023",
+        "url": "https://www.retailtechinsights.com/nerdmonster"
+      }
+    ]
+  },
+  {
+    "id": "technology-creative-nightcafe-studio",
+    "industry": "technology",
+    "agentType": "creative",
+    "company": "NightCafe Studio",
+    "isNew": false,
+    "summary": {
+      "en": "NightCafe Studio scaled to 25M users and 1B+ AI-generated images using a four-person team on Google Cloud.",
+      "zh": "NightCafe Studio 以四人工程團隊透過 Google Cloud 服務擴展至 2,500 萬用戶，生成超過 10 億張 AI 圖像。"
+    },
+    "overview": {
+      "en": "NightCafe Studio is a bootstrapped AI art generation platform serving 25 million users. By leveraging a lean stack of fully managed Google Cloud services — Firebase, Cloud Run, and Vertex AI — a team of just four engineers scaled the platform from thousands to millions of AI image requests monthly. The company has generated over 1 billion images and manages over 100 TB of user-generated content with Cloud Storage, competing successfully against heavily funded rivals.",
+      "zh": "NightCafe Studio 是一家自力更生的 AI 藝術創作平台，服務 2,500 萬名用戶。透過 Firebase、Cloud Run 和 Vertex AI 等 Google Cloud 全託管服務，僅四名工程師的團隊便將平台每月 AI 圖像請求量從數千張擴展至數百萬張。公司已生成超過 10 億張圖像，並透過 Cloud Storage 管理逾 100 TB 的用戶自製內容，成功與財力雄厚的競爭對手抗衡。"
+    },
+    "highlights": {
+      "en": [
+        "Serves 25 million users with a team of just four engineers.",
+        "Generated over 1 billion AI images since launch.",
+        "Manages over 100 TB of user-generated content on Cloud Storage.",
+        "Processes more than 100 million cloud function invocations per day.",
+        "Uses Vertex AI (Imagen 3) for image generation and Gemini for LLM-powered workflows."
+      ],
+      "zh": [
+        "以四人工程團隊服務 2,500 萬名用戶。",
+        "自上線以來已生成超過 10 億張 AI 圖像。",
+        "透過 Cloud Storage 管理逾 100 TB 的用戶自製內容。",
+        "每日處理超過 1 億次 Cloud Function 呼叫。",
+        "使用 Vertex AI（Imagen 3）進行圖像生成，並以 Gemini 支援 LLM 工作流程。"
+      ]
+    },
+    "technologies": ["Vertex AI", "Firebase", "Cloud Run", "Cloud Storage", "Gemini", "Imagen 3", "Firestore"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "NightCafe case study | Google Cloud",
+        "url": "https://cloud.google.com/customers/nightcafe"
+      },
+      {
+        "title": "NightCafe Studio Leverages Google Cloud to Power AI Art Creation for 25 Million Users with a Four-Person Team",
+        "url": "https://www.newsfilecorp.com/release/272864/NightCafe-Studio-Leverages-Google-Cloud-to-Power-AI-Art-Creation-for-25-Million-Users-with-a-FourPerson-Team"
+      }
+    ]
+  },
+  {
+    "id": "technology-creative-pix-force",
+    "industry": "technology",
+    "agentType": "creative",
+    "company": "Pix Force",
+    "isNew": false,
+    "summary": {
+      "en": "Pix Force uses gen AI to cut document reading time from three days to 15 minutes.",
+      "zh": "Pix Force 運用生成式 AI 將文件讀取時間從三天縮短至 15 分鐘。"
+    },
+    "overview": {
+      "en": "Pix Force is a Brazilian company in the visual inspection sector that invested in generative AI to automate document reading services. Gen AI now collaborates on around 80% of the company's document reading workflows, dramatically reducing the time to read documents and personal authorizations. What previously took three days can now be completed in just 15 minutes.",
+      "zh": "Pix Force 是一家專注於視覺檢測領域的巴西企業，投資生成式 AI 以自動化文件讀取服務。目前生成式 AI 已協助處理約 80% 的文件讀取工作流程，大幅縮短文件與個人授權書的處理時間，原本需要三天的作業現在僅需 15 分鐘即可完成。"
+    },
+    "highlights": {
+      "en": [
+        "Gen AI collaborates on approximately 80% of document reading services.",
+        "Reduced document and authorization reading time from three days to 15 minutes.",
+        "Operates in the visual inspection sector combining computer vision and AI."
+      ],
+      "zh": [
+        "生成式 AI 協助處理約 80% 的文件讀取服務。",
+        "文件與授權書的讀取時間從三天縮短至 15 分鐘。",
+        "在視覺檢測領域結合電腦視覺與 AI 技術運作。"
+      ]
+    },
+    "technologies": ["Vertex AI", "Document AI"],
+    "needsReview": true,
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Pix Force — Official Website",
+        "url": "https://pixforce.com/"
+      }
+    ]
+  },
+  {
+    "id": "technology-creative-scaleup",
+    "industry": "technology",
+    "agentType": "creative",
+    "company": "Scaleup",
+    "isNew": false,
+    "summary": {
+      "en": "Scaleup's AI transcription platform generates subtitles in 7 languages and reduced student dropout by 17%.",
+      "zh": "Scaleup 的 AI 轉錄平台可生成七種語言字幕，並將學員中途退出率降低 17%。"
+    },
+    "overview": {
+      "en": "Scaleup built an AI-based technology that transcribes video lessons and automatically generates subtitles in up to seven languages, making educational content more accessible for diverse learners. The multilingual subtitle feature improved content absorption and demonstrably reduced student dropout rates before course completion. The initiative represents a scalable approach to content localization in online education.",
+      "zh": "Scaleup 開發了一套 AI 技術，可自動轉錄影片課程並生成多達七種語言的字幕，讓更多學習者能夠輕鬆獲取教育內容。多語言字幕功能改善了內容吸收效果，並明顯降低了學員在課程結束前的退出率。此舉代表線上教育內容在地化的可擴展方案。"
+    },
+    "highlights": {
+      "en": [
+        "Transcribes video lessons and generates subtitles automatically in up to seven languages.",
+        "Reduced student dropout rates before course completion by 17%.",
+        "Improves content absorption for diverse, multilingual learners."
+      ],
+      "zh": [
+        "自動轉錄影片課程並生成多達七種語言的字幕。",
+        "將學員在課程結束前的退出率降低 17%。",
+        "為多語言學習者改善內容吸收效果。"
+      ]
+    },
+    "technologies": ["Vertex AI", "Google Cloud Text-to-Speech", "Translation API"],
+    "needsReview": true,
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ]
+  },
+  {
+    "id": "technology-creative-sivi",
+    "industry": "technology",
+    "agentType": "creative",
+    "company": "Sivi",
+    "isNew": false,
+    "summary": {
+      "en": "Sivi built Large Design Models on Vertex AI with Gemini to generate personalized designs in 70+ languages.",
+      "zh": "Sivi 在 Vertex AI 上建立大型設計模型並整合 Gemini，可用 70 種以上語言生成個人化設計。"
+    },
+    "overview": {
+      "en": "Sivi is an AI design generator that built its Large Design Models (LDM) on Vertex AI using Google Kubernetes Engine for training, and integrated Gemini to create a conversational interface. The platform enables users to generate multi-layered, personalized graphic designs in over 70 languages by describing their needs in natural language. This approach replaced traditional form-based design workflows with a conversational experience that accelerates brief formation and increases user engagement.",
+      "zh": "Sivi 是一款 AI 設計生成器，在 Vertex AI 上運用 Google Kubernetes Engine 訓練其大型設計模型（LDM），並整合 Gemini 打造對話介面。用戶可透過自然語言描述需求，以超過 70 種語言生成多層次的個人化圖形設計。此方式取代了傳統表單式設計流程，以對話體驗加速設計簡報形成並提升用戶參與度。"
+    },
+    "highlights": {
+      "en": [
+        "Built Large Design Models (LDM) on Vertex AI for AI-powered graphic design generation.",
+        "Supports personalized design generation in over 70 languages via Gemini conversational interface.",
+        "Reduced design brief formation time by more than 50%.",
+        "Achieved engagement rates of up to 45% with the conversational model vs. traditional UI.",
+        "Uses Google Kubernetes Engine for model training and Gemini for natural language input."
+      ],
+      "zh": [
+        "在 Vertex AI 上建立大型設計模型（LDM），支援 AI 驅動的圖形設計生成。",
+        "透過 Gemini 對話介面，以超過 70 種語言生成個人化設計。",
+        "設計簡報形成時間縮短超過 50%。",
+        "對話模型的參與率高達 45%，遠超傳統使用者介面。",
+        "使用 Google Kubernetes Engine 進行模型訓練，並以 Gemini 處理自然語言輸入。"
+      ]
+    },
+    "technologies": ["Vertex AI", "Gemini", "Google Kubernetes Engine"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Sivi: AI for Design | Google Cloud",
+        "url": "https://cloud.google.com/resources/genai-customer-story-sivi-ai"
+      },
+      {
+        "title": "Sivi Case study | Google Cloud",
+        "url": "https://cloud.google.com/customers/sivi"
+      }
+    ]
+  },
+  {
+    "id": "technology-creative-stackit",
+    "industry": "technology",
+    "agentType": "creative",
+    "company": "STACKIT",
+    "isNew": false,
+    "summary": {
+      "en": "STACKIT offers sovereign Google Workspace with Gemini AI for Schwarz Group's 575,000 employees in Germany.",
+      "zh": "STACKIT 為德國 Schwarz Group 的 57.5 萬名員工提供具主權保障的 Google Workspace 與 Gemini AI 服務。"
+    },
+    "overview": {
+      "en": "STACKIT is a subsidiary of The Schwarz Group — Europe's largest retailer — that offers sovereign, cloud-based collaboration solutions in Germany by combining Google Workspace with its own data sovereignty infrastructure. The partnership with Google enables Schwarz Group's 575,000 employees to use Gemini AI within Workspace for rapid creation of graphics, videos, and written content. Data remains resident within the EU in STACKIT's European data centers, with client-side encryption preventing third-party access including Google itself.",
+      "zh": "STACKIT 是歐洲最大零售商 Schwarz Group 的子公司，在德國提供結合 Google Workspace 與自有主權資料基礎設施的協作解決方案。透過與 Google 的合作，Schwarz Group 旗下 57.5 萬名員工可在 Workspace 中使用 Gemini AI 快速創建圖形、影片及文字內容。資料存放於 STACKIT 歐盟境內的資料中心，並透過客戶端加密防止包括 Google 在內的第三方存取。"
+    },
+    "highlights": {
+      "en": [
+        "Serves Schwarz Group's 575,000 employees with sovereign Google Workspace and Gemini.",
+        "Uses Gemini in Google Workspace to enable rapid creation of graphics, videos, and written content.",
+        "Data remains exclusively within EU data centers with client-side encryption for full data sovereignty.",
+        "Integrates NotebookLM and Gemini to boost productivity and enable data-driven decisions.",
+        "Maintains the highest level of security while optimizing collaboration across the enterprise."
+      ],
+      "zh": [
+        "為 Schwarz Group 的 57.5 萬名員工提供具主權保障的 Google Workspace 和 Gemini 服務。",
+        "透過 Workspace 中的 Gemini 快速創建圖形、影片與文字內容。",
+        "資料完全存放於歐盟資料中心，並透過客戶端加密實現完整的資料主權。",
+        "整合 NotebookLM 和 Gemini 提升生產力並支援數據驅動決策。",
+        "在優化企業協作的同時保持最高等級的安全性。"
+      ]
+    },
+    "technologies": ["Gemini", "Google Workspace", "NotebookLM"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Companies of Schwarz Group and Google to Sign Partnership to Jointly Deliver Sovereign Workplace Solutions",
+        "url": "https://www.googlecloudpresscorner.com/2024-11-14-Companies-of-Schwarz-Group-and-Google-to-Sign-Partnership-to-Jointly-Deliver-Sovereign,-Secure-Workplace-Productivity-Solutions-for-Germany-and-Europe"
+      },
+      {
+        "title": "Sovereign, Cloud-Based Collaboration at STACKIT with Google Workspace and Gemini",
+        "url": "https://www.bluechiptt.com/google-workspace/sovereign-cloud-based-collaboration-at-stackit-with-google-workspace-and-gemini/"
+      }
+    ]
+  },
+  {
+    "id": "technology-creative-trakto",
+    "industry": "technology",
+    "agentType": "creative",
+    "company": "Trakto",
+    "isNew": false,
+    "summary": {
+      "en": "Trakto uses Vertex AI and Gemini to automate ad creation at scale for nearly 1 million users across Latin America.",
+      "zh": "Trakto 運用 Vertex AI 與 Gemini 為近百萬拉丁美洲用戶大規模自動化廣告創作。"
+    },
+    "overview": {
+      "en": "Trakto, a Brazilian technology company founded a decade ago in Maceió, Alagoas, is a Google partner that launched a platform using generative AI to automate ad creation at scale. Powered by Vertex AI and Gemini, the Trakto.Studio platform allows users to generate and multiply digital ad creatives in seconds, including quick text generation and text-to-speech conversion, providing a complete and scalable marketing solution. The platform serves nearly 1 million users across Brazil, Mexico, Colombia, Argentina, Uruguay, and Peru.",
+      "zh": "Trakto 是一家十年前成立於巴西阿拉戈斯州馬塞約的科技公司，也是 Google 合作夥伴。公司推出了利用生成式 AI 大規模自動化廣告創作的平台。以 Vertex AI 和 Gemini 為核心，Trakto.Studio 平台讓用戶在數秒內生成並複製數位廣告素材，包括快速文字生成與文字轉語音功能，提供完整且可擴展的行銷解決方案，服務巴西、墨西哥、哥倫比亞、阿根廷、烏拉圭和秘魯近百萬名用戶。"
+    },
+    "highlights": {
+      "en": [
+        "Automates ad creative generation at scale using Vertex AI and Gemini.",
+        "Offers quick text generation and text-to-speech conversion for complete marketing campaigns.",
+        "Serves nearly 1 million users across six Latin American countries.",
+        "Enables brand-consistent digital ad multiplication in seconds.",
+        "Built on Google Cloud's AI ecosystem, combining Vertex AI with Trakto's proprietary platform."
+      ],
+      "zh": [
+        "使用 Vertex AI 和 Gemini 大規模自動生成廣告素材。",
+        "提供快速文字生成與文字轉語音功能，支援完整行銷活動。",
+        "服務橫跨六個拉丁美洲國家的近百萬名用戶。",
+        "在數秒內完成符合品牌一致性的數位廣告複製。",
+        "建立於 Google Cloud AI 生態系之上，結合 Vertex AI 與 Trakto 自有平台。"
+      ]
+    },
+    "technologies": ["Vertex AI", "Gemini", "Google Cloud Text-to-Speech"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Como a Trakto vem escalando campanhas de marketing com uso de IA (Google Blog PT-BR)",
+        "url": "https://blog.google/intl/pt-br/produtos/como-a-trakto-startup-brasileira-parceira-do-google-vem-escalando-campanhas-de-marketing-com-uso-de-ia/"
+      }
+    ]
+  },
+  {
+    "id": "technology-creative-trimble",
+    "industry": "technology",
+    "agentType": "creative",
+    "company": "Trimble",
+    "isNew": false,
+    "summary": {
+      "en": "Trimble's 12,000 employees use Google Vids with AI voiceover to create branded training and project videos.",
+      "zh": "Trimble 旗下 12,000 名員工運用 Google Vids 的 AI 配音功能製作品牌培訓及專案影片。"
+    },
+    "overview": {
+      "en": "Trimble, a global industrial technology leader with 12,000 employees specializing in construction, agriculture, and transportation technology, adopted Google Vids with AI voiceover tools to create polished, branded video content and training materials. Employees across departments can now generate professional narration by typing scripts, removing the need for dedicated media teams for internal video production. The platform enables creation of hardware assembly guides, troubleshooting videos, and project proposal updates, replacing lengthy meetings with short focused video communications.",
+      "zh": "Trimble 是一家擁有 12,000 名員工的全球工業科技領導企業，專注於建築、農業與交通運輸技術。公司導入 Google Vids 的 AI 配音工具，製作精緻的品牌影片內容與培訓材料。各部門員工現在只需輸入腳本即可生成專業配音，無需專屬媒體團隊支援內部影片製作。該平台支援製作硬體組裝指南、故障排除影片以及專案提案更新，以短而精準的影片溝通取代冗長的會議。"
+    },
+    "highlights": {
+      "en": [
+        "12,000 employees can generate professional AI voiceover narration by simply typing a script in Google Vids.",
+        "Creates branded training videos for hardware assembly and troubleshooting.",
+        "Replaces lengthy meetings with short, focused videos for project proposals and updates.",
+        "Empowers employees across departments to produce video content without relying on brand or marketing teams.",
+        "Leverages Gemini-powered Google Vids for AI-assisted storyboarding and narration."
+      ],
+      "zh": [
+        "12,000 名員工只需在 Google Vids 中輸入腳本即可生成專業 AI 配音。",
+        "製作硬體組裝與故障排除的品牌培訓影片。",
+        "以短而精準的影片取代冗長的專案提案與進度更新會議。",
+        "各部門員工無需依賴品牌或行銷團隊即可自主製作影片內容。",
+        "運用 Gemini 驅動的 Google Vids 進行 AI 輔助分鏡與配音。"
+      ]
+    },
+    "technologies": ["Google Vids", "Gemini", "Google Workspace"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Trimble Systems Customer Success Story - Google Workspace",
+        "url": "https://workspace.google.com/customers/trimble/"
+      }
+    ]
+  },
+  {
+    "id": "technology-creative-typeface",
+    "industry": "technology",
+    "agentType": "creative",
+    "company": "Typeface",
+    "isNew": false,
+    "summary": {
+      "en": "Typeface's Arc Agent automates end-to-end marketing workflows including campaign performance and creative content on Google Cloud.",
+      "zh": "Typeface 的 Arc Agent 在 Google Cloud 上自動化行銷工作流程，涵蓋活動效能、創意內容與受眾優化。"
+    },
+    "overview": {
+      "en": "Typeface is an enterprise marketing AI platform that enables users to automate marketing workloads across teams with its Arc Agent system. Integrated deeply with Google Cloud, including the Gemini Enterprise ecosystem and BigQuery, Typeface's Arc Forge platform allows IT and marketing teams to operationalize brand-governed AI workflows across campaigns. From a single brief, marketers can trigger governed end-to-end workflows that produce thousands of channel-ready assets aligned to brand standards, campaign performance data, and live customer data.",
+      "zh": "Typeface 是一款企業行銷 AI 平台，透過其 Arc Agent 系統讓用戶自動化跨團隊的行銷工作。與 Google Cloud（包括 Gemini Enterprise 生態系和 BigQuery）深度整合，Typeface 的 Arc Forge 平台讓 IT 和行銷團隊能將品牌管控的 AI 工作流程應用於各項活動。行銷人員只需提供一份簡報，即可觸發受管控的端到端工作流程，生成數千個符合品牌標準、活動績效數據與即時客戶數據的可用素材。"
+    },
+    "highlights": {
+      "en": [
+        "Arc Agent supports marketers with campaign performance monitoring, creative content creation, and audience optimization.",
+        "Arc Forge enables brand-governed AI workflows across marketing campaigns on Google Cloud.",
+        "Generates thousands of channel-ready assets from a single campaign brief.",
+        "Integrates with BigQuery for real-time audience and media signal-based personalization.",
+        "Featured as an Independent Software Vendor on Google Cloud Marketplace within the Gemini Enterprise ecosystem."
+      ],
+      "zh": [
+        "Arc Agent 協助行銷人員進行活動效能監控、創意內容製作與受眾優化。",
+        "Arc Forge 在 Google Cloud 上實現行銷活動的品牌管控 AI 工作流程。",
+        "從單一活動簡報生成數千個可用的跨渠道素材。",
+        "與 BigQuery 整合，依據即時受眾與媒體訊號進行個人化內容生成。",
+        "在 Gemini Enterprise 生態系內以獨立軟體供應商身份上架 Google Cloud Marketplace。"
+      ]
+    },
+    "technologies": ["Gemini", "Vertex AI", "BigQuery", "Google Cloud Marketplace"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Typeface Brings Agentic Marketing Orchestration to Google Cloud",
+        "url": "https://www.cmswire.com/the-wire/typeface-brings-agentic-marketing-orchestration-to-google-cloud/"
+      },
+      {
+        "title": "Typeface Arc Agents: AI Marketing Automation & Campaign Tools",
+        "url": "https://www.typeface.ai/blog/introducing-typeface-arc-agents"
+      }
+    ]
+  },
+  {
+    "id": "technology-creative-urmobo",
+    "industry": "technology",
+    "agentType": "creative",
+    "company": "Urmobo",
+    "isNew": false,
+    "summary": {
+      "en": "Urmobo's AI virtual agent Odin uses Gemini to let users manage mobile devices via natural language, cutting task time by 60%.",
+      "zh": "Urmobo 的 AI 虛擬助理 Odin 運用 Gemini，讓用戶以自然語言管理行動裝置，縮短作業時間高達 60%。"
+    },
+    "overview": {
+      "en": "Urmobo is a mobile device management (MDM) platform that created a virtual agent named Odin, powered by Google's Gemini API, to enable clients to interact with the platform using natural language. Instead of navigating complex administrative dashboards, users can issue commands like 'show me devices with low battery' or 'install Gmail on all devices in the Urmobo policy,' and Odin converts these into system-executable actions. The implementation significantly improved user experience and reduced support tickets.",
+      "zh": "Urmobo 是一個行動裝置管理（MDM）平台，透過整合 Google Gemini API 打造了名為 Odin 的虛擬助理，讓客戶以自然語言操作平台。用戶無需瀏覽複雜的管理介面，只需下達「顯示電量不足的裝置」或「在 Urmobo 政策中的所有裝置安裝 Gmail」等指令，Odin 便會將這些轉化為系統可執行的動作。此實作大幅改善用戶體驗並降低了支援工單數量。"
+    },
+    "highlights": {
+      "en": [
+        "Odin virtual agent uses Gemini API to interpret natural language commands for MDM tasks.",
+        "Reduced time spent on device management and control actions by up to 60%.",
+        "Enables complex operations — reinstalling devices, applying security locks, checking location — via chat.",
+        "Significantly reduced support ticket volume by empowering self-service through natural language.",
+        "Improves user experience for enterprise clients managing large fleets of corporate devices."
+      ],
+      "zh": [
+        "Odin 虛擬助理透過 Gemini API 解讀自然語言指令以執行 MDM 任務。",
+        "裝置管理與控制作業的時間縮短高達 60%。",
+        "讓用戶透過對話執行複雜操作，包括重新安裝裝置、套用安全鎖定、查詢位置等。",
+        "透過自然語言自助服務大幅降低支援工單數量。",
+        "改善管理大量企業裝置的企業客戶使用體驗。"
+      ]
+    },
+    "technologies": ["Gemini"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Urmobo lança assistente Odin com API do Google para gerenciar dispositivos móveis",
+        "url": "https://www.mobiletime.com.br/noticias/26/06/2024/urmobo-lanca-assistente-odin-com-api-do-google-para-gerenciar-dispositivos-moveis/"
+      },
+      {
+        "title": "Odin AI — Urmobo",
+        "url": "https://urmobo.com.br/odin-ia/"
+      }
+    ]
+  },
+  {
+    "id": "technology-creative-videoshow",
+    "industry": "technology",
+    "agentType": "creative",
+    "company": "VideoShow",
+    "isNew": false,
+    "summary": {
+      "en": "VideoShow uses Gemini Flash and Imagen 3 on Vertex AI to enable one-click video creation for 400M users.",
+      "zh": "VideoShow 在 Vertex AI 上運用 Gemini Flash 和 Imagen 3，讓近 4 億用戶體驗一鍵影片創作。"
+    },
+    "overview": {
+      "en": "VideoShow is a mobile video editing company with nearly 400 million users globally. The company integrated Gemini Flash on Vertex AI to generate creative text and story scripts, and Imagen 3 to create images from simple text prompts, which its proprietary algorithm then converts into short videos. Additional integrations include Natural Language AI, Text-to-Speech AI, Translation API, and Cloud Vision API for content moderation. These AI-powered features enable one-click video creation, lowering the complexity barrier for new users and saving 3 months of model training time.",
+      "zh": "VideoShow 是一家擁有近 4 億全球用戶的手機影片剪輯公司。公司在 Vertex AI 上整合 Gemini Flash 生成創意文字和故事腳本，並使用 Imagen 3 根據簡單的文字提示生成圖像，再由自有演算法將其轉換為短影片。此外還整合了 Natural Language AI、文字轉語音 AI、Translation API 以及 Cloud Vision API 進行內容審核。這些 AI 功能實現了一鍵影片創作，降低新用戶的上手門檻，並節省了 3 個月的模型訓練時間。"
+    },
+    "highlights": {
+      "en": [
+        "Serves nearly 400 million global users with AI-powered one-click video creation.",
+        "Uses Gemini Flash on Vertex AI to generate creative text and story scripts.",
+        "Uses Imagen 3 to create images from prompts that a proprietary algorithm converts into short videos.",
+        "Saved 3 months of model training time by leveraging Google Cloud AI services.",
+        "Integrates Translation API, Text-to-Speech AI, and Cloud Vision API for multilingual content creation and moderation."
+      ],
+      "zh": [
+        "為全球近 4 億用戶提供 AI 驅動的一鍵影片創作功能。",
+        "在 Vertex AI 上使用 Gemini Flash 生成創意文字和故事腳本。",
+        "使用 Imagen 3 根據提示生成圖像，再由自有演算法轉換為短影片。",
+        "透過運用 Google Cloud AI 服務節省了 3 個月的模型訓練時間。",
+        "整合 Translation API、文字轉語音 AI 和 Cloud Vision API，支援多語言內容創作與內容審核。"
+      ]
+    },
+    "technologies": ["Gemini", "Vertex AI", "Imagen 3", "Cloud Vision API", "Translation API", "Google Cloud Text-to-Speech"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Videoshow Case Study | Google Cloud",
+        "url": "https://cloud.google.com/customers/videoshow"
+      }
+    ]
+  }
+]

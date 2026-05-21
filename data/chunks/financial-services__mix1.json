@@ -1,0 +1,2365 @@
+[
+  {
+    "id": "financial-services-employee-atb-financial",
+    "industry": "financial-services",
+    "agentType": "employee",
+    "company": "ATB Financial",
+    "isNew": false,
+    "summary": {
+      "en": "ATB Financial deployed Google Workspace with Gemini to 5,000+ employees to automate tasks and improve collaboration.",
+      "zh": "ATB Financial 將 Google Workspace 與 Gemini 部署給逾 5,000 名員工，自動化日常任務並提升協作效率。"
+    },
+    "overview": {
+      "en": "ATB Financial, the largest Alberta-based financial institution with over $62.3 billion in assets under management, successfully deployed Google Workspace with Gemini to its more than 5,000 team members. The rollout allows employees to automate routine tasks, access information quickly, and collaborate more effectively while keeping data secure and trustworthy. A pilot program informed the deployment, with participants reporting average time savings of up to two hours per week.",
+      "zh": "ATB Financial 是亞伯達省最大的金融機構，管理資產逾 623 億加元。公司成功將 Google Workspace 與 Gemini 部署給逾 5,000 名員工，協助自動化日常任務、快速存取資訊並提升協作效率，同時確保資料安全。部署前的試行計畫顯示，參與者每週平均節省最多兩小時的工作時間。"
+    },
+    "highlights": {
+      "en": [
+        "Deployed Google Workspace with Gemini to 5,000+ team members across the institution.",
+        "Pilot participants reported average time savings of up to 2 hours per week.",
+        "60% of pilot participants said they could accomplish more or take on additional responsibilities.",
+        "Marketing teams reduced campaign project timelines by up to two weeks using Gemini for brainstorming.",
+        "40% of marketing team members use Gemini daily, saving approximately 2 hours per week."
+      ],
+      "zh": [
+        "將 Google Workspace 與 Gemini 部署給全機構逾 5,000 名員工。",
+        "試行計畫參與者每週平均節省最多 2 小時工作時間。",
+        "60% 的試行參與者表示能完成更多工作或承擔額外職責。",
+        "行銷團隊利用 Gemini 進行頭腦風暴，將專案時程縮短最多兩週。",
+        "40% 的行銷團隊成員每天使用 Gemini，每週約節省 2 小時。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Google Workspace",
+      "Gemini for Google Workspace"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "ATB Financial Empowers Employees with Google AI — Google Cloud Press Corner",
+        "url": "https://www.googlecloudpresscorner.com/2025-01-23-ATB-Financial-Empowers-Employees-with-Google-AI"
+      },
+      {
+        "title": "Supercharging employee experience with Gemini at ATB Financial — Google Workspace Blog",
+        "url": "https://workspace.google.com/blog/customer-stories/supercharging-employee-experience-and-reducing-routine-work-gemini-atb-financial"
+      }
+    ]
+  },
+  {
+    "id": "financial-services-employee-banco-bv",
+    "industry": "financial-services",
+    "agentType": "employee",
+    "company": "Banco BV",
+    "isNew": false,
+    "summary": {
+      "en": "Banco BV implemented Google Agentspace to enable employees to use gen AI for research and operations securely.",
+      "zh": "Banco BV 導入 Google Agentspace，讓員工能在安全合規的環境中使用生成式 AI 進行研究與作業。"
+    },
+    "overview": {
+      "en": "Banco BV, a major Brazilian bank, implemented Google Agentspace to give employees access to generative AI capabilities across several critical systems. The platform enables research, operational assistance, and process support in a secure and compliant manner, addressing the strict regulatory requirements of the Brazilian financial sector.",
+      "zh": "巴西主要銀行 Banco BV 導入 Google Agentspace，讓員工能夠在多個關鍵系統中使用生成式 AI 功能，涵蓋研究、操作協助及流程支援，並確保符合巴西金融業的嚴格法規要求。"
+    },
+    "highlights": {
+      "en": [
+        "Deployed Google Agentspace across multiple critical banking systems.",
+        "Employees can use gen AI for research, assistance, and operations in a secure, compliant environment.",
+        "Addresses the regulatory compliance needs of the Brazilian financial sector."
+      ],
+      "zh": [
+        "在多個關鍵銀行系統中部署 Google Agentspace。",
+        "員工可在安全合規的環境中利用生成式 AI 進行研究、協助及作業。",
+        "滿足巴西金融業的法規合規需求。"
+      ]
+    },
+    "technologies": [
+      "Google Agentspace",
+      "Vertex AI"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "financial-services-employee-banco-rendimento",
+    "industry": "financial-services",
+    "agentType": "employee",
+    "company": "Banco Rendimento",
+    "isNew": false,
+    "summary": {
+      "en": "Banco Rendimento uses Vertex AI to enable 24/7 international transfers via WhatsApp without a human representative.",
+      "zh": "Banco Rendimento 運用 Vertex AI 透過 WhatsApp 提供全天候國際匯款服務，無需真人代表介入。"
+    },
+    "overview": {
+      "en": "Banco Rendimento, a Brazilian currency exchange specialist, built a Vertex AI-powered service that allows customers to send international transfers through WhatsApp. The automated system operates 24/7, handling transactions entirely without requiring a human representative, making cross-border remittances more accessible. As of late 2025, the service had already processed over R$1 million in transactions.",
+      "zh": "Banco Rendimento 是巴西外匯市場專業機構，運用 Vertex AI 建立了一套透過 WhatsApp 辦理國際匯款的服務。該自動化系統全天候運作，整個交易過程無需真人代表介入，讓跨境匯款更便利。截至 2025 年底，服務已處理逾 100 萬巴西雷亞爾的交易。"
+    },
+    "highlights": {
+      "en": [
+        "Built a WhatsApp-based international transfer service powered by Vertex AI.",
+        "Service operates 24/7 with fully automated transaction processing.",
+        "No human representative required to complete transactions.",
+        "Processed over R$1 million in transactions since launch."
+      ],
+      "zh": [
+        "建立了由 Vertex AI 驅動的 WhatsApp 國際匯款服務。",
+        "服務全天候運作，交易完全自動化處理。",
+        "完成交易無需真人代表介入。",
+        "上線以來已處理逾 100 萬巴西雷亞爾的交易。"
+      ]
+    },
+    "technologies": [
+      "Vertex AI"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Banco Rendimento and Rendimento Câmbio expand digital offerings with transactions via WhatsApp",
+        "url": "https://tiinside.com.br/en/11/12/2025/banco-rendimento-e-rendimento-cambio-ampliam-oferta-digital-com-transacoes-via-whatsapp/"
+      }
+    ]
+  },
+  {
+    "id": "financial-services-employee-banestes",
+    "industry": "financial-services",
+    "agentType": "employee",
+    "company": "Banestes",
+    "isNew": false,
+    "summary": {
+      "en": "Banestes uses Gemini in Google Workspace to accelerate credit analysis and boost marketing and legal productivity.",
+      "zh": "巴西 Banestes 銀行使用 Gemini for Google Workspace 加速信貸分析，並提升行銷與法務部門的生產力。"
+    },
+    "overview": {
+      "en": "Banestes, a Brazilian state bank, deployed Gemini in Google Workspace to streamline its work dynamics across multiple departments. The AI tools accelerate credit analysis by simplifying balance sheet reviews, while also boosting productivity in marketing and legal departments through drafting assistance, summarization, and document creation.",
+      "zh": "巴西國家銀行 Banestes 在 Google Workspace 中導入 Gemini，以簡化多個部門的工作流程。AI 工具透過簡化資產負債表審閱來加速信貸分析，同時在行銷和法務部門提供起草協助、摘要和文件建立等功能，提升整體生產力。"
+    },
+    "highlights": {
+      "en": [
+        "Accelerated credit analysis by simplifying balance sheet reviews with Gemini.",
+        "Boosted productivity across marketing and legal departments.",
+        "Streamlined work dynamics bank-wide with Google Workspace and Gemini."
+      ],
+      "zh": [
+        "透過 Gemini 簡化資產負債表審閱，加速信貸分析。",
+        "提升行銷和法務部門的工作效率。",
+        "透過 Google Workspace 與 Gemini 全面優化銀行業務流程。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Google Workspace",
+      "Gemini for Google Workspace"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "financial-services-employee-bank-of-new-york-mellon",
+    "industry": "financial-services",
+    "agentType": "employee",
+    "company": "Bank of New York Mellon",
+    "isNew": false,
+    "summary": {
+      "en": "Bank of New York Mellon built a virtual assistant to help employees find information and get answers to questions.",
+      "zh": "紐約梅隆銀行建立虛擬助理，協助員工快速找到所需資訊與問題解答。"
+    },
+    "overview": {
+      "en": "Bank of New York Mellon (BNY Mellon), one of the world's largest custody banks, built an internal virtual assistant to help employees quickly find relevant information and answers to their questions. The tool reduces the time employees spend searching across disparate systems and documents, improving operational efficiency at scale.",
+      "zh": "紐約梅隆銀行（BNY Mellon）是全球最大的托管銀行之一，建立了一套內部虛擬助理，協助員工快速找到相關資訊及問題解答。此工具減少了員工在不同系統和文件中搜尋的時間，大幅提升營運效率。"
+    },
+    "highlights": {
+      "en": [
+        "Built an internal virtual assistant for employee information retrieval.",
+        "Reduces time spent searching across disparate systems and documents.",
+        "Improves operational efficiency for one of the world's largest custody banks."
+      ],
+      "zh": [
+        "建立內部虛擬助理，供員工查詢資訊。",
+        "減少員工在不同系統和文件中搜尋的時間。",
+        "為全球最大托管銀行之一提升營運效率。"
+      ]
+    },
+    "technologies": [
+      "Vertex AI",
+      "Gemini"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "financial-services-employee-bbva",
+    "industry": "financial-services",
+    "agentType": "employee",
+    "company": "BBVA",
+    "isNew": false,
+    "summary": {
+      "en": "BBVA deployed Gemini in Google Workspace to 100,000+ employees, saving nearly 3 hours per week per employee on average.",
+      "zh": "BBVA 為逾 10 萬名員工部署 Gemini for Google Workspace，平均每人每週節省近 3 小時。"
+    },
+    "overview": {
+      "en": "BBVA, a global bank with over 100,000 employees across more than 25 countries, deployed Google Workspace with Gemini to its entire workforce. Employees use Gemini to summarize, draft, and find information across emails, chats, and files, and create professional documents, presentations, spreadsheets, and videos. Automating repetitive tasks saves employees nearly three hours per week on average. A mandatory 'AI Express' training program was launched to ensure responsible adoption aligned with EU AI Act requirements.",
+      "zh": "BBVA 是一家全球性銀行，在逾 25 個國家擁有超過 10 萬名員工。公司將 Google Workspace 與 Gemini 部署給全體員工，讓他們能夠跨電子郵件、聊天及檔案進行摘要、起草和資訊查找，並建立專業文件、簡報、試算表及影片。自動化重複性任務平均每人每週節省近 3 小時。公司同步推出強制性「AI Express」培訓計畫，確保員工依據歐盟 AI 法案要求負責任地使用 AI。"
+    },
+    "highlights": {
+      "en": [
+        "Deployed Gemini in Google Workspace to 100,000+ employees across 25+ countries.",
+        "Automating repetitive tasks saves employees nearly 3 hours per week on average.",
+        "Employees use Gemini for drafting, summarizing, and creating documents, presentations, and videos.",
+        "Launched mandatory 'AI Express' training program for responsible AI adoption.",
+        "Compliance aligned with EU AI Act and BBVA's internal data protection policies."
+      ],
+      "zh": [
+        "在逾 25 個國家為超過 10 萬名員工部署 Gemini for Google Workspace。",
+        "自動化重複性任務平均每人每週節省近 3 小時。",
+        "員工使用 Gemini 進行起草、摘要及建立文件、簡報和影片。",
+        "推出強制性「AI Express」培訓計畫，促進負責任的 AI 使用。",
+        "符合歐盟 AI 法案及 BBVA 內部資料保護政策。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Google Workspace",
+      "Gemini for Google Workspace",
+      "NotebookLM"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "BBVA deepens partnership with Google Cloud to innovate with AI",
+        "url": "https://www.bbva.com/en/innovation/bbva-deepens-partnership-with-google-cloud-to-innovate-with-ai/"
+      },
+      {
+        "title": "BBVA Deepens Partnership with Google Cloud to Innovate with AI — PR Newswire",
+        "url": "https://www.prnewswire.com/news-releases/bbva-deepens-partnership-with-google-cloud-to-innovate-with-ai-302496060.html"
+      }
+    ]
+  },
+  {
+    "id": "financial-services-employee-bbva-2",
+    "industry": "financial-services",
+    "agentType": "employee",
+    "company": "BBVA",
+    "isNew": false,
+    "summary": {
+      "en": "BBVA uses NotebookLM for research tasks, generating audio overviews and reports to free up time for strategic work.",
+      "zh": "BBVA 使用 NotebookLM 進行研究任務、產生複雜發現的音訊摘要及報告，釋出更多時間用於策略性工作。"
+    },
+    "overview": {
+      "en": "In addition to Google Workspace with Gemini, BBVA also leverages NotebookLM as an AI-powered research and writing assistant. Employees use it for research tasks, generating audio overviews of complex findings, and creating reports. This approach helps employees free up time for more strategic, customer-focused work by automating the synthesis of complex information.",
+      "zh": "除了 Google Workspace 與 Gemini 之外，BBVA 也將 NotebookLM 作為 AI 驅動的研究與寫作助理。員工使用它進行研究任務、為複雜發現生成音訊摘要，以及建立報告。此做法透過自動化複雜資訊的整合，協助員工騰出更多時間從事更具策略性、以客戶為中心的工作。"
+    },
+    "highlights": {
+      "en": [
+        "Uses NotebookLM as an AI-powered research and writing assistant.",
+        "Generates audio overviews of complex research findings.",
+        "Automates report creation, freeing employees for more strategic work.",
+        "Part of a broader Google AI adoption spanning Gemini, Workspace, and NotebookLM."
+      ],
+      "zh": [
+        "使用 NotebookLM 作為 AI 驅動的研究與寫作助理。",
+        "為複雜研究發現生成音訊摘要。",
+        "自動化報告建立，讓員工得以從事更具策略性的工作。",
+        "是涵蓋 Gemini、Workspace 及 NotebookLM 的更廣泛 Google AI 採用計畫的一部分。"
+      ]
+    },
+    "technologies": [
+      "NotebookLM",
+      "Gemini",
+      "Google Workspace"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "BBVA Deepens Partnership with Google Cloud to Innovate with AI — Google Cloud Press Corner",
+        "url": "https://www.googlecloudpresscorner.com/2025-07-02-BBVA-Deepens-Partnership-with-Google-Cloud-to-Innovate-with-AI"
+      }
+    ]
+  },
+  {
+    "id": "financial-services-employee-chiba-bank",
+    "industry": "financial-services",
+    "agentType": "employee",
+    "company": "Chiba Bank",
+    "isNew": false,
+    "summary": {
+      "en": "Chiba Bank built a Gemini Pro chatbot to answer questions about internal banking policies via natural language queries.",
+      "zh": "千葉銀行建立了基於 Gemini Pro 的聊天機器人，讓員工透過自然語言查詢內部銀行政策與流程。"
+    },
+    "overview": {
+      "en": "Chiba Bank, a major regional bank in Japan, partnered with Google Cloud's Advanced Solutions Lab to train employees in AI and machine learning. The bank built a Gemini Pro-based chatbot prototype that answers questions about internal banking policies and procedures, enabling employees to access policy information through natural language queries instead of manual document searches.",
+      "zh": "千葉銀行是日本主要的地區性銀行，與 Google Cloud 的 Advanced Solutions Lab 合作，培訓員工的 AI 和機器學習能力。銀行建立了基於 Gemini Pro 的聊天機器人原型，可回答內部銀行政策和流程相關問題，讓員工能透過自然語言查詢取得政策資訊，無需手動搜尋文件。"
+    },
+    "highlights": {
+      "en": [
+        "Partnered with Google Cloud's Advanced Solutions Lab for AI/ML employee training.",
+        "Built a Gemini Pro-based chatbot for internal policy and procedure Q&A.",
+        "Employees can access policy information through natural language queries.",
+        "Reduces time spent manually searching through policy documents."
+      ],
+      "zh": [
+        "與 Google Cloud Advanced Solutions Lab 合作，培訓員工 AI/ML 能力。",
+        "建立基於 Gemini Pro 的聊天機器人，用於內部政策和流程問答。",
+        "員工可透過自然語言查詢取得政策資訊。",
+        "減少員工手動搜尋政策文件的時間。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Vertex AI",
+      "Google Cloud Advanced Solutions Lab"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "financial-services-employee-citi",
+    "industry": "financial-services",
+    "agentType": "employee",
+    "company": "Citi",
+    "isNew": false,
+    "summary": {
+      "en": "Citi uses Vertex AI to deliver gen AI capabilities for developer toolkits, document processing, and customer servicing.",
+      "zh": "Citi 使用 Vertex AI 在全公司推動生成式 AI，涵蓋開發者工具、文件處理及客戶服務等領域。"
+    },
+    "overview": {
+      "en": "Citi uses Vertex AI as the backbone to deliver generative AI capabilities across the company. Key initiatives include developer toolkits that accelerate software engineering, document processing and digitization to reduce manual work, and capabilities that empower customer servicing teams to resolve issues faster and with greater accuracy.",
+      "zh": "Citi 以 Vertex AI 為核心，在全公司推動生成式 AI 能力。主要計畫包括加速軟體工程的開發者工具包、減少人工作業的文件處理與數位化，以及賦能客戶服務團隊更快速、更準確地解決問題。"
+    },
+    "highlights": {
+      "en": [
+        "Uses Vertex AI to power gen AI initiatives company-wide.",
+        "Deployed AI-enhanced developer toolkits to accelerate software engineering.",
+        "Automated document processing and digitization to reduce manual workloads.",
+        "Empowers customer servicing teams with AI capabilities for faster issue resolution."
+      ],
+      "zh": [
+        "以 Vertex AI 在全公司推動生成式 AI 計畫。",
+        "部署 AI 增強型開發者工具包，加速軟體工程。",
+        "自動化文件處理與數位化，減少人工作業。",
+        "為客戶服務團隊提供 AI 能力，加快問題解決速度。"
+      ]
+    },
+    "technologies": [
+      "Vertex AI",
+      "Gemini"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "financial-services-employee-commerzbank",
+    "industry": "financial-services",
+    "agentType": "employee",
+    "company": "Commerzbank",
+    "isNew": false,
+    "summary": {
+      "en": "Commerzbank used Gemini 1.5 Pro to automate client call documentation, reducing processing from 60+ minutes to a few minutes.",
+      "zh": "Commerzbank 使用 Gemini 1.5 Pro 自動化客戶通話記錄，將處理時間從 60 分鐘以上縮短至數分鐘。"
+    },
+    "overview": {
+      "en": "Commerzbank, a leading German bank, implemented an AI agent powered by Gemini 1.5 Pro to automate the documentation of client calls. The multi-stage architecture on Vertex AI diarizes transcripts with speaker identification, extracts relevant facts, and generates multiple German-language summaries tailored to specific domain requirements using chain-of-thought prompting. What previously took 60+ minutes can now be completed in just a few minutes, freeing financial advisors to focus on building client relationships and providing personalized advice.",
+      "zh": "德國主要銀行 Commerzbank 導入由 Gemini 1.5 Pro 驅動的 AI 代理人，自動化客戶通話的文件記錄工作。在 Vertex AI 上建立的多階段架構能進行帶有說話者識別的逐字稿分析、提取相關事實，並使用思維鏈提示針對特定領域需求生成多份德語摘要。過去需要 60 分鐘以上的工作現在只需數分鐘，讓理財顧問得以專注於建立客戶關係和提供個人化建議。"
+    },
+    "highlights": {
+      "en": [
+        "Automated client call documentation using Gemini 1.5 Pro on Vertex AI.",
+        "Processing time reduced from 60+ minutes to just a few minutes.",
+        "System generates diarized transcripts with speaker identification.",
+        "Produces compliant, domain-specific summaries using chain-of-thought prompting.",
+        "Financial advisors freed to focus on higher-value client relationship activities."
+      ],
+      "zh": [
+        "在 Vertex AI 上使用 Gemini 1.5 Pro 自動化客戶通話文件記錄。",
+        "處理時間從 60 分鐘以上縮短至數分鐘。",
+        "系統產生帶有說話者識別的逐字稿。",
+        "使用思維鏈提示生成符合規範的特定領域摘要。",
+        "理財顧問得以專注於更具價值的客戶關係建立活動。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Vertex AI",
+      "Gemini 1.5 Pro"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "How Commerzbank is transforming financial advisory workflows with gen AI — Google Cloud Blog",
+        "url": "https://cloud.google.com/blog/products/ai-machine-learning/how-commerzbank-is-transforming-financial-advisory-workflows-with-gen-ai"
+      }
+    ]
+  },
+  {
+    "id": "financial-services-employee-dbs",
+    "industry": "financial-services",
+    "agentType": "employee",
+    "company": "DBS",
+    "isNew": false,
+    "summary": {
+      "en": "DBS reduced customer call handling times by 20% using Google's Customer Engagement Suite.",
+      "zh": "DBS 透過 Google Customer Engagement Suite 將客戶通話處理時間縮短 20%。"
+    },
+    "overview": {
+      "en": "DBS, a leading Asian financial services group headquartered in Singapore, deployed Google's Customer Engagement Suite to reduce customer call handling times. The AI-powered system leverages Gemini models to provide real-time support to Customer Service Officers, enabling them to retrieve information faster and resolve customer inquiries more efficiently. DBS's CSO Assistant tool was rolled out to its 500-strong Customer Service Officer workforce in Singapore.",
+      "zh": "DBS 是總部位於新加坡的亞洲領先金融服務集團，部署了 Google Customer Engagement Suite 以縮短客戶通話處理時間。此 AI 系統利用 Gemini 模型即時支援客戶服務專員，讓他們能更快速地檢索資訊並更有效率地解決客戶查詢。DBS 的 CSO Assistant 工具已向新加坡逾 500 名客戶服務專員推出。"
+    },
+    "highlights": {
+      "en": [
+        "Reduced customer call handling times by 20% using Customer Engagement Suite.",
+        "CSO Assistant deployed to 500+ Customer Service Officers in Singapore.",
+        "System transcribes customer queries in real-time and searches the knowledge base live.",
+        "Powered by Google's Gemini models for real-time language understanding."
+      ],
+      "zh": [
+        "使用 Customer Engagement Suite 將客戶通話處理時間縮短 20%。",
+        "CSO Assistant 已向新加坡逾 500 名客戶服務專員部署。",
+        "系統即時轉錄客戶查詢並進行即時知識庫搜尋。",
+        "由 Google Gemini 模型驅動，實現即時語言理解。"
+      ]
+    },
+    "technologies": [
+      "Customer Engagement Suite",
+      "Gemini",
+      "Vertex AI"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "DBS empowers Customer Service Officers with Gen AI-powered virtual assistant — DBS Newsroom",
+        "url": "https://www.dbs.com/newsroom/DBS_empowers_its_Customer_Service_Officers_with_Gen_AI_powered_virtual_assistant_to_reduce_toil_and_enhance_customer_experience"
+      }
+    ]
+  },
+  {
+    "id": "financial-services-employee-dbs-2",
+    "industry": "financial-services",
+    "agentType": "employee",
+    "company": "DBS",
+    "isNew": true,
+    "summary": {
+      "en": "DBS uses internal AI chat agents to help answer servicing questions for customers.",
+      "zh": "DBS 使用內部 AI 聊天代理人協助回答客戶服務問題。"
+    },
+    "overview": {
+      "en": "In addition to its Customer Engagement Suite deployment, DBS is also using internal AI chat agents to help answer servicing questions for customers. These agents complement the work of human service officers, providing consistent and accurate responses to common queries at scale.",
+      "zh": "除了部署 Customer Engagement Suite 之外，DBS 也使用內部 AI 聊天代理人協助回答客戶服務問題。這些代理人補充了真人服務專員的工作，能大規模地提供一致且準確的常見查詢回覆。"
+    },
+    "highlights": {
+      "en": [
+        "Deployed internal AI chat agents to handle customer servicing questions.",
+        "Complements human service officers with consistent, scalable AI responses.",
+        "Part of DBS's broader AI-first transformation strategy."
+      ],
+      "zh": [
+        "部署內部 AI 聊天代理人處理客戶服務問題。",
+        "以一致、可擴展的 AI 回覆補充真人服務專員的工作。",
+        "是 DBS 更廣泛 AI 優先轉型策略的一部分。"
+      ]
+    },
+    "technologies": [
+      "Vertex AI",
+      "Gemini",
+      "Customer Engagement Suite"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "DBS empowers Customer Service Officers with Gen AI-powered virtual assistant — DBS Newsroom",
+        "url": "https://www.dbs.com/newsroom/DBS_empowers_its_Customer_Service_Officers_with_Gen_AI_powered_virtual_assistant_to_reduce_toil_and_enhance_customer_experience"
+      }
+    ]
+  },
+  {
+    "id": "financial-services-employee-deutsche-bank",
+    "industry": "financial-services",
+    "agentType": "employee",
+    "company": "Deutsche Bank",
+    "isNew": false,
+    "summary": {
+      "en": "Deutsche Bank's DB Lumina AI research tool condenses hours of analyst work into minutes while maintaining data privacy.",
+      "zh": "Deutsche Bank 的 DB Lumina AI 研究工具將分析師數小時的工作壓縮至數分鐘，同時維持嚴格的資料隱私。"
+    },
+    "overview": {
+      "en": "Deutsche Bank built DB Lumina, an AI-powered research tool on Google Cloud using Gemini 2.0/2.5 and Vertex AI. The tool accelerates the time it takes financial analysts to create research reports and notes, compressing work that previously took hours or days into a matter of minutes. DB Lumina went live in September 2024 and is already used by approximately 5,000 researchers across Deutsche Bank Research. The system uses RAG-based knowledge integration with Gemini Embeddings and Vertex AI Vector Search to maintain data privacy in the highly regulated financial sector.",
+      "zh": "Deutsche Bank 在 Google Cloud 上使用 Gemini 2.0/2.5 和 Vertex AI 建立了 DB Lumina AI 研究工具。該工具加速了金融分析師建立研究報告和筆記的速度，將原本需要數小時乃至數天的工作壓縮至數分鐘內完成。DB Lumina 於 2024 年 9 月上線，已有約 5,000 名 Deutsche Bank Research 研究員使用。系統使用基於 RAG 的知識整合，搭配 Gemini Embeddings 和 Vertex AI Vector Search，在高度監管的金融業中維持資料隱私。"
+    },
+    "highlights": {
+      "en": [
+        "DB Lumina launched in September 2024 and reached ~5,000 Deutsche Bank Research users.",
+        "Compresses research report creation from hours or days to minutes.",
+        "Built on Google Cloud using Gemini 2.0/2.5 and Vertex AI.",
+        "Uses RAG with Gemini Embeddings API and Vertex AI Vector Search.",
+        "Maintains stringent data privacy standards required by financial regulations."
+      ],
+      "zh": [
+        "DB Lumina 於 2024 年 9 月上線，已累積約 5,000 名 Deutsche Bank Research 使用者。",
+        "將研究報告建立時間從數小時乃至數天壓縮至數分鐘。",
+        "在 Google Cloud 上使用 Gemini 2.0/2.5 和 Vertex AI 建立。",
+        "使用 RAG 搭配 Gemini Embeddings API 和 Vertex AI Vector Search。",
+        "維持金融法規要求的嚴格資料隱私標準。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Vertex AI",
+      "Vertex AI Vector Search",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Deutsche Bank delivers AI-powered financial research with DB Lumina — Google Cloud Blog",
+        "url": "https://cloud.google.com/blog/topics/financial-services/deutsche-bank-delivers-ai-powered-financial-research-with-db-lumina"
+      }
+    ]
+  },
+  {
+    "id": "financial-services-employee-discover-financial",
+    "industry": "financial-services",
+    "agentType": "employee",
+    "company": "Discover Financial",
+    "isNew": false,
+    "summary": {
+      "en": "Discover Financial's 10,000 contact center reps use AI to search and synthesize policy information during customer calls.",
+      "zh": "Discover Financial 的 1 萬名客服中心代表使用 AI 在通話中快速搜尋並整合政策資訊。"
+    },
+    "overview": {
+      "en": "Discover Financial deployed an AI-powered search and synthesis tool for its 10,000 contact center representatives. During customer calls, representatives can quickly search across detailed policies and procedures and receive synthesized answers, reducing the time spent looking up information and enabling more focused, accurate customer interactions.",
+      "zh": "Discover Financial 為其 1 萬名客服中心代表部署了 AI 搜尋與整合工具。在客戶通話期間，代表可快速搜尋詳細的政策和流程，並獲得整合後的答案，減少查找資訊的時間，從而進行更專注、更準確的客戶互動。"
+    },
+    "highlights": {
+      "en": [
+        "Deployed AI-powered search for 10,000 contact center representatives.",
+        "Enables real-time search across detailed policies and procedures during calls.",
+        "Synthesizes information to provide accurate answers quickly.",
+        "Improves quality and efficiency of customer interactions at scale."
+      ],
+      "zh": [
+        "為 1 萬名客服中心代表部署 AI 搜尋工具。",
+        "在通話期間即時搜尋詳細的政策和流程。",
+        "整合資訊以快速提供準確答案。",
+        "大規模提升客戶互動的品質與效率。"
+      ]
+    },
+    "technologies": [
+      "Vertex AI",
+      "Gemini"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "financial-services-employee-ebanx",
+    "industry": "financial-services",
+    "agentType": "employee",
+    "company": "EBANX",
+    "isNew": true,
+    "summary": {
+      "en": "EBANX uses Gemini Enterprise to build AI agents like Sirius for real-time payment analysis across Google Cloud and Salesforce data.",
+      "zh": "EBANX 使用 Gemini Enterprise 建立 Sirius 等 AI 代理人，整合 Google Cloud 與 Salesforce 資料進行即時支付分析。"
+    },
+    "overview": {
+      "en": "EBANX, a fintech specialized in emerging markets, uses Gemini Enterprise to integrate data from Google Cloud and Salesforce, enabling engineers to create AI agents like Sirius for real-time payment analysis. With 300 employees already trained on the technology, the company is expanding its use to back-office and sales teams to identify new business opportunities.",
+      "zh": "EBANX 是專注於新興市場的金融科技公司，使用 Gemini Enterprise 整合 Google Cloud 和 Salesforce 的資料，讓工程師能夠建立 Sirius 等 AI 代理人進行即時支付分析。目前已有 300 名員工完成相關技術培訓，公司正將此技術擴展至後台和銷售團隊，以識別新的業務機會。"
+    },
+    "highlights": {
+      "en": [
+        "Uses Gemini Enterprise to integrate Google Cloud and Salesforce data sources.",
+        "Built Sirius, an AI agent for real-time payment analysis.",
+        "300 employees already trained on the gen AI technology.",
+        "Expanding AI capabilities to back-office and sales teams."
+      ],
+      "zh": [
+        "使用 Gemini Enterprise 整合 Google Cloud 和 Salesforce 資料來源。",
+        "建立了 Sirius AI 代理人，用於即時支付分析。",
+        "已有 300 名員工完成生成式 AI 技術培訓。",
+        "正將 AI 能力擴展至後台和銷售團隊。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Vertex AI",
+      "Google Cloud",
+      "Gemini Enterprise"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "financial-services-employee-equifax",
+    "industry": "financial-services",
+    "agentType": "employee",
+    "company": "Equifax",
+    "isNew": false,
+    "summary": {
+      "en": "Equifax uses Gemini in Google Meet to create meeting transcripts and summaries; 97% of trial users wanted to keep their licenses.",
+      "zh": "Equifax 使用 Gemini 在 Google Meet 建立會議逐字稿與摘要；97% 的試用者希望保留授權。"
+    },
+    "overview": {
+      "en": "Equifax, a global credit bureau, uses Gemini's 'take notes for me' feature in Google Meet to create transcripts, summaries, and action items from calls. In a trial with over 1,500 participants, 97% wanted to keep their Gemini licenses after experiencing the productivity benefits. The company is rolling out Gemini to nearly 22,000 employees and contractors, with SADA providing customized training agendas.",
+      "zh": "全球信用局 Equifax 使用 Gemini 在 Google Meet 的「為我記錄筆記」功能，自動建立通話逐字稿、摘要和行動項目。在超過 1,500 名參與者的試用中，97% 的人在體驗生產力優勢後希望保留 Gemini 授權。公司正將 Gemini 推廣至近 2.2 萬名員工和承包商，並由 SADA 提供客製化培訓計畫。"
+    },
+    "highlights": {
+      "en": [
+        "Uses Gemini's 'take notes for me' in Google Meet for automatic meeting summaries.",
+        "97% of 1,500+ trial participants wanted to keep their Gemini licenses.",
+        "Rolling out to nearly 22,000 employees and contractors.",
+        "Customized training by SADA to maximize adoption across business units."
+      ],
+      "zh": [
+        "使用 Google Meet 中 Gemini 的「為我記錄筆記」功能自動建立會議摘要。",
+        "超過 1,500 名試用參與者中，97% 希望保留 Gemini 授權。",
+        "正向近 2.2 萬名員工和承包商推廣。",
+        "由 SADA 提供客製化培訓，最大化各業務單位的採用率。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Google Workspace",
+      "Google Meet"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Equifax boosts security & productivity with Google Workspace with Gemini — Google Workspace Blog",
+        "url": "https://workspace.google.com/blog/customer-stories/equifax-embraces-gemini-for-secure-innovation-across-business-units"
+      }
+    ]
+  },
+  {
+    "id": "financial-services-employee-equifax-2",
+    "industry": "financial-services",
+    "agentType": "employee",
+    "company": "Equifax",
+    "isNew": false,
+    "summary": {
+      "en": "Equifax help desk teams use Gemini to analyze data and improve service; 90% of trial users saw better work quality.",
+      "zh": "Equifax 服務台團隊使用 Gemini 深入分析資料並提升服務品質；90% 的試用者表示工作品質有所提升。"
+    },
+    "overview": {
+      "en": "Equifax also uses Gemini to help help desk representatives look deeper at data to determine how to improve the service they provide to end users. In a trial with over 1,500 participants, 90% saw an increase in work quality and quantity, and employees from nearly all business units saved more than one hour per day.",
+      "zh": "Equifax 也使用 Gemini 協助服務台代表深入分析資料，以確定如何改善對終端用戶的服務。在超過 1,500 名參與者的試用中，90% 的人看到了工作品質和數量的提升，且幾乎所有業務單位的員工每天節省超過一小時。"
+    },
+    "highlights": {
+      "en": [
+        "Help desk teams use Gemini to analyze data and identify service improvements.",
+        "90% of 1,500+ trial participants saw an increase in work quality and quantity.",
+        "Employees from nearly all business units saved more than 1 hour per day.",
+        "Supports rolling Gemini deployment to ~22,000 employees and contractors."
+      ],
+      "zh": [
+        "服務台團隊使用 Gemini 分析資料並識別服務改進機會。",
+        "超過 1,500 名試用參與者中，90% 看到工作品質和數量有所提升。",
+        "幾乎所有業務單位的員工每天節省超過 1 小時。",
+        "支援向約 2.2 萬名員工和承包商推廣 Gemini。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Google Workspace"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Equifax boosts security & productivity with Google Workspace with Gemini — Google Workspace Blog",
+        "url": "https://workspace.google.com/blog/customer-stories/equifax-embraces-gemini-for-secure-innovation-across-business-units"
+      }
+    ]
+  },
+  {
+    "id": "financial-services-employee-finquery",
+    "industry": "financial-services",
+    "agentType": "employee",
+    "company": "FinQuery",
+    "isNew": false,
+    "summary": {
+      "en": "FinQuery uses Gemini for Google Workspace to draft emails 20% faster and support brainstorming, project management, and code debugging.",
+      "zh": "FinQuery 使用 Gemini for Google Workspace 讓起草電子郵件速度提升 20%，並支援頭腦風暴、專案管理及程式碼除錯。"
+    },
+    "overview": {
+      "en": "FinQuery, a fintech company, uses Gemini for Google Workspace as a productivity and collaboration tool across multiple business functions. Employees leverage it in brainstorming sessions, draft emails 20% faster, manage complex cross-organizational project plans, and aid engineering teams with debugging code and evaluating new monitoring tools.",
+      "zh": "金融科技公司 FinQuery 將 Gemini for Google Workspace 用作跨多個業務職能的生產力與協作工具。員工將其用於頭腦風暴、起草電子郵件速度提升 20%、管理複雜的跨組織專案計畫，以及協助工程團隊進行程式碼除錯和評估新的監控工具。"
+    },
+    "highlights": {
+      "en": [
+        "Drafts emails 20% faster with Gemini assistance.",
+        "Supports brainstorming sessions across teams.",
+        "Helps manage complex cross-organizational project plans.",
+        "Aids engineering teams with code debugging and monitoring tool evaluation."
+      ],
+      "zh": [
+        "在 Gemini 協助下，起草電子郵件速度提升 20%。",
+        "支援跨團隊的頭腦風暴。",
+        "協助管理複雜的跨組織專案計畫。",
+        "協助工程團隊進行程式碼除錯和監控工具評估。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Google Workspace",
+      "Gemini for Google Workspace"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "financial-services-employee-five-sigma",
+    "industry": "financial-services",
+    "agentType": "employee",
+    "company": "Five Sigma",
+    "isNew": false,
+    "summary": {
+      "en": "Five Sigma's AI claims engine achieved an 80% error reduction and 25% productivity gain for insurance adjusters.",
+      "zh": "Five Sigma 的 AI 理賠引擎為保險理算員實現了 80% 的錯誤減少和 25% 的生產力提升。"
+    },
+    "overview": {
+      "en": "Five Sigma created Clive, the insurance industry's first AI claims adjuster, built on Google Cloud's Vertex AI. The platform frees human claims handlers to focus on areas where a human touch is valuable—complex decision-making and empathic customer service—while the AI handles routine tasks. The solution achieved an 80% reduction in errors, a 25% increase in adjuster productivity, and a 10% reduction in claims cycle processing time.",
+      "zh": "Five Sigma 建立了 Clive，這是保險業首個 AI 理賠理算員，基於 Google Cloud 的 Vertex AI 建構。該平台讓人類理賠處理員得以專注於需要人情味的領域——複雜的決策和有同理心的客戶服務——同時由 AI 處理常規任務。解決方案實現了 80% 的錯誤減少、25% 的理算員生產力提升，以及 10% 的理賠週期處理時間縮短。"
+    },
+    "highlights": {
+      "en": [
+        "80% reduction in errors for insurance claims processing.",
+        "25% increase in adjuster productivity.",
+        "10% reduction in claims cycle processing time.",
+        "Built on Google Cloud Vertex AI for high availability and data protection.",
+        "Launched Clive, the industry's first AI claims adjuster, in July 2024."
+      ],
+      "zh": [
+        "保險理賠處理錯誤減少 80%。",
+        "理算員生產力提升 25%。",
+        "理賠週期處理時間縮短 10%。",
+        "基於 Google Cloud Vertex AI 建構，確保高可用性和資料保護。",
+        "於 2024 年 7 月推出業界首個 AI 理賠理算員 Clive。"
+      ]
+    },
+    "technologies": [
+      "Vertex AI",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Introducing Clive: The Insurance Industry's First AI Claims Adjuster — Five Sigma",
+        "url": "https://fivesigmalabs.com/blog/introducing-clive-the-insurance-industrys-first-ai-claims-adjuster/"
+      },
+      {
+        "title": "Five Sigma redefines claims management with LangChain — Google Cloud whitepaper",
+        "url": "https://services.google.com/fh/files/misc/fivesigma_whitepaper.pdf"
+      }
+    ]
+  },
+  {
+    "id": "financial-services-employee-generali",
+    "industry": "financial-services",
+    "agentType": "employee",
+    "company": "Generali",
+    "isNew": false,
+    "summary": {
+      "en": "Generali uses Vertex AI to let salespeople instantly access policy information through natural language queries.",
+      "zh": "Generali 利用 Vertex AI 讓銷售人員透過自然語言查詢即時存取保單資訊。"
+    },
+    "overview": {
+      "en": "Generali, one of the world's largest insurance groups, utilizes Vertex AI and Google Cloud solutions to enable its salespeople to access policy information instantly through natural language queries. This reduces the time sales teams spend searching through documentation and allows them to provide faster, more accurate information to customers.",
+      "zh": "Generali 是全球最大的保險集團之一，利用 Vertex AI 和 Google Cloud 解決方案，讓其銷售人員能夠透過自然語言查詢即時存取保單資訊。這減少了銷售團隊搜尋文件的時間，並讓他們能夠更快速、更準確地向客戶提供資訊。"
+    },
+    "highlights": {
+      "en": [
+        "Salespeople can instantly retrieve policy information using natural language queries.",
+        "Built on Vertex AI and Google Cloud solutions.",
+        "Reduces time spent manually searching through policy documentation.",
+        "Enables faster and more accurate customer interactions for the sales team."
+      ],
+      "zh": [
+        "銷售人員可使用自然語言查詢即時檢索保單資訊。",
+        "基於 Vertex AI 和 Google Cloud 解決方案建構。",
+        "減少手動搜尋政策文件所花費的時間。",
+        "讓銷售團隊能夠更快速、更準確地進行客戶互動。"
+      ]
+    },
+    "technologies": [
+      "Vertex AI",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "financial-services-employee-hang-seng-bank",
+    "industry": "financial-services",
+    "agentType": "employee",
+    "company": "Hang Seng Bank",
+    "isNew": false,
+    "summary": {
+      "en": "Hang Seng Bank uses Vertex AI to power an AI-search knowledge platform for contact center reps across millions of documents.",
+      "zh": "香港恒生銀行使用 Vertex AI 為客服中心代表建立 AI 搜尋知識平台，覆蓋數百萬份文件。"
+    },
+    "overview": {
+      "en": "Hang Seng Bank, Hong Kong's largest local bank, built a new knowledge management platform powered by Vertex AI. The platform enables contact center representatives to easily retrieve information using AI-powered search across millions of documents covering products and regulations. This significantly reduces the time representatives spend searching for answers during customer interactions.",
+      "zh": "香港恒生銀行是香港最大的本地銀行，建立了由 Vertex AI 驅動的全新知識管理平台。該平台讓客服中心代表能夠透過 AI 搜尋，在涵蓋產品和法規的數百萬份文件中輕鬆檢索資訊，大幅縮短代表在客戶互動期間搜尋答案的時間。"
+    },
+    "highlights": {
+      "en": [
+        "Built a Vertex AI-powered knowledge management platform for contact center use.",
+        "AI-powered search covers millions of documents on products and regulations.",
+        "Enables faster, more accurate information retrieval for customer service representatives.",
+        "Reduces manual search time during live customer interactions."
+      ],
+      "zh": [
+        "建立了由 Vertex AI 驅動的客服中心知識管理平台。",
+        "AI 搜尋涵蓋數百萬份產品和法規文件。",
+        "讓客服代表能夠更快速、更準確地檢索資訊。",
+        "減少即時客戶互動期間的手動搜尋時間。"
+      ]
+    },
+    "technologies": [
+      "Vertex AI",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "financial-services-employee-hdfc-ergo",
+    "industry": "financial-services",
+    "agentType": "employee",
+    "company": "HDFC ERGO",
+    "isNew": false,
+    "summary": {
+      "en": "HDFC ERGO built the 1Up superapp with Vertex AI to give insurance agents context-sensitive nudges during customer onboarding.",
+      "zh": "HDFC ERGO 利用 Vertex AI 建立 1Up 超級應用程式，在客戶入會過程中為保險業務員提供情境感知提示。"
+    },
+    "overview": {
+      "en": "HDFC ERGO, India's leading non-life insurance company, built a pair of insurance 'superapps' for the Indian market. On the 1Up app, Vertex AI is used to give insurance agents context-sensitive 'nudges' through different customer scenarios to facilitate the onboarding experience, helping agents respond appropriately to various customer situations in real time.",
+      "zh": "HDFC ERGO 是印度領先的非壽險公司，為印度市場建立了一對保險「超級應用程式」。在 1Up 應用程式中，Vertex AI 用於在不同客戶場景中為保險業務員提供情境感知「提示」，以促進客戶入會體驗，協助業務員即時適當地回應各種客戶情況。"
+    },
+    "highlights": {
+      "en": [
+        "Built the 1Up insurance superapp for Indian market on Vertex AI.",
+        "Provides context-sensitive AI nudges for agents during customer onboarding.",
+        "Helps agents navigate different customer scenarios in real time.",
+        "Improves onboarding experience quality and consistency for insurance customers."
+      ],
+      "zh": [
+        "在 Vertex AI 上為印度市場建立 1Up 保險超級應用程式。",
+        "在客戶入會期間為業務員提供情境感知的 AI 提示。",
+        "協助業務員即時應對不同的客戶場景。",
+        "提升保險客戶入會體驗的品質和一致性。"
+      ]
+    },
+    "technologies": [
+      "Vertex AI",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "financial-services-employee-hdfc-ergo-2",
+    "industry": "financial-services",
+    "agentType": "employee",
+    "company": "HDFC ERGO",
+    "isNew": false,
+    "summary": {
+      "en": "HDFC ERGO runs advanced data insights through BigQuery and Vertex AI to drive highly personalized offerings by geography.",
+      "zh": "HDFC ERGO 透過 BigQuery 和 Vertex AI 執行進階資料洞察，依地理位置為消費者提供高度個人化的保險產品。"
+    },
+    "overview": {
+      "en": "In addition to its 1Up superapp, HDFC ERGO runs advanced data insight pipelines from BigQuery through Vertex AI to generate highly personalized product offerings for consumers in specific geographical locations. This data-driven personalization helps the insurer target the right products to the right customers based on regional data signals.",
+      "zh": "除了 1Up 超級應用程式之外，HDFC ERGO 還透過 BigQuery 連接 Vertex AI 執行進階資料洞察管線，為特定地理位置的消費者生成高度個人化的產品方案。這種資料驅動的個人化方式幫助保險公司根據地區資料信號，向合適的客戶推薦合適的產品。"
+    },
+    "highlights": {
+      "en": [
+        "Runs advanced data insight pipelines from BigQuery through Vertex AI.",
+        "Generates highly personalized insurance product offerings by geography.",
+        "Data-driven approach enables precise product-to-customer matching.",
+        "Complements the 1Up agent superapp as part of a broader AI strategy."
+      ],
+      "zh": [
+        "從 BigQuery 透過 Vertex AI 執行進階資料洞察管線。",
+        "依地理位置生成高度個人化的保險產品方案。",
+        "資料驅動方式實現精準的產品與客戶匹配。",
+        "作為更廣泛 AI 策略的一部分，與 1Up 業務員超級應用程式相輔相成。"
+      ]
+    },
+    "technologies": [
+      "BigQuery",
+      "Vertex AI",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "financial-services-employee-hiscox",
+    "industry": "financial-services",
+    "agentType": "employee",
+    "company": "Hiscox",
+    "isNew": false,
+    "summary": {
+      "en": "Hiscox used BigQuery and Vertex AI to create the first AI-enhanced lead underwriting model, cutting quoting time from 3 days to 3 minutes.",
+      "zh": "Hiscox 使用 BigQuery 和 Vertex AI 建立業界首個 AI 增強型主承保模型，將報價時間從 3 天縮短至 3 分鐘。"
+    },
+    "overview": {
+      "en": "Hiscox collaborated with Google Cloud to build the first AI-enhanced lead underwriting model for the London Market. Using BigQuery and Vertex AI, the system automates the extraction and processing of key data from email submissions—a process that previously took up to three days. The AI-powered system can now generate lead open-market quotes within three minutes. The proof of concept was initially deployed in Hiscox's Sabotage and Terrorism line of business.",
+      "zh": "Hiscox 與 Google Cloud 合作，為倫敦市場建立業界首個 AI 增強型主承保模型。使用 BigQuery 和 Vertex AI，系統自動化從電子郵件申請中提取和處理關鍵資料的過程，此過程此前最長需要三天。AI 驅動系統現在可以在三分鐘內生成主承保市場報價。概念驗證最初在 Hiscox 的破壞與恐怖主義業務線上部署。"
+    },
+    "highlights": {
+      "en": [
+        "Created the first AI-enhanced lead underwriting model for the London insurance market.",
+        "Quoting time reduced from up to 3 days to approximately 3 minutes.",
+        "Uses BigQuery and Vertex AI to extract key data from email submissions.",
+        "Initially deployed in the Sabotage and Terrorism line of business.",
+        "Principles applicable across other insurance lines of business."
+      ],
+      "zh": [
+        "為倫敦保險市場建立業界首個 AI 增強型主承保模型。",
+        "報價時間從最長 3 天縮短至約 3 分鐘。",
+        "使用 BigQuery 和 Vertex AI 從電子郵件申請中提取關鍵資料。",
+        "最初在破壞與恐怖主義業務線上部署。",
+        "原則可應用於其他保險業務線。"
+      ]
+    },
+    "technologies": [
+      "BigQuery",
+      "Vertex AI",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Hiscox and Google Cloud Collaborate on AI in lead underwriting for the London Market — Hiscox Group",
+        "url": "https://www.hiscoxgroup.com/news/press-releases/2023/12-12-23"
+      },
+      {
+        "title": "Hiscox & Google Cloud create first AI-enhanced lead underwriting model for the London Market — Reinsurance News",
+        "url": "https://www.reinsurancene.ws/hiscox-google-cloud-create-first-ai-enhanced-lead-underwriting-model-for-the-london-market/"
+      }
+    ]
+  },
+  {
+    "id": "financial-services-employee-interseguro",
+    "industry": "financial-services",
+    "agentType": "employee",
+    "company": "Interseguro",
+    "isNew": true,
+    "summary": {
+      "en": "Interseguro built Gemini-powered AI agents for its sales force, call center, and claims processing after migrating to Google Cloud.",
+      "zh": "Interseguro 遷移至 Google Cloud 後，為銷售人員、客服中心及理賠處理建立了 Gemini 驅動的 AI 代理人。"
+    },
+    "overview": {
+      "en": "Interseguro, part of Peru's Intercorp Group, is a leading insurance provider with over 1,200 employees specializing in annuities, life insurance, and general coverage. After migrating its core systems to Google Cloud, the company formed a dedicated generative AI team to build Gemini-powered agents for its sales force, call center, and claims processing. The tools analyze images and read claims files to speed up customer service.",
+      "zh": "Interseguro 是秘魯 Intercorp 集團的子公司，是專注於年金、人壽保險和一般保險的領先保險提供商，擁有逾 1,200 名員工。在將核心系統遷移至 Google Cloud 後，公司組建了專門的生成式 AI 團隊，為其銷售人員、客服中心及理賠處理建立 Gemini 驅動的代理人。這些工具能分析圖像和讀取理賠文件，以加快客戶服務速度。"
+    },
+    "highlights": {
+      "en": [
+        "Migrated core systems to Google Cloud and formed a dedicated gen AI team.",
+        "Built Gemini-powered agents for sales force, call center, and claims processing.",
+        "AI tools analyze images and read claims files to speed up customer service.",
+        "Serves 1,200+ employees and a rapidly growing sales force."
+      ],
+      "zh": [
+        "將核心系統遷移至 Google Cloud 並組建了專門的生成式 AI 團隊。",
+        "為銷售人員、客服中心及理賠處理建立 Gemini 驅動的代理人。",
+        "AI 工具分析圖像和讀取理賠文件，加快客戶服務速度。",
+        "服務逾 1,200 名員工及快速成長的銷售團隊。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Vertex AI",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "financial-services-employee-kpmg",
+    "industry": "financial-services",
+    "agentType": "employee",
+    "company": "KPMG",
+    "isNew": true,
+    "summary": {
+      "en": "KPMG is launching a Financial Close Companion agent built with Workday and Google Cloud.",
+      "zh": "KPMG 正在推出與 Workday 及 Google Cloud 共同建構的 Financial Close Companion 代理人。"
+    },
+    "overview": {
+      "en": "KPMG is launching a new Financial Close Companion agent, built in collaboration with Workday and Google Cloud. The agent is designed to streamline financial close processes for enterprise customers, automating steps in the month-end close workflow to reduce manual effort and accelerate reporting cycles.",
+      "zh": "KPMG 正在推出全新的 Financial Close Companion 代理人，該代理人由 KPMG、Workday 和 Google Cloud 共同合作建構。此代理人旨在為企業客戶簡化財務結帳流程，自動化月末結帳工作流程中的步驟，以減少人工作業並加快報告週期。"
+    },
+    "highlights": {
+      "en": [
+        "Launching a Financial Close Companion agent in partnership with Workday and Google Cloud.",
+        "Designed to automate and streamline enterprise financial close processes.",
+        "Aims to reduce manual effort and accelerate month-end reporting cycles."
+      ],
+      "zh": [
+        "與 Workday 和 Google Cloud 合作推出 Financial Close Companion 代理人。",
+        "旨在自動化和簡化企業財務結帳流程。",
+        "目標是減少人工作業並加快月末報告週期。"
+      ]
+    },
+    "technologies": [
+      "Google Cloud",
+      "Vertex AI",
+      "Gemini"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "financial-services-employee-loadsure",
+    "industry": "financial-services",
+    "agentType": "employee",
+    "company": "Loadsure",
+    "isNew": false,
+    "summary": {
+      "en": "Loadsure uses Document AI and Gemini to automate insurance claims processing, settling claims in near real-time with 95%+ extraction accuracy.",
+      "zh": "Loadsure 使用 Document AI 和 Gemini 自動化保險理賠處理，以逾 95% 的提取準確率實現近即時理賠結案。"
+    },
+    "overview": {
+      "en": "Loadsure partnered with Google Cloud to develop an AI-powered claims verification system using Document AI and Gemini. The system automates extraction of data from various claim documents—including bills of lading, invoices, and shipping documents—with over 95% extraction confidence scores. Claims that previously took 30–60 minutes to process can now be settled in near real-time, improving customer satisfaction significantly.",
+      "zh": "Loadsure 與 Google Cloud 合作開發了 AI 驅動的理賠驗證系統，使用 Document AI 和 Gemini。系統自動化從各類理賠文件（包括提單、發票和運輸文件）中提取資料，提取信心度超過 95%。原本需要 30-60 分鐘處理的理賠現在可以近即時結案，大幅提升客戶滿意度。"
+    },
+    "highlights": {
+      "en": [
+        "Automates extraction from claim documents with 95%+ confidence scores.",
+        "Claims processing time reduced from 30–60 minutes to near real-time.",
+        "Uses Document AI for document classification and Gemini for complex extraction.",
+        "Enables near real-time claim settlement for policyholders.",
+        "Improved customer satisfaction through faster claims resolution."
+      ],
+      "zh": [
+        "以逾 95% 的信心度自動化從理賠文件中提取資料。",
+        "理賠處理時間從 30-60 分鐘縮短至近即時。",
+        "使用 Document AI 進行文件分類，Gemini 用於複雜提取。",
+        "為保單持有人實現近即時理賠結案。",
+        "透過更快速的理賠解決提升客戶滿意度。"
+      ]
+    },
+    "technologies": [
+      "Document AI",
+      "Gemini",
+      "Vertex AI",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Can AI eliminate manual processing for insurance claims? Loadsure built a solution — Google Cloud Blog",
+        "url": "https://cloud.google.com/blog/topics/financial-services/loadsure-data-drive-insurance-claims-ai-eliminates-manual-processing/"
+      }
+    ]
+  },
+  {
+    "id": "financial-services-employee-macquarie-bank",
+    "industry": "financial-services",
+    "agentType": "employee",
+    "company": "Macquarie Bank",
+    "isNew": false,
+    "summary": {
+      "en": "Macquarie Bank uses Google Cloud AI for fraud protection and digital self-service, directing 38% more users to self-service and cutting false positive alerts by 40%.",
+      "zh": "Macquarie Bank 使用 Google Cloud AI 提升防詐欺能力和數位自助服務，將使用自助服務的用戶增加 38%，虛假警報減少 40%。"
+    },
+    "overview": {
+      "en": "Macquarie Bank uses Google Cloud AI to enable efficient and proactive fraud protection and digital self-service capabilities. Their AI-enhanced Help Centre Search directed 38% more users toward self-service, reducing pressure on human agents. The bank also reduced false positive alerts for client protection by 40%, improving the customer experience while maintaining strong security.",
+      "zh": "Macquarie Bank 使用 Google Cloud AI 實現高效、主動的防詐欺保護和數位自助服務能力。其 AI 增強型說明中心搜尋功能使使用自助服務的用戶增加了 38%，減輕了真人代表的壓力。銀行還將客戶保護的虛假警報減少了 40%，在維持強大安全性的同時提升了客戶體驗。"
+    },
+    "highlights": {
+      "en": [
+        "AI-enhanced Help Centre Search directed 38% more users toward self-service.",
+        "Reduced false positive fraud protection alerts by 40%.",
+        "Enables proactive fraud protection using Google Cloud AI.",
+        "Improves customer experience while maintaining strong security standards."
+      ],
+      "zh": [
+        "AI 增強型說明中心搜尋功能使使用自助服務的用戶增加 38%。",
+        "將防詐欺保護的虛假警報減少 40%。",
+        "使用 Google Cloud AI 實現主動式防詐欺保護。",
+        "在維持強大安全標準的同時提升客戶體驗。"
+      ]
+    },
+    "technologies": [
+      "Google Cloud",
+      "Vertex AI",
+      "Gemini"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Macquarie's Banking and Financial Services Group Case Study — Google Cloud",
+        "url": "https://cloud.google.com/customers/macquarie-bank"
+      }
+    ]
+  },
+  {
+    "id": "financial-services-employee-macquarie-bank-2",
+    "industry": "financial-services",
+    "agentType": "employee",
+    "company": "Macquarie Bank",
+    "isNew": true,
+    "summary": {
+      "en": "Macquarie Bank is supercharging productivity with Gemini Enterprise, reclaiming over 100,000 hours of team member time.",
+      "zh": "Macquarie Bank 使用 Gemini Enterprise 大幅提升生產力，為員工節省逾 10 萬小時工作時間。"
+    },
+    "overview": {
+      "en": "In addition to its fraud protection and self-service capabilities, Macquarie Bank is also supercharging employee productivity with Gemini Enterprise. The deployment has enabled team members to reclaim over 100,000 hours of time, which can be redirected toward higher-value customer-facing and strategic activities.",
+      "zh": "除了防詐欺保護和自助服務能力之外，Macquarie Bank 也透過 Gemini Enterprise 大幅提升員工生產力。此部署使員工得以節省逾 10 萬小時工作時間，這些時間可以重新投入更具價值的客戶面向和策略性活動。"
+    },
+    "highlights": {
+      "en": [
+        "Reclaimed over 100,000 hours of team member time using Gemini Enterprise.",
+        "Part of a broader AI-first strategy alongside fraud protection and self-service.",
+        "Frees employees for higher-value customer-facing and strategic work."
+      ],
+      "zh": [
+        "使用 Gemini Enterprise 為員工節省逾 10 萬小時工作時間。",
+        "是涵蓋防詐欺保護和自助服務的更廣泛 AI 優先策略的一部分。",
+        "讓員工能夠從事更具價值的客戶面向和策略性工作。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Gemini Enterprise",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Macquarie Bank partners with Google Cloud to deliver AI-First digital banking — Australian FinTech",
+        "url": "https://australianfintech.com.au/macquarie-bank-partners-with-google-cloud-to-deliver-ai-first-digital-banking-capabilities/"
+      }
+    ]
+  },
+  {
+    "id": "financial-services-employee-multimodal",
+    "industry": "financial-services",
+    "agentType": "employee",
+    "company": "Multimodal",
+    "isNew": false,
+    "summary": {
+      "en": "Multimodal automates complex financial services workflows with multimodal AI agents that process documents, query databases, and generate reports.",
+      "zh": "Multimodal 使用多模態 AI 代理人自動化複雜的金融服務工作流程，涵蓋文件處理、資料庫查詢和報告生成。"
+    },
+    "overview": {
+      "en": "Multimodal, a Google for Startups Cloud AI Accelerator participant, automates complex financial services workflows using multimodal AI agents. The platform can process documents, query databases, power chatbots, make decisions, and generate reports—enabling end-to-end automation of financial back-office and operational workflows.",
+      "zh": "Multimodal 是 Google for Startups Cloud AI Accelerator 計畫的參與者，使用多模態 AI 代理人自動化複雜的金融服務工作流程。該平台能夠處理文件、查詢資料庫、驅動聊天機器人、進行決策和生成報告，實現金融後台和營運工作流程的端到端自動化。"
+    },
+    "highlights": {
+      "en": [
+        "Part of Google for Startups Cloud AI Accelerator program.",
+        "Automates end-to-end financial services workflows using multimodal AI agents.",
+        "Agents can process documents, query databases, power chatbots, make decisions, and generate reports.",
+        "Targets complex back-office and operational workflows in financial services."
+      ],
+      "zh": [
+        "是 Google for Startups Cloud AI Accelerator 計畫的參與者。",
+        "使用多模態 AI 代理人自動化端到端金融服務工作流程。",
+        "代理人能夠處理文件、查詢資料庫、驅動聊天機器人、進行決策和生成報告。",
+        "針對金融服務中的複雜後台和營運工作流程。"
+      ]
+    },
+    "technologies": [
+      "Vertex AI",
+      "Gemini",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "financial-services-employee-obin-ai",
+    "industry": "financial-services",
+    "agentType": "employee",
+    "company": "Obin AI",
+    "isNew": true,
+    "summary": {
+      "en": "Obin AI's Financial Agent uses Gemini Enterprise to help private markets teams run financial analysis from model spreadsheets and deal documents.",
+      "zh": "Obin AI 的 Financial Agent 使用 Gemini Enterprise 協助私人市場團隊從模型試算表和交易文件進行財務分析。"
+    },
+    "overview": {
+      "en": "Obin AI's Financial Agent helps private markets and commercial lending teams run financial analysis using Gemini Enterprise. Users submit model spreadsheets and deal-related documents along with a plain-language scenario description. The agent then extracts relevant data and computes financial metrics across modeling assumptions, reducing the time analysts spend on manual data processing.",
+      "zh": "Obin AI 的 Financial Agent 使用 Gemini Enterprise 協助私人市場和商業貸款團隊進行財務分析。用戶提交模型試算表和交易相關文件，附上普通語言的情境描述。代理人隨後提取相關資料，並跨建模假設計算財務指標，減少分析師花在手動資料處理上的時間。"
+    },
+    "highlights": {
+      "en": [
+        "Financial Agent enables plain-language submission of spreadsheets and deal documents.",
+        "Automatically extracts relevant data and computes financial metrics.",
+        "Built on Gemini Enterprise for private markets and commercial lending teams.",
+        "Reduces time analysts spend on manual financial data processing."
+      ],
+      "zh": [
+        "Financial Agent 支援以普通語言提交試算表和交易文件。",
+        "自動提取相關資料並計算財務指標。",
+        "基於 Gemini Enterprise 建構，服務私人市場和商業貸款團隊。",
+        "減少分析師花在手動財務資料處理上的時間。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Gemini Enterprise",
+      "Vertex AI"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "financial-services-employee-osttra",
+    "industry": "financial-services",
+    "agentType": "employee",
+    "company": "OSTTRA",
+    "isNew": false,
+    "summary": {
+      "en": "OSTTRA uses Gemini in Google Workspace to automate writing proposals and generating interview questions, saving employee time.",
+      "zh": "OSTTRA 使用 Gemini for Google Workspace 自動化撰寫提案和生成面試問題，節省員工時間。"
+    },
+    "overview": {
+      "en": "OSTTRA, a financial services post-trade solutions provider, chose Google Workspace to boost teamwork. Gemini is now helping automate tasks like writing proposals and generating interview questions, using features like 'Help me write' to save employees time and increase overall productivity.",
+      "zh": "金融服務交易後解決方案提供商 OSTTRA 選擇了 Google Workspace 來提升團隊合作效率。Gemini 現在正協助自動化撰寫提案和生成面試問題等任務，使用「協助撰寫」等功能節省員工時間並提高整體生產力。"
+    },
+    "highlights": {
+      "en": [
+        "Adopted Google Workspace with Gemini to boost teamwork and productivity.",
+        "Uses Gemini's 'Help me write' feature to automate proposal writing.",
+        "Automates generation of interview questions, reducing HR workload.",
+        "Saves employee time across multiple administrative tasks."
+      ],
+      "zh": [
+        "採用 Google Workspace 與 Gemini 提升團隊合作效率。",
+        "使用 Gemini 的「協助撰寫」功能自動化提案撰寫。",
+        "自動化生成面試問題，減輕 HR 工作負擔。",
+        "在多個行政任務中節省員工時間。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Google Workspace"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "financial-services-employee-pinnacol-assurance",
+    "industry": "financial-services",
+    "agentType": "employee",
+    "company": "Pinnacol Assurance",
+    "isNew": false,
+    "summary": {
+      "en": "Pinnacol Assurance uses Gemini for repetitive tasks; 96% of surveyed employees report time savings.",
+      "zh": "科羅拉多州最大工傷補償保險公司 Pinnacol Assurance 使用 Gemini 處理重複性任務，96% 受訪員工表示節省了時間。"
+    },
+    "overview": {
+      "en": "Pinnacol Assurance, Colorado's largest worker's compensation carrier, deployed Gemini to accelerate repetitive tasks across the company. Use cases include creating questions for client interviews and digging deeper into insurance claims. A company-wide survey found that 96% of employees report time savings from using Gemini, and 97% understand its benefits.",
+      "zh": "Pinnacol Assurance 是科羅拉多州最大的工傷補償保險公司，在全公司部署 Gemini 以加速重複性任務。使用案例包括為客戶面談建立問題清單和深入分析保險理賠。全公司調查發現，96% 的員工表示使用 Gemini 節省了時間，97% 的員工了解其優勢。"
+    },
+    "highlights": {
+      "en": [
+        "96% of surveyed employees report time savings from using Gemini.",
+        "97% of employees understand the uses and benefits of Gemini for Google Workspace.",
+        "Accelerates repetitive tasks including client interview questions and claims analysis.",
+        "Almost 90% of employees are satisfied with Gemini.",
+        "Strategic change management with superusers and weekly tips drove high adoption."
+      ],
+      "zh": [
+        "96% 的受訪員工表示使用 Gemini 節省了時間。",
+        "97% 的員工了解 Gemini for Google Workspace 的用途和優勢。",
+        "加速重複性任務，包括客戶面談問題建立和理賠分析。",
+        "近 90% 的員工對 Gemini 感到滿意。",
+        "透過超級用戶和每週技巧分享的策略性變革管理推動高採用率。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Google Workspace"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Pinnacol Assurance Customer Success Story — Google Workspace",
+        "url": "https://workspace.google.com/customers/pinnacol-assurance/"
+      }
+    ]
+  },
+  {
+    "id": "financial-services-employee-plutos-one",
+    "industry": "financial-services",
+    "agentType": "employee",
+    "company": "Plutos ONE",
+    "isNew": false,
+    "summary": {
+      "en": "Plutos ONE migrated to Google Cloud for compliance, cutting audit prep time by 40% and security incident response by 50%.",
+      "zh": "Plutos ONE 為符合法規要求遷移至 Google Cloud，將稽核準備時間縮短 40%，安全事件回應時間縮短逾 50%。"
+    },
+    "overview": {
+      "en": "Plutos ONE, India's largest merchant-funded offers platform and a licensed Bharat Bill Payment System provider with 400+ online brand partners, migrated to Google Cloud to meet regulatory compliance requirements. The migration resulted in significant operational improvements and cost reductions compared to on-premise alternatives.",
+      "zh": "Plutos ONE 是印度最大的商家資助優惠平台，也是獲授權的 Bharat Bill Payment System 提供商，擁有逾 400 個線上品牌合作夥伴。公司遷移至 Google Cloud 以滿足法規合規要求，與本地部署替代方案相比，遷移帶來了顯著的營運改善和成本降低。"
+    },
+    "highlights": {
+      "en": [
+        "Migrated to Google Cloud to meet Indian regulatory compliance requirements.",
+        "Reduced audit preparation time by 40%.",
+        "Cut security incident response times by over 50%.",
+        "Achieved 25% lower operational costs compared to on-premise alternatives.",
+        "Serves 400+ online brand partners on its merchant-funded offers platform."
+      ],
+      "zh": [
+        "遷移至 Google Cloud 以滿足印度法規合規要求。",
+        "稽核準備時間縮短 40%。",
+        "安全事件回應時間縮短逾 50%。",
+        "與本地部署替代方案相比，營運成本降低 25%。",
+        "在其商家資助優惠平台上服務逾 400 個線上品牌合作夥伴。"
+      ]
+    },
+    "technologies": [
+      "Google Cloud",
+      "Security Command Center"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "financial-services-employee-qualia-clear",
+    "industry": "financial-services",
+    "agentType": "employee",
+    "company": "Qualia Clear",
+    "isNew": false,
+    "summary": {
+      "en": "Qualia Clear is an agentic system using Gemini 2.5 and Google ADK to automate title and escrow workflows in real estate closings.",
+      "zh": "Qualia Clear 是使用 Gemini 2.5 和 Google ADK 的代理人系統，自動化不動產交割中的產權與託管工作流程。"
+    },
+    "overview": {
+      "en": "Qualia Clear is an agentic system that transforms real estate closings by automating manual title and escrow workflows. It uses tool calling, Gemini 2.5 Flash and Pro models, and the Google Agent Development Kit (ADK) to process emails and documents, simplify reporting, and improve both efficiency and customer service in real estate transactions.",
+      "zh": "Qualia Clear 是一個代理人系統，透過自動化手動產權和託管工作流程來轉型不動產交割流程。它使用工具呼叫、Gemini 2.5 Flash 和 Pro 模型，以及 Google Agent Development Kit (ADK) 處理電子郵件和文件、簡化報告，並提升不動產交易的效率和客戶服務品質。"
+    },
+    "highlights": {
+      "en": [
+        "Automates manual title and escrow workflows for real estate closings.",
+        "Uses Gemini 2.5 Flash and Pro models with Google Agent Development Kit.",
+        "Processes emails and documents through agentic tool calling.",
+        "Simplifies reporting and improves customer service in property transactions."
+      ],
+      "zh": [
+        "自動化不動產交割中的手動產權和託管工作流程。",
+        "使用 Gemini 2.5 Flash 和 Pro 模型搭配 Google Agent Development Kit。",
+        "透過代理人工具呼叫處理電子郵件和文件。",
+        "簡化報告並提升不動產交易的客戶服務品質。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Vertex AI",
+      "Google Agent Development Kit"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "financial-services-employee-questrade-financial-group",
+    "industry": "financial-services",
+    "agentType": "employee",
+    "company": "Questrade Financial Group",
+    "isNew": false,
+    "summary": {
+      "en": "Questrade uses Gemini in Google Workspace to generate speaker notes, conduct research, and write blog posts in hours instead of days.",
+      "zh": "Questrade 使用 Gemini for Google Workspace 生成演講備注、進行研究，並在數小時內（而非數天）完成部落格文章撰寫。"
+    },
+    "overview": {
+      "en": "Questrade Financial Group, a Canadian financial services company, uses Gemini in Google Workspace to enhance employee productivity across multiple functions. Employees use Gems to write blog posts in a couple of hours that previously took two days to research and write. Gemini also helps generate speaker notes for presentations, brainstorm ideas, conduct research, and summarize documents.",
+      "zh": "加拿大金融服務公司 Questrade Financial Group 使用 Gemini for Google Workspace 提升多個職能部門的員工生產力。員工使用 Gems 在數小時內完成部落格文章撰寫，而過去同樣的工作需要花費兩天進行研究和撰寫。Gemini 也協助為簡報生成演講備注、頭腦風暴、研究調查和文件摘要。"
+    },
+    "highlights": {
+      "en": [
+        "Blog posts that took 2 days can now be written in a couple of hours using Gems.",
+        "Generates speaker notes for presentations automatically.",
+        "Supports brainstorming, research, and document summarization across teams.",
+        "Part of a broader Gemini adoption spanning Workspace and NotebookLM."
+      ],
+      "zh": [
+        "過去需要 2 天的部落格文章，現在使用 Gems 可在數小時內完成。",
+        "自動為簡報生成演講備注。",
+        "支援跨團隊的頭腦風暴、研究調查和文件摘要。",
+        "是涵蓋 Workspace 和 NotebookLM 的更廣泛 Gemini 採用計畫的一部分。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Google Workspace"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "financial-services-employee-questrade-financial-group-2",
+    "industry": "financial-services",
+    "agentType": "employee",
+    "company": "Questrade Financial Group",
+    "isNew": false,
+    "summary": {
+      "en": "Questrade uses NotebookLM to synthesize Google Drive files and generate audio versions of lengthy reports for on-the-go listening.",
+      "zh": "Questrade 使用 NotebookLM 整合 Google Drive 檔案，並將冗長報告轉換為音訊版本，方便員工隨時收聽。"
+    },
+    "overview": {
+      "en": "Questrade also uses Gemini to synthesize information from various files on Google Drive and NotebookLM to generate engaging audio versions of lengthy reports. Employees can listen to these audio versions while performing other tasks, boosting productivity and saving time searching for relevant material.",
+      "zh": "Questrade 也使用 Gemini 整合 Google Drive 上的各種檔案，並透過 NotebookLM 為冗長報告生成引人入勝的音訊版本。員工在執行其他任務時可以收聽這些音訊版本，提升生產力並節省搜尋相關資料的時間。"
+    },
+    "highlights": {
+      "en": [
+        "Uses NotebookLM to synthesize information from multiple Google Drive files.",
+        "Generates audio versions of lengthy reports for multitasking employees.",
+        "Saves time searching for relevant material by centralizing knowledge.",
+        "Enhances productivity by enabling learning while performing other tasks."
+      ],
+      "zh": [
+        "使用 NotebookLM 整合 Google Drive 上多個檔案的資訊。",
+        "為多工處理的員工生成冗長報告的音訊版本。",
+        "透過集中知識管理節省搜尋相關資料的時間。",
+        "讓員工在執行其他任務的同時學習，提升生產力。"
+      ]
+    },
+    "technologies": [
+      "NotebookLM",
+      "Gemini",
+      "Google Drive",
+      "Google Workspace"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "financial-services-employee-rogo",
+    "industry": "financial-services",
+    "agentType": "employee",
+    "company": "Rogo",
+    "isNew": false,
+    "summary": {
+      "en": "Rogo serves 6,000+ investment bankers with Gemini 2.5 Flash, cutting hallucination rates from 34.1% to 3.9% for financial AI.",
+      "zh": "Rogo 為逾 6,000 名投資銀行家提供 Gemini 2.5 Flash 服務，將幻覺率從 34.1% 降至 3.9%，提升金融 AI 的準確性。"
+    },
+    "overview": {
+      "en": "Rogo is an AI platform for Wall Street serving 6,000+ investment bankers and analysts. It uses Gemini 2.5 Flash and Vertex AI to automate financial workflows including building slide decks, generating company profiles, and drafting investment memos. Switching to Gemini 2.5 Flash dramatically reduced hallucination rates from 34.1% to 3.9% while supporting 10x growth in tokens per query, giving finance professionals trust in the platform's accuracy for critical financial analysis.",
+      "zh": "Rogo 是服務逾 6,000 名投資銀行家和分析師的華爾街 AI 平台。它使用 Gemini 2.5 Flash 和 Vertex AI 自動化財務工作流程，包括建立投影片、生成公司概況和起草投資備忘錄。轉換到 Gemini 2.5 Flash 後，幻覺率從 34.1% 大幅降至 3.9%，同時支援每次查詢 10 倍的 token 增長，讓金融專業人士對平台的準確性更有信心。"
+    },
+    "highlights": {
+      "en": [
+        "Serves 6,000+ investment bankers and analysts on Wall Street.",
+        "Switching to Gemini 2.5 Flash reduced hallucination rates from 34.1% to 3.9%.",
+        "Supports 10x growth in tokens per query for deeper financial analysis.",
+        "Automates slide deck building, company profiles, and investment memos.",
+        "Uses Vertex AI provisioned throughput for business-critical workload reliability."
+      ],
+      "zh": [
+        "服務華爾街逾 6,000 名投資銀行家和分析師。",
+        "切換至 Gemini 2.5 Flash 後，幻覺率從 34.1% 降至 3.9%。",
+        "支援每次查詢 10 倍的 token 增長，以進行更深入的財務分析。",
+        "自動化投影片建立、公司概況和投資備忘錄。",
+        "使用 Vertex AI 預留吞吐量確保關鍵業務工作負載的可靠性。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Vertex AI",
+      "Gemini 2.5 Flash"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Rogo case study — Google Cloud",
+        "url": "https://cloud.google.com/customers/rogo"
+      }
+    ]
+  },
+  {
+    "id": "financial-services-employee-roshn-group",
+    "industry": "financial-services",
+    "agentType": "employee",
+    "company": "ROSHN Group",
+    "isNew": false,
+    "summary": {
+      "en": "ROSHN Group built RoshnAI, an internal assistant using Gemini 1.5 Pro and Flash to generate insights from internal data.",
+      "zh": "ROSHN Group 建立了 RoshnAI 內部助理，結合 Gemini 1.5 Pro 和 Flash 從內部資料來源生成有價值的洞察。"
+    },
+    "overview": {
+      "en": "ROSHN Group, one of Saudi Arabia's leading property developers, built RoshnAI, an internal assistant that leverages a combination of AI models including Gemini 1.5 Pro and Flash to generate valuable insights from ROSHN's internal data sources. The assistant helps employees access information and analysis to support decision-making and operational efficiency.",
+      "zh": "ROSHN Group 是沙烏地阿拉伯領先的房地產開發商之一，建立了 RoshnAI 內部助理，結合包括 Gemini 1.5 Pro 和 Flash 在內的多種 AI 模型，從 ROSHN 的內部資料來源生成有價值的洞察。此助理協助員工存取資訊和分析，以支援決策制定和營運效率。"
+    },
+    "highlights": {
+      "en": [
+        "Built RoshnAI, an internal AI assistant for Saudi Arabia's leading property developer.",
+        "Uses a combination of Gemini 1.5 Pro and Flash models.",
+        "Generates insights from internal company data sources.",
+        "Supports employee decision-making and operational efficiency."
+      ],
+      "zh": [
+        "為沙烏地阿拉伯領先的房地產開發商建立了 RoshnAI 內部 AI 助理。",
+        "結合使用 Gemini 1.5 Pro 和 Flash 模型。",
+        "從公司內部資料來源生成洞察。",
+        "支援員工決策制定和營運效率。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Vertex AI",
+      "Gemini 1.5 Pro"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "financial-services-employee-s-p-global",
+    "industry": "financial-services",
+    "agentType": "employee",
+    "company": "S&P Global",
+    "isNew": true,
+    "summary": {
+      "en": "S&P Global's Kensho Data Retrieval Agent enables analysts to access cited financial data, analyze earnings calls, and retrieve metrics instantly.",
+      "zh": "S&P Global 的 Kensho 資料檢索代理人讓分析師能即時存取引用金融資料、分析財報電話並檢索特定財務指標。"
+    },
+    "overview": {
+      "en": "S&P Global's Data Retrieval Agent, built by Kensho, enables financial professionals to access cited data from S&P Global's proprietary datasets. The agent allows analysts and portfolio managers to analyze earnings calls, conduct market research, and instantly retrieve specific financial metrics, with all responses fully cited to source data for accountability and verification.",
+      "zh": "S&P Global 的資料檢索代理人由 Kensho 建構，讓金融專業人士能夠存取 S&P Global 專有資料集中的引用資料。此代理人允許分析師和投資組合經理分析財報電話、進行市場研究，並即時檢索特定財務指標，所有回覆均完整引用來源資料，確保責任歸屬和可驗證性。"
+    },
+    "highlights": {
+      "en": [
+        "Kensho Data Retrieval Agent accesses S&P Global's proprietary financial datasets.",
+        "Provides fully cited responses for accountability and source verification.",
+        "Enables analysts and portfolio managers to analyze earnings calls instantly.",
+        "Supports market research and retrieval of specific financial metrics."
+      ],
+      "zh": [
+        "Kensho 資料檢索代理人存取 S&P Global 的專有金融資料集。",
+        "提供完整引用的回覆，確保責任歸屬和來源可驗證性。",
+        "讓分析師和投資組合經理即時分析財報電話。",
+        "支援市場研究和特定財務指標的檢索。"
+      ]
+    },
+    "technologies": [
+      "Vertex AI",
+      "Gemini",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "financial-services-employee-seguros-bolivar",
+    "industry": "financial-services",
+    "agentType": "employee",
+    "company": "Seguros Bolivar",
+    "isNew": false,
+    "summary": {
+      "en": "Seguros Bolivar uses Gemini to streamline insurance product design with partners, reducing costs by 20–30% and improving collaboration.",
+      "zh": "Seguros Bolivar 使用 Gemini 與合作夥伴共同簡化保險產品設計，成本降低 20–30%，並提升跨公司協作效率。"
+    },
+    "overview": {
+      "en": "Seguros Bolivar, an insurance provider in Colombia, uses Gemini to streamline collaboration when designing insurance products with partner companies. The AI tools achieve faster turnaround times and greater alignment across organizations. Since adopting Google Workspace and Gemini, the company has reduced costs by 20–30% and improved cross-company collaboration significantly.",
+      "zh": "哥倫比亞保險提供商 Seguros Bolivar 使用 Gemini 在與合作夥伴共同設計保險產品時簡化協作流程。AI 工具實現了更快的周轉時間和更高的組織間協調一致性。自採用 Google Workspace 和 Gemini 以來，公司成本降低了 20-30%，跨公司協作也有了顯著改善。"
+    },
+    "highlights": {
+      "en": [
+        "Uses Gemini to streamline insurance product design collaboration with partners.",
+        "Achieves faster turnaround times for cross-company product development.",
+        "Reduced costs by 20–30% since adopting Google Workspace and Gemini.",
+        "Improved cross-company collaboration and alignment."
+      ],
+      "zh": [
+        "使用 Gemini 簡化與合作夥伴的保險產品設計協作。",
+        "實現跨公司產品開發的更快周轉時間。",
+        "自採用 Google Workspace 和 Gemini 以來，成本降低 20-30%。",
+        "改善了跨公司協作和協調一致性。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Google Workspace"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Seguros Bolivar knocks down operational hurdles with Gemini — YouTube",
+        "url": "https://www.youtube.com/watch?v=5dH3lSqCd-8"
+      }
+    ]
+  },
+  {
+    "id": "financial-services-employee-stacks",
+    "industry": "financial-services",
+    "agentType": "employee",
+    "company": "Stacks",
+    "isNew": false,
+    "summary": {
+      "en": "Stacks built its AI-powered accounting automation platform on Google Cloud, with 10–15% of production code generated by Gemini Code Assist.",
+      "zh": "Stacks 在 Google Cloud 上建立 AI 驅動的會計自動化平台，10–15% 的生產程式碼由 Gemini Code Assist 生成。"
+    },
+    "overview": {
+      "en": "Stacks, an Amsterdam-based accounting automation startup founded in 2024, built its platform on Google Cloud using Vertex AI, Gemini, GKE Autopilot, Cloud SQL, and Cloud Spanner to automate monthly financial closing tasks. The company reduced closing times through automated bank reconciliations and workflow standardization. Notably, 10–15% of its production code is now generated by Gemini Code Assist.",
+      "zh": "Stacks 是 2024 年成立的阿姆斯特丹會計自動化新創公司，使用 Vertex AI、Gemini、GKE Autopilot、Cloud SQL 和 Cloud Spanner 在 Google Cloud 上建立其平台，自動化每月財務結帳任務。公司透過自動化銀行對帳和工作流程標準化縮短了結帳時間。值得注意的是，目前 10-15% 的生產程式碼由 Gemini Code Assist 生成。"
+    },
+    "highlights": {
+      "en": [
+        "Built accounting automation platform on Google Cloud using Vertex AI, Gemini, GKE Autopilot, Cloud SQL, and Cloud Spanner.",
+        "Automates monthly financial closing through bank reconciliations and workflow standardization.",
+        "10–15% of production code generated by Gemini Code Assist.",
+        "Founded in 2024 and built cloud-native from the ground up."
+      ],
+      "zh": [
+        "在 Google Cloud 上使用 Vertex AI、Gemini、GKE Autopilot、Cloud SQL 和 Cloud Spanner 建立會計自動化平台。",
+        "透過銀行對帳和工作流程標準化自動化每月財務結帳。",
+        "10-15% 的生產程式碼由 Gemini Code Assist 生成。",
+        "2024 年創立，從零開始以雲端原生方式建構。"
+      ]
+    },
+    "technologies": [
+      "Vertex AI",
+      "Gemini",
+      "GKE Autopilot",
+      "Cloud SQL",
+      "Cloud Spanner",
+      "Gemini Code Assist"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "financial-services-employee-stream",
+    "industry": "financial-services",
+    "agentType": "employee",
+    "company": "Stream",
+    "isNew": false,
+    "summary": {
+      "en": "Stream uses Gemini models to handle over 80% of internal customer inquiries about pay dates, balances, and more.",
+      "zh": "Stream 使用 Gemini 模型處理逾 80% 的內部客戶查詢，涵蓋薪資日期、餘額等問題。"
+    },
+    "overview": {
+      "en": "Stream offers financial tools to employers and employees, including earned wage access services. The company uses Gemini models to handle more than 80% of its internal customer inquiries automatically, including questions about pay dates, balances, and other financial topics, significantly reducing the workload on human support staff.",
+      "zh": "Stream 為雇主和員工提供金融工具，包括工資提前取用服務。公司使用 Gemini 模型自動處理逾 80% 的內部客戶查詢，包括薪資日期、餘額及其他財務相關問題，大幅減輕了真人客服人員的工作負擔。"
+    },
+    "highlights": {
+      "en": [
+        "Gemini models handle more than 80% of internal customer inquiries automatically.",
+        "Covers questions about pay dates, balances, and financial topics.",
+        "Significantly reduces workload on human support staff.",
+        "Serves both employers and employees with earned wage access financial tools."
+      ],
+      "zh": [
+        "Gemini 模型自動處理逾 80% 的內部客戶查詢。",
+        "涵蓋薪資日期、餘額及財務相關問題。",
+        "大幅減輕真人客服人員的工作負擔。",
+        "為雇主和員工提供工資提前取用金融工具。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Vertex AI"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "financial-services-employee-symphony",
+    "industry": "financial-services",
+    "agentType": "employee",
+    "company": "Symphony",
+    "isNew": false,
+    "summary": {
+      "en": "Symphony uses Vertex AI to help finance and trading teams collaborate across multiple asset classes on its financial communications platform.",
+      "zh": "Symphony 使用 Vertex AI 協助金融和交易團隊在其金融通訊平台上跨多個資產類別進行協作。"
+    },
+    "overview": {
+      "en": "Symphony, the leading communications platform for the financial services industry, uses Vertex AI to enhance collaboration capabilities for finance and trading teams. The platform helps professionals coordinate across multiple asset classes, enabling faster decision-making and more efficient workflows for financial institutions.",
+      "zh": "Symphony 是金融服務業領先的通訊平台，使用 Vertex AI 增強金融和交易團隊的協作能力。該平台協助專業人士跨多個資產類別進行協調，為金融機構實現更快速的決策制定和更高效的工作流程。"
+    },
+    "highlights": {
+      "en": [
+        "Uses Vertex AI to enhance financial services communications platform.",
+        "Helps finance and trading teams collaborate across multiple asset classes.",
+        "Accelerates decision-making for financial professionals.",
+        "Serves as the leading dedicated communications platform for financial services."
+      ],
+      "zh": [
+        "使用 Vertex AI 增強金融服務通訊平台能力。",
+        "協助金融和交易團隊跨多個資產類別進行協作。",
+        "加快金融專業人士的決策制定速度。",
+        "作為金融服務業領先的專用通訊平台。"
+      ]
+    },
+    "technologies": [
+      "Vertex AI",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "financial-services-employee-the-trumble-insurance-agency",
+    "industry": "financial-services",
+    "agentType": "employee",
+    "company": "The Trumble Insurance Agency",
+    "isNew": false,
+    "summary": {
+      "en": "The Trumble Insurance Agency uses Gemini for Google Workspace to improve creativity, efficiency, and value delivered to clients.",
+      "zh": "Trumble 保險機構使用 Gemini for Google Workspace 提升創意、效率及對客戶交付的價值。"
+    },
+    "overview": {
+      "en": "The Trumble Insurance Agency uses Gemini for Google Workspace to significantly improve its creativity and the value it delivers to clients. The AI tools enhance efficiency and productivity across the agency's operations, enabling staff to focus on delivering better client outcomes.",
+      "zh": "Trumble 保險機構使用 Gemini for Google Workspace 大幅提升其創意和對客戶交付的價值。AI 工具提升了機構業務的效率和生產力，讓員工能夠專注於為客戶帶來更好的成果。"
+    },
+    "highlights": {
+      "en": [
+        "Uses Gemini for Google Workspace to enhance creativity in client service delivery.",
+        "Improves efficiency and productivity across agency operations.",
+        "Enables staff to focus on delivering higher value to clients."
+      ],
+      "zh": [
+        "使用 Gemini for Google Workspace 提升客戶服務交付的創意。",
+        "提升機構業務的效率和生產力。",
+        "讓員工能夠專注於為客戶交付更高價值。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Google Workspace"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "financial-services-employee-thoma-bravo",
+    "industry": "financial-services",
+    "agentType": "employee",
+    "company": "Thoma Bravo",
+    "isNew": true,
+    "summary": {
+      "en": "Thoma Bravo, the world's largest software-focused PE firm, offers portfolio companies access to Google Cloud AI including Gemini Enterprise.",
+      "zh": "Thoma Bravo 是全球最大的軟體導向私募股權公司，為投資組合公司提供 Google Cloud AI 和 Gemini Enterprise 的簡化存取管道。"
+    },
+    "overview": {
+      "en": "Thoma Bravo, the world's largest software-focused investment firm, is offering its portfolio companies streamlined access to Google Cloud's AI platform, including Gemini models and the Gemini Enterprise platform for agentic AI creation. This initiative helps Thoma Bravo's portfolio companies accelerate their own AI adoption and transformation at scale.",
+      "zh": "Thoma Bravo 是全球最大的軟體導向投資公司，正為其投資組合公司提供 Google Cloud AI 平台的簡化存取管道，包括 Gemini 模型和用於代理人 AI 建立的 Gemini Enterprise 平台。此舉措協助 Thoma Bravo 的投資組合公司大規模加速其 AI 採用和轉型。"
+    },
+    "highlights": {
+      "en": [
+        "Offers portfolio companies streamlined access to Google Cloud AI platform.",
+        "Includes access to Gemini models and Gemini Enterprise for agentic AI.",
+        "Accelerates AI adoption across Thoma Bravo's portfolio companies.",
+        "Positions the firm's investments to benefit from enterprise AI transformation."
+      ],
+      "zh": [
+        "為投資組合公司提供 Google Cloud AI 平台的簡化存取管道。",
+        "包括存取 Gemini 模型和用於代理人 AI 的 Gemini Enterprise。",
+        "加速 Thoma Bravo 投資組合公司的 AI 採用。",
+        "讓公司投資能夠從企業 AI 轉型中受益。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Gemini Enterprise",
+      "Vertex AI",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "financial-services-employee-tributei",
+    "industry": "financial-services",
+    "agentType": "employee",
+    "company": "Tributei",
+    "isNew": false,
+    "summary": {
+      "en": "Tributei uses Google Cloud ML to simplify Brazil's state VAT, achieving 400% performance improvement and helping 19,000 companies spot BRL 15M in overcharges.",
+      "zh": "Tributei 使用 Google Cloud ML 簡化巴西州稅評估，實現 400% 的效能提升，協助 1.9 萬家企業發現逾 1,500 萬巴西雷亞爾的稅額多付。"
+    },
+    "overview": {
+      "en": "Tributei was founded in 2019 to simplify the complex tax assessment processes for Brazil's state VAT (ICMS). Using Google Cloud ML resources, Tributei simplified both tax assessments and tax management tasks, achieving a 400% performance improvement. The platform has helped 19,000 companies automate and audit VAT-related transactions, identifying more than BRL 15 million in tax overcharges.",
+      "zh": "Tributei 於 2019 年創立，旨在簡化巴西州增值稅（ICMS）複雜的稅務評估流程。利用 Google Cloud ML 資源，Tributei 簡化了稅務評估和稅務管理任務，實現了 400% 的效能提升。該平台已協助 1.9 萬家企業自動化和稽核增值稅相關交易，發現逾 1,500 萬巴西雷亞爾的稅額多付。"
+    },
+    "highlights": {
+      "en": [
+        "400% performance improvement achieved using Google Cloud ML resources.",
+        "Helped 19,000 companies automate and audit VAT-related transactions.",
+        "Identified more than BRL 15 million in tax overcharges for clients.",
+        "Simplifies Brazil's complex state VAT (ICMS) assessment and management."
+      ],
+      "zh": [
+        "使用 Google Cloud ML 資源實現 400% 的效能提升。",
+        "協助 1.9 萬家企業自動化和稽核增值稅相關交易。",
+        "為客戶識別出逾 1,500 萬巴西雷亞爾的稅額多付。",
+        "簡化巴西複雜的州增值稅（ICMS）評估和管理。"
+      ]
+    },
+    "technologies": [
+      "Google Cloud",
+      "Vertex AI",
+      "BigQuery"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "financial-services-employee-wealth-com",
+    "industry": "financial-services",
+    "agentType": "employee",
+    "company": "wealth.com",
+    "isNew": false,
+    "summary": {
+      "en": "wealth.com built Ester, an AI chat agent that accurately extracts information from complex estate planning documents like trusts and wills.",
+      "zh": "wealth.com 建立了 Ester AI 聊天代理人，能準確從信託和遺囑等複雜遺產規劃文件中提取資訊。"
+    },
+    "overview": {
+      "en": "wealth.com built a platform that simplifies estate planning while equipping financial advisors with tools to visualize and manage complex plans. Its new AI-powered Ester chat agent accurately and securely extracts information from complex and lengthy planning documents, such as trusts and wills, helping advisors deliver more informed and efficient estate planning services.",
+      "zh": "wealth.com 建立了一個簡化遺產規劃的平台，同時為理財顧問提供視覺化和管理複雜計畫的工具。其全新 AI 驅動的 Ester 聊天代理人能夠準確且安全地從信託和遺囑等複雜冗長的規劃文件中提取資訊，協助顧問提供更知情、更高效的遺產規劃服務。"
+    },
+    "highlights": {
+      "en": [
+        "Built the Ester AI chat agent for estate planning document analysis.",
+        "Accurately extracts information from complex documents like trusts and wills.",
+        "Equips financial advisors with tools to manage complex estate plans.",
+        "Securely processes sensitive estate planning documents."
+      ],
+      "zh": [
+        "建立了 Ester AI 聊天代理人，用於遺產規劃文件分析。",
+        "準確提取信託和遺囑等複雜文件中的資訊。",
+        "為理財顧問提供管理複雜遺產計畫的工具。",
+        "安全處理敏感的遺產規劃文件。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Vertex AI",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "financial-services-employee-wells-fargo",
+    "industry": "financial-services",
+    "agentType": "employee",
+    "company": "Wells Fargo",
+    "isNew": false,
+    "summary": {
+      "en": "Wells Fargo is deploying Google Agentspace company-wide to streamline operations, shorten decision times, and transform customer service.",
+      "zh": "Wells Fargo 在全公司部署 Google Agentspace，以簡化內部作業、縮短決策時間並轉型客戶服務。"
+    },
+    "overview": {
+      "en": "Wells Fargo expanded its strategic relationship with Google Cloud to deploy Agentspace across the entire company. More than 2,000 employees are already using the agentic AI platform, with plans for company-wide expansion. The deployment includes Gemini Deep Research, NotebookLM, and custom AI agents to help employees navigate policies, sort through documentation, and provide real-time market insights for teams including branch bankers, investment bankers, marketers, and corporate staff.",
+      "zh": "Wells Fargo 擴大了與 Google Cloud 的策略合作關係，在整個公司部署 Agentspace。目前已有超過 2,000 名員工在使用此代理人 AI 平台，並計劃向全公司擴展。部署內容包括 Gemini Deep Research、NotebookLM 和客製化 AI 代理人，協助員工瀏覽政策、整理文件，並為分行銀行家、投資銀行家、行銷人員和企業員工等提供即時市場洞察。"
+    },
+    "highlights": {
+      "en": [
+        "Deploying Google Agentspace company-wide with 2,000+ employees already onboarded.",
+        "Includes Gemini Deep Research and NotebookLM for research tasks.",
+        "Custom agents help employees navigate policies and retrieve documentation.",
+        "Serves branch bankers, investment bankers, marketers, and corporate teams.",
+        "Aims to shorten decision times and streamline internal operations."
+      ],
+      "zh": [
+        "在全公司部署 Google Agentspace，已有超過 2,000 名員工使用。",
+        "包括 Gemini Deep Research 和 NotebookLM，用於研究任務。",
+        "客製化代理人協助員工瀏覽政策和檢索文件。",
+        "服務分行銀行家、投資銀行家、行銷人員和企業團隊。",
+        "旨在縮短決策時間並簡化內部作業。"
+      ]
+    },
+    "technologies": [
+      "Google Agentspace",
+      "Gemini",
+      "NotebookLM",
+      "Vertex AI"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Wells Fargo brings the agentic era to financial services with Google Cloud AI — Google Cloud Blog",
+        "url": "https://cloud.google.com/blog/topics/financial-services/wells-fargo-agentic-ai-agentspace-empowering-workers"
+      }
+    ]
+  },
+  {
+    "id": "financial-services-employee-wells-fargo-2",
+    "industry": "financial-services",
+    "agentType": "employee",
+    "company": "Wells Fargo",
+    "isNew": false,
+    "summary": {
+      "en": "Wells Fargo uses Apigee and a RAG-based tool to help branch bankers retrieve policies during customer interactions, reducing workflow by ~20%.",
+      "zh": "Wells Fargo 使用 Apigee 和 RAG 工具協助分行銀行家在客戶互動時檢索政策，查詢解決工作流程減少約 20%。"
+    },
+    "overview": {
+      "en": "Wells Fargo uses Apigee API Management to scale generative AI adoption across teams by building task-specific, reusable APIs that simplify experimentation and model integration. The bank deployed a RAG-based tool for branch bankers that retrieves policies and procedures during customer interactions. This tool reduced the workflow for query resolution by approximately 20%, enabling faster and more accurate customer service.",
+      "zh": "Wells Fargo 使用 Apigee API 管理，透過建立特定任務的可重用 API 來擴展跨團隊的生成式 AI 採用，簡化實驗和模型整合。銀行為分行銀行家部署了基於 RAG 的工具，在客戶互動期間檢索政策和流程。此工具將查詢解決的工作流程縮短了約 20%，實現更快速、更準確的客戶服務。"
+    },
+    "highlights": {
+      "en": [
+        "Uses Apigee API Management to build reusable AI APIs across teams.",
+        "Deployed RAG-based tool for branch bankers to retrieve policies during customer calls.",
+        "RAG tool reduced query resolution workflow by approximately 20%.",
+        "Simplifies AI experimentation and model integration at enterprise scale."
+      ],
+      "zh": [
+        "使用 Apigee API 管理跨團隊建立可重用的 AI API。",
+        "為分行銀行家部署基於 RAG 的工具，在客戶通話中檢索政策。",
+        "RAG 工具將查詢解決工作流程縮短約 20%。",
+        "在企業規模上簡化 AI 實驗和模型整合。"
+      ]
+    },
+    "technologies": [
+      "Apigee",
+      "Vertex AI",
+      "Gemini",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Wells Fargo brings the agentic era to financial services with Google Cloud AI — Google Cloud Blog",
+        "url": "https://cloud.google.com/blog/topics/financial-services/wells-fargo-agentic-ai-agentspace-empowering-workers"
+      }
+    ]
+  },
+  {
+    "id": "financial-services-employee-worldline",
+    "industry": "financial-services",
+    "agentType": "employee",
+    "company": "Worldline",
+    "isNew": false,
+    "summary": {
+      "en": "Worldline is migrating its North American payment platform to Google Cloud using Security Command Center for compliance and cost savings.",
+      "zh": "Worldline 正在使用 Security Command Center 將其北美支付平台遷移至 Google Cloud，以實現合規和節省成本。"
+    },
+    "overview": {
+      "en": "Worldline, a global payment services company founded in 1972, operates in 56 countries and processes millions of transactions daily. The company is migrating its North American payment platform infrastructure to Google Cloud, using Security Command Center and Cloud Identity for enhanced security and compliance visibility. The migration is expected to generate significant annual infrastructure cost savings while accelerating development cycles from quarterly releases to continuous deployment.",
+      "zh": "Worldline 是 1972 年創立的全球支付服務公司，在 56 個國家營運，每日處理數百萬筆交易。公司正在將其北美支付平台基礎設施遷移至 Google Cloud，使用 Security Command Center 和 Cloud Identity 提升安全性和合規可視性。此遷移預計將帶來可觀的年度基礎設施成本節省，同時將開發週期從季度發布加速至持續部署。"
+    },
+    "highlights": {
+      "en": [
+        "Migrating North American payment platform infrastructure to Google Cloud.",
+        "Uses Security Command Center and Cloud Identity for security and compliance visibility.",
+        "Expected to generate significant annual infrastructure cost savings.",
+        "Accelerates development from quarterly releases to continuous deployment.",
+        "Operates in 56 countries with millions of daily transactions."
+      ],
+      "zh": [
+        "將北美支付平台基礎設施遷移至 Google Cloud。",
+        "使用 Security Command Center 和 Cloud Identity 提升安全性和合規可視性。",
+        "預計帶來可觀的年度基礎設施成本節省。",
+        "將開發週期從季度發布加速至持續部署。",
+        "在 56 個國家營運，每日處理數百萬筆交易。"
+      ]
+    },
+    "technologies": [
+      "Security Command Center",
+      "Cloud Identity",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Worldline Case Study — Google Cloud",
+        "url": "https://cloud.google.com/customers/worldline"
+      }
+    ]
+  },
+  {
+    "id": "financial-services-creative-atb-financial",
+    "industry": "financial-services",
+    "agentType": "creative",
+    "company": "ATB Financial",
+    "isNew": false,
+    "summary": {
+      "en": "ATB Financial uses Gemini to help marketing teams brainstorm campaigns, reducing project timelines by up to two weeks.",
+      "zh": "ATB Financial 使用 Gemini 協助行銷團隊發想行銷活動，將專案時程縮短最多兩週。"
+    },
+    "overview": {
+      "en": "ATB Financial, the largest Alberta-based institution with over $62.3 billion in assets under management, uses Gemini to help marketing teams brainstorm new campaigns without waiting for subject matter experts. The AI reduced campaign project timelines by up to two weeks. About 40% of team members use Gemini daily, saving approximately two hours per week.",
+      "zh": "ATB Financial 是亞伯達省最大的金融機構，管理資產逾 623 億加元。公司使用 Gemini 協助行銷團隊發想新的行銷活動，無需等待主題專家介入。AI 將行銷活動專案時程縮短了最多兩週。約 40% 的團隊成員每天使用 Gemini，每週約節省兩小時。"
+    },
+    "highlights": {
+      "en": [
+        "Marketing teams reduced campaign project timelines by up to 2 weeks using Gemini.",
+        "40% of marketing team members use Gemini daily.",
+        "Each daily user saves approximately 2 hours per week.",
+        "Enables brainstorming without waiting for subject matter expert availability.",
+        "Part of a 5,000+ employee-wide Gemini deployment at ATB Financial."
+      ],
+      "zh": [
+        "行銷團隊使用 Gemini 將活動專案時程縮短最多 2 週。",
+        "40% 的行銷團隊成員每天使用 Gemini。",
+        "每位每日用戶每週約節省 2 小時。",
+        "無需等待主題專家即可進行頭腦風暴。",
+        "是 ATB Financial 逾 5,000 名員工全面部署 Gemini 計畫的一部分。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Google Workspace"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Supercharging employee experience with Gemini at ATB Financial — Google Workspace Blog",
+        "url": "https://workspace.google.com/blog/customer-stories/supercharging-employee-experience-and-reducing-routine-work-gemini-atb-financial"
+      },
+      {
+        "title": "ATB Financial Customer Success Story — Google Workspace",
+        "url": "https://workspace.google.com/customers/atb-financial/"
+      }
+    ]
+  },
+  {
+    "id": "financial-services-creative-chiba-bank",
+    "industry": "financial-services",
+    "agentType": "creative",
+    "company": "Chiba Bank",
+    "isNew": false,
+    "summary": {
+      "en": "Chiba Bank developed an AI prototype that generates advertising creative content from text and image prompts.",
+      "zh": "千葉銀行開發了 AI 原型，能夠從文字和圖像提示生成廣告創意內容。"
+    },
+    "overview": {
+      "en": "Chiba Bank, a major regional bank in Japan, partnered with Google Cloud's Advanced Solutions Lab to train employees in AI and machine learning. As part of this program, the bank also developed an AI system prototype that generates advertising creative content from text and image prompts, exploring how generative AI can accelerate marketing content production.",
+      "zh": "千葉銀行是日本主要的地區性銀行，與 Google Cloud 的 Advanced Solutions Lab 合作，培訓員工的 AI 和機器學習能力。作為此計畫的一部分，銀行還開發了 AI 系統原型，能夠從文字和圖像提示生成廣告創意內容，探索生成式 AI 如何加速行銷內容製作。"
+    },
+    "highlights": {
+      "en": [
+        "Developed an AI prototype that generates advertising creative from text and image prompts.",
+        "Partnered with Google Cloud Advanced Solutions Lab for AI/ML training.",
+        "Explores gen AI's potential to accelerate marketing content production.",
+        "Complements the bank's internal policy chatbot built in the same partnership."
+      ],
+      "zh": [
+        "開發了能從文字和圖像提示生成廣告創意的 AI 原型。",
+        "與 Google Cloud Advanced Solutions Lab 合作進行 AI/ML 培訓。",
+        "探索生成式 AI 加速行銷內容製作的潛力。",
+        "與同一合作關係中建立的內部政策聊天機器人相輔相成。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Vertex AI",
+      "Google Cloud Advanced Solutions Lab"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "financial-services-creative-etoro",
+    "industry": "financial-services",
+    "agentType": "creative",
+    "company": "eToro",
+    "isNew": false,
+    "summary": {
+      "en": "eToro pioneered use of Veo 2 to create its ad campaigns, producing 15 AI-generated localized video ads across global markets.",
+      "zh": "eToro 率先使用 Veo 2 製作廣告活動，為全球市場生產了 15 支 AI 生成的在地化影片廣告。"
+    },
+    "overview": {
+      "en": "eToro, a global trading and investing platform, became one of the first companies to launch a TV and YouTube advertising campaign fully created using Veo 2, Google DeepMind's advanced video generation technology. The campaign produced 15 fully AI-generated ad versions, each in the native language of eToro's target markets. The 30-second videos were deployed across YouTube, television, CTV, and outdoor channels in Italy, with plans to expand into additional markets.",
+      "zh": "全球交易和投資平台 eToro 成為首批使用 Veo 2（Google DeepMind 的先進影片生成技術）完整製作電視和 YouTube 廣告活動的公司之一。此活動製作了 15 支完全由 AI 生成的廣告版本，每支都使用 eToro 目標市場的當地語言。30 秒影片首先在義大利的 YouTube、電視、CTV 和戶外廣告頻道上投放，並計劃擴展至更多市場。"
+    },
+    "highlights": {
+      "en": [
+        "Among the first companies to create a full advertising campaign using Veo 2.",
+        "Produced 15 fully AI-generated localized ad versions across different markets.",
+        "30-second videos deployed on YouTube, TV, CTV, and outdoor channels.",
+        "Enables efficient multilingual video ad production at scale.",
+        "Reduces traditionally extensive production timelines and budgets significantly."
+      ],
+      "zh": [
+        "成為首批使用 Veo 2 完整製作廣告活動的公司之一。",
+        "在不同市場製作了 15 支完全由 AI 生成的在地化廣告版本。",
+        "30 秒影片在 YouTube、電視、CTV 和戶外廣告頻道上投放。",
+        "大規模高效製作多語言影片廣告。",
+        "大幅縮短傳統上冗長的製作時間並減少預算。"
+      ]
+    },
+    "technologies": [
+      "Veo 2",
+      "Vertex AI",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "eToro Partners with Google to Debut Veo 2 Brand Campaign — eToro",
+        "url": "https://www.etoro.com/news-and-analysis/press-releases/etoro-partners-with-google-to-debut-veo-2-brand-campaign/"
+      },
+      {
+        "title": "eToro and Google DeepMind Launch First Veo 2 AI-Generated Brand Campaign — FF News",
+        "url": "https://ffnews.com/newsarticle/tradetech/etoro-partners-with-google-deepmind-to-launch-first-ever-veo-2-ai-generated-brand-campaign/"
+      }
+    ]
+  },
+  {
+    "id": "financial-services-creative-hsbc",
+    "industry": "financial-services",
+    "agentType": "creative",
+    "company": "HSBC",
+    "isNew": true,
+    "summary": {
+      "en": "HSBC extended its AI copy-generation tool ComAmplifier with coordinated agents to generate compliant, multilingual, multimarket marketing content.",
+      "zh": "HSBC 擴充其 AI 文案生成工具 ComAmplifier，加入協調式代理人，生成符合規範的多語言、多市場行銷內容。"
+    },
+    "overview": {
+      "en": "HSBC needed compliant, multimarket, and multilingual marketing that delivered the right message at the right time to the right customer. Working with Capgemini, it extended its already successful copy-generation tool, ComAmplifier, by adding a coordinated set of agents that collaborate in a single workflow. These agents generate targeted content and messaging, including insight, copy, imagery, and approvals, enabling HSBC to scale its marketing content production across global markets efficiently.",
+      "zh": "HSBC 需要符合規範、跨市場且多語言的行銷方式，在正確的時間向正確的客戶傳遞正確的訊息。與 Capgemini 合作，HSBC 擴充了其已成功運用的文案生成工具 ComAmplifier，加入了一組在單一工作流程中協作的協調式代理人。這些代理人生成有針對性的內容和訊息，包括洞察、文案、圖像和審批，讓 HSBC 能夠高效地在全球市場擴展行銷內容製作。"
+    },
+    "highlights": {
+      "en": [
+        "Extended ComAmplifier with coordinated multi-agent workflows for marketing content.",
+        "Agents collaborate to generate insight, copy, imagery, and handle approvals.",
+        "Delivers compliant, multimarket, multilingual marketing content at scale.",
+        "Built with Capgemini on Google Cloud for enterprise-grade agentic AI.",
+        "Enables HSBC to efficiently serve diverse global markets with targeted messaging."
+      ],
+      "zh": [
+        "透過協調式多代理人工作流程擴充 ComAmplifier，用於行銷內容製作。",
+        "代理人協作生成洞察、文案、圖像並處理審批。",
+        "大規模交付符合規範的跨市場、多語言行銷內容。",
+        "與 Capgemini 在 Google Cloud 上建構企業級代理人 AI。",
+        "讓 HSBC 能夠以有針對性的訊息高效服務多元全球市場。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Vertex AI",
+      "Google Cloud",
+      "Google Agent Development Kit"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Transforming HSBC with AI — HSBC and Digital",
+        "url": "https://www.hsbc.com/who-we-are/hsbc-and-digital/hsbc-and-ai/transforming-hsbc-with-ai"
+      },
+      {
+        "title": "How Google Cloud partner ecosystem is building the agentic enterprise — Google Cloud Blog",
+        "url": "https://cloud.google.com/blog/topics/partners/how-google-cloud-partner-ecosystem-is-building-the-agentic-enterprise"
+      }
+    ]
+  }
+]

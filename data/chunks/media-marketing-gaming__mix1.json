@@ -1,0 +1,1887 @@
+[
+  {
+    "id": "media-marketing-gaming-employee-adwise",
+    "industry": "media-marketing-gaming",
+    "agentType": "employee",
+    "company": "Adwise",
+    "isNew": false,
+    "summary": {
+      "en": "Dutch marketing agency uses Google Workspace with Gemini to draft documents, summarize content, and reply to emails in the user's own tone.",
+      "zh": "荷蘭行銷公司 Adwise 使用 Google Workspace 搭配 Gemini，以用戶語氣起草文件、摘要內容並回覆電子郵件。"
+    },
+    "overview": {
+      "en": "Adwise, a Dutch marketing agency, relies on Google Workspace with Gemini to improve client communications. Employees use Gemini to outline and summarize documents, and to reply to emails in their personal tone of voice. The tool is accessible across the business and has become part of daily workflows for client-facing teams.",
+      "zh": "荷蘭行銷公司 Adwise 依賴 Google Workspace 搭配 Gemini 改善客戶溝通。員工使用 Gemini 起草與摘要文件，並以個人語氣回覆電子郵件。此工具在整個公司均可使用，已成為面向客戶團隊的日常工作流程的一部分。"
+    },
+    "highlights": {
+      "en": [
+        "Gemini responds to emails in the employee's own tone of voice with a simple prompt.",
+        "Used for outlining new documents and summarizing existing ones.",
+        "Deployed across the entire agency to improve client communication efficiency."
+      ],
+      "zh": [
+        "只需簡單提示，Gemini 即可以員工個人語氣回覆電子郵件。",
+        "用於起草新文件及摘要現有文件。",
+        "部署於整個公司，提升客戶溝通效率。"
+      ]
+    },
+    "technologies": [
+      "Google Workspace",
+      "Gemini"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ]
+  },
+  {
+    "id": "media-marketing-gaming-employee-ateme",
+    "industry": "media-marketing-gaming",
+    "agentType": "employee",
+    "company": "Ateme",
+    "isNew": true,
+    "summary": {
+      "en": "Ateme's gen AI-powered subtitling solution significantly reduces manual labor for localizing media content globally.",
+      "zh": "Ateme 的生成式 AI 字幕解決方案大幅降低全球媒體內容本地化所需的人工作業。"
+    },
+    "overview": {
+      "en": "Ateme, a video compression and streaming technology company, introduced a generative AI-powered subtitling solution to simplify global media distribution. The solution reduces the manual labor involved in localizing different types of media content across languages. This new capability is part of Ateme's broader initiative to modernize media workflows using AI on Google Cloud.",
+      "zh": "視訊壓縮與串流技術公司 Ateme 推出生成式 AI 字幕解決方案，以簡化全球媒體發行。此解決方案大幅減少跨語言本地化不同媒體類型所需的人工作業，是 Ateme 在 Google Cloud 上以 AI 現代化媒體工作流程的一部分。"
+    },
+    "highlights": {
+      "en": [
+        "Gen AI-powered subtitling significantly reduces manual localization labor.",
+        "Supports multiple media types for global distribution.",
+        "Part of Ateme's broader media workflow modernization on Google Cloud."
+      ],
+      "zh": [
+        "生成式 AI 字幕大幅減少人工本地化工作。",
+        "支援多種媒體類型的全球發行。",
+        "屬於 Ateme 在 Google Cloud 上現代化媒體工作流程的一部分。"
+      ]
+    },
+    "technologies": [
+      "Google Cloud",
+      "Generative AI"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "media-marketing-gaming-employee-bitmovin",
+    "industry": "media-marketing-gaming",
+    "agentType": "employee",
+    "company": "Bitmovin",
+    "isNew": true,
+    "summary": {
+      "en": "Bitmovin combines AI-driven insights and advanced encoding to help streaming services optimize engagement, monetization, and quality at scale.",
+      "zh": "Bitmovin 結合 AI 洞察與先進編碼技術，協助串流服務在大規模環境下優化互動、變現與品質。"
+    },
+    "overview": {
+      "en": "Bitmovin enables streaming services to scale efficiently while delivering premium viewing experiences across a wide range of devices. By combining real-time observability with AI-driven insights, media teams can proactively optimize engagement and monetization. Advanced encoding ensures superior visual quality at lower bitrates, supporting everything from VOD to large-scale 24/7 live events.",
+      "zh": "Bitmovin 協助串流服務在多種裝置上高效擴展並提供優質觀看體驗。透過整合即時可觀測性與 AI 洞察，媒體團隊可主動優化互動與變現。進階編碼在較低位元率下確保優越的視覺品質，支援從 VOD 到大規模 24/7 直播活動的各種需求。"
+    },
+    "highlights": {
+      "en": [
+        "Real-time observability combined with AI-driven insights for proactive engagement optimization.",
+        "Advanced encoding delivers superior visual quality at lower bitrates.",
+        "Supports both high-demand Video on Demand and 24/7 live events at massive scale."
+      ],
+      "zh": [
+        "即時可觀測性結合 AI 洞察，主動優化互動表現。",
+        "進階編碼在較低位元率下提供優越視覺品質。",
+        "支援高需求 VOD 與大規模 24/7 直播活動。"
+      ]
+    },
+    "technologies": [
+      "Google Cloud",
+      "AI-driven analytics",
+      "Video encoding"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "media-marketing-gaming-employee-cadent",
+    "industry": "media-marketing-gaming",
+    "agentType": "employee",
+    "company": "Cadent",
+    "isNew": true,
+    "summary": {
+      "en": "Cadent deployed custom Gemini Enterprise AI agents, achieving a 35% increase in campaign ROAS and saving 3,000 employee hours.",
+      "zh": "Cadent 部署 Gemini Enterprise 客製化 AI 代理，廣告活動 ROAS 提升 35%，節省員工 3,000 工時。"
+    },
+    "overview": {
+      "en": "Cadent, an audience activation platform, built custom AI agents on Gemini Enterprise to automate complex internal tasks and improve campaign performance. The company deployed Gemini Enterprise to its 600 employees, achieving a 75% adoption rate within 90 days and generating 90,000 interactions. Cadent is one of the first audience activation platforms available in Gemini Enterprise, with initial customer activations beginning in 2026.",
+      "zh": "受眾啟用平台 Cadent 在 Gemini Enterprise 上構建客製化 AI 代理，以自動化複雜內部任務並提升廣告活動績效。公司向 600 名員工部署 Gemini Enterprise，90 天內達到 75% 採用率並產生 90,000 次互動。Cadent 是首批在 Gemini Enterprise 上提供服務的受眾啟用平台之一，客戶啟用於 2026 年開始。"
+    },
+    "highlights": {
+      "en": [
+        "35% increase in campaign Return on Ad Spend (ROAS) across campaigns.",
+        "3,000+ employee hours saved through AI automation of internal manual tasks.",
+        "75% employee adoption rate within 90 days across 600 employees.",
+        "90,000 AI interactions generated since deployment.",
+        "200% increase in campaign resolution reported in collaboration with Google Cloud."
+      ],
+      "zh": [
+        "廣告活動投資回報率（ROAS）提升 35%。",
+        "透過 AI 自動化內部手動任務，節省超過 3,000 員工工時。",
+        "600 名員工中 90 天內達到 75% 採用率。",
+        "部署以來產生 90,000 次 AI 互動。",
+        "與 Google Cloud 合作，廣告活動解析率提升 200%。"
+      ]
+    },
+    "technologies": [
+      "Gemini Enterprise",
+      "Vertex AI",
+      "Agent Development Kit"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Cadent Becomes One of the First Audience Activation Platforms Available in Gemini Enterprise",
+        "url": "https://www.prnewswire.com/news-releases/cadent-becomes-one-of-the-first-audience-activation-platforms-available-in-gemini-enterprise-302774335.html"
+      },
+      {
+        "title": "Cadent Collaborates with Google Cloud — 200% Increase in Campaign Resolution",
+        "url": "https://www.prnewswire.com/news-releases/cadent-collaborates-with-google-cloud-to-bring-data-driven-intelligence-to-advertisers-delivering-200-percent-increase-in-campaign-resolution-302635484.html"
+      }
+    ]
+  },
+  {
+    "id": "media-marketing-gaming-employee-evergent",
+    "industry": "media-marketing-gaming",
+    "agentType": "employee",
+    "company": "Evergent",
+    "isNew": true,
+    "summary": {
+      "en": "Evergent automates billing and monetization workflows to help media and telecom companies maximize subscription growth and retention.",
+      "zh": "Evergent 自動化帳務與變現工作流程，協助媒體與電信公司最大化訂閱成長與客戶留存。"
+    },
+    "overview": {
+      "en": "Evergent provides AI-powered revenue management tools that automate complex billing and monetization workflows. Media and telecommunications companies use Evergent's platform to maximize subscription growth and improve long-term customer retention through personalized and agile payment offers. The platform's agentic capabilities help operators respond dynamically to subscriber behavior.",
+      "zh": "Evergent 提供 AI 驅動的營收管理工具，自動化複雜帳務與變現工作流程。媒體與電信公司透過 Evergent 的平台，以個性化、靈活的付款方案最大化訂閱成長並改善長期客戶留存。平台的代理能力協助營運商動態回應訂閱者行為。"
+    },
+    "highlights": {
+      "en": [
+        "Automates complex billing and monetization workflows for media and telecom companies.",
+        "Enables personalized and agile payment offers to maximize subscription growth.",
+        "AI-powered tools improve long-term customer retention."
+      ],
+      "zh": [
+        "為媒體與電信公司自動化複雜帳務與變現工作流程。",
+        "提供個性化、靈活的付款方案，最大化訂閱成長。",
+        "AI 驅動工具改善長期客戶留存率。"
+      ]
+    },
+    "technologies": [
+      "Google Cloud",
+      "Generative AI",
+      "Agentic AI"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "media-marketing-gaming-employee-football-association",
+    "industry": "media-marketing-gaming",
+    "agentType": "employee",
+    "company": "Football Association",
+    "isNew": false,
+    "summary": {
+      "en": "The FA uses Vertex AI to convert historical scouting reports into concise summaries, helping national teams identify future talent.",
+      "zh": "英格蘭足球總會使用 Vertex AI 將歷史球探報告轉化為簡潔摘要，協助國家隊發掘未來球才。"
+    },
+    "overview": {
+      "en": "The Football Association (FA) is training Vertex AI on its historical and current scouting reports to transform them into concise summaries for talent identification. The FA has worked with Google Cloud since 2019, using BigQuery to centralize data, and has expanded to generative AI for its Scouting Summarisations project. The system helps coaches and scouts understand a player's development trajectory without manually reviewing thousands of reports.",
+      "zh": "英格蘭足球總會（FA）正在以歷史及現有球探報告訓練 Vertex AI，將其轉化為人才識別的簡潔摘要。FA 自 2019 年起與 Google Cloud 合作，使用 BigQuery 集中數據，並已將合作擴展至生成式 AI 的「球探摘要」計畫。此系統協助教練與球探了解球員的發展軌跡，無需手動審閱數千份報告。"
+    },
+    "highlights": {
+      "en": [
+        "Vertex AI trained on thousands of historical and current FA scouting reports.",
+        "Generates concise player development summaries to help discover future talent.",
+        "Complements objective data with subjective scout assessments.",
+        "Part of an ongoing Google Cloud partnership that began in 2019 with BigQuery."
+      ],
+      "zh": [
+        "以數千份歷史及現有 FA 球探報告訓練 Vertex AI。",
+        "生成簡潔球員發展摘要，協助發掘未來球才。",
+        "以主觀球探評估補充客觀數據。",
+        "屬於 2019 年以 BigQuery 開始的持續性 Google Cloud 合作計畫。"
+      ]
+    },
+    "technologies": [
+      "Vertex AI",
+      "BigQuery",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "How The FA uses Google Cloud AI to identify future England football stars",
+        "url": "https://blog.google/around-the-globe/google-europe/united-kingdom/how-the-fa-uses-google-cloud-ai-to-identify-future-england-football-stars/"
+      }
+    ]
+  },
+  {
+    "id": "media-marketing-gaming-employee-formula-e",
+    "industry": "media-marketing-gaming",
+    "agentType": "employee",
+    "company": "Formula E",
+    "isNew": false,
+    "summary": {
+      "en": "Formula E uses Gemini in Google Workspace to automate repetitive tasks and empower office teams to work more efficiently.",
+      "zh": "Formula E 使用 Google Workspace 中的 Gemini 自動化重複性任務，賦能辦公室團隊更有效率地工作。"
+    },
+    "overview": {
+      "en": "Formula E, the electric motorsport championship, uses Gemini in Google Workspace to automate repetitive tasks, format data, and summarize information across business functions. The AI is accessible to the entire organization, including office-based and operational staff, helping teams save time on administrative tasks and focus on higher-value work.",
+      "zh": "電動方程式賽車錦標賽 Formula E 在 Google Workspace 中使用 Gemini，跨業務部門自動化重複性任務、格式化數據並摘要資訊。AI 可供整個組織使用，包括辦公室和營運人員，協助團隊節省行政工作時間，專注於更高價值的工作。"
+    },
+    "highlights": {
+      "en": [
+        "Gemini in Google Workspace accessible to all Formula E employees.",
+        "Automates repetitive tasks including data formatting and document summarization.",
+        "Empowers office-based teams and staff to work more efficiently."
+      ],
+      "zh": [
+        "Google Workspace 中的 Gemini 可供所有 Formula E 員工使用。",
+        "自動化重複性任務，包括數據格式化與文件摘要。",
+        "賦能辦公室員工更有效率地工作。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Google Workspace"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Formula E and Google Cloud to Collaborate on Inclusivity Podcast for Visually Impaired",
+        "url": "https://www.prnewswire.com/news-releases/formula-e-and-google-cloud-to-collaborate-on-inclusivity-podcast-for-visually-impaired-302500703.html"
+      }
+    ]
+  },
+  {
+    "id": "media-marketing-gaming-employee-globe-telecom",
+    "industry": "media-marketing-gaming",
+    "agentType": "employee",
+    "company": "Globe Telecom",
+    "isNew": false,
+    "summary": {
+      "en": "Globe Telecom integrated Gemini into Google Chat and Meet to power an internal AI chatbot and provide live meeting transcriptions.",
+      "zh": "Globe Telecom 將 Gemini 整合至 Google Chat 與 Meet，驅動內部 AI 聊天機器人並提供即時會議轉錄。"
+    },
+    "overview": {
+      "en": "Globe Telecom integrated Gemini into Google Chat and Google Meet to improve internal operations and employee experience. In Chat, Gemini powers \"Ask Globe,\" an AI chatbot that lets employees quickly find information from various sources. In Meet, Gemini provides live transcriptions, meeting summaries, and action items, reducing time spent on administrative follow-up.",
+      "zh": "Globe Telecom 將 Gemini 整合至 Google Chat 與 Google Meet，以改善內部營運與員工體驗。在 Chat 中，Gemini 驅動「Ask Globe」AI 聊天機器人，讓員工快速從各種來源查找資訊。在 Meet 中，Gemini 提供即時轉錄、會議摘要與行動項目，減少行政後續跟進所需時間。"
+    },
+    "highlights": {
+      "en": [
+        "\"Ask Globe\" AI chatbot in Google Chat lets employees quickly retrieve information from multiple sources.",
+        "Gemini in Google Meet provides live transcriptions, summaries, and action items.",
+        "Deployed across the company to improve internal operations and employee experience."
+      ],
+      "zh": [
+        "Google Chat 中的「Ask Globe」AI 聊天機器人讓員工快速從多個來源獲取資訊。",
+        "Google Meet 中的 Gemini 提供即時轉錄、摘要與行動項目。",
+        "在全公司部署，改善內部營運與員工體驗。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Google Workspace",
+      "Google Chat",
+      "Google Meet"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "media-marketing-gaming-employee-gold-bond",
+    "industry": "media-marketing-gaming",
+    "agentType": "employee",
+    "company": "Gold Bond",
+    "isNew": false,
+    "summary": {
+      "en": "Advertising company Gold Bond uses Google Workspace with Gemini to automate workflows, from contract reviews to Sheets formulas.",
+      "zh": "廣告公司 Gold Bond 使用 Google Workspace 搭配 Gemini 自動化工作流程，涵蓋合約審查到 Sheets 公式建立。"
+    },
+    "overview": {
+      "en": "Gold Bond, an advertising company providing branded merchandise and printed materials to organizations across industries, uses Google Workspace with Gemini to automate workflows and speed up processes. Key use cases include contract reviews and adding complex formulas in Google Sheets, allowing employees to focus on more strategic work.",
+      "zh": "廣告公司 Gold Bond 為各行業組織提供品牌商品與印刷材料，使用 Google Workspace 搭配 Gemini 自動化工作流程並加速處理流程。主要應用場景包括合約審查與在 Google Sheets 中添加複雜公式，讓員工能專注於更具策略性的工作。"
+    },
+    "highlights": {
+      "en": [
+        "Automates contract reviews using Gemini in Google Workspace.",
+        "Speeds up creation of complex formulas in Google Sheets.",
+        "Enables employees to focus on higher-value work by reducing manual tasks."
+      ],
+      "zh": [
+        "使用 Google Workspace 中的 Gemini 自動化合約審查。",
+        "加速在 Google Sheets 中建立複雜公式。",
+        "減少手動任務，讓員工能專注於更高價值的工作。"
+      ]
+    },
+    "technologies": [
+      "Google Workspace",
+      "Gemini"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "media-marketing-gaming-employee-golden-state-warriors",
+    "industry": "media-marketing-gaming",
+    "agentType": "employee",
+    "company": "Golden State Warriors",
+    "isNew": false,
+    "summary": {
+      "en": "The Golden State Warriors use Google Workspace to automate time-consuming tasks, freeing staff to focus on fan and employee experiences.",
+      "zh": "金州勇士隊使用 Google Workspace 自動化耗時任務，讓員工能專注於球迷與員工體驗。"
+    },
+    "overview": {
+      "en": "The Golden State Warriors are using Google Workspace to automate tedious tasks that previously took 20 to 30 minutes each, redirecting that time toward improving experiences for fans and staff. This is part of a broader Google Cloud partnership that also includes a BigQuery-based unified data foundation and a Vertex AI content recommendation engine for personalized fan engagement.",
+      "zh": "金州勇士隊使用 Google Workspace 自動化過去各需 20 至 30 分鐘的繁瑣任務，將節省下來的時間用於改善球迷與員工體驗。這是更廣泛 Google Cloud 合作的一部分，還包括基於 BigQuery 的統一數據基礎和用於個性化球迷互動的 Vertex AI 內容推薦引擎。"
+    },
+    "highlights": {
+      "en": [
+        "Automates tasks that previously took 20–30 minutes, freeing staff time for fan experience.",
+        "Part of a broader Google Cloud strategy using BigQuery as a unified data foundation.",
+        "Vertex AI powers a content recommendation engine for personalized fan content."
+      ],
+      "zh": [
+        "自動化過去各需 20-30 分鐘的任務，釋放員工時間用於球迷體驗。",
+        "屬於更廣泛的 Google Cloud 策略，以 BigQuery 作為統一數據基礎。",
+        "Vertex AI 驅動內容推薦引擎，提供個性化球迷內容。"
+      ]
+    },
+    "technologies": [
+      "Google Workspace",
+      "Gemini",
+      "BigQuery",
+      "Vertex AI"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Golden State Warriors case study | Google Cloud",
+        "url": "https://cloud.google.com/customers/golden-state-warriors"
+      }
+    ]
+  },
+  {
+    "id": "media-marketing-gaming-employee-gozango",
+    "industry": "media-marketing-gaming",
+    "agentType": "employee",
+    "company": "Gozango",
+    "isNew": false,
+    "summary": {
+      "en": "Gozango uses Gemini 2.5 Pro to cut topic modeling time by 80%, generate ads 100x faster, and identify call outcomes with 96% accuracy.",
+      "zh": "Gozango 使用 Gemini 2.5 Pro 將主題建模時間縮短 80%、廣告生成速度提升 100 倍，並以 96% 準確率識別通話結果。"
+    },
+    "overview": {
+      "en": "Gozango, an all-in-one marketing platform, uses Gemini 2.5 Pro in three key ways to dramatically improve operational efficiency: reducing the time to model industry topics by 80%, generating thousands of ads 100 times faster than before, and automating call outcome identification with 96% accuracy for better lead quality management.",
+      "zh": "一站式行銷平台 Gozango 以三種關鍵方式使用 Gemini 2.5 Pro 大幅提升營運效率：將產業主題建模時間縮短 80%、廣告生成速度提升 100 倍，以及以 96% 準確率自動識別通話結果，改善潛在客戶品質管理。"
+    },
+    "highlights": {
+      "en": [
+        "80% reduction in time to model industry topics with Gemini 2.5 Pro.",
+        "Ads generated 100x faster, enabling thousands of ad variations at scale.",
+        "96% accuracy in automated call outcome identification for improved lead quality."
+      ],
+      "zh": [
+        "使用 Gemini 2.5 Pro 將產業主題建模時間縮短 80%。",
+        "廣告生成速度提升 100 倍，可大規模生成數千個廣告變體。",
+        "自動通話結果識別準確率達 96%，改善潛在客戶品質。"
+      ]
+    },
+    "technologies": [
+      "Gemini 2.5 Pro",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "media-marketing-gaming-employee-growthloop",
+    "industry": "media-marketing-gaming",
+    "agentType": "employee",
+    "company": "GrowthLoop",
+    "isNew": false,
+    "summary": {
+      "en": "GrowthLoop helps marketers build smarter campaigns by using BigQuery and Gemini to automate audience building and optimize targeting.",
+      "zh": "GrowthLoop 利用 BigQuery 與 Gemini 幫助行銷人員構建更智慧的廣告活動，自動化受眾建立並優化目標鎖定。"
+    },
+    "overview": {
+      "en": "GrowthLoop is a composable customer data platform built on BigQuery that uses Gemini on Vertex AI to help marketers and AI agents build smarter, more personalized campaigns. The platform automates audience building, suggests optimal targeting based on historical data, and creates custom attributes. GrowthLoop launched an expanded partnership with Google Cloud ahead of Google Cloud Next '24 to further integrate generative AI marketing capabilities.",
+      "zh": "GrowthLoop 是建立在 BigQuery 上的可組合客戶數據平台，使用 Vertex AI 上的 Gemini 幫助行銷人員和 AI 代理構建更智慧、更個性化的廣告活動。平台自動化受眾建立，根據歷史數據建議最優目標鎖定，並建立自定義屬性。GrowthLoop 在 Google Cloud Next '24 前擴大與 Google Cloud 的合作，進一步整合生成式 AI 行銷能力。"
+    },
+    "highlights": {
+      "en": [
+        "Built natively on BigQuery, enabling AI audience building without copying data out.",
+        "Gemini on Vertex AI generates proactive audience suggestions and natural-language targeting.",
+        "Campaign launch velocity, experimentation, and personalized content delivery increased by up to 10x.",
+        "Expanded partnership with Google Cloud announced ahead of Google Cloud Next '24."
+      ],
+      "zh": [
+        "原生建立於 BigQuery 上，無需複製數據即可進行 AI 受眾建立。",
+        "Vertex AI 上的 Gemini 主動生成受眾建議與自然語言目標鎖定。",
+        "廣告活動推出速度、實驗能力和個性化內容發布效率提升最多 10 倍。",
+        "在 Google Cloud Next '24 前宣布擴大與 Google Cloud 的合作。"
+      ]
+    },
+    "technologies": [
+      "BigQuery",
+      "Gemini",
+      "Vertex AI",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "GrowthLoop Expands Unified Generative Marketing Solution using Google Cloud's BigQuery and Gemini Models",
+        "url": "https://www.prnewswire.com/news-releases/growthloop-expands-unified-generative-marketing-solution-using-google-clouds-bigquery-and-gemini-models-ahead-of-google-cloud-next-24-302107826.html"
+      }
+    ]
+  },
+  {
+    "id": "media-marketing-gaming-employee-harmonic",
+    "industry": "media-marketing-gaming",
+    "agentType": "employee",
+    "company": "Harmonic",
+    "isNew": true,
+    "summary": {
+      "en": "Harmonic helps broadcasters like Grupo Globo modernize operations with cloud-based streaming solutions for efficient video processing and delivery at scale.",
+      "zh": "Harmonic 協助 Grupo Globo 等廣播業者透過雲端串流解決方案現代化營運，實現高效大規模視訊處理與傳輸。"
+    },
+    "overview": {
+      "en": "Harmonic is helping major broadcasters, including Grupo Globo, modernize their operations by integrating new digital broadcast capabilities into cloud-based streaming solutions. Globo partnered with Harmonic to transition its playout workflow to the cloud using Harmonic's VOS Media Software running on Google Cloud, making Globo the first media company in Latin America to deliver 24/7 channels with a cloud-based playout and automation solution.",
+      "zh": "Harmonic 正協助包括 Grupo Globo 在內的主要廣播業者，透過將新數位廣播功能整合至基於雲端的串流解決方案來現代化其營運。Globo 與 Harmonic 合作，使用在 Google Cloud 上運行的 Harmonic VOS Media Software 將播出工作流程遷移至雲端，使 Globo 成為拉丁美洲第一家以雲端播出和自動化解決方案提供全天候頻道的媒體公司。"
+    },
+    "highlights": {
+      "en": [
+        "Grupo Globo partnered with Harmonic to transition playout workflow to Google Cloud.",
+        "First media company in Latin America to deliver 24/7 channels via cloud-based playout.",
+        "Globo's linear channels reach over 100 million people across multiple platforms.",
+        "Cloud migration enables faster channel launches, improved workflow efficiency, and cost savings."
+      ],
+      "zh": [
+        "Grupo Globo 與 Harmonic 合作，將播出工作流程遷移至 Google Cloud。",
+        "成為拉丁美洲首家透過雲端播出提供全天候頻道的媒體公司。",
+        "Globo 的線性頻道在多個平台觸及超過 1 億人。",
+        "雲端遷移實現更快的頻道推出、改善工作流程效率並降低成本。"
+      ]
+    },
+    "technologies": [
+      "Google Cloud",
+      "VOS Media Software"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Globo Partners with Harmonic to Transition Playout to the Cloud",
+        "url": "https://www.harmonicinc.com/press-releases/globo-partners-with-harmonic-to-transition-playout-to-the-cloud/"
+      }
+    ]
+  },
+  {
+    "id": "media-marketing-gaming-employee-joongang-ilbo",
+    "industry": "media-marketing-gaming",
+    "agentType": "employee",
+    "company": "JoongAng Ilbo",
+    "isNew": false,
+    "summary": {
+      "en": "JoongAng Ilbo uses Vertex AI and Gemini in its editing system to generate headline suggestions with 70%+ similarity to final published headlines.",
+      "zh": "JoongAng Ilbo 在編輯系統中使用 Vertex AI 與 Gemini 生成標題建議，與最終發布標題相似度達 70% 以上。"
+    },
+    "overview": {
+      "en": "JoongAng Ilbo, a leading Korean newspaper founded in 1965, uses Vertex AI and Gemini in its article editing system to generate headline suggestions based on article content with appropriate length and tone. The AI achieves 70%+ similarity with final published headlines, giving journalists strong starting points for editorial refinement. The system also automatically summarizes front-page articles into email newsletters using pre-designed prompts.",
+      "zh": "1965 年創立的韓國主要報紙 JoongAng Ilbo 在文章編輯系統中使用 Vertex AI 與 Gemini，根據文章內容生成適當長度和語氣的標題建議。AI 生成的標題與最終發布標題相似度達 70% 以上，為記者提供良好的編輯出發點。系統還使用預設提示自動將頭版文章摘要為電子報。"
+    },
+    "highlights": {
+      "en": [
+        "AI-generated headlines achieve 70%+ similarity with final published headlines.",
+        "Captures key words and phrases, giving journalists strong editorial starting points.",
+        "Automatically summarizes front-page articles into email newsletters.",
+        "Uses 60 years of archived articles as training context."
+      ],
+      "zh": [
+        "AI 生成的標題與最終發布標題相似度達 70% 以上。",
+        "捕捉關鍵字詞，為記者提供良好的編輯出發點。",
+        "自動將頭版文章摘要為電子報。",
+        "以 60 年的檔案文章作為訓練背景。"
+      ]
+    },
+    "technologies": [
+      "Vertex AI",
+      "Gemini",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "media-marketing-gaming-employee-los-angeles-rams",
+    "industry": "media-marketing-gaming",
+    "agentType": "employee",
+    "company": "Los Angeles Rams",
+    "isNew": false,
+    "summary": {
+      "en": "The Los Angeles Rams are utilizing AI across content analysis and player scouting to enhance team operations.",
+      "zh": "洛杉磯公羊隊在內容分析和球員選秀等各方面應用 AI，提升球隊營運效率。"
+    },
+    "overview": {
+      "en": "The Los Angeles Rams are utilizing AI across a range of team operations, from content analysis to player scouting. While specific implementation details have not been publicly disclosed, the franchise has embraced AI-driven tools to gain competitive advantages in both on-field performance analysis and off-field content and fan engagement strategies.",
+      "zh": "洛杉磯公羊隊在從內容分析到球員選秀的各項球隊營運中應用 AI。雖然具體實施細節尚未公開披露，但球隊已採用 AI 驅動工具，在場上績效分析和場外內容及球迷互動策略中獲得競爭優勢。"
+    },
+    "highlights": {
+      "en": [
+        "AI applied across content analysis workflows.",
+        "Player scouting processes enhanced with AI-driven tools."
+      ],
+      "zh": [
+        "AI 應用於內容分析工作流程。",
+        "球員選秀流程透過 AI 驅動工具得到強化。"
+      ]
+    },
+    "technologies": [
+      "Google Cloud",
+      "AI"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "media-marketing-gaming-employee-napster",
+    "industry": "media-marketing-gaming",
+    "agentType": "employee",
+    "company": "Napster",
+    "isNew": false,
+    "summary": {
+      "en": "Napster built a no-code 3D e-commerce platform on Google Cloud, saving 3,600+ developer hours and cutting infrastructure costs by 20–85%.",
+      "zh": "Napster 在 Google Cloud 上構建了無代碼 3D 電商平台，節省超過 3,600 開發工時，並將基礎設施成本降低 20-85%。"
+    },
+    "overview": {
+      "en": "Napster, an immersive media and technology company, is building a no-code 3D e-commerce platform on Google Cloud using Vertex AI and Gemini. The platform makes immersive 3D web experiences accessible and affordable for businesses. The migration from a previous vendor to Google Cloud—covering Kubernetes clusters, memory and data storage, AI databases, and the CDN—delivered significant cost savings and freed developer hours.",
+      "zh": "沉浸式媒體和技術公司 Napster 使用 Vertex AI 和 Gemini 在 Google Cloud 上構建無代碼 3D 電商平台。該平台使企業能夠以實惠的價格使用沉浸式 3D 網頁體驗。從舊供應商遷移至 Google Cloud（涵蓋 Kubernetes 叢集、記憶體與數據儲存、AI 資料庫和 CDN）帶來了顯著的成本節省並釋放了開發工時。"
+    },
+    "highlights": {
+      "en": [
+        "20–85% infrastructure cost reductions following migration to Google Cloud.",
+        "3,600+ developer hours saved through Google-supported migration.",
+        "No-code platform powered by Vertex AI and Gemini makes 3D experiences accessible to businesses.",
+        "Gemini and AI voice models provide text-to-speech and speech-to-text functionality."
+      ],
+      "zh": [
+        "遷移至 Google Cloud 後，基礎設施成本降低 20-85%。",
+        "透過 Google 支援的遷移節省超過 3,600 開發工時。",
+        "由 Vertex AI 和 Gemini 驅動的無代碼平台讓企業輕鬆使用 3D 體驗。",
+        "Gemini 和 AI 語音模型提供文字轉語音和語音轉文字功能。"
+      ]
+    },
+    "technologies": [
+      "Vertex AI",
+      "Gemini",
+      "Google Cloud",
+      "Kubernetes",
+      "Cloud CDN"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Napster Corp. case study | Google Cloud",
+        "url": "https://cloud.google.com/customers/napster"
+      }
+    ]
+  },
+  {
+    "id": "media-marketing-gaming-employee-nippon-television-network",
+    "industry": "media-marketing-gaming",
+    "agentType": "employee",
+    "company": "Nippon Television Network",
+    "isNew": false,
+    "summary": {
+      "en": "Japan's oldest commercial TV broadcaster built an internal AI chat platform FACTly-Mate with Gemini, reaching 2,000 users within six months.",
+      "zh": "日本最古老的商業電視台使用 Gemini 構建了內部 AI 聊天平台 FACTly-Mate，六個月內達到 2,000 名用戶。"
+    },
+    "overview": {
+      "en": "Nippon Television Network, Japan's oldest commercial TV broadcaster, uses Gemini and Vertex AI Studio to power FACTly-Mate, a secure internal conversational AI platform. The system allows employees to brainstorm ideas, translate contracts, and summarize documents using pre-configured prompts, without information leakage concerns. The platform achieved 2,000 unique browsers within six months of launch.",
+      "zh": "日本最古老的商業電視台日本電視網使用 Gemini 和 Vertex AI Studio 驅動 FACTly-Mate，一個安全的內部對話式 AI 平台。系統允許員工使用預設提示進行創意發想、翻譯合約和摘要文件，無需擔心資訊外洩。平台在推出後六個月內達到 2,000 名不重複瀏覽者。"
+    },
+    "highlights": {
+      "en": [
+        "2,000 unique users within six months of FACTly-Mate launch.",
+        "Secure internal platform prevents information leakage unlike public generative AI services.",
+        "Used for creative ideation (\"wall bouncing\"), contract translation, and document summarization.",
+        "Pre-configured prompts make AI accessible to all employees without technical expertise."
+      ],
+      "zh": [
+        "FACTly-Mate 推出六個月內達到 2,000 名不重複用戶。",
+        "安全的內部平台與公共生成式 AI 服務不同，防止資訊外洩。",
+        "用於創意發想（「拋磚引玉」）、合約翻譯和文件摘要。",
+        "預設提示讓所有員工無需技術專業知識即可使用 AI。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Vertex AI Studio",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "media-marketing-gaming-employee-pencil",
+    "industry": "media-marketing-gaming",
+    "agentType": "employee",
+    "company": "Pencil",
+    "isNew": false,
+    "summary": {
+      "en": "Pencil, a digital publishing platform, migrated to Google Cloud and now supports 6,000+ authors and 4,000+ books while handling 5x more traffic.",
+      "zh": "數位出版平台 Pencil 遷移至 Google Cloud，現支援超過 6,000 位作者和 4,000 多本書，流量處理能力提升 5 倍。"
+    },
+    "overview": {
+      "en": "Pencil, a digital publishing platform that helps writers publish and build community, migrated its infrastructure to Google Cloud using Compute Engine, Cloud CDN, Cloud Load Balancing, Cloud Storage, Cloud Armor, and Identity and Access Management. The migration enabled the platform to scale significantly, supporting over 6,000 authors who have published more than 4,000 books while handling five times more traffic than before.",
+      "zh": "幫助作家出版和建立社群的數位出版平台 Pencil 使用 Compute Engine、Cloud CDN、Cloud Load Balancing、Cloud Storage、Cloud Armor 和 Identity and Access Management 將其基礎設施遷移至 Google Cloud。遷移使平台得以大幅擴展，支援超過 6,000 位已出版超過 4,000 本書的作者，同時處理能力達到遷移前的 5 倍。"
+    },
+    "highlights": {
+      "en": [
+        "Platform now supports over 6,000 authors who have published more than 4,000 books.",
+        "Handles five times more traffic compared to before the Google Cloud migration.",
+        "Uses Compute Engine with custom VMs and auto-scaling to reduce resource waste.",
+        "Cloud Armor, Cloud CDN, and Cloud Load Balancing ensure security and reliability at scale."
+      ],
+      "zh": [
+        "平台現支援超過 6,000 位已出版超過 4,000 本書的作者。",
+        "相比 Google Cloud 遷移前，流量處理能力提升 5 倍。",
+        "使用 Compute Engine 自定義虛擬機器和自動擴展以減少資源浪費。",
+        "Cloud Armor、Cloud CDN 和 Cloud Load Balancing 確保大規模的安全性和可靠性。"
+      ]
+    },
+    "technologies": [
+      "Compute Engine",
+      "Cloud CDN",
+      "Cloud Load Balancing",
+      "Cloud Storage",
+      "Cloud Armor",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Pencil case study | Google Cloud",
+        "url": "https://cloud.google.com/customers/pencil"
+      }
+    ]
+  },
+  {
+    "id": "media-marketing-gaming-employee-persistent-systems",
+    "industry": "media-marketing-gaming",
+    "agentType": "employee",
+    "company": "Persistent Systems",
+    "isNew": true,
+    "summary": {
+      "en": "Persistent Systems' AI agents help publishing editors audit content for bias and enable efficient manuscript evaluation through AI-powered analysis.",
+      "zh": "Persistent Systems 的 AI 代理協助出版社編輯審查內容偏見，並透過 AI 驅動分析實現高效手稿評估。"
+    },
+    "overview": {
+      "en": "Persistent Systems offers two AI agent solutions for the publishing industry. The Ethical Content Auditor Agent helps editors audit political and social content for potential biases and risks. The Editorial Assistant Agent enables efficient manuscript evaluation by reading and understanding long manuscripts, analyzing market trends, and providing data-backed summaries and recommendations to support editorial decisions.",
+      "zh": "Persistent Systems 為出版業提供兩種 AI 代理解決方案。道德內容審核代理協助編輯審查政治和社會內容是否存在潛在偏見和風險。編輯助理代理透過閱讀和理解長篇手稿、分析市場趨勢並提供有數據支撐的摘要和建議，實現高效的手稿評估，支持編輯決策。"
+    },
+    "highlights": {
+      "en": [
+        "Ethical Content Auditor Agent identifies potential political and social biases in manuscripts.",
+        "Editorial Assistant Agent processes long manuscripts and provides data-backed market analysis.",
+        "Reduces manual review time for editorial staff at publishing houses."
+      ],
+      "zh": [
+        "道德內容審核代理識別手稿中潛在的政治和社會偏見。",
+        "編輯助理代理處理長篇手稿並提供有數據支撐的市場分析。",
+        "減少出版社編輯人員的手動審查時間。"
+      ]
+    },
+    "technologies": [
+      "Google Cloud",
+      "Generative AI",
+      "Agentic AI"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "media-marketing-gaming-employee-sprinklr",
+    "industry": "media-marketing-gaming",
+    "agentType": "employee",
+    "company": "Sprinklr",
+    "isNew": false,
+    "summary": {
+      "en": "Sprinklr integrated AI+ into its unified CXM platform using Vertex AI, giving 1,400+ enterprise brands gen AI capabilities with enterprise-grade governance.",
+      "zh": "Sprinklr 使用 Vertex AI 將 AI+ 整合至其統一客戶體驗管理平台，為 1,400 多家企業品牌提供具企業級治理的生成式 AI 能力。"
+    },
+    "overview": {
+      "en": "Sprinklr built Sprinklr AI+ into its unified customer experience management (Unified-CXM) platform by integrating with Google Cloud's Vertex AI. This gives global enterprise brands gen AI capabilities for customer service, social media management, marketing insights, and more, with enterprise-grade governance, security, and data privacy built in. Sprinklr customers can bring their own models from Vertex AI or create new ones.",
+      "zh": "Sprinklr 透過與 Google Cloud 的 Vertex AI 整合，將 Sprinklr AI+ 內建至其統一客戶體驗管理（Unified-CXM）平台。這為全球企業品牌提供了具企業級治理、安全性和數據隱私保障的生成式 AI 能力，用於客戶服務、社交媒體管理、行銷洞察等。Sprinklr 客戶可從 Vertex AI 引入自己的模型或創建新模型。"
+    },
+    "highlights": {
+      "en": [
+        "Sprinklr AI+ integrates Vertex AI into its Unified-CXM platform for 1,400+ enterprise clients.",
+        "Covers customer service, social media, marketing, and insights with one AI platform.",
+        "Enterprise-grade governance, security, and data privacy built into every AI capability.",
+        "Customers can bring their own Vertex AI models for custom AI integration."
+      ],
+      "zh": [
+        "Sprinklr AI+ 將 Vertex AI 整合至 Unified-CXM 平台，服務 1,400 多家企業客戶。",
+        "以單一 AI 平台涵蓋客戶服務、社交媒體、行銷和洞察。",
+        "每項 AI 能力均內建企業級治理、安全性和數據隱私。",
+        "客戶可引入自己的 Vertex AI 模型進行客製化 AI 整合。"
+      ]
+    },
+    "technologies": [
+      "Vertex AI",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Sprinklr Expands Partnership with Google Cloud to Unify Customer Experience with AI",
+        "url": "https://www.sprinklr.com/newsroom/sprinklr-expands-partnership-with-google-cloud/"
+      }
+    ]
+  },
+  {
+    "id": "media-marketing-gaming-employee-thomson-reuters",
+    "industry": "media-marketing-gaming",
+    "agentType": "employee",
+    "company": "Thomson Reuters",
+    "isNew": false,
+    "summary": {
+      "en": "Thomson Reuters approved Gemini Pro for employee use, leveraging its 2-million-token context window to make document tasks up to 10x faster.",
+      "zh": "Thomson Reuters 批准員工使用 Gemini Pro，利用其 200 萬 token 上下文視窗使文件任務速度提升最多 10 倍。"
+    },
+    "overview": {
+      "en": "Thomson Reuters added Gemini Pro to its suite of large language models approved for employee use. The model's 2-million-token context window makes some document processing tasks up to 10 times faster than before, allowing entire documents to be processed in context. This is part of Thomson Reuters' broader investment in AI tools to improve productivity across its legal, tax, and news divisions.",
+      "zh": "Thomson Reuters 將 Gemini Pro 加入其批准員工使用的大型語言模型套件中。該模型的 200 萬 token 上下文視窗使某些文件處理任務速度提升最多 10 倍，允許在上下文中處理整份文件。這是 Thomson Reuters 更廣泛的 AI 工具投資的一部分，旨在提升法律、稅務和新聞部門的生產力。"
+    },
+    "highlights": {
+      "en": [
+        "Gemini Pro approved for employee use across Thomson Reuters.",
+        "2-million-token context window makes some tasks up to 10x faster to process.",
+        "Entire documents can be processed within a single context, improving accuracy."
+      ],
+      "zh": [
+        "Gemini Pro 在 Thomson Reuters 獲批供員工使用。",
+        "200 萬 token 上下文視窗使某些任務處理速度提升最多 10 倍。",
+        "整份文件可在單一上下文中處理，提高準確性。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "media-marketing-gaming-employee-vimeo",
+    "industry": "media-marketing-gaming",
+    "agentType": "employee",
+    "company": "Vimeo",
+    "isNew": false,
+    "summary": {
+      "en": "Vimeo uses Gemini in Google Meet and Docs to automate note-taking, generate summaries, and boost team productivity and collaboration.",
+      "zh": "Vimeo 在 Google Meet 和 Docs 中使用 Gemini 自動記錄筆記、生成摘要，提升團隊生產力與協作效率。"
+    },
+    "overview": {
+      "en": "Vimeo's teams use AI-powered tools in Google Meet and Google Docs, Sheets, and Slides to collaborate seamlessly and boost productivity. By automating note-taking and generating meeting summaries, Gemini lets Vimeo employees focus on collaboration and creative thinking rather than administrative tasks, leading to more efficient and accurate work outcomes.",
+      "zh": "Vimeo 的團隊在 Google Meet 和 Google Docs、Sheets、Slides 中使用 AI 工具，實現無縫協作並提升生產力。透過自動記錄筆記和生成會議摘要，Gemini 讓 Vimeo 員工能夠專注於協作和創意思考，而非行政任務，帶來更高效、更準確的工作成果。"
+    },
+    "highlights": {
+      "en": [
+        "Automated note-taking and meeting summaries free employees from administrative work.",
+        "Used across Google Meet, Docs, Sheets, and Slides for seamless collaboration.",
+        "Enables employees to focus on creative thinking and collaboration."
+      ],
+      "zh": [
+        "自動記錄筆記和會議摘要，將員工從行政工作中解放出來。",
+        "跨 Google Meet、Docs、Sheets 和 Slides 使用，實現無縫協作。",
+        "讓員工能夠專注於創意思考和協作。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Google Workspace",
+      "Google Meet"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "media-marketing-gaming-employee-warner-bros-discovery",
+    "industry": "media-marketing-gaming",
+    "agentType": "employee",
+    "company": "Warner Bros. Discovery",
+    "isNew": false,
+    "summary": {
+      "en": "Warner Bros. Discovery built an AI captioning tool with Vertex AI, cutting captioning costs 50% and file creation time 80%.",
+      "zh": "Warner Bros. Discovery 使用 Vertex AI 構建 AI 字幕工具，字幕成本降低 50%，檔案製作時間縮短 80%。"
+    },
+    "overview": {
+      "en": "Warner Bros. Discovery deployed an AI-powered captioning solution built on Google Cloud's Vertex AI platform. Initially applied to unscripted programming for the Max streaming service, the solution reduces caption file creation time by up to 80% compared to manual captioning and cuts captioning costs by up to 50%. Human oversight is maintained for quality assurance, and the system continuously improves through data-driven refinement.",
+      "zh": "Warner Bros. Discovery 部署了建立在 Google Cloud Vertex AI 平台上的 AI 字幕解決方案。最初應用於 Max 串流服務的非劇本節目，與人工字幕相比，字幕檔案製作時間縮短最多 80%，字幕成本降低最多 50%。系統保留人工監督以確保品質，並透過數據驅動的改進持續優化。"
+    },
+    "highlights": {
+      "en": [
+        "Up to 80% reduction in caption file creation time compared to manual process.",
+        "Up to 50% reduction in overall captioning costs.",
+        "Human oversight maintained for quality assurance and continuous AI improvement.",
+        "Initially deployed for unscripted programming on Max streaming service."
+      ],
+      "zh": [
+        "與人工流程相比，字幕檔案製作時間縮短最多 80%。",
+        "整體字幕成本降低最多 50%。",
+        "保留人工監督以確保品質並持續改善 AI。",
+        "最初部署於 Max 串流服務的非劇本節目。"
+      ]
+    },
+    "technologies": [
+      "Vertex AI",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Warner Bros. Discovery Deploys AI-Powered Captioning Solution Built Using Google Cloud AI",
+        "url": "https://www.prnewswire.com/news-releases/warner-bros-discovery-deploys-ai-powered-captioning-solution-built-using-google-cloud-ai-302256591.html"
+      },
+      {
+        "title": "Warner Bros. Discovery, Google Cloud Deploy AI-Generated Captions On Max Streaming Service",
+        "url": "https://www.cnbc.com/2024/09/24/warner-bros-discovery-google-partner-on-ai-generated-captions-on-max.html"
+      }
+    ]
+  },
+  {
+    "id": "media-marketing-gaming-employee-zixi",
+    "industry": "media-marketing-gaming",
+    "agentType": "employee",
+    "company": "Zixi",
+    "isNew": true,
+    "summary": {
+      "en": "Zixi provides broadcast-grade video transport and workflow automation on Google Cloud, ensuring reliable delivery for high-stakes live events.",
+      "zh": "Zixi 在 Google Cloud 上提供廣播級視訊傳輸和工作流程自動化，確保高風險直播活動的可靠傳輸。"
+    },
+    "overview": {
+      "en": "Zixi provides the broadcast-grade transport and workflow automation needed to move professional video across any network. Offering centralized control and complete visibility into the delivery process, Zixi ensures that media companies like Fubo can manage high-stakes, broadcast-quality live events without the risk of a signal drop. The platform integrates with Google Cloud for scalable, reliable live event delivery.",
+      "zh": "Zixi 提供在任何網路上傳輸專業視訊所需的廣播級傳輸和工作流程自動化。提供集中控制和對傳輸流程的完整可視性，Zixi 確保 Fubo 等媒體公司能夠在不出現信號中斷的情況下管理高風險、廣播品質的直播活動。平台與 Google Cloud 整合，實現可擴展、可靠的直播活動傳輸。"
+    },
+    "highlights": {
+      "en": [
+        "Broadcast-grade video transport ensures signal reliability for high-stakes live events.",
+        "Centralized control and complete delivery process visibility for media operators.",
+        "Supports live event delivery at scale for major broadcasters including Fubo.",
+        "Workflow automation reduces manual intervention in video delivery pipelines."
+      ],
+      "zh": [
+        "廣播級視訊傳輸確保高風險直播活動的信號可靠性。",
+        "為媒體營運商提供集中控制和對傳輸流程的完整可視性。",
+        "支援包括 Fubo 在內的主要廣播業者的大規模直播活動傳輸。",
+        "工作流程自動化減少視訊傳輸管道中的人工干預。"
+      ]
+    },
+    "technologies": [
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "media-marketing-gaming-customer-dailymotion",
+    "industry": "media-marketing-gaming",
+    "agentType": "customer",
+    "company": "Dailymotion",
+    "isNew": false,
+    "summary": {
+      "en": "Dailymotion implemented Vertex AI Search to achieve a 17% click-through rate increase in its first week—compared to a previous peak of 2%.",
+      "zh": "Dailymotion 導入 Vertex AI Search，首週點擊率提升 17%，遠超過去最高 2% 的記錄。"
+    },
+    "overview": {
+      "en": "Dailymotion, a video platform with over 400 million monthly users and a catalog of more than 100 million videos, implemented Vertex AI Search for media to optimize content discovery. The company used A/B testing to compare Vertex AI Search against its previous search engine, achieving a 17% increase in post-search click-through rate in the first week—a dramatic improvement over previous optimization efforts that peaked at 2%. Dailymotion also reports that 80% of new users now perform a search during their first session.",
+      "zh": "擁有超過 4 億月活躍用戶和 1 億多部影片目錄的視訊平台 Dailymotion 導入 Vertex AI Search for media，以優化內容探索。公司透過 A/B 測試比較 Vertex AI Search 與舊搜尋引擎，在第一週實現搜尋後點擊率提升 17%，遠超此前最高 2% 的優化成果。Dailymotion 也表示，80% 的新用戶現在在首次使用期間即會進行搜尋。"
+    },
+    "highlights": {
+      "en": [
+        "17% increase in post-search click-through rate in the first week of testing.",
+        "Previous optimization efforts peaked at only 2% improvement.",
+        "80% of new users now perform a search during their first session.",
+        "Search usage doubled within one year of implementation.",
+        "Applied to a catalog of 100 million+ videos with 400 million+ monthly users."
+      ],
+      "zh": [
+        "測試首週搜尋後點擊率提升 17%。",
+        "此前優化成果最高僅達 2% 的提升。",
+        "80% 的新用戶現在在首次使用期間即進行搜尋。",
+        "實施後一年內搜尋使用量翻倍。",
+        "應用於超過 1 億部影片的目錄，服務超過 4 億月活躍用戶。"
+      ]
+    },
+    "technologies": [
+      "Vertex AI Search",
+      "BigQuery",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Dailymotion case study | Google Cloud",
+        "url": "https://cloud.google.com/customers/dailymotion"
+      }
+    ]
+  },
+  {
+    "id": "media-marketing-gaming-customer-data-ads",
+    "industry": "media-marketing-gaming",
+    "agentType": "customer",
+    "company": "Dataïads",
+    "isNew": false,
+    "summary": {
+      "en": "Dataïads is evaluating Vertex AI to industrialize AI models that optimize ad traffic distribution and generate product descriptions and images.",
+      "zh": "Dataïads 正評估使用 Vertex AI 將 AI 模型產業化，以優化廣告流量分配並生成商品描述和圖片。"
+    },
+    "overview": {
+      "en": "Dataïads helps brands maximize the ROI of their advertising spend by increasing conversion rates and average order value. The company is currently evaluating Vertex AI's ability to industrialize the AI models it uses to distribute ad traffic more effectively and to automatically generate product descriptions and images for campaigns.",
+      "zh": "Dataïads 透過提升轉換率和平均訂單價值，協助品牌最大化廣告支出的投資回報率。公司目前正在評估 Vertex AI 將其用於更有效分配廣告流量以及自動生成廣告活動產品描述和圖片的 AI 模型產業化的能力。"
+    },
+    "highlights": {
+      "en": [
+        "Evaluating Vertex AI to industrialize ad traffic distribution AI models.",
+        "AI used to automatically generate product descriptions and images.",
+        "Goal is to increase brand conversion rates and average order value."
+      ],
+      "zh": [
+        "評估使用 Vertex AI 將廣告流量分配 AI 模型產業化。",
+        "AI 用於自動生成商品描述和圖片。",
+        "目標是提升品牌轉換率和平均訂單價值。"
+      ]
+    },
+    "technologies": [
+      "Vertex AI",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "media-marketing-gaming-customer-formula-e",
+    "industry": "media-marketing-gaming",
+    "agentType": "customer",
+    "company": "Formula E",
+    "isNew": false,
+    "summary": {
+      "en": "Formula E can now condense a two-hour race commentary into a 2-minute multilingual podcast incorporating driver data and seasonal storylines.",
+      "zh": "Formula E 現在可以將兩小時的賽事解說濃縮成包含車手數據和賽季故事線的 2 分鐘多語言 Podcast。"
+    },
+    "overview": {
+      "en": "Formula E partnered with Google Cloud to create AI-powered audio race reports that make motorsport more accessible to fans, including those who are blind or visually impaired. Using Google Cloud's Chirp transcription model and Gemini, the system analyzes race commentary, timing data, and race information to generate engaging summaries in minutes. Reports are available globally in 15+ languages on Spotify and other audio platforms.",
+      "zh": "Formula E 與 Google Cloud 合作，創建 AI 驅動的音訊賽事報告，使賽車運動對包括視障人士在內的更多球迷更易於接觸。使用 Google Cloud 的 Chirp 語音轉文字模型和 Gemini，系統分析賽事解說、計時數據和賽事資訊，在幾分鐘內生成引人入勝的摘要。報告在 Spotify 和其他音訊平台以 15 種以上語言在全球提供。"
+    },
+    "highlights": {
+      "en": [
+        "Two-hour race commentary condensed into a 2-minute podcast in any language.",
+        "Incorporates driver data and ongoing seasonal storylines for context.",
+        "Available in 15+ languages on Spotify and other audio platforms within minutes of race conclusion.",
+        "Developed in partnership with the Royal National Institute of Blind People (RNIB)."
+      ],
+      "zh": [
+        "兩小時賽事解說可用任何語言濃縮成 2 分鐘 Podcast。",
+        "融入車手數據和持續的賽季故事線以提供背景脈絡。",
+        "賽事結束後幾分鐘內即可在 Spotify 等平台以 15 種以上語言取得。",
+        "與英國皇家盲人協會（RNIB）合作開發。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Google Cloud",
+      "Chirp",
+      "Text-to-Speech"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Formula E and Google Cloud to Collaborate on Inclusivity Podcast for Visually Impaired",
+        "url": "https://www.prnewswire.com/news-releases/formula-e-and-google-cloud-to-collaborate-on-inclusivity-podcast-for-visually-impaired-302500703.html"
+      }
+    ]
+  },
+  {
+    "id": "media-marketing-gaming-customer-globant",
+    "industry": "media-marketing-gaming",
+    "agentType": "customer",
+    "company": "Globant",
+    "isNew": false,
+    "summary": {
+      "en": "Globant's Advanced Video Search uses Gemini multimodal search to find specific frames across full video catalogs, improving content monetization.",
+      "zh": "Globant 的 Advanced Video Search 使用 Gemini 多模態搜尋在完整影片目錄中定位特定畫面，改善內容變現效果。"
+    },
+    "overview": {
+      "en": "Globant launched its Advanced Video Search (AVS) tool powered by Google Cloud's Gemini models. The solution uses Vertex AI and Gemini multimodal capabilities to allow users to instantly search for specific clips, images, and moments within vast video libraries using text or image queries. The tool optimizes time and cost of media operations while improving content monetization and boosting user engagement for media companies and sports organizations.",
+      "zh": "Globant 推出了由 Google Cloud Gemini 模型驅動的 Advanced Video Search（AVS）工具。該解決方案使用 Vertex AI 和 Gemini 多模態功能，讓用戶能透過文字或圖片查詢在龐大的影片庫中即時搜尋特定片段、圖片和時刻。該工具為媒體公司和體育組織優化媒體操作的時間和成本，同時改善內容變現效果並提升用戶互動。"
+    },
+    "highlights": {
+      "en": [
+        "Multimodal search using Gemini enables frame-level access within full video catalogs.",
+        "Supports text-based and image-based search queries across video libraries.",
+        "Optimizes time and cost of media operations for improved content monetization.",
+        "Leverages Gemini Pro Vision and Multimodal Embeddings API for advanced search.",
+        "Use cases include sports highlights, ad placement, and logo tracking."
+      ],
+      "zh": [
+        "使用 Gemini 的多模態搜尋實現在完整影片目錄中的畫面級別存取。",
+        "支援影片庫的文字和圖片搜尋查詢。",
+        "優化媒體操作的時間和成本，改善內容變現效果。",
+        "利用 Gemini Pro Vision 和多模態嵌入 API 實現進階搜尋。",
+        "使用場景包括體育精彩片段、廣告投放和品牌標誌追蹤。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Vertex AI",
+      "Multimodal Embeddings API",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Globant releases Advanced Video Search Tool",
+        "url": "https://www.globant.com/news/globant-releases-advanced-video-search-tool-avs"
+      }
+    ]
+  },
+  {
+    "id": "media-marketing-gaming-customer-globo",
+    "industry": "media-marketing-gaming",
+    "agentType": "customer",
+    "company": "Globo",
+    "isNew": false,
+    "summary": {
+      "en": "Globo, Latin America's largest media company, created an AI recommendations engine that more than doubled its click-through-play rate on videos.",
+      "zh": "拉丁美洲最大媒體公司 Globo 建立了 AI 推薦引擎，使影片點擊播放率提升超過一倍。"
+    },
+    "overview": {
+      "en": "Globo, Latin America's largest media company, created an AI-powered recommendations experience inside its Globoplay streaming platform using Google Cloud technologies. The recommendation engine more than doubled their click-through-play rate on videos, and delivered more accurate ad targeting, increasing click-through rates by up to four times in some categories. Globo also partnered with Harmonic to transition its playout workflow to Google Cloud.",
+      "zh": "拉丁美洲最大媒體公司 Globo 使用 Google Cloud 技術在其 Globoplay 串流平台內建立了 AI 驅動的推薦體驗。推薦引擎使影片點擊播放率提升超過一倍，並帶來更精準的廣告定向，在某些類別中點擊率提升最多 4 倍。Globo 還與 Harmonic 合作，將播出工作流程遷移至 Google Cloud。"
+    },
+    "highlights": {
+      "en": [
+        "More than doubled click-through-play rate on videos in the Globoplay streaming platform.",
+        "Click-through rate increased by up to 4x in some content categories.",
+        "More accurate ad targeting delivered alongside improved content recommendations.",
+        "Highlighted as a case study at Google Cloud Next '25."
+      ],
+      "zh": [
+        "Globoplay 串流平台上的影片點擊播放率提升超過一倍。",
+        "在某些內容類別中點擊率提升最多 4 倍。",
+        "在改善內容推薦的同時實現更精準的廣告定向。",
+        "在 Google Cloud Next '25 上作為案例研究展示。"
+      ]
+    },
+    "technologies": [
+      "Google Cloud",
+      "Vertex AI",
+      "Recommendations AI"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Globo Case Study | Google Cloud",
+        "url": "https://cloud.google.com/customers/globo"
+      },
+      {
+        "title": "Next '25 highlights: Media and entertainment | Google Cloud Blog",
+        "url": "https://cloud.google.com/transform/next-25-recap-media-and-entertainment"
+      }
+    ]
+  },
+  {
+    "id": "media-marketing-gaming-customer-golden-state-warriors",
+    "industry": "media-marketing-gaming",
+    "agentType": "customer",
+    "company": "Golden State Warriors",
+    "isNew": false,
+    "summary": {
+      "en": "The Golden State Warriors unified data in BigQuery and use Vertex AI to build a content recommendation engine serving personalized real-time fan experiences.",
+      "zh": "金州勇士隊將數據整合至 BigQuery，並使用 Vertex AI 構建內容推薦引擎，為球迷提供個性化即時體驗。"
+    },
+    "overview": {
+      "en": "The Golden State Warriors consolidated all franchise data into a unified data foundation in BigQuery to build a Vertex AI-powered content recommendation engine. The engine delivers relevant, personalized content to fans including real-time game highlights, scores, stats, and alerts about ticket sales and entertainment events. The franchise uses over 30 data sources and 100 million+ data points to personalize each app user's journey at Chase Center.",
+      "zh": "金州勇士隊將所有球隊數據整合至 BigQuery 中的統一數據基礎，以構建 Vertex AI 驅動的內容推薦引擎。引擎向球迷提供相關的個性化內容，包括即時賽事精彩片段、比分、數據統計，以及關於票務銷售和娛樂活動的提醒。球隊使用超過 30 個數據來源和 1 億多個數據點，為 Chase Center 每位 App 用戶的旅程進行個性化定制。"
+    },
+    "highlights": {
+      "en": [
+        "Unified data from 30+ sources and 100M+ data points into BigQuery.",
+        "Vertex AI recommendation engine delivers real-time personalized content to fans.",
+        "Content includes game highlights, scores, stats, ticket alerts, and entertainment events.",
+        "Personalizes experiences for 18,000+ venue seats with limited technical resources."
+      ],
+      "zh": [
+        "將超過 30 個來源和 1 億多個數據點整合至 BigQuery。",
+        "Vertex AI 推薦引擎為球迷提供即時個性化內容。",
+        "內容包括賽事精彩片段、比分、數據統計、票務提醒和娛樂活動。",
+        "以有限的技術資源為超過 18,000 個場館座位提供個性化體驗。"
+      ]
+    },
+    "technologies": [
+      "BigQuery",
+      "Vertex AI",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Golden State Warriors case study | Google Cloud",
+        "url": "https://cloud.google.com/customers/golden-state-warriors"
+      }
+    ]
+  },
+  {
+    "id": "media-marketing-gaming-customer-joongang-ilbo",
+    "industry": "media-marketing-gaming",
+    "agentType": "customer",
+    "company": "JoongAng Ilbo",
+    "isNew": false,
+    "summary": {
+      "en": "JoongAng Ilbo built a RAG-based AI news search using 60 years of archived articles, enabling natural language queries with zero hallucination.",
+      "zh": "JoongAng Ilbo 利用 60 年的檔案文章構建了基於 RAG 的 AI 新聞搜尋，支援自然語言查詢且無幻覺問題。"
+    },
+    "overview": {
+      "en": "JoongAng Ilbo, a leading Korean newspaper founded in 1965, uses Vertex AI Search and Gemini models with 60 years of archived articles to power an AI search service. The RAG-based system limits searches exclusively to JoongAng Ilbo's own articles to eliminate hallucinations and provide accurate, comprehensive news information. Custom time-parsing agents enable readers to query news using natural language and receive summarized insights with accurate temporal context.",
+      "zh": "1965 年創立的韓國主要報紙 JoongAng Ilbo 使用 Vertex AI Search 和 Gemini 模型，結合 60 年的檔案文章驅動 AI 搜尋服務。基於 RAG 的系統僅限於在 JoongAng Ilbo 的文章中搜尋，以消除幻覺並提供準確、全面的新聞資訊。自定義時間解析代理讓讀者能用自然語言查詢新聞，並收到具有準確時間脈絡的摘要洞察。"
+    },
+    "highlights": {
+      "en": [
+        "RAG-based system searches 60 years of JoongAng Ilbo's own archived articles.",
+        "Zero hallucinations: search limited to the paper's own verified article corpus.",
+        "Natural language queries return summarized insights with accurate temporal context.",
+        "Custom time-parsing agents handle complex chronological news searches.",
+        "Comprehensive answers to queries that would previously require multiple keyword searches."
+      ],
+      "zh": [
+        "基於 RAG 的系統搜尋 JoongAng Ilbo 60 年的檔案文章。",
+        "零幻覺：搜尋僅限於該報的已驗證文章語料庫。",
+        "自然語言查詢返回具有準確時間脈絡的摘要洞察。",
+        "自定義時間解析代理處理複雜的時序新聞搜尋。",
+        "一次搜尋即可獲得過去需要多次關鍵字搜尋才能找到的完整答案。"
+      ]
+    },
+    "technologies": [
+      "Vertex AI Search",
+      "Gemini",
+      "RAG",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "media-marketing-gaming-customer-korea-economic-daily",
+    "industry": "media-marketing-gaming",
+    "agentType": "customer",
+    "company": "Korea Economic Daily",
+    "isNew": false,
+    "summary": {
+      "en": "Korea Economic Daily built ALICE, an AI news search and curation service using Vertex AI and Gemini with natural language queries and citation-backed summaries.",
+      "zh": "韓國經濟日報構建了 ALICE，一個使用 Vertex AI 和 Gemini 的 AI 新聞搜尋與策展服務，支援自然語言查詢和附有引文的摘要。"
+    },
+    "overview": {
+      "en": "Korea Economic Daily developed ALICE, an AI-powered news search and curation service using Vertex AI, Vertex Search, and Gemini to process its extensive news archives and deliver personalized content. The system uses isolated tenant architecture for secure data processing and enables readers to search using natural language queries. Gemini provides summarized answers with citations to maintain information accuracy and reader trust.",
+      "zh": "韓國經濟日報開發了 ALICE，一個使用 Vertex AI、Vertex Search 和 Gemini 的 AI 驅動新聞搜尋與策展服務，處理其豐富的新聞存檔並提供個性化內容。系統使用隔離租戶架構進行安全的數據處理，讓讀者能使用自然語言查詢。Gemini 提供附有引文的摘要答案，以維持資訊準確性和讀者信任。"
+    },
+    "highlights": {
+      "en": [
+        "ALICE processes extensive news archives to deliver personalized AI-curated content.",
+        "Natural language query support makes news search more intuitive for readers.",
+        "Gemini provides summarized answers with citations to ensure accuracy.",
+        "Isolated tenant architecture ensures secure data processing.",
+        "Maintains information accuracy and reader trust through citation-backed answers."
+      ],
+      "zh": [
+        "ALICE 處理豐富的新聞存檔，提供個性化 AI 策展內容。",
+        "自然語言查詢支援讓讀者的新聞搜尋更直觀。",
+        "Gemini 提供附有引文的摘要答案以確保準確性。",
+        "隔離租戶架構確保安全的數據處理。",
+        "透過附引文的答案維持資訊準確性和讀者信任。"
+      ]
+    },
+    "technologies": [
+      "Vertex AI",
+      "Vertex AI Search",
+      "Gemini",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "media-marketing-gaming-customer-major-league-baseball",
+    "industry": "media-marketing-gaming",
+    "agentType": "customer",
+    "company": "Major League Baseball",
+    "isNew": true,
+    "summary": {
+      "en": "MLB launched Scout Insights for the 2026 season, using Gemini to deliver AI-generated color commentary across the entire history of MLB data.",
+      "zh": "MLB 為 2026 賽季推出 Scout Insights，使用 Gemini 掃描 MLB 完整歷史數據，提供 AI 生成的精彩解說。"
+    },
+    "overview": {
+      "en": "Major League Baseball launched MLB Scout Insights for the 2026 season, bringing AI-generated color commentary and insights to its Gameday play-by-play feed in the MLB App and MLB.com. Built with Google's Gemini 2.5 Flash and Gemma models, Scout Insights scans hundreds of petabytes of MLB data, cross-references it with game scenarios, and uses a surprisal score to surface interesting moments. The system pre-generates insights based on daily lineups and delivers them within about two seconds of key in-game moments.",
+      "zh": "MLB 為 2026 賽季推出 MLB Scout Insights，為 MLB App 和 MLB.com 的 Gameday 逐球播報提供 AI 生成的精彩解說和洞察。使用 Google 的 Gemini 2.5 Flash 和 Gemma 模型構建，Scout Insights 掃描數百 PB 的 MLB 數據，與賽事情境交叉比對，並使用驚喜評分機制來呈現有趣的時刻。系統根據當日陣容預生成洞察，並在關鍵賽事時刻後約兩秒內發布。"
+    },
+    "highlights": {
+      "en": [
+        "Scans hundreds of petabytes of historical MLB data using Gemini 2.5 Flash and Gemma models.",
+        "Uses a \"surprisal score\" to identify the most interesting moments for millions of fans.",
+        "Insights delivered within approximately 2 seconds of key in-game events.",
+        "Available in the MLB App's Gameday feed for every game of the 2026 season.",
+        "One of the most prominent deployments of generative AI in professional sports."
+      ],
+      "zh": [
+        "使用 Gemini 2.5 Flash 和 Gemma 模型掃描數百 PB 的 MLB 歷史數據。",
+        "使用「驚喜評分」機制為數百萬球迷識別最有趣的時刻。",
+        "關鍵賽事時刻後約 2 秒內發布洞察。",
+        "可在 MLB App 的 Gameday 功能中查看 2026 賽季每場比賽的洞察。",
+        "職業運動中最重要的生成式 AI 部署之一。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Gemini 2.5 Flash",
+      "Gemma",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "MLB Scout Insights, powered by Google Cloud AI",
+        "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/mlb-scout-insights/"
+      },
+      {
+        "title": "How MLB is bringing AI-powered color commentary to fans with Scout Insights | Google Cloud Blog",
+        "url": "https://cloud.google.com/transform/mlb-scout-insights-ai-powered-color-commentary-gameday-app"
+      }
+    ]
+  },
+  {
+    "id": "media-marketing-gaming-customer-nbc-universal",
+    "industry": "media-marketing-gaming",
+    "agentType": "customer",
+    "company": "NBC Universal",
+    "isNew": true,
+    "summary": {
+      "en": "NBCUniversal used Gemini Enterprise Agent Platform to create an athlete-to-fan viewing experience for the Milan Cortina 2026 Olympic Winter Games.",
+      "zh": "NBCUniversal 使用 Gemini Enterprise Agent Platform 為 2026 米蘭科爾蒂納冬奧會打造了從運動員到球迷的觀看體驗。"
+    },
+    "overview": {
+      "en": "NBCUniversal used the Gemini Enterprise Agent Platform to create a new \"athlete-to-fan\" watching experience for the Milan Cortina 2026 Olympic Winter Games, helping viewers understand the technical nuances of select competitions. The company also deployed OLI, an AI-powered Olympic guide powered by Google Cloud's Gemini, to answer fan questions about when, where, and how to watch events, with features including live medal counts, athlete profiles, video highlights, and calendar invites.",
+      "zh": "NBCUniversal 使用 Gemini Enterprise Agent Platform 為 2026 米蘭科爾蒂納冬奧會打造了全新的「從運動員到球迷」觀看體驗，幫助觀眾了解特定比賽項目的技術細節。公司還部署了由 Google Cloud Gemini 驅動的 AI 奧運指南 OLI，回答球迷關於何時、何地以及如何觀看賽事的問題，功能包括即時獎牌榜、運動員檔案、視訊精彩片段和日曆提醒。"
+    },
+    "highlights": {
+      "en": [
+        "Gemini Enterprise Agent Platform used to create an athlete-to-fan watching experience.",
+        "Helps viewers understand the technical nuances of Olympic competitions.",
+        "OLI, powered by Gemini, answers fan questions about coverage, schedules, and athletes.",
+        "OLI features live medal counts, athlete profiles, video highlights, and calendar invites."
+      ],
+      "zh": [
+        "Gemini Enterprise Agent Platform 用於打造從運動員到球迷的觀看體驗。",
+        "幫助觀眾了解奧運比賽項目的技術細節。",
+        "由 Gemini 驅動的 OLI 回答球迷關於轉播、賽程和運動員的問題。",
+        "OLI 功能包括即時獎牌榜、運動員檔案、視訊精彩片段和日曆提醒。"
+      ]
+    },
+    "technologies": [
+      "Gemini Enterprise Agent Platform",
+      "Gemini",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "OLI — NBCUniversal's AI-powered Olympic Guide Returns for Milan Cortina 2026",
+        "url": "https://www.nbcsports.com/pressbox/press-releases/oli-nbcuniversals-ai-powered-olympic-guide-returns-with-enhanced-features-to-provide-fans-with-up-to-date-info-about-nbcus-coverage-of-the-milan-cortina-2026-olympic-winter-games"
+      }
+    ]
+  },
+  {
+    "id": "media-marketing-gaming-customer-newsweek",
+    "industry": "media-marketing-gaming",
+    "agentType": "customer",
+    "company": "Newsweek",
+    "isNew": false,
+    "summary": {
+      "en": "Newsweek's AI conversational search engine built with Vertex AI and Gemini drove a 1,500%+ increase in monthly searches and 30% more article recirculation.",
+      "zh": "Newsweek 使用 Vertex AI 和 Gemini 構建的 AI 對話式搜尋引擎，使月搜尋量增加超過 1,500%，文章再循環率提升 30%。"
+    },
+    "overview": {
+      "en": "Newsweek, the global news magazine with 60 million monthly website visitors, built an AI-enabled conversational search engine using Vertex AI and Gemini that automatically translates results into seven languages. The new search engine combines semantic and keyword search, accepts natural-language queries, and surfaces articles and videos with summaries. Onsite searches soared from 30,000 to 500,000 per month—over 1,500% growth—while article recirculation rose 30%.",
+      "zh": "擁有 6,000 萬月網站訪客的全球新聞雜誌 Newsweek 使用 Vertex AI 和 Gemini 構建了 AI 對話式搜尋引擎，可自動將結果翻譯成七種語言。新搜尋引擎結合語義搜尋和關鍵字搜尋，接受自然語言查詢，並以摘要呈現文章和視訊。每月站內搜尋從 3 萬次激增至 50 萬次（超過 1,500% 的增長），文章再循環率提升 30%。"
+    },
+    "highlights": {
+      "en": [
+        "Monthly onsite searches increased from 30,000 to 500,000 — over 1,500% growth.",
+        "Article recirculation rose by 30%.",
+        "Search results automatically translated into 7 languages including Portuguese, Mandarin, and French.",
+        "75,000 translation requests per week.",
+        "Natural language queries surface articles and videos with AI-generated summaries."
+      ],
+      "zh": [
+        "每月站內搜尋從 3 萬次增加至 50 萬次，超過 1,500% 的增長。",
+        "文章再循環率提升 30%。",
+        "搜尋結果自動翻譯成包括葡萄牙語、普通話和法語在內的 7 種語言。",
+        "每週 75,000 次翻譯請求。",
+        "自然語言查詢以 AI 生成的摘要呈現文章和視訊。"
+      ]
+    },
+    "technologies": [
+      "Vertex AI",
+      "Gemini",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Newsweek case study | Google Cloud",
+        "url": "https://cloud.google.com/customers/newsweek"
+      }
+    ]
+  },
+  {
+    "id": "media-marketing-gaming-customer-satisfi-labs",
+    "industry": "media-marketing-gaming",
+    "agentType": "customer",
+    "company": "Satisfi Labs",
+    "isNew": false,
+    "summary": {
+      "en": "Satisfi Labs will use Gemini models to power an agentic platform for sports, entertainment, and tourism with specialized agents for ticketing, safety, and guest experience.",
+      "zh": "Satisfi Labs 將使用 Gemini 模型為體育、娛樂和旅遊業構建代理式平台，提供票務、安全和賓客體驗等專業代理。"
+    },
+    "overview": {
+      "en": "Satisfi Labs serves over 715 clients with its conversational AI platform for sports, entertainment, and tourism. The company is adopting Gemini models to power a new agentic platform that delivers specialized agents for guest experiences, ticketing, on-site operations, safety, and merchandise. These agents are tuned by industry experts to help live experience businesses sell more, service faster, and gain real-time insights from every guest conversation.",
+      "zh": "Satisfi Labs 以其對話式 AI 平台服務超過 715 家體育、娛樂和旅遊業客戶。公司正在採用 Gemini 模型構建新的代理式平台，提供面向賓客體驗、票務、現場運營、安全和商品的專業代理。這些代理由行業專家調校，幫助現場體驗企業銷售更多商品、更快提供服務，並從每次賓客對話中獲取即時洞察。"
+    },
+    "highlights": {
+      "en": [
+        "Gemini-powered agentic platform for hundreds of sports, entertainment, and tourism clients.",
+        "Specialized agents for guest experience, ticketing, on-site ops, safety, and merchandise.",
+        "Agents tuned by industry experts to help live experience businesses sell more and service faster.",
+        "Supports 50+ languages and integrates with Ticketmaster and other ticketing systems.",
+        "Serves 700+ clients including teams across MLB, NFL, NBA, NHL, and MLS."
+      ],
+      "zh": [
+        "Gemini 驅動的代理式平台，服務數百家體育、娛樂和旅遊客戶。",
+        "面向賓客體驗、票務、現場運營、安全和商品的專業代理。",
+        "由行業專家調校的代理，幫助現場體驗企業銷售更多商品並更快提供服務。",
+        "支援 50 種以上語言，並與 Ticketmaster 等售票系統整合。",
+        "服務超過 700 家客戶，包括 MLB、NFL、NBA、NHL 和 MLS 的球隊。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Satisfi Labs — Agentic AI Platform for Sports, Entertainment & Tourism",
+        "url": "https://satisfilabs.com/"
+      }
+    ]
+  },
+  {
+    "id": "media-marketing-gaming-customer-spotify",
+    "industry": "media-marketing-gaming",
+    "agentType": "customer",
+    "company": "Spotify",
+    "isNew": false,
+    "summary": {
+      "en": "Spotify partners with Google Cloud to handle massive scale via BigQuery, delivering personalized experiences to 675 million users, with Gemini supporting Wrapped podcasts.",
+      "zh": "Spotify 與 Google Cloud 合作透過 BigQuery 處理大規模數據，為 6.75 億用戶提供個性化體驗，Gemini 亦支援了 Wrapped Podcast 功能。"
+    },
+    "overview": {
+      "en": "Spotify has partnered with Google Cloud to cost-effectively handle massive scale through BigQuery, harnessing enormous amounts of data to deliver personalized experiences to more than 675 million users worldwide. BigQuery processes over 1 terabyte of data daily for analytics. Cloud-based ML models analyze user behavior to create curated playlists like Discover Weekly, and Gemini supported last year's custom Wrapped podcasts.",
+      "zh": "Spotify 與 Google Cloud 合作，透過 BigQuery 以具成本效益的方式處理大規模數據，利用龐大數據量為全球超過 6.75 億用戶提供個性化體驗。BigQuery 每日處理超過 1 TB 的數據用於分析。雲端機器學習模型分析用戶行為以創建「Discover Weekly」等策展播放清單，Gemini 也支援了去年的個性化 Wrapped Podcast 功能。"
+    },
+    "highlights": {
+      "en": [
+        "BigQuery processes over 1 TB of data daily for Spotify analytics.",
+        "Personalized experiences delivered to 675 million+ monthly active users worldwide.",
+        "Gemini supported custom Wrapped podcasts, delivering personalized year-in-review audio.",
+        "Cloud-based ML models power Discover Weekly and other personalized playlists.",
+        "60%+ of users rely on AI-powered personalized playlists."
+      ],
+      "zh": [
+        "BigQuery 每日為 Spotify 分析處理超過 1 TB 的數據。",
+        "為全球超過 6.75 億月活躍用戶提供個性化體驗。",
+        "Gemini 支援了個性化 Wrapped Podcast，提供個人化年度回顧音訊。",
+        "雲端機器學習模型驅動「Discover Weekly」和其他個性化播放清單。",
+        "超過 60% 的用戶依賴 AI 驅動的個性化播放清單。"
+      ]
+    },
+    "technologies": [
+      "BigQuery",
+      "Gemini",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Spotify case study | Google Cloud",
+        "url": "https://cloud.google.com/customers/spotify"
+      }
+    ]
+  },
+  {
+    "id": "media-marketing-gaming-customer-statuspro",
+    "industry": "media-marketing-gaming",
+    "agentType": "customer",
+    "company": "StatusPro",
+    "isNew": false,
+    "summary": {
+      "en": "StatusPro builds NFL virtual reality experiences and is developing its newest VR game on Google Cloud with a Gemini-powered in-game AI coach.",
+      "zh": "StatusPro 構建 NFL 虛擬實境體驗，並正在 Google Cloud 上開發搭載 Gemini AI 教練的最新 VR 遊戲。"
+    },
+    "overview": {
+      "en": "StatusPro builds NFL virtual reality experiences for gaming and training, most notably NFL PRO ERA, which has amassed a community of over 1.7 million users since its 2022 debut. The company is now developing its newest game on Google Cloud, including a new Gemini-powered in-game coach. StatusPro raised $20 million in a Series A round led by GV (Google Ventures) to expand its platform connecting gaming, media, and training.",
+      "zh": "StatusPro 為遊戲和訓練構建 NFL 虛擬實境體驗，最著名的是 2022 年推出後已積累超過 170 萬用戶社群的 NFL PRO ERA。公司現正在 Google Cloud 上開發最新遊戲，包括全新的 Gemini AI 遊戲內教練。StatusPro 完成了由 GV（Google Ventures）領投的 2,000 萬美元 A 輪融資，以擴展其連接遊戲、媒體和訓練的平台。"
+    },
+    "highlights": {
+      "en": [
+        "NFL PRO ERA has over 1.7 million users — one of the best-selling sports VR games.",
+        "Newest game in development on Google Cloud with a Gemini-powered in-game coach.",
+        "$20M Series A round led by GV (Google Ventures).",
+        "Platform connects gaming, media, and sports training with AI and telemetry data."
+      ],
+      "zh": [
+        "NFL PRO ERA 擁有超過 170 萬用戶，是最暢銷的體育 VR 遊戲之一。",
+        "最新遊戲在 Google Cloud 上開發，搭載 Gemini AI 遊戲內教練。",
+        "完成由 GV（Google Ventures）領投的 2,000 萬美元 A 輪融資。",
+        "平台以 AI 和遙測數據連接遊戲、媒體和體育訓練。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "StatusPRO announces $20M Series A round led by GV (Google Ventures)",
+        "url": "https://www.prnewswire.com/news-releases/statuspro-announces-20m-series-a-round-led-by-gv-google-ventures-to-continue-to-disrupt-and-revolutionize-sports-through-xr-302052954.html"
+      }
+    ]
+  },
+  {
+    "id": "media-marketing-gaming-customer-us-news",
+    "industry": "media-marketing-gaming",
+    "agentType": "customer",
+    "company": "US News",
+    "isNew": false,
+    "summary": {
+      "en": "US News saw double-digit improvements in click-through rate, time on page, and traffic volume after implementing Vertex AI Search.",
+      "zh": "US News 在導入 Vertex AI Search 後，點擊率、頁面停留時間和流量均實現雙位數增長。"
+    },
+    "overview": {
+      "en": "US News implemented Vertex AI Search and saw double-digit improvements across key engagement metrics including click-through rate, time spent on page, and traffic volume to its pages. The AI-powered search upgrade improved content discovery and relevance for users across US News' extensive coverage of education, health, money, and news topics.",
+      "zh": "US News 導入 Vertex AI Search 後，包括點擊率、頁面停留時間和頁面流量在內的關鍵互動指標均實現了雙位數提升。AI 驅動的搜尋升級改善了用戶在 US News 教育、健康、財經和新聞等廣泛報導中的內容探索和相關性。"
+    },
+    "highlights": {
+      "en": [
+        "Double-digit improvement in click-through rate after implementing Vertex AI Search.",
+        "Double-digit improvement in time spent on page.",
+        "Double-digit improvement in traffic volume to US News pages."
+      ],
+      "zh": [
+        "導入 Vertex AI Search 後點擊率實現雙位數提升。",
+        "頁面停留時間實現雙位數提升。",
+        "US News 頁面流量實現雙位數提升。"
+      ]
+    },
+    "technologies": [
+      "Vertex AI Search",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "media-marketing-gaming-customer-vertical-hoops",
+    "industry": "media-marketing-gaming",
+    "agentType": "customer",
+    "company": "Vertical Hoops",
+    "isNew": false,
+    "summary": {
+      "en": "Youth basketball league Vertical Hoops uses Gemini in Gmail to communicate more effectively with coaches and parents, letting the founder spend more time on the court.",
+      "zh": "青少年籃球聯盟 Vertical Hoops 使用 Gmail 中的 Gemini 與教練和家長更有效地溝通，讓創辦人能把更多時間花在球場上。"
+    },
+    "overview": {
+      "en": "Vertical Hoops, a youth basketball league, uses the summarizing and drafting capabilities of Gemini in Gmail to communicate more effectively with coaches and parents. Founder Jason Shea uses Gemini to quickly compose and respond to messages, allowing him to spend more time coaching on the court rather than managing administrative communications.",
+      "zh": "青少年籃球聯盟 Vertical Hoops 使用 Gmail 中 Gemini 的摘要和起草功能，與教練和家長更有效地溝通。創辦人 Jason Shea 使用 Gemini 快速撰寫和回覆訊息，讓他能把更多時間花在指導球場上的訓練，而非管理行政溝通。"
+    },
+    "highlights": {
+      "en": [
+        "Gemini in Gmail used to communicate with coaches and parents of youth basketball players.",
+        "Enables founder Jason Shea to spend more time coaching on the court.",
+        "Quick message drafting and summarization reduce administrative communication time."
+      ],
+      "zh": [
+        "在 Gmail 中使用 Gemini 與青少年籃球球員的教練和家長溝通。",
+        "讓創辦人 Jason Shea 能把更多時間花在球場執教上。",
+        "快速起草和摘要功能減少行政溝通時間。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Google Workspace",
+      "Gmail"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "media-marketing-gaming-customer-wand",
+    "industry": "media-marketing-gaming",
+    "agentType": "customer",
+    "company": "Wand",
+    "isNew": true,
+    "summary": {
+      "en": "Wand uses Gemini Enterprise Agent Platform to power Game Guide, a contextual AI companion built into its single-player PC gaming platform.",
+      "zh": "Wand 使用 Gemini Enterprise Agent Platform 驅動 Game Guide，一個整合在其單人 PC 遊戲平台中的情境感知 AI 助手。"
+    },
+    "overview": {
+      "en": "Wand uses the Gemini Enterprise Agent Platform to power Game Guide, a contextual companion built into its single-player PC gaming platform. Game Guide helps players get unstuck, uncover hidden content, and stay immersed without ever leaving the game window. The AI understands the game context and provides relevant hints and guidance in real-time as players progress through games.",
+      "zh": "Wand 使用 Gemini Enterprise Agent Platform 驅動 Game Guide，這是一個內建在其單人 PC 遊戲平台中的情境感知助手。Game Guide 幫助玩家解除困境、發現隱藏內容，並在不離開遊戲視窗的情況下保持沉浸感。AI 理解遊戲情境，並在玩家進行遊戲時即時提供相關提示和指導。"
+    },
+    "highlights": {
+      "en": [
+        "Game Guide provides contextual hints and guidance without leaving the game window.",
+        "Helps players get unstuck and uncover hidden content while maintaining immersion.",
+        "Built on Gemini Enterprise Agent Platform for real-time contextual understanding.",
+        "Integrated directly into Wand's single-player PC gaming platform."
+      ],
+      "zh": [
+        "Game Guide 在不離開遊戲視窗的情況下提供情境感知提示和指導。",
+        "幫助玩家解除困境並在保持沉浸感的同時發現隱藏內容。",
+        "基於 Gemini Enterprise Agent Platform 構建，實現即時情境理解。",
+        "直接整合至 Wand 的單人 PC 遊戲平台。"
+      ]
+    },
+    "technologies": [
+      "Gemini Enterprise Agent Platform",
+      "Gemini",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "media-marketing-gaming-customer-youtube",
+    "industry": "media-marketing-gaming",
+    "agentType": "customer",
+    "company": "YouTube",
+    "isNew": false,
+    "summary": {
+      "en": "YouTube reduced abandoned calls while waiting by 75% and cut average handle time 23% using Google Cloud's Customer Engagement Suite.",
+      "zh": "YouTube 使用 Google Cloud 的 Customer Engagement Suite，將等待掛斷率降低 75%，平均處理時間縮短 23%。"
+    },
+    "overview": {
+      "en": "YouTube achieved a 75% reduction in calls abandoned while waiting to speak to a representative by deploying Google Cloud's Customer Engagement Suite. Using Conversational Agents to improve information gathering over voice and SMS channels, combined with Agent Assist, YouTube also achieved a 23% reduction in average handle time. This significantly improved the overall customer experience for YouTube's support operations.",
+      "zh": "YouTube 透過部署 Google Cloud 的 Customer Engagement Suite，將等待與客服代表通話時的掛斷率降低了 75%。使用 Conversational Agents 改善語音和簡訊管道的資訊收集，結合 Agent Assist，YouTube 還實現了平均處理時間縮短 23%。這顯著改善了 YouTube 支援運營的整體客戶體驗。"
+    },
+    "highlights": {
+      "en": [
+        "75% reduction in calls abandoned while waiting for a customer service representative.",
+        "23% reduction in average handle time for support interactions.",
+        "Conversational Agents improved information gathering over voice and SMS channels.",
+        "Agent Assist empowers human agents to resolve issues faster."
+      ],
+      "zh": [
+        "等待客服代表時的掛斷率降低 75%。",
+        "支援互動的平均處理時間縮短 23%。",
+        "Conversational Agents 改善語音和簡訊管道的資訊收集。",
+        "Agent Assist 幫助人工客服更快解決問題。"
+      ]
+    },
+    "technologies": [
+      "Customer Engagement Suite",
+      "Conversational Agents",
+      "Agent Assist",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Customer Engagement Suite: Stronger results, and new AI features | Google Cloud Blog",
+        "url": "https://cloud.google.com/blog/products/ai-machine-learning/customer-engagement-suite-stronger-results-and-new-ai-features"
+      }
+    ]
+  },
+  {
+    "id": "media-marketing-gaming-code-capcom",
+    "industry": "media-marketing-gaming",
+    "agentType": "code",
+    "company": "Capcom",
+    "isNew": true,
+    "summary": {
+      "en": "Capcom uses Gemini Enterprise Agent Platform to run 30,000+ hours of automated monthly playtesting, freeing developers for creative work.",
+      "zh": "Capcom 使用 Gemini Enterprise Agent Platform 每月執行超過 30,000 小時的自動化遊戲測試，讓開發者專注於創意工作。"
+    },
+    "overview": {
+      "en": "Capcom is using the Gemini Enterprise Agent Platform to build playtesting and predictive agents that improve the gameplay experience while freeing developers for creative work. The system conducts 30,000+ hours of autonomous playtesting per month using visual inspection agents (Gemini Vision) and predictive agents that identify high-risk areas for testing. This allows Capcom's creative teams to shift from \"defensive development\" to high-value creative innovation.",
+      "zh": "Capcom 使用 Gemini Enterprise Agent Platform 構建遊戲測試和預測代理，在改善遊戲體驗的同時讓開發者專注於創意工作。系統每月使用視覺檢查代理（Gemini Vision）和識別高風險測試區域的預測代理執行超過 30,000 小時的自主遊戲測試。這讓 Capcom 的創意團隊能從「防禦性開發」轉向高價值創意創新。"
+    },
+    "highlights": {
+      "en": [
+        "30,000+ hours of autonomous playtesting conducted per month.",
+        "Visual inspection agents use Gemini Vision to distinguish design choices from technical failures.",
+        "Predictive agents analyze historical data to direct test bots to high-risk areas.",
+        "Developers freed from repetitive testing to focus on creative innovation.",
+        "Leverages Gemini Enterprise, BigQuery, and Google's Agent Development Kit."
+      ],
+      "zh": [
+        "每月執行超過 30,000 小時的自主遊戲測試。",
+        "視覺檢查代理使用 Gemini Vision 區分設計選擇與技術故障。",
+        "預測代理分析歷史數據，將測試機器人引導至高風險區域。",
+        "開發者從重複測試中解放，能夠專注於創意創新。",
+        "使用 Gemini Enterprise、BigQuery 和 Google 的 Agent Development Kit。"
+      ]
+    },
+    "technologies": [
+      "Gemini Enterprise Agent Platform",
+      "Gemini",
+      "BigQuery",
+      "Agent Development Kit",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "How Capcom Is Leading the Way for Enterprise Agentic AI",
+        "url": "https://www.googlecloudpresscorner.com/2026-04-22-How-Capcom-Is-Leading-the-Way-for-Enterprise-Agentic-AI"
+      },
+      {
+        "title": "Capcom's Google Cloud AI Toolset Includes Automated Agents Performing 30,000 Hours of Playtesting a Month",
+        "url": "https://thisweekinvideogames.com/news/capcoms-google-cloud-ai-toolset-includes-automated-agents-performing-30000-hours-of-playtesting-a-month/"
+      }
+    ]
+  },
+  {
+    "id": "media-marketing-gaming-code-wpp",
+    "industry": "media-marketing-gaming",
+    "agentType": "code",
+    "company": "WPP",
+    "isNew": true,
+    "summary": {
+      "en": "WPP used Google Cloud G4 VMs with NVIDIA RTX PRO 6000 Blackwell to accelerate humanoid robot training by 10x for filming tasks.",
+      "zh": "WPP 使用 Google Cloud 搭載 NVIDIA RTX PRO 6000 Blackwell 的 G4 VM，將人形機器人訓練速度提升 10 倍，用於拍攝任務。"
+    },
+    "overview": {
+      "en": "WPP used the new G4 VM instance powered by NVIDIA RTX PRO 6000 Blackwell on Google Cloud to accelerate humanoid robot training for filming tasks in challenging or dangerous environments. Using Google Cloud's AI Hypercomputer, training times were reduced by more than 10x—from 24 hours down to less than one hour. The workflow included human motion capture, retargeting to an OpenUSD digital twin using MuJoCo, and reinforcement learning training using NVIDIA Isaac Sim.",
+      "zh": "WPP 使用 Google Cloud 上搭載 NVIDIA RTX PRO 6000 Blackwell 的新 G4 VM 實例，加速人形機器人在挑戰性或危險環境中執行拍攝任務的訓練。使用 Google Cloud 的 AI Hypercomputer，訓練時間縮短超過 10 倍，從 24 小時降至不到 1 小時。工作流程包括人體動作捕捉、使用 MuJoCo 重新定向至 OpenUSD 數位孿生，以及使用 NVIDIA Isaac Sim 進行強化學習訓練。"
+    },
+    "highlights": {
+      "en": [
+        "Humanoid robot training accelerated by 10x using G4 VMs on Google Cloud.",
+        "Training time reduced from 24 hours to less than 1 hour.",
+        "Trained a Unitree G1 robot to perform a dance sequence from a Universal Music Group project.",
+        "Workflow uses OptiTrack motion capture, MuJoCo, and NVIDIA Isaac Sim.",
+        "Enables filming in challenging or dangerous environments using robots."
+      ],
+      "zh": [
+        "使用 Google Cloud G4 VM，人形機器人訓練速度提升 10 倍。",
+        "訓練時間從 24 小時縮短至不到 1 小時。",
+        "訓練 Unitree G1 機器人執行與環球音樂集團合作的舞蹈動作。",
+        "工作流程使用 OptiTrack 動作捕捉、MuJoCo 和 NVIDIA Isaac Sim。",
+        "讓機器人能在挑戰性或危險環境中執行拍攝任務。"
+      ]
+    },
+    "technologies": [
+      "G4 VM",
+      "NVIDIA RTX PRO 6000 Blackwell",
+      "Google Cloud",
+      "AI Hypercomputer",
+      "NVIDIA Isaac Sim"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "How WPP accelerates humanoid robot training 10x with G4 VMs | Google Cloud Blog",
+        "url": "https://cloud.google.com/blog/products/infrastructure/wpp-humanoid-robots-ai-training"
+      }
+    ]
+  }
+]

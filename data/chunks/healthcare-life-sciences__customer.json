@@ -1,0 +1,720 @@
+[
+  {
+    "id": "healthcare-life-sciences-customer-bennie-health",
+    "industry": "healthcare-life-sciences",
+    "agentType": "customer",
+    "company": "Bennie Health",
+    "isNew": false,
+    "summary": {
+      "en": "Bennie Health uses Vertex AI to power its employee health benefits platform with actionable insights.",
+      "zh": "Bennie Health 運用 Vertex AI 打造員工健康福利平台，提供可行的洞察並簡化資料管理。"
+    },
+    "overview": {
+      "en": "Bennie Health is a full-service employee benefits broker and platform serving employers across all 50 US states. The company uses Vertex AI on Google Cloud to power its innovative employee health benefits platform, providing actionable insights and streamlining data management to enhance efficiency and decision-making for both employees and HR teams. The Bennie app enables employees to view insurance ID cards, search in-network doctors, and get help from a healthcare concierge.",
+      "zh": "Bennie Health 是一家在美國 50 州提供全方位員工福利仲介和平台服務的公司。該公司運用 Google Cloud 上的 Vertex AI 驅動其創新的員工健康福利平台，為員工與人資團隊提供可行的洞察、簡化資料管理，並提升決策效率。Bennie 應用程式讓員工可以查看保險 ID 卡、搜尋網絡內醫生，並與醫療顧問即時互動。"
+    },
+    "highlights": {
+      "en": [
+        "Uses Vertex AI to deliver actionable health benefits insights for employees and HR teams.",
+        "Platform streamlines data management, reducing administrative overhead for HR departments.",
+        "Employees can search in-network doctors, view ID cards, and access a healthcare concierge through the Bennie app.",
+        "Licensed in all 50 US states and maintains national relationships with all major insurance carriers."
+      ],
+      "zh": [
+        "運用 Vertex AI 為員工和人資團隊提供可行的健康福利洞察。",
+        "平台簡化資料管理，降低人資部門的行政負擔。",
+        "員工可透過 Bennie 應用程式搜尋網絡內醫生、查看保險 ID 卡，並使用醫療顧問服務。",
+        "在美國 50 州均持有執照，並與所有主要保險公司維持全國性合作關係。"
+      ]
+    },
+    "technologies": [
+      "Vertex AI",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Bennie — Modern Employee Benefits App & HR Software Platform",
+        "url": "https://www.bennie.com/our-technology"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "healthcare-life-sciences-customer-citiustech",
+    "industry": "healthcare-life-sciences",
+    "agentType": "customer",
+    "company": "CitiusTech",
+    "isNew": false,
+    "summary": {
+      "en": "CitiusTech uses Vertex AI to connect patients with specialists and automate critical healthcare workflows.",
+      "zh": "CitiusTech 運用 Vertex AI 建構 AI 搜尋解決方案，協助病患找到合適的專科醫師並自動化關鍵醫療工作流程。"
+    },
+    "overview": {
+      "en": "CitiusTech is a global healthcare technology services firm with a Cloud Center of Excellence comprising 150+ Google Cloud professionals. The company uses Google Cloud to improve patient experience, reduce administrative burden on clinical staff, and save costs for healthcare systems. CitiusTech developed a GenAI Smart Search solution using Vertex AI that efficiently connects patients with the right specialists and automates critical workflows, providing round-the-clock query resolution.",
+      "zh": "CitiusTech 是一家全球醫療科技服務公司，擁有超過 150 名 Google Cloud 專業人員組成的雲端卓越中心。該公司利用 Google Cloud 改善病患體驗、降低臨床人員的行政負擔，並為醫療系統節省成本。CitiusTech 使用 Vertex AI 開發了 GenAI 智慧搜尋解決方案，有效連結病患與合適的專科醫師，並自動化關鍵工作流程，提供全天候查詢服務。"
+    },
+    "highlights": {
+      "en": [
+        "Built a GenAI Smart Search solution on Vertex AI to connect patients with the right specialists efficiently.",
+        "Automates critical clinical workflows, reducing administrative burden on healthcare staff.",
+        "Delivers personalized patient responses and round-the-clock query resolution.",
+        "Over 150 Google Cloud professionals support healthcare clients across the organization.",
+        "Collaborates with Google's Medical Imaging and Digital Pathology leaders to serve large healthcare organizations."
+      ],
+      "zh": [
+        "在 Vertex AI 上建構 GenAI 智慧搜尋解決方案，有效連結病患與合適的專科醫師。",
+        "自動化關鍵臨床工作流程，降低醫療人員的行政負擔。",
+        "提供個人化的病患回應與全天候查詢服務。",
+        "超過 150 名 Google Cloud 專業人員支援組織內的醫療客戶。",
+        "與 Google 醫療影像和數位病理學團隊合作，服務大型醫療機構。"
+      ]
+    },
+    "technologies": [
+      "Vertex AI",
+      "Google Cloud",
+      "Vertex AI Search for Healthcare"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "CitiusTech — Google Cloud Platform Partner",
+        "url": "https://www.citiustech.com/partners/google-cloud-platform"
+      },
+      {
+        "title": "New Way Now: CitiusTech improves patient experience and clinician workloads with Google Cloud",
+        "url": "https://www.youtube.com/watch?v=iHit7CI5-eU"
+      }
+    ]
+  },
+  {
+    "id": "healthcare-life-sciences-customer-clivi",
+    "industry": "healthcare-life-sciences",
+    "agentType": "customer",
+    "company": "Clivi",
+    "isNew": false,
+    "summary": {
+      "en": "Clivi built a gen AI platform on Google Cloud for personalized, continuous monitoring of chronic disease patients.",
+      "zh": "墨西哥健康新創 Clivi 在 Google Cloud 上建構生成式 AI 平台，對糖尿病等慢性病患者進行個人化、持續性的監測與照護。"
+    },
+    "overview": {
+      "en": "Clivi is a Mexican health startup and digital diabetes clinic founded in 2021, focused on making chronic disease treatment more accessible in Latin America. The company has created a gen AI platform with Google Cloud that enables personalized and continuous monitoring of its patients, offering tailored responses via patients' preferred communication channels including WhatsApp, improving care volume and capacity, and reducing disease complications. Clivi connects patients with endocrinologists, nutritionists, and psychologists through its AI-powered platform.",
+      "zh": "Clivi 是墨西哥的健康新創公司，也是數位糖尿病診所，成立於 2021 年，致力於讓拉丁美洲的慢性病治療更易取得。該公司與 Google Cloud 合作，打造了一個生成式 AI 平台，能對患者進行個人化、持續性的監測，透過 WhatsApp 等患者偏好的溝通管道提供客製化回應，提升照護量能並降低疾病併發症的發生。"
+    },
+    "highlights": {
+      "en": [
+        "Created a gen AI platform on Google Cloud for personalized monitoring of chronic disease patients.",
+        "Delivers tailored responses via patients' preferred communication channels, including WhatsApp.",
+        "Improves the volume and capacity of care for patients with diabetes and related conditions.",
+        "Reduces disease complications through continuous AI-assisted monitoring and treatment adjustments.",
+        "Raised $10 million in seed funding to expand services across Latin America."
+      ],
+      "zh": [
+        "在 Google Cloud 上建構生成式 AI 平台，對慢性病患者進行個人化監測。",
+        "透過 WhatsApp 等患者偏好的溝通管道提供客製化回應。",
+        "提升糖尿病及相關疾病患者的照護量能與服務容量。",
+        "透過持續的 AI 輔助監測與治療調整，減少疾病併發症的發生。",
+        "獲得 1,000 萬美元種子輪融資，以擴展在拉丁美洲的服務。"
+      ]
+    },
+    "technologies": [
+      "Google Cloud",
+      "Generative AI"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Diabetes management startup Clivi wants to be 'Livongo of Latin America' | TechCrunch",
+        "url": "https://techcrunch.com/2023/06/20/diabetes-management-clivi-livongo-latin-america-healthcare/"
+      },
+      {
+        "title": "Clivi — Managing Chronic Diseases in Latin America | Foundation Capital",
+        "url": "https://foundationcapital.com/clivi-managing-chronic-diseases-in-latin-america/"
+      }
+    ]
+  },
+  {
+    "id": "healthcare-life-sciences-customer-cvs-health",
+    "industry": "healthcare-life-sciences",
+    "agentType": "customer",
+    "company": "CVS Health",
+    "isNew": true,
+    "summary": {
+      "en": "CVS Health's Health100 subsidiary launches an AI-native consumer health engagement platform powered by Google Cloud Gemini.",
+      "zh": "CVS Health 旗下子公司 Health100 推出由 Google Cloud Gemini 驅動的 AI 原生消費者健康互動平台，打造全天候個人健康照護夥伴。"
+    },
+    "overview": {
+      "en": "CVS Health, a leading health solutions company, announced a strategic partnership with Google Cloud to launch Health100 — a new health technology services subsidiary. Health100 is building a first-of-its-kind AI-native consumer engagement platform powered by Google Cloud's Gemini models, Cloud Healthcare API, and BigQuery. The platform aims to deliver a real-time, omni-channel, agentic AI experience that gives consumers an always-on personal healthcare partner, enabling pharmacist-led care management and cost transparency across the healthcare ecosystem.",
+      "zh": "CVS Health 是美國領先的健康解決方案公司，宣布與 Google Cloud 建立戰略合作夥伴關係，推出 Health100——一家新的健康科技服務子公司。Health100 正在建構一個前所未有的 AI 原生消費者互動平台，由 Google Cloud 的 Gemini 模型、Cloud Healthcare API 和 BigQuery 提供支援。該平台旨在提供即時、全通路、智能代理 AI 體驗，讓消費者擁有全天候的個人健康照護夥伴。"
+    },
+    "highlights": {
+      "en": [
+        "Health100 is an AI-native consumer engagement platform powered by Gemini models, Cloud Healthcare API, and BigQuery.",
+        "Delivers real-time, omni-channel, agentic AI healthcare experiences across insurance, pharmacy, and care providers.",
+        "Enables pharmacist-led care management and proactive cost transparency for consumers.",
+        "Plans to integrate biometric wearable technology for proactive, data-driven health management.",
+        "Initial platform launch planned for 2026, announced at The Check Up in March 2026."
+      ],
+      "zh": [
+        "Health100 是由 Gemini 模型、Cloud Healthcare API 和 BigQuery 驅動的 AI 原生消費者互動平台。",
+        "在保險、藥局和醫療服務提供商之間提供即時、全通路的智能代理 AI 醫療體驗。",
+        "為消費者提供藥師主導的照護管理與主動的費用透明度。",
+        "計劃整合生物特徵穿戴裝置，實現主動式、數據驅動的健康管理。",
+        "平台初步啟動計劃於 2026 年進行，於 2026 年 3 月的 The Check Up 發布。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Cloud Healthcare API",
+      "BigQuery",
+      "Google Cloud",
+      "Agentic AI"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "CVS Health and Google Cloud announce new strategic partnership to reimagine healthcare consumer engagement",
+        "url": "https://www.prnewswire.com/news-releases/cvs-health-and-google-cloud-announce-new-strategic-partnership-to-reimagine-healthcare-consumer-engagement-and-experiences-302704414.html"
+      },
+      {
+        "title": "CVS Health and Google Cloud announce new strategic partnership | CVS Health",
+        "url": "https://www.cvshealth.com/news/company-news/cvs-health-and-google-cloud-announce-new-strategic-partnership.html"
+      },
+      {
+        "title": "Google Cloud Showcases Agentic AI Healthcare Partnerships with CVS Health, Humana, and Waystar",
+        "url": "https://hitconsultant.net/2026/03/05/google-cloud-himss-2026-agentic-ai-healthcare-gemini/"
+      }
+    ]
+  },
+  {
+    "id": "healthcare-life-sciences-customer-family-vision-care",
+    "industry": "healthcare-life-sciences",
+    "agentType": "customer",
+    "company": "Family Vision Care",
+    "isNew": false,
+    "summary": {
+      "en": "Family Vision Care uses Gemini in Gmail to translate complex medical terms into accessible patient language.",
+      "zh": "Family Vision Care 的眼科醫師使用 Gmail 中的 Gemini 將複雜醫學術語轉譯為患者易懂的語言，提升醫患溝通品質。"
+    },
+    "overview": {
+      "en": "Family Vision Care of Ponca City, Oklahoma is an optometry practice run by Dr. Kelly Campbell. The practice uses Gemini in Gmail to easily explain medical terms in patient emails and to improve accessibility. Dr. Campbell inputs complex phrases and Gemini generates multiple ways to communicate medical information at the patient's specific understanding level. This has led to noticeably better patient comprehension and more productive discussions about patient care.",
+      "zh": "Family Vision Care 位於奧克拉荷馬州 Ponca City，由 Kelly Campbell 醫師主持的視光診所。診所使用 Gmail 中的 Gemini 來輕鬆地在患者郵件中解釋醫學術語，並改善溝通的可及性。Campbell 醫師輸入複雜的醫學詞彙後，Gemini 會生成多種符合患者理解程度的表達方式，使患者對資訊的理解顯著提升，並促成更有效率的醫療討論。"
+    },
+    "highlights": {
+      "en": [
+        "Uses Gemini in Gmail to translate complex medical terminology into plain patient-friendly language.",
+        "Generates multiple explanations at different comprehension levels for conditions like astigmatism.",
+        "Improves patient accessibility and comprehension, leading to more productive care conversations.",
+        "Applies AI-assisted communication both in email correspondence and in-person patient consultations."
+      ],
+      "zh": [
+        "使用 Gmail 中的 Gemini 將複雜醫學術語轉換為患者易懂的簡明語言。",
+        "針對散光等症狀生成多種不同理解程度的說明。",
+        "提升患者的可及性和理解程度，促成更有效率的醫療對話。",
+        "將 AI 輔助溝通應用於電子郵件往來和面對面的患者諮詢中。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Google Workspace",
+      "Gmail"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "How an Oklahoma-based Optometrist Uses Gemini to Strengthen Communication with Patients",
+        "url": "https://publicpolicy.google/stories/oklahoma-family-vision-care/"
+      }
+    ]
+  },
+  {
+    "id": "healthcare-life-sciences-customer-fitterfly",
+    "industry": "healthcare-life-sciences",
+    "agentType": "customer",
+    "company": "Fitterfly",
+    "isNew": false,
+    "summary": {
+      "en": "Fitterfly uses Gemini Flash and Vertex AI to cut meal logging time by 80% and automate 90% of support queries for chronic disease management.",
+      "zh": "印度健康應用 Fitterfly 運用 Gemini Flash 和 Vertex AI，將飲食記錄時間縮短 80%，並自動化 90% 的客服查詢，服務逾 3 萬名慢性病用戶。"
+    },
+    "overview": {
+      "en": "Fitterfly is an India-based mobile health app founded in 2020, helping users manage chronic diseases such as diabetes, obesity, and hypertension. The company partnered with Google Cloud to launch 'Klik,' an AI food camera feature that uses Gemini 2.0 Flash on Vertex AI with computer vision to analyze and log meal photos. The platform reduces meal logging times by 80% and automates 90% of support queries, delivering precision coaching to over 30,000 users and enterprise clients including major insurers in India and the UAE.",
+      "zh": "Fitterfly 是一家成立於 2020 年的印度行動健康應用程式，協助用戶管理糖尿病、肥胖和高血壓等慢性疾病。該公司與 Google Cloud 合作，推出了「Klik」AI 食物相機功能，使用 Vertex AI 上的 Gemini 2.0 Flash 和電腦視覺技術來分析和記錄餐點照片。平台將餐點記錄時間縮短 80%，並自動化 90% 的客服查詢，為超過 3 萬名用戶和企業客戶（包括印度及阿聯酋的主要保險公司）提供精準的健康指導。"
+    },
+    "highlights": {
+      "en": [
+        "Uses Gemini 2.0 Flash on Vertex AI with computer vision to reduce meal logging time by 80%.",
+        "Automates 90% of customer support queries through AI-powered responses.",
+        "Klik AI food cam analyzes photos against a database of 37,000+ Indian foods for nutritional breakdown.",
+        "Delivers precision chronic disease coaching to over 30,000 users and enterprise clients.",
+        "Enterprise clients include major health insurers in India and the UAE."
+      ],
+      "zh": [
+        "使用 Vertex AI 上的 Gemini 2.0 Flash 搭配電腦視覺，將餐點記錄時間縮短 80%。",
+        "透過 AI 驅動的回應自動化 90% 的客服查詢。",
+        "Klik AI 食物相機可比對超過 37,000 種印度食物資料庫，分析餐點照片的營養成分。",
+        "為超過 3 萬名用戶和企業客戶提供精準的慢性病健康指導。",
+        "企業客戶包括印度和阿聯酋的主要健康保險公司。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Vertex AI",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Fitterfly Partners with Google Cloud to Launch 'Klik' AI Food Cam Feature",
+        "url": "https://www.prnewswire.com/in/news-releases/fitterfly-partners-with-google-cloud-to-launch-klik---an-ai-food-cam-feature-to-help-people-with-diabetes-302198911.html"
+      },
+      {
+        "title": "Fitterfly case study | Google Cloud",
+        "url": "https://cloud.google.com/customers/fitterfly"
+      },
+      {
+        "title": "Fitterfly, Google Cloud launch meal tracking app using computer vision | MobiHealthNews",
+        "url": "https://www.mobihealthnews.com/news/fitterfly-google-cloud-launch-meal-tracking-app-using-computer-vision"
+      }
+    ]
+  },
+  {
+    "id": "healthcare-life-sciences-customer-freenome",
+    "industry": "healthcare-life-sciences",
+    "agentType": "customer",
+    "company": "Freenome",
+    "isNew": false,
+    "summary": {
+      "en": "Freenome uses Google Cloud AI and ML to build blood-based diagnostic tests for early cancer detection.",
+      "zh": "Freenome 利用 Google Cloud 的 AI 與機器學習技術，開發能在最早、最可治療階段偵測癌症的血液診斷檢測。"
+    },
+    "overview": {
+      "en": "Freenome is a biotech company creating diagnostic tests that detect life-threatening diseases like cancer in their earliest, most-treatable stages — combining the latest advances in science and AI with the ease of a standard blood draw. The company uses Google Cloud, including Compute Engine, BigQuery, Looker, and Firebase, to process hundreds of terabytes of molecular data from blood samples. Freenome's multiomics platform applies machine learning models to scan for tumor and non-tumor biomarkers in patient blood to identify suspicious molecular patterns.",
+      "zh": "Freenome 是一家生物科技公司，致力於開發能在最早、最可治療階段偵測癌症等威脅生命疾病的診斷測試——結合最新的科學與 AI 技術，以及標準抽血的便利性。該公司使用 Google Cloud（包括 Compute Engine、BigQuery、Looker 和 Firebase）來處理血液樣本中數百 TB 的分子數據。Freenome 的多組學平台應用機器學習模型，掃描患者血液中的腫瘤和非腫瘤生物標記，以識別可疑的分子模式。"
+    },
+    "highlights": {
+      "en": [
+        "Processes hundreds of terabytes of blood sample molecular data using Google Cloud Storage and GKE.",
+        "Multiomics platform applies ML models to detect tumor and non-tumor biomarkers in blood for early cancer screening.",
+        "PREEMPT CRC pivotal study published in JAMA involved 48,995 average-risk adults aged 45–85.",
+        "Advancing FDA premarket approval submission for its colorectal cancer (CRC) blood-based screening test.",
+        "Also developing a multiomic blood-based screening test for lung cancer."
+      ],
+      "zh": [
+        "使用 Google Cloud Storage 和 GKE 處理血液樣本中數百 TB 的分子數據。",
+        "多組學平台應用機器學習模型，偵測血液中的腫瘤和非腫瘤生物標記，用於早期癌症篩查。",
+        "PREEMPT CRC 關鍵研究發表於 JAMA，涉及 48,995 名 45 至 85 歲的普通風險成年人。",
+        "正在推進其大腸直腸癌（CRC）血液篩查測試的 FDA 上市前審批申請。",
+        "同時開發用於肺癌的多組學血液篩查測試。"
+      ]
+    },
+    "technologies": [
+      "Google Cloud",
+      "BigQuery",
+      "Google Compute Engine",
+      "Google Kubernetes Engine",
+      "Cloud Storage",
+      "Machine Learning"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Freenome builds next generation of cancer detection technology | Google Cloud Blog",
+        "url": "https://cloud.google.com/blog/topics/startups/freenome-builds-next-generation-of-cancer-detection-technology"
+      },
+      {
+        "title": "Freenome Announces JAMA Publication of PREEMPT CRC Study Data",
+        "url": "https://www.freenome.com/newsroom/freenome-announces-jama-publication-of-data-from-pivotal-study-of-its-blood-based-test-for-colorectal-cancer/"
+      }
+    ]
+  },
+  {
+    "id": "healthcare-life-sciences-customer-genial-care",
+    "industry": "healthcare-life-sciences",
+    "agentType": "customer",
+    "company": "Genial Care",
+    "isNew": false,
+    "summary": {
+      "en": "Genial Care uses Vertex AI to improve session records quality for children with Autism Spectrum Disorder in Latin America.",
+      "zh": "拉丁美洲醫療網路 Genial Care 投資 Vertex AI，提升自閉症兒童療程紀錄的品質，讓照護者能完整監控療程進展。"
+    },
+    "overview": {
+      "en": "Genial Care is a Latin American healthcare network specialized in innovative care for children with Autism Spectrum Disorder (ASD) and their families. Founded in Brazil in 2020, the company offers multidisciplinary assessments and interventions combining ABA therapy, speech therapy, and occupational therapy. By investing in Vertex AI, Genial Care has improved the quality of records of therapy sessions involving children with ASD and their families, enabling caregivers to fully monitor the work carried out in sessions.",
+      "zh": "Genial Care 是拉丁美洲的醫療網路，專注於為自閉症譜系障礙（ASD）兒童及其家庭提供創新照護服務。該公司於 2020 年在巴西成立，提供結合 ABA 治療、言語治療和職能治療的多學科評估與介入服務。透過投資 Vertex AI，Genial Care 提升了涉及 ASD 兒童和其家庭的療程紀錄品質，使照護者能夠完整監控療程中的工作情況。"
+    },
+    "highlights": {
+      "en": [
+        "Uses Vertex AI to improve the quality and completeness of therapy session records for ASD children.",
+        "Enables caregivers and parents to fully monitor and review the work carried out in therapy sessions.",
+        "Offers multidisciplinary interventions including ABA therapy, speech therapy, and occupational therapy.",
+        "Raised $10 million led by General Catalyst to expand autism care services across Latin America.",
+        "Platform supports both in-clinic and remote therapy sessions for flexibility."
+      ],
+      "zh": [
+        "使用 Vertex AI 提升 ASD 兒童療程記錄的品質與完整性。",
+        "讓照護者和家長能夠完整監控和回顧療程中的工作內容。",
+        "提供多學科介入服務，包括 ABA 治療、言語治療和職能治療。",
+        "由 General Catalyst 領投獲得 1,000 萬美元，以擴展在拉丁美洲的自閉症照護服務。",
+        "平台支援診所內和遠端療程，提供靈活的服務方式。"
+      ]
+    },
+    "technologies": [
+      "Vertex AI",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Brazilian Startup Genial Care raises $10 million to help parents and caregivers of children with autism",
+        "url": "https://latinamericareports.com/brazilian-startup-genial-care-raises-10-million-to-help-parents-and-caregivers-of-children-with-autism/7394/"
+      }
+    ]
+  },
+  {
+    "id": "healthcare-life-sciences-customer-manipal-hospitals",
+    "industry": "healthcare-life-sciences",
+    "agentType": "customer",
+    "company": "Manipal Hospitals",
+    "isNew": false,
+    "summary": {
+      "en": "Manipal Hospitals uses Vertex AI and Gemini to power its ePharmacy app, cutting prescription order time from 15 minutes to under 5 minutes with 99% accuracy.",
+      "zh": "印度 Manipal Hospitals 運用 Vertex AI 和 Gemini 驅動電子藥局應用程式，將處方訂單處理時間從 15 分鐘縮短至 5 分鐘以內，並達到 99% 準確率。"
+    },
+    "overview": {
+      "en": "Manipal Hospitals is one of India's largest healthcare providers, serving over 7 million patients annually across its network. The hospital partnered with Google Cloud to build an ePharmacy app entirely on Google Cloud, using Gemini on Vertex AI for precise prescription processing and real-time data flow, supported by the Cloud Healthcare API and Apigee API Management. The platform enables patients to view prescriptions after consultations, order medications, and arrange delivery or pickup at their convenience.",
+      "zh": "Manipal Hospitals 是印度最大的醫療服務提供商之一，每年為全國網絡中的超過 700 萬名患者提供服務。醫院與 Google Cloud 合作，完全在 Google Cloud 上建構了電子藥局應用程式，使用 Vertex AI 上的 Gemini 進行精確的處方處理和即時數據流，並由 Cloud Healthcare API 和 Apigee API Management 支援。該平台讓患者可以在就診後查看處方、訂購藥物，並安排方便的取貨或配送。"
+    },
+    "highlights": {
+      "en": [
+        "Reduces average medication order time from 15 minutes to less than 5 minutes using Gemini on Vertex AI.",
+        "Achieves 99% accuracy in prescription processing and medication information transfer.",
+        "Over 100,000 patients now depend on the ePharmacy platform, with 60,000+ entries processed daily.",
+        "Built entirely on Google Cloud with Cloud Healthcare API and Apigee API Management for real-time data flow.",
+        "Google Kubernetes Engine ensures the app scales reliably to handle thousands of patients' daily medication needs."
+      ],
+      "zh": [
+        "使用 Vertex AI 上的 Gemini 將藥物訂單平均處理時間從 15 分鐘縮短至 5 分鐘以內。",
+        "處方處理和藥物資訊傳輸的準確率達到 99%。",
+        "超過 10 萬名患者依賴電子藥局平台，每日處理超過 6 萬筆訂單。",
+        "完全在 Google Cloud 上建構，搭配 Cloud Healthcare API 和 Apigee API Management 實現即時數據流。",
+        "Google Kubernetes Engine 確保應用程式能可靠地擴展，滿足數千名患者每日的用藥需求。"
+      ]
+    },
+    "technologies": [
+      "Vertex AI",
+      "Gemini",
+      "Cloud Healthcare API",
+      "Apigee",
+      "Google Kubernetes Engine",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Manipal Hospitals case study | Google Cloud",
+        "url": "https://cloud.google.com/customers/manipal-hospitals"
+      },
+      {
+        "title": "Manipal Hospitals Partners with Google Cloud to Advance AI-Driven Digital Healthcare Across India",
+        "url": "https://www.googlecloudpresscorner.com/2025-04-09-Manipal-Hospitals-Partners-with-Google-Cloud-to-Advance-AI-Driven-Digital-Healthcare-Across-India"
+      },
+      {
+        "title": "Google's genAI powers pharmacy, nurse handoff automation at Manipal Hospitals | Healthcare IT News",
+        "url": "https://www.healthcareitnews.com/news/asia/googles-genai-powers-pharmacy-nurse-handoff-automation-manipal-hospitals"
+      }
+    ]
+  },
+  {
+    "id": "healthcare-life-sciences-customer-moody-month",
+    "industry": "healthcare-life-sciences",
+    "agentType": "customer",
+    "company": "Moody Month",
+    "isNew": false,
+    "summary": {
+      "en": "Moody Month serves 100,000 women monthly with personalized hormone forecasts using Gemini 2.5 Pro and BigQuery for just £1,000/month.",
+      "zh": "Moody Month 運用 Gemini 2.5 Pro 和 BigQuery，以每月僅 £1,000 的成本為超過 10 萬名女性提供個人化荷爾蒙預測，並確保敏感健康數據安全。"
+    },
+    "overview": {
+      "en": "Moody Month is a daily health and wellness tracker used by more than 100,000 women, built entirely on Google Cloud using Cloud Run, Gemini 2.5 Pro, and BigQuery. The platform delivers personalized hormone forecasts while keeping sensitive health data secure through a privacy-first AI approach. Rather than exposing user data to LLMs directly, Moody Month uses Gemini to generate health insights from verified medical research, then applies those insights client-side. The company serves 100,000 users a month for just £1,000 using Google Cloud's scalable microservices infrastructure.",
+      "zh": "Moody Month 是一款被超過 10 萬名女性使用的日常健康追蹤應用程式，完全建構於 Google Cloud 上，使用 Cloud Run、Gemini 2.5 Pro 和 BigQuery。平台採用隱私優先的 AI 方法，在保護敏感健康數據安全的同時，提供個人化荷爾蒙預測。Moody Month 使用 Gemini 從經驗證的醫學研究中生成健康洞察，再在用戶端套用這些洞察，而不是直接將用戶數據暴露給大型語言模型。"
+    },
+    "highlights": {
+      "en": [
+        "Serves 100,000 users per month at just £1,000/month cost using Google Cloud's scalable microservices.",
+        "Uses Gemini 2.5 Pro to generate health insights from peer-reviewed research verified by medical experts.",
+        "Privacy-first architecture avoids exposing sensitive user health data directly to LLMs.",
+        "Cycle-prediction microservice on Cloud Run uses ML to forecast hormone cycle length for personalized forecasts.",
+        "Data outputs streamed into BigQuery and visualized in Looker Studio for near real-time performance monitoring."
+      ],
+      "zh": [
+        "利用 Google Cloud 的可擴展微服務架構，每月僅花費 £1,000 即可服務 10 萬名用戶。",
+        "使用 Gemini 2.5 Pro 從經醫學專家驗證的同儕審閱研究中生成健康洞察。",
+        "隱私優先的架構避免將敏感用戶健康數據直接暴露給大型語言模型。",
+        "Cloud Run 上的週期預測微服務使用機器學習預測荷爾蒙週期長度，以提供個人化預測。",
+        "數據輸出串流至 BigQuery，並在 Looker Studio 中視覺化，提供近即時的效能監控。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Cloud Run",
+      "BigQuery",
+      "Vertex AI",
+      "Looker Studio",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Moody Month case study | Google Cloud",
+        "url": "https://cloud.google.com/customers/moody-month"
+      },
+      {
+        "title": "Moody Month — Google for Startups",
+        "url": "https://startup.google.com/alumni/stories/moody-month/"
+      }
+    ]
+  },
+  {
+    "id": "healthcare-life-sciences-customer-northwell-health",
+    "industry": "healthcare-life-sciences",
+    "agentType": "customer",
+    "company": "Northwell Health",
+    "isNew": true,
+    "summary": {
+      "en": "Northwell Health leverages agentic AI built with Gemini Enterprise to redefine patient experience and optimize clinical workflows.",
+      "zh": "Northwell Health 運用 Gemini Enterprise 建構的智能代理 AI，重新定義病患體驗並優化臨床工作流程，彌合舊有系統與現代照護之間的差距。"
+    },
+    "overview": {
+      "en": "Northwell Health is one of New York's largest health systems, having established a long-standing partnership with Google Cloud. The organization leverages agentic AI built with Gemini Enterprise and Gemini Models to redefine the patient experience and optimize clinical workflows. These technologies bridge the gap between legacy systems and modern care delivery. Northwell has also used AI agents to reduce discharge planning from 150 clicks to 6 clicks, and to shorten the time for prior authorization of patient transfers from 2 hours to 6 seconds.",
+      "zh": "Northwell Health 是紐約州最大的醫療系統之一，與 Google Cloud 建立了長期合作夥伴關係。該組織運用 Gemini Enterprise 和 Gemini Models 建構的智能代理 AI，重新定義病患體驗並優化臨床工作流程。這些技術彌合了舊有系統與現代照護之間的差距。Northwell 還使用 AI 代理將出院規劃從 150 次點擊縮減到 6 次點擊，並將患者轉介至護理機構的事前授權時間從 2 小時縮短至 6 秒。"
+    },
+    "highlights": {
+      "en": [
+        "Deploys agentic AI with Gemini Enterprise to redefine patient experience and optimize clinical workflows.",
+        "AI agents reduced discharge planning workflow from 150 clicks to just 6 clicks.",
+        "Prior authorization for patient transfers to skilled nursing facilities shortened from 2 hours to 6 seconds.",
+        "Bridges the gap between legacy healthcare systems and modern care delivery at enterprise scale.",
+        "Part of Google Cloud's showcase of agentic AI healthcare partnerships at HIMSS 2026."
+      ],
+      "zh": [
+        "部署使用 Gemini Enterprise 的智能代理 AI，重新定義病患體驗並優化臨床工作流程。",
+        "AI 代理將出院規劃工作流程從 150 次點擊縮減到僅 6 次點擊。",
+        "患者轉介至護理機構的事前授權時間從 2 小時縮短至 6 秒。",
+        "在企業規模上彌合舊有醫療系統與現代照護之間的差距。",
+        "成為 Google Cloud 在 HIMSS 2026 展示智能代理 AI 醫療夥伴關係的代表案例。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Gemini Enterprise",
+      "Agentic AI",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Northwell Health Partners with Google Cloud to Provide Proactive, Personalized Healthcare",
+        "url": "https://www.prnewswire.com/news-releases/northwell-health-partners-with-google-cloud-to-provide-proactive-personalized-healthcare-301585620.html"
+      },
+      {
+        "title": "Northwell puts AI agents to work | Becker's Hospital Review",
+        "url": "https://www.beckershospitalreview.com/healthcare-information-technology/ai/northwell-puts-ai-agents-to-work/"
+      },
+      {
+        "title": "Google Cloud Showcases Agentic AI Healthcare Partnerships at HIMSS26",
+        "url": "https://hitconsultant.net/2026/03/05/google-cloud-himss-2026-agentic-ai-healthcare-gemini/"
+      }
+    ]
+  },
+  {
+    "id": "healthcare-life-sciences-customer-orby",
+    "industry": "healthcare-life-sciences",
+    "agentType": "customer",
+    "company": "Orby",
+    "isNew": false,
+    "summary": {
+      "en": "Orby combines AI and neurotechnology with Google Cloud and Gemini to create a 'digital brain' that helps patients recover lost motor skills.",
+      "zh": "Orby 結合 AI 與神經科技，運用 Google Cloud 和 Gemini 建構「數位大腦」，協助患者恢復失去的運動功能並減輕疼痛。"
+    },
+    "overview": {
+      "en": "Orby is a neurotechnology company bridging the nervous system and intelligent systems and devices. The company applies complex mathematical models, Google Cloud's IT infrastructure, and Gemini to create a 'digital brain.' Orby's non-invasive neuromodulation device applies bio-inspired signals that mimic neural activity to enable motor control and relieve pain. The integrated platform supports digital medical records, real-time therapy monitoring, and generates detailed biofeedback reports to personalize rehabilitation for each patient.",
+      "zh": "Orby 是一家神經科技公司，致力於連接神經系統與智能系統和設備。該公司應用複雜的數學模型、Google Cloud 的 IT 基礎設施和 Gemini，創建了「數位大腦」。Orby 的非侵入性神經調節設備應用模擬神經活動的仿生信號，以啟用運動控制並緩解疼痛。整合平台支援數位醫療記錄、即時療程監測，並生成詳細的生物回饋報告，為每位患者個性化復健方案。"
+    },
+    "highlights": {
+      "en": [
+        "Combines AI and neurotechnology to create a 'digital brain' for patient rehabilitation.",
+        "Non-invasive neuromodulation device uses bio-inspired signals to restore motor control and reduce pain.",
+        "Uses Gemini and Google Cloud to apply complex mathematical models for neural signal processing.",
+        "Platform supports digital medical records and real-time therapy monitoring with biofeedback reports.",
+        "Helps patients recover lost motor skills after neurological events such as stroke."
+      ],
+      "zh": [
+        "結合 AI 與神經科技，創建用於患者復健的「數位大腦」。",
+        "非侵入性神經調節設備使用仿生信號恢復運動控制並減輕疼痛。",
+        "使用 Gemini 和 Google Cloud 應用複雜的數學模型進行神經信號處理。",
+        "平台支援數位醫療記錄和即時療程監測，並提供生物回饋報告。",
+        "協助中風等神經系統事件後的患者恢復失去的運動功能。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Revolutionizing Patient Rehabilitation with Orby's Digital Brain",
+        "url": "https://usecases.ekipa.ai/healthcare/orby-digital-brain-rehabilitation"
+      },
+      {
+        "title": "Orby — Our Product",
+        "url": "https://orby-company.com/our-product/"
+      }
+    ]
+  },
+  {
+    "id": "healthcare-life-sciences-customer-pear-health-labs",
+    "industry": "healthcare-life-sciences",
+    "agentType": "customer",
+    "company": "Pear Health Labs",
+    "isNew": false,
+    "summary": {
+      "en": "Pear Health Labs uses Vertex AI Voice Generation and BigQuery Vector Search to deliver personalized audio fitness coaching and prevent chronic conditions.",
+      "zh": "Pear Health Labs 運用 Vertex AI 語音生成和 BigQuery 向量搜尋，為用戶提供個人化語音健身指導，以預防慢性疾病的發生。"
+    },
+    "overview": {
+      "en": "Pear Health Labs is a health and fitness AI platform that develops personalized interventions to prevent chronic conditions. The company partnered with Google Cloud to enhance its Aaptiv app with Vertex AI-powered personalized recommendations, content search using BigQuery Vector Search, and dynamic audio coaching powered by Vertex AI Voice Generation. The engineering team also leverages Gemini Code Assist to accelerate development. The platform's AI assistant AVA understands complex natural-language user requests and provides personalized workout recommendations tailored to individual needs.",
+      "zh": "Pear Health Labs 是一個健康與健身 AI 平台，開發個人化介入方案以預防慢性疾病。該公司與 Google Cloud 合作，透過 Vertex AI 驅動的個人化推薦、使用 BigQuery 向量搜尋的內容搜尋，以及由 Vertex AI 語音生成技術驅動的動態語音指導，增強了 Aaptiv 應用程式的功能。工程團隊也利用 Gemini Code Assist 加速開發流程。"
+    },
+    "highlights": {
+      "en": [
+        "Uses Vertex AI Voice Generation (Cloud Text-to-Speech) for seamless, human-like audio coaching interactions.",
+        "Implements BigQuery Vector Search for personalized content discovery and workout recommendations.",
+        "AI assistant AVA understands complex natural-language requests to deliver personalized health coaching.",
+        "Engineering team uses Gemini Code Assist to accelerate platform development.",
+        "Consolidated data and AI infrastructure on Google Cloud using BigQuery and Vertex AI for scalable precision health coaching."
+      ],
+      "zh": [
+        "使用 Vertex AI 語音生成（Cloud Text-to-Speech）實現流暢、擬人化的語音指導互動。",
+        "實施 BigQuery 向量搜尋，用於個人化內容探索和健身推薦。",
+        "AI 助理 AVA 理解複雜的自然語言請求，提供個人化的健康指導。",
+        "工程團隊使用 Gemini Code Assist 加速平台開發。",
+        "在 Google Cloud 上整合數據和 AI 基礎設施，利用 BigQuery 和 Vertex AI 提供可擴展的精準健康指導。"
+      ]
+    },
+    "technologies": [
+      "Vertex AI",
+      "Vertex AI Voice Generation",
+      "BigQuery",
+      "Gemini Code Assist",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "PEAR Health Labs case study | Google Cloud",
+        "url": "https://cloud.google.com/customers/pearhealth"
+      },
+      {
+        "title": "PEAR Health Labs partners with Google Cloud to enhance personalized fitness experience with generative AI",
+        "url": "https://pearhealthlabs.com/press-releases/google-cloud-partnership/"
+      },
+      {
+        "title": "Fitness Apps Are Becoming More 'Human-Like' Thanks to AI | Athletech News",
+        "url": "https://athletechnews.com/fitness-apps-more-humanlike-ai-pear-health-labs-google/"
+      }
+    ]
+  },
+  {
+    "id": "healthcare-life-sciences-customer-quest-diagnostics",
+    "industry": "healthcare-life-sciences",
+    "agentType": "customer",
+    "company": "Quest Diagnostics",
+    "isNew": true,
+    "summary": {
+      "en": "Quest Diagnostics launched Quest AI Companion, powered by Google Gemini, to help patients understand up to five years of personal lab data in their secure MyQuest portal.",
+      "zh": "Quest Diagnostics 推出由 Google Gemini 驅動的 Quest AI Companion，讓患者可在安全的 MyQuest 入口中分析長達五年的個人實驗室數據，理解檢查結果。"
+    },
+    "overview": {
+      "en": "Quest Diagnostics launched Quest AI Companion in March 2026, an AI-powered chat feature integrated into its secure MyQuest patient portal. Powered by Google's Gemini family of models through a strategic Google Cloud collaboration established in March 2025, the tool enables patients to analyze up to five years of personal lab data to understand test results, identify health trends, and compose informed questions for their healthcare providers. The HIPAA-compliant solution ensures sensitive health data is never exposed to public AI tools.",
+      "zh": "Quest Diagnostics 於 2026 年 3 月推出 Quest AI Companion，這是一個整合到其安全 MyQuest 患者入口的 AI 聊天功能。透過 2025 年 3 月建立的 Google Cloud 戰略合作，由 Google Gemini 系列模型提供支援，該工具讓患者能夠分析長達五年的個人實驗室數據，以理解檢查結果、識別健康趨勢，並為與醫療服務提供者的對話準備有根據的問題。符合 HIPAA 標準的解決方案確保敏感健康數據不會暴露於公共 AI 工具中。"
+    },
+    "highlights": {
+      "en": [
+        "Quest AI Companion analyzes up to five years of personal lab data from the secure MyQuest patient portal.",
+        "Powered by Google Gemini family of models through a strategic Google Cloud partnership established March 2025.",
+        "Helps patients understand test results, translate medical terminology, and identify health trends.",
+        "Assists patients in composing informed questions to ask their healthcare providers.",
+        "HIPAA-compliant design keeps sensitive health data secure within the MyQuest platform, avoiding public AI exposure."
+      ],
+      "zh": [
+        "Quest AI Companion 可從安全的 MyQuest 患者入口分析長達五年的個人實驗室數據。",
+        "透過 2025 年 3 月建立的 Google Cloud 戰略合作夥伴關係，由 Google Gemini 系列模型提供支援。",
+        "協助患者理解檢查結果、翻譯醫學術語，並識別健康趨勢。",
+        "協助患者準備與醫療服務提供者對話時要問的有根據的問題。",
+        "符合 HIPAA 標準的設計確保敏感健康數據在 MyQuest 平台內的安全，避免暴露於公共 AI 工具。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Quest Diagnostics Introduces AI Companion to Help Patients Understand and Act on Lab Test Results",
+        "url": "https://newsroom.questdiagnostics.com/2026-03-02-Quest-Diagnostics-Introduces-AI-Companion-to-Help-Patients-Understand-and-Act-on-Lab-Test-Results"
+      },
+      {
+        "title": "Quest Diagnostics Introduces AI Companion — PR Newswire",
+        "url": "https://www.prnewswire.com/news-releases/quest-diagnostics-introduces-ai-companion-to-help-patients-understand-and-act-on-lab-test-results-302700483.html"
+      },
+      {
+        "title": "Quest Diagnostics Launches AI Companion for Lab Results | Digital Health News",
+        "url": "https://www.digitalhealthnews.com/quest-diagnostics-launches-ai-companion-to-help-patients-interpret-lab-test-results"
+      }
+    ]
+  }
+]

@@ -1,0 +1,1439 @@
+[
+  {
+    "id": "business-professional-services-employee-inspira",
+    "industry": "business-professional-services",
+    "agentType": "employee",
+    "company": "Inspira",
+    "isNew": false,
+    "summary": {
+      "en": "Inspira's AI platform cuts legal document workflow times by 80% using Gemini and Vertex AI.",
+      "zh": "Inspira 法律科技平台結合 Gemini 與 Vertex AI，將法律文件工作流程時間縮短 80%。"
+    },
+    "overview": {
+      "en": "Inspira is a legal tech company that addresses the time-intensive challenge of legal document analysis by providing lawyers with an AI-powered solution built on Google Cloud. Leveraging Gemini, Vertex AI, and BigQuery, Inspira's platform automates legal document search, analysis, and drafting. As a result, lawyers can find answers and relevant decisions in minutes or hours instead of weeks.",
+      "zh": "Inspira 是一家法律科技公司，透過建立於 Google Cloud 之上的 AI 解決方案，解決法律文件分析費時的挑戰。平台結合 Gemini、Vertex AI 與 BigQuery，自動化法律文件搜尋、分析與起草流程，使律師能在數分鐘或數小時內找到答案，而非耗費數週。"
+    },
+    "highlights": {
+      "en": [
+        "Reduces legal document workflow times by 80%, enabling faster case resolution.",
+        "Automates search, analysis, and drafting of legal documents using Gemini and Vertex AI.",
+        "Lawyers can find relevant decisions in minutes or hours instead of weeks.",
+        "Entire platform is built on Google Cloud, leveraging BigQuery for large-scale data processing."
+      ],
+      "zh": [
+        "法律文件工作流程時間縮短 80%，加速案件處理速度。",
+        "利用 Gemini 和 Vertex AI 自動化法律文件的搜尋、分析與起草。",
+        "律師可在數分鐘或數小時內找到相關判決，而非花費數週。",
+        "整個平台建立於 Google Cloud 之上，並使用 BigQuery 進行大規模資料處理。"
+      ]
+    },
+    "technologies": ["Gemini", "Vertex AI", "BigQuery", "Google Cloud"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "business-professional-services-employee-instalily",
+    "industry": "business-professional-services",
+    "agentType": "employee",
+    "company": "Instalily",
+    "isNew": false,
+    "summary": {
+      "en": "Instalily's InstaWorkers cut field service diagnosis time from 15 minutes to under 10 seconds using Gemini 2.5.",
+      "zh": "Instalily 的 InstaWorkers 利用 Gemini 2.5，將現場服務診斷時間從 15 分鐘縮短至 10 秒以內。"
+    },
+    "overview": {
+      "en": "Instalily uses Google Cloud with Gemini 2.5 and Vertex AI to power InstaWorkers, AI agents that transform sales, service, and operations. At a leading field service provider, InstaWorkers achieved a dramatic reduction in technician diagnosis times while simultaneously cutting serving costs. The system went from prototype to production in just four weeks, a process that would normally take months.",
+      "zh": "Instalily 使用 Google Cloud 結合 Gemini 2.5 與 Vertex AI，驅動 InstaWorkers 智能代理，改變銷售、服務與營運流程。在一家領先的現場服務提供商中，InstaWorkers 大幅縮短技術人員的診斷時間並降低服務成本。該系統從原型到正式上線僅花費四週，遠快於一般所需的數月時間。"
+    },
+    "highlights": {
+      "en": [
+        "Technician diagnosis time reduced from 15 minutes to under 10 seconds at a leading field service provider.",
+        "Serving costs lowered by 98%, delivering significant operational savings.",
+        "End-to-end workflow speed improved by 99%.",
+        "Prototype to production achieved in just four weeks using Gemini 2.5 and Vertex AI.",
+        "InstaWorkers agents support sales, service, and operations across business functions."
+      ],
+      "zh": [
+        "技術人員診斷時間從 15 分鐘縮短至 10 秒以內。",
+        "服務成本降低 98%，帶來顯著的營運節省。",
+        "端到端工作流程速度提升 99%。",
+        "利用 Gemini 2.5 和 Vertex AI，僅需四週即可從原型到正式上線。",
+        "InstaWorkers 代理支援銷售、服務與各業務職能的營運。"
+      ]
+    },
+    "technologies": ["Gemini 2.5", "Vertex AI", "Google Cloud"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "InstaLILY powered by Gemini: Accelerating Agentic AI at Scale",
+        "url": "https://instalily.ai/news/gemini-api"
+      },
+      {
+        "title": "Google AI Studio — Instalily showcase",
+        "url": "https://ai.google.dev/showcase/instalily"
+      }
+    ]
+  },
+  {
+    "id": "business-professional-services-employee-iron-mountain",
+    "industry": "business-professional-services",
+    "agentType": "employee",
+    "company": "Iron Mountain",
+    "isNew": true,
+    "summary": {
+      "en": "Iron Mountain's InSight DXP AI Agent bridges Gemini Enterprise with managed content for instant document Q&A.",
+      "zh": "Iron Mountain 的 InSight DXP AI Agent 整合 Gemini Enterprise 與託管內容，實現即時文件問答。"
+    },
+    "overview": {
+      "en": "Iron Mountain's InSight DXP AI Agent bridges Gemini Enterprise and managed content libraries for unified search and AI-powered Q&A. The agent is available on Google Cloud Marketplace and allows users to interact with their content using natural language while maintaining strict records management and compliance standards. The platform reduces hours of manual document review to seconds of conversational inquiry.",
+      "zh": "Iron Mountain 的 InSight DXP AI Agent 整合 Gemini Enterprise 與託管內容庫，提供統一搜尋和 AI 問答功能。該代理已在 Google Cloud Marketplace 上架，讓使用者以自然語言與內容互動，同時維持嚴格的檔案管理和合規標準。平台將數小時的人工文件審查縮短為秒級的對話式查詢。"
+    },
+    "highlights": {
+      "en": [
+        "InSight DXP AI Agent integrates Gemini Enterprise with enterprise content libraries for natural-language Q&A.",
+        "Reduces manual document review from hours to seconds via conversational AI.",
+        "Available on Google Cloud Marketplace, supporting compliance and records management standards.",
+        "Leverages knowledge graphs and ontology-based approach to reveal hidden patterns in data.",
+        "Iron Mountain was named 2026 Google Cloud Partner of the Year for Business Applications."
+      ],
+      "zh": [
+        "InSight DXP AI Agent 整合 Gemini Enterprise 與企業內容庫，支援自然語言問答。",
+        "透過對話式 AI 將人工文件審查從數小時縮短至秒級。",
+        "已上架 Google Cloud Marketplace，支援合規與檔案管理標準。",
+        "利用知識圖譜和基於本體論的方法，發掘資料中隱藏的規律。",
+        "Iron Mountain 榮獲 2026 年 Google Cloud 商業應用年度合作夥伴獎。"
+      ]
+    },
+    "technologies": ["Gemini Enterprise", "Google Cloud Marketplace", "Google Cloud"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Partner-built agents available in Gemini Enterprise | Google Cloud Blog",
+        "url": "https://cloud.google.com/blog/products/ai-machine-learning/partner-built-agents-available-in-gemini-enterprise"
+      },
+      {
+        "title": "The rise of AI agents in Iron Mountain InSight DXP",
+        "url": "https://www.ironmountain.com/resources/landing-pages/a/ai-agents-series"
+      }
+    ]
+  },
+  {
+    "id": "business-professional-services-employee-joe-the-architect",
+    "industry": "business-professional-services",
+    "agentType": "employee",
+    "company": "Joe the Architect",
+    "isNew": false,
+    "summary": {
+      "en": "Joe the Architect uses Gemini in Gmail to efficiently track client needs across dozens of email chains.",
+      "zh": "Joe the Architect 使用 Gmail 中的 Gemini，有效追蹤數十個郵件串中的客戶需求。"
+    },
+    "overview": {
+      "en": "Joe the Architect is a 25-person architecture firm that uses Gemini in Gmail to catch up on long email chains and keep track of client needs across dozens of conversations. By leveraging AI to summarize and surface key information from complex email threads, the small firm can maintain oversight of multiple client projects simultaneously without losing critical details.",
+      "zh": "Joe the Architect 是一家 25 人的建築事務所，利用 Gmail 中的 Gemini 快速掌握冗長的郵件串，追蹤數十個對話中的客戶需求。透過 AI 摘要和提取複雜郵件串中的關鍵資訊，這家小型事務所能同時追蹤多個客戶專案，不遺漏任何重要細節。"
+    },
+    "highlights": {
+      "en": [
+        "Uses Gemini in Gmail to summarize long email chains and extract client needs efficiently.",
+        "Enables a small 25-person firm to manage multiple client projects simultaneously.",
+        "Reduces time spent manually reading through extensive email threads.",
+        "Helps maintain alignment on client requirements across dozens of ongoing conversations."
+      ],
+      "zh": [
+        "使用 Gmail 中的 Gemini 摘要冗長郵件串，有效提取客戶需求。",
+        "讓 25 人的小型事務所能同時管理多個客戶專案。",
+        "減少人工閱讀大量郵件串所花費的時間。",
+        "協助在數十個進行中的對話中保持客戶需求的一致性。"
+      ]
+    },
+    "technologies": ["Gemini", "Google Workspace", "Gmail"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "business-professional-services-employee-jusbrasil",
+    "industry": "business-professional-services",
+    "agentType": "employee",
+    "company": "Jusbrasil",
+    "isNew": true,
+    "summary": {
+      "en": "Jusbrasil's Jus IA automates legal research and drafting in seconds using Gemini and 1.2 billion legal documents.",
+      "zh": "Jusbrasil 的 Jus IA 結合 Gemini 與 12 億份法律文件，在數秒內自動完成法律研究與起草。"
+    },
+    "overview": {
+      "en": "Jusbrasil, a leading legal intelligence platform in Brazil, launched Jus IA, a legal assistant powered by Gemini. The platform leverages over 1.2 billion documents to provide lawyers with intelligent answers based on Brazilian legal standards, decisions, and case law. Jus IA automates legal research and drafting in seconds, minimizing errors and eliminating repetitive tasks for legal professionals.",
+      "zh": "Jusbrasil 是巴西領先的法律智慧平台，推出了由 Gemini 驅動的法律助理 Jus IA。平台利用超過 12 億份文件，為律師提供基於巴西法律標準、判決和判例法的智慧答案。Jus IA 能在數秒內自動完成法律研究與起草，最大限度地減少錯誤並消除重複性工作。"
+    },
+    "highlights": {
+      "en": [
+        "Leverages a database of over 1.2 billion legal documents—the largest in Brazil—for AI-powered legal research.",
+        "Jus IA automates legal research, document drafting, and reference analysis in seconds.",
+        "Powered by Gemini, enabling highly accurate, context-aware answers grounded in Brazilian law.",
+        "Monthly active user base of 300,000 lawyers, demonstrating rapid adoption.",
+        "Minimizes errors and eliminates repetitive legal tasks for practitioners."
+      ],
+      "zh": [
+        "利用超過 12 億份法律文件的資料庫（巴西最大）進行 AI 法律研究。",
+        "Jus IA 在數秒內自動完成法律研究、文件起草和參考文獻分析。",
+        "由 Gemini 驅動，提供基於巴西法律的高準確度、情境感知答案。",
+        "每月活躍用戶達 30 萬名律師，顯示出快速的採用率。",
+        "最大限度減少錯誤，消除法律工作者的重複性任務。"
+      ]
+    },
+    "technologies": ["Gemini", "Google Cloud"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Jusbrasil launches Jus IA to increase confidence in the use of AI in law",
+        "url": "https://tiinside.com.br/en/20/03/2025/jusbrasil-lanca-jus-ia-para-aumentar-a-confianca-no-uso-de-inteligencia-artificial-no-direito/"
+      },
+      {
+        "title": "Google Cloud Brings a New Era of AI Innovation to Brazil",
+        "url": "https://www.googlecloudpresscorner.com/2025-09-10-Google-Cloud-Brings-a-New-Era-of-AI-Innovation-to-Brazil"
+      }
+    ]
+  },
+  {
+    "id": "business-professional-services-employee-kpmg",
+    "industry": "business-professional-services",
+    "agentType": "employee",
+    "company": "KPMG",
+    "isNew": false,
+    "summary": {
+      "en": "KPMG integrates Google AI into its new law firm, banking AI transformation, and Agentspace-powered workplace.",
+      "zh": "KPMG 將 Google AI 整合至其新法律事務所、銀行業 AI 轉型，以及以 Agentspace 強化的工作場所。"
+    },
+    "overview": {
+      "en": "KPMG is building Google AI into its newly formed KPMG Law firm and driving AI transformation within the banking industry. The firm has also implemented Google Agentspace to enhance its own workplace operations, expanding its strategic AI collaboration with Google Cloud as a key deployment partner. KPMG has deployed Gemini Enterprise to over 55,000 professionals globally.",
+      "zh": "KPMG 將 Google AI 整合至其新成立的 KPMG Law 法律事務所，並在銀行業推動 AI 轉型。公司同時導入 Google Agentspace 以強化自身的工作場所營運，成為 Google Cloud 的重要部署合作夥伴。KPMG 已將 Gemini Enterprise 部署至全球超過 55,000 名專業人員。"
+    },
+    "highlights": {
+      "en": [
+        "Integrated Google AI into KPMG Law, a newly formed legal services practice.",
+        "Driving AI transformation for banking industry clients using Google Cloud and Gemini.",
+        "Became a key deployment partner for Google Agentspace, adopting it internally and for clients.",
+        "Deployed Gemini Enterprise to over 55,000 professionals globally.",
+        "Leveraging Agentspace to drive employee experience from onboarding to performance management."
+      ],
+      "zh": [
+        "將 Google AI 整合至新成立的 KPMG Law 法律服務部門。",
+        "使用 Google Cloud 和 Gemini 為銀行業客戶推動 AI 轉型。",
+        "成為 Google Agentspace 的重要部署合作夥伴，在內部和客戶中採用。",
+        "將 Gemini Enterprise 部署至全球超過 55,000 名專業人員。",
+        "利用 Agentspace 推動員工體驗，從入職到績效管理。"
+      ]
+    },
+    "technologies": ["Gemini Enterprise", "Google Agentspace", "Google Cloud"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "KPMG Expands AI Alliance with Google Cloud to Support Industry Adoption of Agentspace",
+        "url": "https://kpmg.com/us/en/media/news/kpmg-google-cloud-alliance-expansion-agentspace-adoption.html"
+      },
+      {
+        "title": "KPMG Elevates Employee Experience and Client Solutions with Firm-Wide Adoption of Gemini Enterprise",
+        "url": "https://kpmg.com/us/en/media/news/kpmg-firmwide-adoption-gemini-enterprise.html"
+      }
+    ]
+  },
+  {
+    "id": "business-professional-services-employee-kpmg-2",
+    "industry": "business-professional-services",
+    "agentType": "employee",
+    "company": "KPMG",
+    "isNew": true,
+    "summary": {
+      "en": "KPMG achieved 90% Gemini Enterprise adoption with over 100 AI agents deployed in the first month.",
+      "zh": "KPMG 在第一個月內實現 90% 的 Gemini Enterprise 採用率，並部署超過 100 個 AI 代理。"
+    },
+    "overview": {
+      "en": "KPMG achieved nearly 90% Gemini Enterprise adoption within two weeks of launch, with nearly 700 no-code AI agents created by employees since deployment. The firm deployed Gemini Enterprise to over 55,000 professionals globally to better serve its global clients. This rapid adoption demonstrates KPMG's commitment to becoming an AI-first professional services organization.",
+      "zh": "KPMG 在 Gemini Enterprise 推出後兩週內實現近 90% 的採用率，員工自行創建了近 700 個無程式碼 AI 代理。公司將 Gemini Enterprise 部署至全球超過 55,000 名專業人員，以更好地服務全球客戶。這一快速採用率展示了 KPMG 成為 AI 優先專業服務機構的決心。"
+    },
+    "highlights": {
+      "en": [
+        "Nearly 90% of KPMG employees adopted Gemini Enterprise within two weeks of launch.",
+        "Nearly 700 no-code AI agents created by employees across business functions.",
+        "Gemini Enterprise deployed to over 55,000 professionals globally.",
+        "Employees are building agents to streamline onboarding, performance management, and client work.",
+        "KPMG named 2026 Google Cloud Partner of the Year for Global Industry Solutions: Breakthrough."
+      ],
+      "zh": [
+        "Gemini Enterprise 推出後兩週內，KPMG 近 90% 的員工完成採用。",
+        "員工自行在各業務職能中創建了近 700 個無程式碼 AI 代理。",
+        "Gemini Enterprise 已部署至全球超過 55,000 名專業人員。",
+        "員工正在打造代理以簡化入職、績效管理和客戶工作。",
+        "KPMG 榮獲 2026 年 Google Cloud 全球行業解決方案突破獎年度合作夥伴。"
+      ]
+    },
+    "technologies": ["Gemini Enterprise", "Google Agentspace", "Google Cloud"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "KPMG Elevates Employee Experience and Client Solutions with Firm-Wide Adoption of Gemini Enterprise",
+        "url": "https://kpmg.com/us/en/media/news/kpmg-firmwide-adoption-gemini-enterprise.html"
+      },
+      {
+        "title": "KPMG named 2026 Google Cloud Partner of the Year for Global Industry Solutions: Breakthrough",
+        "url": "https://kpmg.com/xx/en/media/press-releases/2026/04/kpmg-named-2026-google-cloud-partner-of-the-year-for-global-industry-solutions-breakthrough.html"
+      }
+    ]
+  },
+  {
+    "id": "business-professional-services-employee-l-r",
+    "industry": "business-professional-services",
+    "agentType": "employee",
+    "company": "L+R",
+    "isNew": false,
+    "summary": {
+      "en": "L+R uses Gemini for Google Workspace to streamline workflows and elevate performance across its design and tech agency.",
+      "zh": "L+R 使用 Gemini for Google Workspace 簡化工作流程，提升設計與科技機構的整體績效。"
+    },
+    "overview": {
+      "en": "L+R, a design and technology agency, leverages Gemini for Google Workspace to elevate performance and precision across its team. The AI tools streamline workflows and empower team members to achieve more impactful results in their client engagements. By integrating Gemini into daily operations, L+R enhances collaboration and reduces time spent on repetitive tasks.",
+      "zh": "L+R 是一家設計與科技機構，利用 Gemini for Google Workspace 提升整個團隊的績效和精確度。AI 工具簡化工作流程，賦能團隊成員在客戶互動中取得更有影響力的成果。透過將 Gemini 整合至日常營運，L+R 強化了協作並減少在重複性任務上花費的時間。"
+    },
+    "highlights": {
+      "en": [
+        "Leverages Gemini for Google Workspace to streamline creative and operational workflows.",
+        "Empowers team members to elevate performance and precision in client deliverables.",
+        "Reduces time on repetitive tasks, enabling focus on high-impact creative work.",
+        "Integrates AI across agency functions to improve collaboration and output quality."
+      ],
+      "zh": [
+        "利用 Gemini for Google Workspace 簡化創意和營運工作流程。",
+        "賦能團隊成員提升客戶交付物的績效和精確度。",
+        "減少重複性任務所耗費的時間，讓團隊專注於高影響力的創意工作。",
+        "在機構各職能中整合 AI，提升協作效率和輸出品質。"
+      ]
+    },
+    "technologies": ["Gemini", "Google Workspace"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "business-professional-services-employee-lumapps",
+    "industry": "business-professional-services",
+    "agentType": "employee",
+    "company": "LumApps",
+    "isNew": true,
+    "summary": {
+      "en": "LumApps AI Agent helps employees retrieve company knowledge, trigger workflows, and complete enterprise tasks.",
+      "zh": "LumApps AI Agent 協助員工檢索公司知識、觸發工作流程並完成企業任務。"
+    },
+    "overview": {
+      "en": "LumApps launched its AI Agent Hub to help organizations retrieve company knowledge and announcements, trigger workflows, and complete tasks across enterprise systems. The platform integrates with Microsoft 365, Google Workspace, ServiceNow, Workday, and other enterprise tools. LumApps uses Vertex AI for Google Workspace customers and provides a Smart Orchestrator that routes requests to the right system or agent.",
+      "zh": "LumApps 推出 AI Agent Hub，協助企業檢索公司知識和公告、觸發工作流程，並跨企業系統完成任務。平台整合了 Microsoft 365、Google Workspace、ServiceNow、Workday 等企業工具。LumApps 為 Google Workspace 客戶提供 Vertex AI 支援，並提供智慧協調器，將請求路由至正確的系統或代理。"
+    },
+    "highlights": {
+      "en": [
+        "Agent Hub unifies access to AI agents, workflows, and enterprise systems in one governed workspace.",
+        "Smart Orchestrator routes employee requests to the correct system or agent automatically.",
+        "Integrates with Google Workspace, Microsoft 365, ServiceNow, Workday, and more.",
+        "Uses Vertex AI for Google Workspace customers for AI capabilities.",
+        "Supports both desk-based and frontline employees with role-specific agents."
+      ],
+      "zh": [
+        "Agent Hub 在統一的治理工作空間中整合 AI 代理、工作流程和企業系統。",
+        "智慧協調器自動將員工請求路由至正確的系統或代理。",
+        "整合 Google Workspace、Microsoft 365、ServiceNow、Workday 等平台。",
+        "為 Google Workspace 客戶提供 Vertex AI 驅動的 AI 功能。",
+        "為辦公桌員工和一線員工提供特定角色的代理支援。"
+      ]
+    },
+    "technologies": ["Vertex AI", "Google Workspace", "Google Cloud"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "LumApps Launches Agent Hub, Defining the AI-Powered Employee Hub Category",
+        "url": "https://www.lumapps.com/insights/press-releases/lumapps-launches-agent-hub-defining-the-ai-powered-employee-hub-category"
+      }
+    ]
+  },
+  {
+    "id": "business-professional-services-employee-markups-ai",
+    "industry": "business-professional-services",
+    "agentType": "employee",
+    "company": "Markups.ai",
+    "isNew": false,
+    "summary": {
+      "en": "Markups.ai turns days-long contract reviews into a minutes-long automated process using Gemini 2.5 Pro.",
+      "zh": "Markups.ai 利用 Gemini 2.5 Pro 將耗時數天的合約審查轉變為數分鐘的自動化流程。"
+    },
+    "overview": {
+      "en": "Markups.ai is an AI contract negotiation agent that transforms lengthy legal reviews into a rapid automated process. By simply emailing a contract, clients receive customized revisions and analysis almost instantly. Gemini 2.5 Pro enabled Markups.ai to expand from handling only first revisions of NDAs to supporting any revision of any contract type, including MSAs, DPAs, and more.",
+      "zh": "Markups.ai 是一個 AI 合約談判代理，將漫長的法律審查轉變為快速的自動化流程。客戶只需以電子郵件傳送合約，即可幾乎立即收到客製化的修訂和分析。Gemini 2.5 Pro 使 Markups.ai 從僅處理 NDA 的首次修訂，擴展至支援任何合約類型（包括 MSA、DPA 等）的任意修訂。"
+    },
+    "highlights": {
+      "en": [
+        "Converts days-long human legal contract review into a minutes-long automated process.",
+        "Clients email contracts and receive customized revisions and analysis almost instantly.",
+        "Gemini 2.5 Pro expanded coverage from NDA first revisions to any revision of any contract type.",
+        "Handles MSAs, DPAs, NDAs, and other complex agreement types.",
+        "Custom AI playbooks built by legal engineers ensure compliance with each client's negotiation standards."
+      ],
+      "zh": [
+        "將耗時數天的人工合約審查轉變為數分鐘的自動化流程。",
+        "客戶以電子郵件傳送合約，幾乎立即收到客製化修訂和分析。",
+        "Gemini 2.5 Pro 將覆蓋範圍從 NDA 首次修訂擴展至任何合約類型的任意修訂。",
+        "支援 MSA、DPA、NDA 及其他複雜協議類型。",
+        "法律工程師打造的自訂 AI 劇本確保符合每個客戶的談判標準。"
+      ]
+    },
+    "technologies": ["Gemini 2.5 Pro", "Google Cloud"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "How Google Cloud's AI tech stack powers today's startups | Google Cloud Blog",
+        "url": "https://cloud.google.com/blog/topics/startups/differentiated-ai-tech-stack-drives-startup-innovation-google-builders-forum"
+      },
+      {
+        "title": "Markups.ai — AI Contract Negotiation Agent",
+        "url": "https://www.markups.ai/"
+      }
+    ]
+  },
+  {
+    "id": "business-professional-services-employee-mas",
+    "industry": "business-professional-services",
+    "agentType": "employee",
+    "company": "MAS",
+    "isNew": false,
+    "summary": {
+      "en": "MAS, a global experiential marketing agency, uses Gemini's 'help me write' and 'take notes for me' to iterate faster in creative workflows.",
+      "zh": "全球體驗行銷機構 MAS 使用 Gemini 的「協助撰寫」和「為我記錄」功能，加快創意工作流程的迭代速度。"
+    },
+    "overview": {
+      "en": "MAS, a global experiential marketing agency, uses Gemini's 'help me write' and 'take notes for me' features to iterate faster in creative workflows. The AI tools help the team work more efficiently while maintaining their 'one brain' collaborative approach. By integrating Gemini into day-to-day activities, MAS accelerates content creation and meeting documentation without sacrificing the creativity and cohesion that defines the agency.",
+      "zh": "全球體驗行銷機構 MAS 使用 Gemini 的「協助撰寫」和「為我記錄」功能，加快創意工作流程的迭代速度。AI 工具幫助團隊在保持「一個大腦」協作方式的同時提高工作效率。透過將 Gemini 整合至日常工作，MAS 加快了內容創作和會議記錄，而不犧牲定義該機構的創造力和凝聚力。"
+    },
+    "highlights": {
+      "en": [
+        "Uses Gemini's 'help me write' feature to accelerate creative content generation.",
+        "Uses Gemini's 'take notes for me' feature to streamline meeting documentation.",
+        "Maintains the agency's 'one brain' collaborative culture while improving efficiency.",
+        "Enables faster iteration in creative workflows without compromising output quality."
+      ],
+      "zh": [
+        "使用 Gemini 的「協助撰寫」功能加快創意內容生成。",
+        "使用 Gemini 的「為我記錄」功能簡化會議文件記錄。",
+        "在提高效率的同時保持機構的「一個大腦」協作文化。",
+        "在不影響輸出品質的前提下，加快創意工作流程的迭代速度。"
+      ]
+    },
+    "technologies": ["Gemini", "Google Workspace"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "business-professional-services-employee-merge",
+    "industry": "business-professional-services",
+    "agentType": "employee",
+    "company": "MERGE",
+    "isNew": false,
+    "summary": {
+      "en": "MERGE improved client turnaround times by 33% using Gemini in Google Docs for real-time collaboration.",
+      "zh": "MERGE 利用 Google Docs 中的 Gemini 進行即時協作，將客戶交付週期縮短了 33%。"
+    },
+    "overview": {
+      "en": "MERGE, a marketing and technology agency serving health and wellness brands, uses Gemini to summarize meetings with clear action items and collaborate with clients in real time in Google Docs. The real-time collaboration ensures alignment and saves hours on content rework, contributing to a 33% improvement in turnaround times. Gemini has become MERGE's most-used Workspace application, with 100% early uptake in Gemini utilization among pilot participants.",
+      "zh": "MERGE 是一家服務健康與保健品牌的行銷與科技機構，使用 Gemini 摘要會議內容並生成明確的行動事項，同時在 Google Docs 中與客戶進行即時協作。即時協作確保了一致性，節省了數小時的內容返工時間，使交付週期縮短 33%。Gemini 已成為 MERGE 最常使用的 Workspace 應用，試點參與者的早期採用率達 100%。"
+    },
+    "highlights": {
+      "en": [
+        "Achieved 33% improvement in client turnaround times through Gemini-powered collaboration.",
+        "Uses Gemini to summarize meetings with clear action items, reducing manual documentation time.",
+        "Real-time Google Docs collaboration with clients minimizes content rework and miscommunication.",
+        "Gemini became MERGE's most-used Workspace application with 100% early pilot uptake.",
+        "Enables faster content production, stronger client alignment, and reduced rework cycles."
+      ],
+      "zh": [
+        "透過 Gemini 驅動的協作，客戶交付週期改善 33%。",
+        "使用 Gemini 摘要會議內容並生成明確行動事項，減少人工記錄時間。",
+        "與客戶在 Google Docs 中即時協作，減少內容返工和溝通誤解。",
+        "Gemini 成為 MERGE 最常使用的 Workspace 應用，試點早期採用率達 100%。",
+        "加快內容生產、強化客戶一致性，減少返工循環。"
+      ]
+    },
+    "technologies": ["Gemini", "Google Workspace", "Google Docs"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Google Workspace with Gemini allows MERGE to build a more innovative, effective, and creative team",
+        "url": "https://workspace.google.com/blog/customer-stories/google-workspace-gemini-allows-merge-build-innovative-effective-and-creative-team"
+      },
+      {
+        "title": "Achieving 33% Faster Results: MERGE's Journey with Gemini",
+        "url": "https://www.mergeworld.com/about/agency-updates/2025/achieving-33-faster-results-merges-journey-with-gemini"
+      }
+    ]
+  },
+  {
+    "id": "business-professional-services-employee-monks",
+    "industry": "business-professional-services",
+    "agentType": "employee",
+    "company": "Monks",
+    "isNew": false,
+    "summary": {
+      "en": "Monks used Google Gemini to deliver an 80% click-through rate improvement and 97% cost reduction for Hatch's ad campaign.",
+      "zh": "Monks 運用 Google Gemini 為 Hatch 的廣告活動實現點擊率提升 80%，成本降低 97%。"
+    },
+    "overview": {
+      "en": "Monks, a digital-first marketing provider, used Google Gemini to help Hatch—a sleep wellness company—build a personalized ad campaign called 'The Everything Machine.' The team used Gemini to role-play customer personas (Stressed Professional, Biohacker, Wellness Enthusiast) and create highly targeted creative assets, then deployed the campaign via Google's Performance Max across Google properties.",
+      "zh": "Monks 是一家數位優先的行銷服務商，使用 Google Gemini 協助睡眠健康公司 Hatch 打造名為「Everything Machine」的個人化廣告活動。團隊使用 Gemini 扮演客戶角色（壓力型專業人士、生物駭客、健康愛好者），創建高度精準的創意素材，並透過 Google 的 Performance Max 在 Google 各平台上發布活動。"
+    },
+    "highlights": {
+      "en": [
+        "Campaign delivered an 80% improved click-through rate compared to other campaigns.",
+        "Achieved 46% more engaged site visitors from targeted audience segments.",
+        "Improved cost-per-purchase by 31% versus traditional campaign approaches.",
+        "Reduced time investment by 50% and cut campaign production costs by 97% using AI.",
+        "Gemini enabled persona development and personalized creative asset generation at scale."
+      ],
+      "zh": [
+        "活動的點擊率比其他活動提升 80%。",
+        "目標受眾區塊的網站訪客參與度提升 46%。",
+        "每次購買成本比傳統活動方式改善 31%。",
+        "利用 AI 將時間投入減少 50%，活動製作成本降低 97%。",
+        "Gemini 支援角色開發和大規模個人化創意素材生成。"
+      ]
+    },
+    "technologies": ["Gemini", "Google Cloud"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Impossible Ads: Monks' personalized campaign — Think with Google",
+        "url": "https://business.google.com/us/think/ai-excellence/monks-ai-personalization-advertising-campaign/"
+      },
+      {
+        "title": "AI-Powered Performance Case | Hatch | Monks",
+        "url": "https://www.monks.com/case-studies/hatch-dreams-to-reality-monksflow"
+      }
+    ]
+  },
+  {
+    "id": "business-professional-services-employee-obrajobs",
+    "industry": "business-professional-services",
+    "agentType": "employee",
+    "company": "ObraJobs",
+    "isNew": false,
+    "summary": {
+      "en": "ObraJobs uses Vertex AI to power AI-driven candidate matching and personalized job recommendations.",
+      "zh": "ObraJobs 使用 Vertex AI 驅動 AI 候選人媒合和個人化職缺推薦。"
+    },
+    "overview": {
+      "en": "ObraJobs, a job platform, connects candidates with relevant opportunities and delivers personalized recommendations for both job seekers and employers. The platform uses Vertex AI to power candidate matching and job recommendations, supported by Cloud Storage, Cloud Run, Cloud Scheduler, Cloud Tasks, and Firestore. Word embeddings of candidate competencies and job requirements are matched semantically to surface the most relevant results.",
+      "zh": "ObraJobs 是一個求職平台，連接候選人與相關機會，為求職者和雇主提供個人化推薦。平台使用 Vertex AI 驅動候選人媒合和職缺推薦，並由 Cloud Storage、Cloud Run、Cloud Scheduler、Cloud Tasks 和 Firestore 提供支援。透過語意匹配候選人能力與職位要求的詞嵌入，提供最相關的結果。"
+    },
+    "highlights": {
+      "en": [
+        "Uses Vertex AI for AI-powered candidate matching and personalized job recommendations.",
+        "Semantically matches word embeddings of job requirements with candidate competencies.",
+        "Streamlines the hiring process for both job seekers and employers.",
+        "Built on a full Google Cloud stack: Cloud Run, Firestore, Cloud Storage, Cloud Scheduler, and Cloud Tasks.",
+        "Candidate interactions and analytics tracked via BigQuery and Looker Studio."
+      ],
+      "zh": [
+        "使用 Vertex AI 驅動 AI 候選人媒合和個人化職缺推薦。",
+        "透過語意匹配職位要求與候選人能力的詞嵌入來配對結果。",
+        "為求職者和雇主簡化招募流程。",
+        "建立在完整的 Google Cloud 技術棧上：Cloud Run、Firestore、Cloud Storage、Cloud Scheduler 和 Cloud Tasks。",
+        "透過 BigQuery 和 Looker Studio 追蹤候選人互動和分析數據。"
+      ]
+    },
+    "technologies": ["Vertex AI", "Cloud Run", "Firestore", "Cloud Storage", "BigQuery", "Google Cloud"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "business-professional-services-employee-opentext",
+    "industry": "business-professional-services",
+    "agentType": "employee",
+    "company": "OpenText",
+    "isNew": true,
+    "summary": {
+      "en": "OpenText Content Aviator enables natural-language enterprise document search and summarization via Gemini.",
+      "zh": "OpenText Content Aviator 透過 Gemini 實現企業文件的自然語言搜尋與摘要。"
+    },
+    "overview": {
+      "en": "OpenText Content Aviator is a generative AI assistant built on the Gemini Enterprise Agent Platform that enhances content search and productivity. It allows users to perform natural language searches across enterprise documents and efficiently summarize complex content. The platform integrates with Google Cloud and enables secure retrieval of governed enterprise content directly within Gemini chat.",
+      "zh": "OpenText Content Aviator 是一款建立於 Gemini Enterprise Agent Platform 之上的生成式 AI 助理，強化內容搜尋與生產力。它允許使用者對企業文件進行自然語言搜尋，並高效摘要複雜內容。平台整合 Google Cloud，並支援在 Gemini 聊天中安全檢索受治理的企業內容。"
+    },
+    "highlights": {
+      "en": [
+        "Built on Gemini Enterprise Agent Platform for AI-powered content search and summarization.",
+        "Enables natural language queries across enterprise documents with RAG-based accurate responses.",
+        "Integrates directly with Gemini chat for secure in-context enterprise content retrieval.",
+        "Supports document generation and multilingual translation within the content management workflow.",
+        "Maintains data governance and permissions throughout the search and summarization process."
+      ],
+      "zh": [
+        "建立於 Gemini Enterprise Agent Platform 之上，提供 AI 驅動的內容搜尋和摘要功能。",
+        "透過 RAG 架構支援對企業文件的自然語言查詢，提供準確回應。",
+        "直接整合至 Gemini 聊天，安全地在情境中檢索企業內容。",
+        "在內容管理工作流程中支援文件生成和多語言翻譯。",
+        "在搜尋和摘要過程中保持資料治理和權限控制。"
+      ]
+    },
+    "technologies": ["Gemini Enterprise", "Gemini", "Google Cloud"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Partners powering Gemini Enterprise | Google Cloud Blog",
+        "url": "https://cloud.google.com/blog/topics/partners/partners-powering-the-gemini-enterprise-agent-ecosystem"
+      },
+      {
+        "title": "OpenText Content Aviator — AI Content Assistant",
+        "url": "https://www.opentext.com/aviator-ai/content-aviator"
+      }
+    ]
+  },
+  {
+    "id": "business-professional-services-employee-own-your-brand",
+    "industry": "business-professional-services",
+    "agentType": "employee",
+    "company": "Own Your Brand",
+    "isNew": false,
+    "summary": {
+      "en": "Own Your Brand founder uses Gemini for Google Workspace to draft personalized client enrollment emails in her own voice.",
+      "zh": "Own Your Brand 創辦人使用 Gemini for Google Workspace，以個人風格快速起草客戶招募電子郵件。"
+    },
+    "overview": {
+      "en": "Own Your Brand founder Lauren Magenta uses Google Workspace to run her business, and Gemini for Google Workspace is transforming how she manages client enrollment. Gemini helps her quickly draft personalized emails to potential clients in her own distinctive voice, saving time on communications while maintaining the personal touch that is central to her brand's identity.",
+      "zh": "Own Your Brand 創辦人 Lauren Magenta 使用 Google Workspace 管理業務，而 Gemini for Google Workspace 正在改變她處理客戶招募的方式。Gemini 幫助她以個人獨特風格快速起草給潛在客戶的個人化電子郵件，在節省溝通時間的同時保持個人化的觸感，這是她品牌識別的核心所在。"
+    },
+    "highlights": {
+      "en": [
+        "Uses Gemini for Google Workspace to draft personalized client enrollment emails efficiently.",
+        "Maintains founder's unique personal voice in AI-generated communications.",
+        "Reduces time spent on routine email drafting, enabling focus on core business activities.",
+        "Demonstrates practical AI adoption for solo/small business operators using Google Workspace."
+      ],
+      "zh": [
+        "使用 Gemini for Google Workspace 高效起草個人化客戶招募電子郵件。",
+        "在 AI 生成的溝通中保持創辦人獨特的個人風格。",
+        "減少在例行電子郵件起草上花費的時間，讓精力集中在核心業務活動上。",
+        "展示了獨立/小型企業運營者使用 Google Workspace 進行實用 AI 採用的案例。"
+      ]
+    },
+    "technologies": ["Gemini", "Google Workspace"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "business-professional-services-employee-provenbase",
+    "industry": "business-professional-services",
+    "agentType": "employee",
+    "company": "Provenbase",
+    "isNew": false,
+    "summary": {
+      "en": "Provenbase built its AI-powered talent recruitment and Deep Search platform on Google Cloud AI.",
+      "zh": "Provenbase 在 Google Cloud AI 上建立了 AI 驅動的人才招募和 Deep Search 平台。"
+    },
+    "overview": {
+      "en": "Provenbase has built its talent recruitment tool for businesses on Google Cloud, powering its transformative Deep Search feature using Google Cloud AI. Deep Search avoids visibility bias and taps into non-traditional talent sources—including research publications, patent filings, open-source contributions, and conference proceedings—surfacing candidates who are invisible to conventional recruiting tools. The platform has attracted major corporate clients since its launch in June 2025.",
+      "zh": "Provenbase 在 Google Cloud 上建立了企業人才招募工具，並使用 Google Cloud AI 驅動其革命性的 Deep Search 功能。Deep Search 避免了可見性偏見，挖掘非傳統人才來源——包括研究出版物、專利申請、開源貢獻和會議論文——找出傳統招募工具無法發現的候選人。平台自 2025 年 6 月推出以來，已吸引多家大型企業客戶。"
+    },
+    "highlights": {
+      "en": [
+        "Deep Search powered by Google Cloud AI surfaces candidates invisible to traditional recruiting tools.",
+        "Searches non-traditional sources: research publications, patents, open-source contributions, and technical forums.",
+        "Avoids visibility bias and broadens access to previously undiscovered talent.",
+        "Attracted major corporate clients shortly after launch in June 2025.",
+        "AI-powered sourcing platform designed for hard-to-fill roles and underrepresented candidates."
+      ],
+      "zh": [
+        "由 Google Cloud AI 驅動的 Deep Search 能找到傳統招募工具無法發現的候選人。",
+        "搜尋非傳統來源：研究出版物、專利、開源貢獻和技術論壇。",
+        "避免可見性偏見，擴大對以往未被發現人才的接觸管道。",
+        "2025 年 6 月推出後不久即吸引多家大型企業客戶。",
+        "專為難以填補的職位和代表性不足的候選人設計的 AI 驅動招募平台。"
+      ]
+    },
+    "technologies": ["Google Cloud AI", "Google Cloud"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "ProvenBase Launches 'Deep Search,' A Paradigm Shift in Talent Sourcing",
+        "url": "https://www.prnewswire.com/news-releases/provenbase-launches-deep-search-a-paradigm-shift-in-talent-sourcing-302488352.html"
+      }
+    ]
+  },
+  {
+    "id": "business-professional-services-employee-pwc",
+    "industry": "business-professional-services",
+    "agentType": "employee",
+    "company": "PwC",
+    "isNew": true,
+    "summary": {
+      "en": "PwC launched a Google Cloud AI Center of Excellence to deploy AI agents that reason, act, and automate at scale.",
+      "zh": "PwC 成立 Google Cloud AI 卓越中心，部署能推理、行動並大規模自動化的 AI 代理。"
+    },
+    "overview": {
+      "en": "PwC launched a dedicated Google Cloud AI Center of Excellence to help organizations scale AI adoption, pairing industry expertise with Gemini Enterprise to deploy AI agents that reason, act, and automate processes at scale. PwC has built over 250 enterprise-ready AI agents globally, with more than 100 deployed across EMEA. The CoE provides elite engineering resources embedded directly into client initiatives, with some clients achieving up to 8x faster cycle times and over 30% cost reductions.",
+      "zh": "PwC 成立了專屬的 Google Cloud AI 卓越中心，幫助企業擴大 AI 採用規模，結合行業專業知識與 Gemini Enterprise，部署能推理、行動並大規模自動化流程的 AI 代理。PwC 在全球構建了超過 250 個企業級 AI 代理，其中超過 100 個部署於 EMEA 地區。卓越中心提供精英工程資源，直接嵌入客戶計畫中，部分客戶實現了高達 8 倍的週期時間加速和超過 30% 的成本降低。"
+    },
+    "highlights": {
+      "en": [
+        "Launched a dedicated Google Cloud AI Center of Excellence for agentic AI deployment.",
+        "Built over 250 enterprise-ready AI agents globally, with 100+ deployed across EMEA.",
+        "Some clients achieved up to 8x faster cycle times and over 30% cost reduction in targeted processes.",
+        "Elite engineering resources embedded directly into client AI initiatives to accelerate deployment.",
+        "Integrates Gemini Enterprise to deploy agents that reason, act, and automate multi-step processes."
+      ],
+      "zh": [
+        "成立專屬的 Google Cloud AI 卓越中心，用於代理式 AI 部署。",
+        "在全球構建超過 250 個企業級 AI 代理，其中逾 100 個部署於 EMEA 地區。",
+        "部分客戶在目標流程中實現高達 8 倍的週期時間加速和超過 30% 的成本降低。",
+        "精英工程資源直接嵌入客戶 AI 計畫，加速部署進程。",
+        "整合 Gemini Enterprise 部署能推理、行動並自動化多步驟流程的代理。"
+      ]
+    },
+    "technologies": ["Gemini Enterprise", "Google Cloud"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "PwC Google Cloud AI Center of Excellence for agentic AI",
+        "url": "https://www.pwc.com/us/en/about-us/newsroom/press-releases/pwc-google-cloud-ai-center-of-excellence.html"
+      },
+      {
+        "title": "PwC scales global AI agent ecosystem with Google Cloud, building more than 100 in EMEA",
+        "url": "https://www.pwc.com/gx/en/news-room/press-releases/2025/scales-global-ai-agent-ecosystem.html"
+      }
+    ]
+  },
+  {
+    "id": "business-professional-services-employee-randstad",
+    "industry": "business-professional-services",
+    "agentType": "employee",
+    "company": "Randstad",
+    "isNew": false,
+    "summary": {
+      "en": "Randstad uses Gemini for Workspace to transform work culture, achieving a double-digit reduction in sick days.",
+      "zh": "Randstad 使用 Gemini for Workspace 轉型工作文化，實現病假天數的兩位數下降。"
+    },
+    "overview": {
+      "en": "Randstad, one of the world's largest HR services and talent providers, is using Gemini for Workspace across its organization to transform its work culture. The initiative has led to a more culturally diverse and inclusive workplace. Among the measurable outcomes, the company has seen a double-digit reduction in sick days, attributed to improved employee experience and reduced administrative burden enabled by AI.",
+      "zh": "Randstad 是全球最大的人力資源服務和人才提供商之一，正在其整個組織中使用 Gemini for Workspace 轉型工作文化。這一計畫促進了更具文化多樣性和包容性的工作環境。在可量化的成果中，公司的病假天數實現了兩位數的下降，這歸因於 AI 帶來的員工體驗改善和行政負擔減輕。"
+    },
+    "highlights": {
+      "en": [
+        "Achieved double-digit reduction in sick days following Gemini for Workspace adoption.",
+        "Transformed work culture to be more culturally diverse and inclusive.",
+        "Streamlines job description creation and multi-language communication across 39+ offices.",
+        "Focuses AI strategy on enhancing user experience and reducing administrative burden.",
+        "Large-scale deployment of Gemini for Workspace across one of the world's largest HR firms."
+      ],
+      "zh": [
+        "採用 Gemini for Workspace 後，病假天數實現兩位數下降。",
+        "工作文化轉型為更具文化多樣性和包容性。",
+        "簡化了逾 39 個辦事處的職位描述創建和多語言溝通。",
+        "AI 策略聚焦於提升使用者體驗和減少行政負擔。",
+        "在全球最大的人力資源公司之一大規模部署 Gemini for Workspace。"
+      ]
+    },
+    "technologies": ["Gemini", "Google Workspace"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Randstad Customer Success Story — Google Workspace",
+        "url": "https://workspace.google.com/customers/randstad/"
+      }
+    ]
+  },
+  {
+    "id": "business-professional-services-employee-saviynt",
+    "industry": "business-professional-services",
+    "agentType": "employee",
+    "company": "Saviynt",
+    "isNew": true,
+    "summary": {
+      "en": "Saviynt's Identity Security for AI treats AI agents as first-class identities with governance, posture visibility, and enforced accountability.",
+      "zh": "Saviynt 的 AI 身份安全解決方案將 AI 代理視為一等身份，提供治理、態勢可視性和強制問責機制。"
+    },
+    "overview": {
+      "en": "Saviynt's Identity Security for AI enables continuous discovery and inventory of AI agents, identifying their functions, access, and risks. It treats agents as first-class identities with defined purposes and accountable owners. The platform provides Identity Security Posture Management (ISPM) for AI agents, addressing the challenge that non-human identities and AI agents now outnumber human identities by more than 82 to 1.",
+      "zh": "Saviynt 的 AI 身份安全解決方案支援 AI 代理的持續發現和盤點，識別其功能、存取權限和風險。它將代理視為具有明確目的和負責任所有者的一等身份。平台提供針對 AI 代理的身份安全態勢管理（ISPM），應對非人類身份和 AI 代理數量已超過人類身份 82 倍以上的挑戰。"
+    },
+    "highlights": {
+      "en": [
+        "Provides continuous discovery and inventory of AI agents across the enterprise.",
+        "Identifies AI agent functions, access permissions, and associated risks.",
+        "Treats AI agents as first-class identities with defined purposes and accountable owners.",
+        "Addresses the challenge that non-human identities now outnumber human identities by over 82 to 1.",
+        "Converts opaque automation into governable, enterprise-ready identities through posture visibility."
+      ],
+      "zh": [
+        "在整個企業中持續發現和盤點 AI 代理。",
+        "識別 AI 代理的功能、存取權限和相關風險。",
+        "將 AI 代理視為具有明確目的和負責任所有者的一等身份。",
+        "解決非人類身份數量已超過人類身份 82 倍以上的挑戰。",
+        "透過態勢可視性將不透明的自動化轉變為可治理的企業級身份。"
+      ]
+    },
+    "technologies": ["Google Cloud"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Identity Security for AI Agents | Saviynt",
+        "url": "https://saviynt.com/products/identity-security-for-ai"
+      },
+      {
+        "title": "Saviynt Unveils Major AI Capabilities for Identity Security",
+        "url": "https://saviynt.com/press-release/saviynt-unveils-major-ai-capabilities-for-identity-security"
+      }
+    ]
+  },
+  {
+    "id": "business-professional-services-employee-sonata-design",
+    "industry": "business-professional-services",
+    "agentType": "employee",
+    "company": "Sonata Design",
+    "isNew": false,
+    "summary": {
+      "en": "Sonata Design uses NotebookLM to build a centralized product specification database, reducing senior management interruptions.",
+      "zh": "Sonata Design 使用 NotebookLM 建立集中式產品規格資料庫，減少對高層管理的打擾。"
+    },
+    "overview": {
+      "en": "Sonata Design, a design company focused on discovering the value and beauty of client spaces, implemented NotebookLM to create a centralized database of product specifications and technical details. The AI tool reduces questions to senior management and improves employee self-service, enhancing knowledge sharing across the team. Sonata Design also uses Gemini for Google Workspace and Gems to streamline operations across departments including accounting, HR, and bid preparation.",
+      "zh": "Sonata Design 是一家專注於發掘客戶空間價值與美感的設計公司，導入 NotebookLM 建立集中式的產品規格和技術細節資料庫。AI 工具減少了對高層管理的詢問，提升員工自助服務能力，並加強團隊間的知識共享。Sonata Design 也使用 Gemini for Google Workspace 和 Gems 來簡化包括會計、人力資源和投標準備在內的各部門業務。"
+    },
+    "highlights": {
+      "en": [
+        "Uses NotebookLM to create a centralized database of product specifications and technical details.",
+        "Reduces questions to senior management by enabling employee self-service knowledge access.",
+        "Enhances knowledge sharing across departments for improved collaboration.",
+        "Also uses Gemini Gems to streamline accounting, HR, and bid preparation workflows.",
+        "Demonstrates practical AI adoption at a small design firm using Google Workspace tools."
+      ],
+      "zh": [
+        "使用 NotebookLM 建立集中式的產品規格和技術細節資料庫。",
+        "透過讓員工自助存取知識，減少向高層管理的詢問。",
+        "加強各部門間的知識共享，提升協作效率。",
+        "同時使用 Gemini Gems 簡化會計、人力資源和投標準備工作流程。",
+        "展示了小型設計公司使用 Google Workspace 工具進行實用 AI 採用的案例。"
+      ]
+    },
+    "technologies": ["NotebookLM", "Gemini", "Google Workspace"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "How Sonata Design streamlines operations with NotebookLM",
+        "url": "https://workspace.google.com/customers/success-stories/sonatadesign/"
+      }
+    ]
+  },
+  {
+    "id": "business-professional-services-employee-square-management",
+    "industry": "business-professional-services",
+    "agentType": "employee",
+    "company": "Square Management",
+    "isNew": false,
+    "summary": {
+      "en": "Square Management uses Gemini in Google Workspace to match consultants to clients and monitor regulatory changes with full GDPR compliance.",
+      "zh": "Square Management 使用 Google Workspace 中的 Gemini，在完全符合 GDPR 的情況下媒合顧問與客戶、監控法規變化。"
+    },
+    "overview": {
+      "en": "Square Management, a consultancy serving high-demand industries like banking, luxury, and aerospace, uses Gemini in Google Workspace to identify the most suitable consultants for client needs and optimize work methods. The firm also uses Gemini to monitor regulatory changes in its clients' sectors. The AI helps the company better respond to client challenges while ensuring full GDPR compliance with secure data handling.",
+      "zh": "Square Management 是一家服務銀行、奢侈品和航空航太等高需求行業的顧問公司，使用 Google Workspace 中的 Gemini 識別最適合客戶需求的顧問並優化工作方法。公司還使用 Gemini 監控客戶行業的法規變化。AI 幫助公司更好地回應客戶挑戰，同時確保完全符合 GDPR 的安全資料處理。"
+    },
+    "highlights": {
+      "en": [
+        "Uses Gemini in Google Workspace to match the most suitable consultants to specific client needs.",
+        "Monitors regulatory changes in banking, luxury, and aerospace industries using AI.",
+        "Ensures full GDPR compliance with secure data handling while integrating AI.",
+        "Created an AI Lab focused on developing 'augmented consultants' for innovative client solutions.",
+        "Has been a Google Workspace customer since 2007, building progressively on the platform."
+      ],
+      "zh": [
+        "使用 Google Workspace 中的 Gemini 將最合適的顧問與特定客戶需求進行媒合。",
+        "使用 AI 監控銀行、奢侈品和航空航太行業的法規變化。",
+        "在整合 AI 的同時確保完全符合 GDPR 的安全資料處理。",
+        "建立了 AI 實驗室，專注於開發「擴增顧問」以提供創新客戶解決方案。",
+        "自 2007 年起就是 Google Workspace 用戶，持續在平台上構建能力。"
+      ]
+    },
+    "technologies": ["Gemini", "Google Workspace"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Square Management: How Square Management is streamlining Operations with Gemini for Google Workspace",
+        "url": "https://workspace.google.com/customers/success-stories/square-management/"
+      }
+    ]
+  },
+  {
+    "id": "business-professional-services-employee-story",
+    "industry": "business-professional-services",
+    "agentType": "employee",
+    "company": "Story",
+    "isNew": false,
+    "summary": {
+      "en": "Story, an IP licensing and monetization startup, works with Google Cloud's web3 services to bring new capabilities to developers.",
+      "zh": "知識產權授權與變現新創公司 Story 與 Google Cloud 的 web3 服務合作，為平台開發者帶來新能力。"
+    },
+    "overview": {
+      "en": "Story is an intellectual property startup that powers licensing and monetization services. The company is working with Google Cloud's web3 services and infrastructure to bring new capabilities to developers on its platform. By leveraging Google Cloud's infrastructure for blockchain and web3-oriented workloads, Story enables IP owners to more effectively manage, license, and monetize their intellectual property at scale.",
+      "zh": "Story 是一家驅動授權和變現服務的知識產權新創公司。公司正在與 Google Cloud 的 web3 服務和基礎架構合作，為其平台上的開發者帶來新能力。透過利用 Google Cloud 的基礎架構處理區塊鏈和 web3 導向的工作負載，Story 讓 IP 所有者能夠更有效地大規模管理、授權和變現其知識產權。"
+    },
+    "highlights": {
+      "en": [
+        "Works with Google Cloud's web3 services and infrastructure for IP licensing and monetization.",
+        "Brings new capabilities to developers building on the Story platform.",
+        "Leverages Google Cloud infrastructure for blockchain and web3 workloads.",
+        "Enables IP owners to manage, license, and monetize intellectual property at scale."
+      ],
+      "zh": [
+        "與 Google Cloud 的 web3 服務和基礎架構合作，支援知識產權授權和變現。",
+        "為在 Story 平台上構建應用的開發者帶來新能力。",
+        "利用 Google Cloud 基礎架構處理區塊鏈和 web3 工作負載。",
+        "讓 IP 所有者能夠大規模管理、授權和變現知識產權。"
+      ]
+    },
+    "technologies": ["Google Cloud"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "business-professional-services-employee-sulam-rica",
+    "industry": "business-professional-services",
+    "agentType": "employee",
+    "company": "Sulamérica",
+    "isNew": false,
+    "summary": {
+      "en": "Brazilian insurer Sulamérica deployed Gemini in Workspace to 1,250 employees to increase operational efficiency and productivity.",
+      "zh": "巴西保險公司 Sulamérica 將 Gemini in Workspace 部署至 1,250 名員工，提升營運效率與生產力。"
+    },
+    "overview": {
+      "en": "Sulamérica, a Brazilian insurance company, adopted Google Workspace a decade ago to make collaboration more agile and intuitive. The company recently extended its digital transformation by deploying Gemini in Workspace to 1,250 employees to increase operational efficiency, security, and productivity. This expansion reflects Sulamérica's commitment to leveraging AI to enhance its insurance workforce capabilities.",
+      "zh": "巴西保險公司 Sulamérica 在十年前採用了 Google Workspace，以使協作更加靈活直觀。公司最近透過將 Gemini in Workspace 部署至 1,250 名員工，進一步推進數位轉型，以提升營運效率、安全性和生產力。這一擴展反映了 Sulamérica 利用 AI 增強保險業務人員能力的承諾。"
+    },
+    "highlights": {
+      "en": [
+        "Deployed Gemini in Workspace to 1,250 employees across the insurance company.",
+        "Aims to increase operational efficiency, security, and productivity with AI.",
+        "Built on a decade-long foundation of Google Workspace adoption for agile collaboration.",
+        "Reflects the trend of AI adoption in Brazil's financial services and insurance sector."
+      ],
+      "zh": [
+        "將 Gemini in Workspace 部署至保險公司的 1,250 名員工。",
+        "旨在透過 AI 提升營運效率、安全性和生產力。",
+        "建立在十年 Google Workspace 採用的基礎之上，實現靈活協作。",
+        "反映了巴西金融服務和保險行業的 AI 採用趨勢。"
+      ]
+    },
+    "technologies": ["Gemini", "Google Workspace"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "business-professional-services-employee-synthpop",
+    "industry": "business-professional-services",
+    "agentType": "employee",
+    "company": "Synthpop",
+    "isNew": true,
+    "summary": {
+      "en": "Synthpop's Patient Journey Orchestration Agent turns unstructured referrals into validated, payer-ready orders in real time.",
+      "zh": "Synthpop 的患者旅程協調代理將非結構化轉診即時轉換為經驗證、符合支付者要求的訂單。"
+    },
+    "overview": {
+      "en": "Synthpop's Patient Journey Orchestration Agent converts unstructured referrals into validated, payer-ready orders in real time by executing intake and patient-facing workflows. The platform is the first healthcare AI agent partner in the Gemini Enterprise Agent Gallery. By combining document intelligence, payer-aware reasoning, and conversational voice agents, Synthpop eliminates administrative friction across referrals, prior authorizations, and eligibility checks.",
+      "zh": "Synthpop 的患者旅程協調代理透過執行接診和面向患者的工作流程，將非結構化轉診即時轉換為經驗證、符合支付者要求的訂單。平台是 Gemini Enterprise Agent Gallery 的首家醫療 AI 代理合作夥伴。透過結合文件智慧、支付者感知推理和對話式語音代理，Synthpop 消除了轉診、事前授權和資格審查中的行政摩擦。"
+    },
+    "highlights": {
+      "en": [
+        "First healthcare AI agent partner in the Gemini Enterprise Agent Gallery.",
+        "Converts unstructured referrals into validated, payer-ready orders in real time.",
+        "Workflows that previously took 40 minutes can now be processed in under one minute.",
+        "Has processed over 2 million patients and integrates with 8 major EHR systems.",
+        "Raised $15 million Series A in February 2026 to scale AI-driven administrative automation."
+      ],
+      "zh": [
+        "Gemini Enterprise Agent Gallery 的首家醫療 AI 代理合作夥伴。",
+        "將非結構化轉診即時轉換為經驗證、符合支付者要求的訂單。",
+        "以往需要 40 分鐘的工作流程現在可在不到一分鐘內完成。",
+        "已處理超過 200 萬名患者，並與 8 個主要 EHR 系統整合。",
+        "2026 年 2 月完成 1,500 萬美元 A 輪融資，以擴大 AI 驅動的行政自動化規模。"
+      ]
+    },
+    "technologies": ["Gemini Enterprise", "Google Cloud"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Synthpop Becomes First Healthcare AI Agent Partner in Gemini Enterprise Agent Gallery",
+        "url": "https://www.businesswire.com/news/home/20260423161774/en/Synthpop-Becomes-First-Healthcare-AI-Agent-Partner-in-Gemini-Enterprise-Agent-Gallery"
+      },
+      {
+        "title": "Synthpop Raises $15 Million Series A to Scale AI That Makes Healthcare More Human",
+        "url": "https://www.businesswire.com/news/home/20260204938691/en/Synthpop-Raises-$15-Million-Series-A-to-Scale-AI-That-Makes-Healthcare-More-Human"
+      }
+    ]
+  },
+  {
+    "id": "business-professional-services-employee-tata-consulting-services",
+    "industry": "business-professional-services",
+    "agentType": "employee",
+    "company": "Tata Consulting Services",
+    "isNew": true,
+    "summary": {
+      "en": "TCS is launching a dedicated Gemini Enterprise practice with 3,000+ industry-focused AI agents and expanded global experience centres.",
+      "zh": "TCS 正在推出專屬的 Gemini Enterprise 實踐，配備超過 3,000 個行業專注 AI 代理及擴展的全球體驗中心。"
+    },
+    "overview": {
+      "en": "Tata Consulting Services (TCS) is launching new agentic AI offerings and a dedicated Gemini Enterprise practice featuring more than 3,000 industry-focused AI agents. TCS is also expanding its global network of Gemini Experience Centres to accelerate AI-native, autonomous enterprise operations. Through a multi-year partnership expansion with Google Cloud, TCS will embed teams of Google Cloud engineers to help customers prototype and deploy AI agents rapidly.",
+      "zh": "Tata Consulting Services（TCS）正在推出新的代理式 AI 產品和專屬的 Gemini Enterprise 實踐，配備超過 3,000 個行業專注 AI 代理。TCS 還在擴展其全球 Gemini 體驗中心網路，以加速 AI 原生的自主企業運營。透過與 Google Cloud 的多年合作擴展，TCS 將嵌入 Google Cloud 工程師團隊，幫助客戶快速原型設計和部署 AI 代理。"
+    },
+    "highlights": {
+      "en": [
+        "Launching a dedicated Gemini Enterprise practice with 3,000+ industry-focused AI agents.",
+        "Expanding global network of Gemini Experience Centres for hands-on AI deployment support.",
+        "Multi-year partnership with Google Cloud to embed engineering teams for faster customer deployments.",
+        "Aims to accelerate AI-native, autonomous enterprise operations across industries.",
+        "Enables agent-to-agent communication and agentic orchestration for complex multi-step workflows."
+      ],
+      "zh": [
+        "推出專屬的 Gemini Enterprise 實踐，配備超過 3,000 個行業專注 AI 代理。",
+        "擴展全球 Gemini 體驗中心網路，為實際 AI 部署提供支援。",
+        "與 Google Cloud 建立多年合作夥伴關係，嵌入工程師團隊加快客戶部署。",
+        "旨在加速各行業 AI 原生的自主企業運營。",
+        "支援代理間通訊和代理式協調，處理複雜的多步驟工作流程。"
+      ]
+    },
+    "technologies": ["Gemini Enterprise", "Google Cloud"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "TCS Partners with Google Cloud to Integrate Gemini Enterprise for its Workforce and Customers",
+        "url": "https://www.tcs.com/who-we-are/newsroom/press-release/tcs-partners-google-cloud-integrate-gemini-enterprise-workforce-customers"
+      },
+      {
+        "title": "How Google Cloud partner ecosystem is building the agentic enterprise",
+        "url": "https://cloud.google.com/blog/topics/partners/how-google-cloud-partner-ecosystem-is-building-the-agentic-enterprise"
+      }
+    ]
+  },
+  {
+    "id": "business-professional-services-employee-transcom",
+    "industry": "business-professional-services",
+    "agentType": "employee",
+    "company": "Transcom",
+    "isNew": false,
+    "summary": {
+      "en": "Transcom uses NotebookLM to reduce bid response analysis time by 70% and streamline customer research.",
+      "zh": "Transcom 使用 NotebookLM 將投標回應分析時間縮短 70%，並簡化客戶研究流程。"
+    },
+    "overview": {
+      "en": "Transcom, a global outsourcing company providing AI-enhanced customer experience services, uses NotebookLM to simplify customer research and bid processes. The AI tools are deeply embedded into workflows, reducing the analysis phase in bid response times by 70% by automating data gathering and summarization. Transcom maintains top-tier security standards throughout its AI adoption.",
+      "zh": "Transcom 是一家提供 AI 增強客戶體驗服務的全球外包公司，使用 NotebookLM 簡化客戶研究和投標流程。AI 工具深度嵌入工作流程中，透過自動化資料收集和摘要，將投標回應分析階段的時間縮短 70%。Transcom 在整個 AI 採用過程中維持頂級安全標準。"
+    },
+    "highlights": {
+      "en": [
+        "Uses NotebookLM to reduce bid response analysis time by 70% through automated summarization.",
+        "Deeply embeds AI tools into customer research and bid preparation workflows.",
+        "Maintains top-tier security standards while adopting AI across outsourcing operations.",
+        "NotebookLM used for advanced document exploration and multi-document analysis.",
+        "AI strategy keeps humans at the center while enhancing creativity and problem-solving."
+      ],
+      "zh": [
+        "使用 NotebookLM 透過自動化摘要將投標回應分析時間縮短 70%。",
+        "將 AI 工具深度嵌入客戶研究和投標準備工作流程。",
+        "在外包業務中採用 AI 的同時維持頂級安全標準。",
+        "NotebookLM 用於進階文件探索和多文件分析。",
+        "AI 策略以人為核心，同時提升創造力和解決問題能力。"
+      ]
+    },
+    "technologies": ["NotebookLM", "Google Workspace"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Transcom Systems Customer Success Story — Google Workspace",
+        "url": "https://workspace.google.com/customers/transcom/"
+      }
+    ]
+  },
+  {
+    "id": "business-professional-services-employee-transcom-2",
+    "industry": "business-professional-services",
+    "agentType": "employee",
+    "company": "Transcom",
+    "isNew": false,
+    "summary": {
+      "en": "Transcom uses Gemini in Google Workspace to speed up agent training and help employees validate decisions creatively.",
+      "zh": "Transcom 使用 Google Workspace 中的 Gemini 加快客服人員培訓，並幫助員工創造性地驗證決策。"
+    },
+    "overview": {
+      "en": "Transcom also uses Gemini in Google Workspace to speed up agent training and help employees across all levels find creative solutions to challenges and validate decisions. The AI enhances daily work and accelerates training processes within the familiar Google Workspace platform. This complements Transcom's use of NotebookLM for research and bid processes, creating a comprehensive AI-powered work environment.",
+      "zh": "Transcom 同時使用 Google Workspace 中的 Gemini 加快客服人員培訓，並幫助各層級員工創造性地找到挑戰的解決方案並驗證決策。AI 在熟悉的 Google Workspace 平台中增強日常工作並加速培訓流程。這補充了 Transcom 使用 NotebookLM 進行研究和投標流程的做法，打造了一個全面的 AI 工作環境。"
+    },
+    "highlights": {
+      "en": [
+        "Uses Gemini in Google Workspace to accelerate customer service agent training processes.",
+        "Helps employees at all levels find creative solutions and validate decisions.",
+        "Enhances daily work within familiar Google Workspace tools.",
+        "Complements NotebookLM adoption for a comprehensive AI-powered employee experience.",
+        "Maintains a human-centered AI approach across all training and operational initiatives."
+      ],
+      "zh": [
+        "使用 Google Workspace 中的 Gemini 加速客服人員培訓流程。",
+        "幫助各層級員工創造性地找到解決方案並驗證決策。",
+        "在熟悉的 Google Workspace 工具中增強日常工作。",
+        "補充 NotebookLM 採用，打造全面的 AI 驅動員工體驗。",
+        "在所有培訓和營運計畫中維持以人為核心的 AI 方法。"
+      ]
+    },
+    "technologies": ["Gemini", "Google Workspace"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Transcom Systems Customer Success Story — Google Workspace",
+        "url": "https://workspace.google.com/customers/transcom/"
+      }
+    ]
+  },
+  {
+    "id": "business-professional-services-employee-ukg",
+    "industry": "business-professional-services",
+    "agentType": "employee",
+    "company": "UKG",
+    "isNew": false,
+    "summary": {
+      "en": "UKG's Bryte AI, built with Google Cloud, gives HR admins and managers conversational access to workforce insights and policy information.",
+      "zh": "UKG 以 Google Cloud 打造的 Bryte AI，讓 HR 管理員和主管能以對話方式存取人力資源洞察與政策資訊。"
+    },
+    "overview": {
+      "en": "UKG, an HR and workforce management solutions provider, enhances the workplace experience with UKG Bryte AI, a trusted conversational agent built with Google Cloud. The platform enables HR administrators and people managers to request information about company policies, business insights, and more. UKG and Google Cloud have since announced an expanded partnership to bring agentic AI to tens of millions of users, leveraging Gemini models and BigQuery.",
+      "zh": "UKG 是一家人力資源與勞動力管理解決方案提供商，透過以 Google Cloud 打造的受信任對話代理 UKG Bryte AI 增強工作場所體驗。平台讓 HR 管理員和人員主管能夠查詢公司政策、業務洞察等資訊。UKG 和 Google Cloud 此後宣布擴大合作夥伴關係，利用 Gemini 模型和 BigQuery 將代理式 AI 帶給數千萬用戶。"
+    },
+    "highlights": {
+      "en": [
+        "UKG Bryte AI enables HR administrators and people managers to access workforce insights conversationally.",
+        "Built on Google Cloud as a trusted conversational AI agent for enterprise HR.",
+        "Expanded partnership with Google Cloud to bring agentic AI to tens of millions of UKG users.",
+        "Integration of Gemini models and BigQuery to power natural-language workforce analytics.",
+        "New agents to handle 24/7 shift swaps, pay inquiries, compliance tracking, and more."
+      ],
+      "zh": [
+        "UKG Bryte AI 讓 HR 管理員和人員主管能以對話方式存取人力資源洞察。",
+        "以 Google Cloud 為基礎，打造用於企業人力資源的可信對話 AI 代理。",
+        "與 Google Cloud 擴大合作夥伴關係，將代理式 AI 帶給數千萬 UKG 用戶。",
+        "整合 Gemini 模型和 BigQuery，驅動自然語言的人力資源分析。",
+        "新增代理處理 24/7 班次調換、薪資查詢、合規追蹤等事務。"
+      ]
+    },
+    "technologies": ["Gemini", "BigQuery", "Google Cloud"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "UKG and Google Cloud Partner to Transform Work with Agentic AI for Tens of Millions of Users",
+        "url": "https://www.googlecloudpresscorner.com/2025-10-09-UKG-and-Google-Cloud-Partner-to-Transform-Work-with-Agentic-AI-for-Tens-of-Millions-of-Users"
+      },
+      {
+        "title": "UKG Bryte AI Revolutionizes How Employees Find Help and Information",
+        "url": "https://www.ukg.com/company/newsroom/ukg-bryte-ai-revolutionizes-how-employees-find-help-and-information"
+      }
+    ]
+  },
+  {
+    "id": "business-professional-services-employee-upwork",
+    "industry": "business-professional-services",
+    "agentType": "employee",
+    "company": "Upwork",
+    "isNew": false,
+    "summary": {
+      "en": "Upwork leverages Vertex AI Text to Speech API to deliver faster, more accurate talent matching for businesses and freelancers.",
+      "zh": "Upwork 運用 Vertex AI Text to Speech API，為企業和自由工作者提供更快速、更精準的人才媒合。"
+    },
+    "overview": {
+      "en": "Upwork, the world's human and AI-powered work marketplace, connects businesses with independent professionals. By leveraging the Vertex AI Text to Speech API, Upwork delivers faster and more accurate talent matching and hiring efficiency for both clients and freelancers. The platform provides AI-assisted tools to help businesses post projects and surface top-matched talent based on their specific needs.",
+      "zh": "Upwork 是全球人力與 AI 驅動的工作媒合平台，連結企業與獨立專業人士。透過利用 Vertex AI Text to Speech API，Upwork 為客戶和自由工作者提供更快速、更精準的人才媒合和招募效率。平台提供 AI 輔助工具，幫助企業發布專案並根據特定需求推薦最匹配的人才。"
+    },
+    "highlights": {
+      "en": [
+        "Leverages Vertex AI Text to Speech API for faster, more accurate talent matching.",
+        "Connects businesses with independent professionals through AI-enhanced search and matching.",
+        "AI-assisted tools surface top-matched talent based on project requirements.",
+        "Improves hiring efficiency for both clients and freelancers on the marketplace.",
+        "World's largest human and AI-powered work marketplace uses Google Cloud AI infrastructure."
+      ],
+      "zh": [
+        "利用 Vertex AI Text to Speech API 實現更快速、更精準的人才媒合。",
+        "透過 AI 增強的搜尋和媒合，連結企業與獨立專業人士。",
+        "AI 輔助工具根據專案需求推薦最匹配的人才。",
+        "提升平台上客戶和自由工作者的招募效率。",
+        "全球最大的人力與 AI 驅動工作市場使用 Google Cloud AI 基礎架構。"
+      ]
+    },
+    "technologies": ["Vertex AI", "Google Cloud"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "business-professional-services-employee-wimberly-allison-tong-goo",
+    "industry": "business-professional-services",
+    "agentType": "employee",
+    "company": "Wimberly Allison Tong & Goo",
+    "isNew": true,
+    "summary": {
+      "en": "WATG uses Gemini Enterprise to streamline architecture and interior design workflows and accelerate idea-to-visualization transitions.",
+      "zh": "WATG 使用 Gemini Enterprise 簡化建築與室內設計工作流程，加速從概念到視覺化的轉換過程。"
+    },
+    "overview": {
+      "en": "Wimberly Allison Tong & Goo (WATG), an international architecture and design firm with a 500-person team operating across eight offices on three continents, leverages Gemini Enterprise to streamline digital planning, landscape, architecture, and interior design workflows and visual queries. The AI enables the International Hospitality Design firm to accelerate transitions from idea generation to design concepts and high-fidelity visualizations.",
+      "zh": "Wimberly Allison Tong & Goo（WATG）是一家擁有 500 人團隊的國際建築與設計公司，在三大洲的八個辦事處運營，利用 Gemini Enterprise 簡化數位規劃、景觀、建築和室內設計工作流程及視覺查詢。AI 使這家國際酒店設計公司能夠加速從概念生成到設計方案和高保真視覺化的轉換過程。"
+    },
+    "highlights": {
+      "en": [
+        "Uses Gemini Enterprise to streamline digital planning, landscape, architecture, and interior design workflows.",
+        "Accelerates transitions from idea generation to design concepts and high-fidelity visualizations.",
+        "Enables visual queries powered by AI for rapid exploration of design options.",
+        "500-person international team leverages AI across eight global offices on three continents.",
+        "Specialized in International Hospitality Design, designing projects in 160 countries."
+      ],
+      "zh": [
+        "使用 Gemini Enterprise 簡化數位規劃、景觀、建築和室內設計工作流程。",
+        "加速從概念生成到設計方案和高保真視覺化的轉換過程。",
+        "支援 AI 驅動的視覺查詢，快速探索設計選項。",
+        "500 人的國際團隊在三大洲的八個全球辦事處中利用 AI。",
+        "專注於國際酒店設計，在 160 個國家設計專案。"
+      ]
+    },
+    "technologies": ["Gemini Enterprise", "Google Cloud"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "business-professional-services-employee-workday",
+    "industry": "business-professional-services",
+    "agentType": "employee",
+    "company": "Workday",
+    "isNew": true,
+    "summary": {
+      "en": "Workday's Sana Self-Service Agent handles HR and finance tasks globally with 300+ skills, reducing support tickets.",
+      "zh": "Workday 的 Sana 自助服務代理擁有超過 300 項技能，在全球處理人力資源和財務任務，減少支援票數。"
+    },
+    "overview": {
+      "en": "Workday's Sana Self-Service Agent instantly finds and summarizes information from Workday and other knowledge sources, providing personalized answers and assistance with tasks. With over 300 skills across areas like pay, time, and absence, the agent handles everyday HR and finance tasks globally, reducing support tickets and allowing teams to focus on high-value work. Sana is available to all Workday customers through Workday Flex Credits.",
+      "zh": "Workday 的 Sana 自助服務代理能即時查找並摘要來自 Workday 和其他知識來源的資訊，提供個人化答案和任務協助。代理擁有超過 300 項技能，涵蓋薪資、時間和缺勤等領域，在全球處理日常人力資源和財務任務，減少支援票數，讓團隊專注於高價值工作。Sana 透過 Workday Flex Credits 向所有 Workday 客戶開放。"
+    },
+    "highlights": {
+      "en": [
+        "Sana Self-Service Agent offers 300+ skills across pay, time, absence, and other HR/finance areas.",
+        "Handles everyday HR and finance tasks globally, reducing support tickets for teams.",
+        "Instantly finds and summarizes information from Workday and connected knowledge sources.",
+        "Available to all Workday customers through Flex Credits with no separate paywall.",
+        "Early adopter Berner hit 90% adoption within 40 days and retired 400 ChatGPT licences."
+      ],
+      "zh": [
+        "Sana 自助服務代理在薪資、時間、缺勤和其他人力資源/財務領域提供超過 300 項技能。",
+        "在全球處理日常人力資源和財務任務，為團隊減少支援票數。",
+        "即時查找並摘要來自 Workday 和相連知識來源的資訊。",
+        "透過 Flex Credits 向所有 Workday 客戶開放，無需單獨付費。",
+        "早期採用者 Berner 在 40 天內達到 90% 採用率，並淘汰了 400 個 ChatGPT 授權。"
+      ]
+    },
+    "technologies": ["Google Cloud"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Introducing Sana from Workday: Superintelligence for Work",
+        "url": "https://newsroom.workday.com/2026-03-17-Introducing-Sana-from-Workday-Superintelligence-for-Work-That-Finds-Answers,-Takes-Action,-and-Automates-Workflows"
+      }
+    ]
+  },
+  {
+    "id": "business-professional-services-employee-wotter",
+    "industry": "business-professional-services",
+    "agentType": "employee",
+    "company": "Wotter",
+    "isNew": false,
+    "summary": {
+      "en": "Wotter's Gemini-powered platform provides real-time employee sentiment insights and predicts flight risks for HR strategy.",
+      "zh": "Wotter 的 Gemini 驅動平台提供即時員工情緒洞察，並預測離職風險，助力人力資源策略制定。"
+    },
+    "overview": {
+      "en": "Wotter, an employee engagement platform, uses a Gemini-powered smart assistant and Google Cloud's robust AI capability to provide real-time insights into employee sentiment. The platform accurately predicts flight risks and offers actionable 'Wott-if' scenario analysis, enabling leaders to build a data-driven people strategy. By continuously analyzing workforce data, Wotter helps organizations proactively address retention and engagement challenges.",
+      "zh": "Wotter 是一個員工參與平台，使用 Gemini 驅動的智慧助理和 Google Cloud 強大的 AI 功能，提供員工情緒的即時洞察。平台能準確預測離職風險，並提供可行的「Wott-if」情境分析，讓領導者能夠制定數據驅動的人才策略。透過持續分析勞動力數據，Wotter 幫助企業主動應對留任和參與挑戰。"
+    },
+    "highlights": {
+      "en": [
+        "Gemini-powered smart assistant provides real-time insights into employee sentiment.",
+        "Accurately predicts employee flight risks using Google Cloud AI.",
+        "Offers actionable 'Wott-if' scenario analysis to inform people strategy decisions.",
+        "Enables leaders to build a data-driven people strategy based on continuous workforce analytics.",
+        "Helps organizations proactively address retention and engagement challenges."
+      ],
+      "zh": [
+        "Gemini 驅動的智慧助理提供員工情緒的即時洞察。",
+        "使用 Google Cloud AI 準確預測員工離職風險。",
+        "提供可行的「Wott-if」情境分析，為人才策略決策提供依據。",
+        "讓領導者能夠基於持續的勞動力分析制定數據驅動的人才策略。",
+        "幫助企業主動應對留任和參與挑戰。"
+      ]
+    },
+    "technologies": ["Gemini", "Google Cloud"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "business-professional-services-employee-zoi",
+    "industry": "business-professional-services",
+    "agentType": "employee",
+    "company": "Zoi",
+    "isNew": false,
+    "summary": {
+      "en": "Zoi uses Gemini in Google Workspace to provide real-time translation and unify global communication across 30 nations.",
+      "zh": "Zoi 使用 Google Workspace 中的 Gemini 提供即時翻譯，統一跨越 30 個國家的全球溝通。"
+    },
+    "overview": {
+      "en": "Zoi, an international IT consultancy with 500 employees across 30 nations, uses Gemini in Google Workspace to provide real-time translation and enable seamless communication across global teams. The AI helps unify teams and improve workflows while maintaining security across diverse, international operations. Zoi also serves as a specialized Google Workspace deployment partner, having completed successful digital transformations for enterprise clients such as Kärcher, OBI, and Delivery Hero.",
+      "zh": "Zoi 是一家在 30 個國家擁有 500 名員工的國際 IT 顧問公司，使用 Google Workspace 中的 Gemini 提供即時翻譯，實現全球團隊的無縫溝通。AI 幫助統一團隊並改善工作流程，同時在多元化的國際業務中維持安全性。Zoi 也是專業的 Google Workspace 部署合作夥伴，已為 Kärcher、OBI 和 Delivery Hero 等企業客戶完成成功的數位轉型。"
+    },
+    "highlights": {
+      "en": [
+        "Uses Gemini in Google Workspace for real-time translation across 30 nations and 500 employees.",
+        "Enables seamless communication across global teams in non-native languages.",
+        "Unifies international teams while maintaining security across diverse operations.",
+        "Improves internal and external communication including emails, documents, and blogs.",
+        "Also serves as a Google Workspace deployment partner for enterprise digital transformations."
+      ],
+      "zh": [
+        "在 Google Workspace 中使用 Gemini，為跨越 30 個國家的 500 名員工提供即時翻譯。",
+        "支援全球團隊以非母語進行無縫溝通。",
+        "在維持多元化業務安全性的同時，統一國際團隊。",
+        "改善包括電子郵件、文件和部落格在內的內外部溝通。",
+        "同時擔任企業數位轉型的 Google Workspace 部署合作夥伴。"
+      ]
+    },
+    "technologies": ["Gemini", "Google Workspace"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Democratizing Tech at Zoi with Google Workspace & Gemini",
+        "url": "https://www.zoi.tech/workspace"
+      }
+    ]
+  }
+]

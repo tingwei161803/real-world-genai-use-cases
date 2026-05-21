@@ -1,0 +1,617 @@
+[
+  {
+    "id": "business-professional-services-customer-accenture",
+    "industry": "business-professional-services",
+    "agentType": "customer",
+    "company": "Accenture",
+    "isNew": false,
+    "summary": {
+      "en": "Accenture transforms customer support at Best Buy with a Google Cloud-powered virtual assistant for self-service.",
+      "zh": "Accenture 攜手 Google Cloud 為 Best Buy 打造 AI 虛擬客服助理，提升自助服務體驗。"
+    },
+    "overview": {
+      "en": "Accenture partnered with Best Buy and Google Cloud to deploy a generative AI-powered virtual assistant that enables retail customers to self-serve for tasks such as troubleshooting products, rescheduling deliveries, and managing subscriptions. The solution leverages Gemini models, Vertex AI, and Contact Center AI to make interactions more efficient and personalized for both customers and frontline employees.",
+      "zh": "Accenture 與 Best Buy 及 Google Cloud 合作，部署以生成式 AI 驅動的虛擬客服助理，讓零售顧客可自助完成產品疑難排解、重新安排配送及管理訂閱等任務。此方案整合 Gemini 模型、Vertex AI 與 Contact Center AI，提升顧客與一線員工的互動效率及個人化體驗。"
+    },
+    "highlights": {
+      "en": [
+        "Customers can access a generative AI virtual assistant for self-service support, including product troubleshooting and order management.",
+        "The solution is built on Google Cloud products including Gemini models, Vertex AI, and Contact Center AI.",
+        "Frontline employees also benefit from an AI-driven assistant to serve customers more efficiently in-store.",
+        "The partnership represents a major retailer transformation in customer experience using gen AI."
+      ],
+      "zh": [
+        "顧客可透過生成式 AI 虛擬助理自助解決產品疑難排解和訂單管理等問題。",
+        "方案基於 Google Cloud 的 Gemini 模型、Vertex AI 及 Contact Center AI 建構。",
+        "一線員工也獲益於 AI 驅動的助理工具，能更有效率地服務顧客。",
+        "此合作案代表大型零售業者透過生成式 AI 進行客戶體驗轉型的重要里程碑。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Vertex AI",
+      "Contact Center AI",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Best Buy, Google Cloud, and Accenture Partner to Create a Better Customer Support Experience with Generative AI",
+        "url": "https://newsroom.accenture.com/news/2024/best-buy-google-cloud-and-accenture-partner-to-create-a-better-customer-support-experience-with-generative-ai"
+      },
+      {
+        "title": "Best Buy: How generative AI creates better customer support experiences",
+        "url": "https://corporate.bestbuy.com/2024/generative-ai-customer-support/"
+      }
+    ]
+  },
+  {
+    "id": "business-professional-services-customer-atmira",
+    "industry": "business-professional-services",
+    "agentType": "customer",
+    "company": "atmira",
+    "isNew": false,
+    "summary": {
+      "en": "atmira's SIREC platform on Google Cloud handles 114M monthly debt-collection requests with AI-driven recovery improvements.",
+      "zh": "atmira 的 SIREC 平台在 Google Cloud 上每月處理 1.14 億次催收請求，AI 驅動大幅改善回收率。"
+    },
+    "overview": {
+      "en": "atmira, a Spanish technology consulting company with 800 employees, built SIREC—an AI-driven debt collection SaaS platform—on Google Kubernetes Engine with Oracle on Google Cloud. The platform processes approximately 114 million monthly requests and uses AI models to anticipate user behavior, optimize communication channels, and personalize recovery strategies across the financial sector.",
+      "zh": "atmira 是一家擁有 800 名員工的西班牙科技顧問公司，在 Google Kubernetes Engine 上結合 Oracle on Google Cloud 打造了 SIREC——一個 AI 驅動的債務催收 SaaS 平台。該平台每月處理約 1.14 億次請求，透過 AI 模型預測用戶行為、優化溝通管道並個人化催收策略。"
+    },
+    "highlights": {
+      "en": [
+        "SIREC manages approximately 114 million monthly requests on Google Kubernetes Engine.",
+        "Debt recovery rates improved by 30% to 40% after AI-driven optimization.",
+        "Payment conversions increased by 45% through personalized engagement strategies.",
+        "Operational costs reduced by 54% via automation and cloud scalability.",
+        "atmira holds 80% market share in Spain and plans to expand to Europe and Latin America."
+      ],
+      "zh": [
+        "SIREC 在 Google Kubernetes Engine 上每月處理約 1.14 億次請求。",
+        "AI 驅動優化後，債務回收率提升 30% 至 40%。",
+        "透過個人化互動策略，付款轉換率提高 45%。",
+        "自動化與雲端彈性擴展將營運成本降低 54%。",
+        "atmira 在西班牙擁有 80% 市場份額，並計劃拓展至歐洲和拉丁美洲市場。"
+      ]
+    },
+    "technologies": [
+      "Google Kubernetes Engine",
+      "Oracle on Google Cloud",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "atmira - Caso de Éxito | Google Cloud",
+        "url": "https://cloud.google.com/customers/intl/es-419/atmira?hl=es-419"
+      },
+      {
+        "title": "Debt Centric Collection Omnichannel & Analytics | atmira",
+        "url": "https://www.atmira.com/customer-stories/debt-centric-collection-omnichannel-analytics/"
+      }
+    ]
+  },
+  {
+    "id": "business-professional-services-customer-capgemini",
+    "industry": "business-professional-services",
+    "agentType": "customer",
+    "company": "Capgemini",
+    "isNew": false,
+    "summary": {
+      "en": "Capgemini builds Google Cloud AI agents to optimize ecommerce and accelerate order-to-cash for retailers.",
+      "zh": "Capgemini 以 Google Cloud 建構 AI 代理人，優化電商體驗並加速零售商的訂單到收款流程。"
+    },
+    "overview": {
+      "en": "Capgemini is using Google Cloud to build AI agents that help retailers accept customer orders through new revenue channels and accelerate the order-to-cash process for digital stores. The company expanded its strategic partnership with Google Cloud through a dedicated AI Enterprise Hub, embedding specialized engineering teams within client environments to design and deploy AI agents around enterprise workflows.",
+      "zh": "Capgemini 利用 Google Cloud 建構 AI 代理人，協助零售商透過新收入管道接受顧客訂單，並加速數位商店的訂單到收款流程。該公司透過設立專屬 AI Enterprise Hub 擴展了與 Google Cloud 的策略合作夥伴關係，將專業工程團隊嵌入客戶環境中設計和部署圍繞企業工作流程的 AI 代理人。"
+    },
+    "highlights": {
+      "en": [
+        "AI agents help retailers unlock new revenue channels and streamline order acceptance processes.",
+        "The order-to-cash process for digital stores is accelerated through AI automation.",
+        "Capgemini established a Google Cloud AI Enterprise Hub with Outcome Deployed Engineers embedded in client environments.",
+        "Agentic retail experiences are built with Google's shopping and food ordering agent capabilities."
+      ],
+      "zh": [
+        "AI 代理人協助零售商開拓新收入管道並簡化訂單接受流程。",
+        "透過 AI 自動化加速數位商店的訂單到收款流程。",
+        "Capgemini 設立 Google Cloud AI Enterprise Hub，將專屬工程師嵌入客戶環境。",
+        "結合 Google 購物與餐飲訂購代理人能力，打造零售代理商業體驗。"
+      ]
+    },
+    "technologies": [
+      "Vertex AI",
+      "Google Cloud",
+      "Gemini"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Capgemini expands strategic partnership with Google Cloud to revolutionize CX with agentic AI",
+        "url": "https://www.capgemini.com/news/press-releases/capgemini-expands-strategic-partnership-with-google-cloud-to-revolutionize-cx-across-industries-with-agentic-ai/"
+      },
+      {
+        "title": "Capgemini unveils Google Cloud AI Enterprise Hub",
+        "url": "https://www.capgemini.com/news/press-releases/capgemini-unveils-google-cloud-ai-enterprise-hub-to-accelerate-agentic-ai-enterprise-transformation/"
+      }
+    ]
+  },
+  {
+    "id": "business-professional-services-customer-deloitte",
+    "industry": "business-professional-services",
+    "agentType": "customer",
+    "company": "Deloitte",
+    "isNew": false,
+    "summary": {
+      "en": "Deloitte's Care Finder agent, built with Google Cloud, helps patients find in-network providers in under a minute.",
+      "zh": "Deloitte 以 Google Cloud 打造 Care Finder 代理人，協助病患在不到一分鐘內找到網路內醫療提供者。"
+    },
+    "overview": {
+      "en": "Deloitte offers a 'Care Finder' agent as part of its Agent Fleet, built with Google Cloud's Gemini models. The agent understands patient requests and matches them with available in-network healthcare providers, reducing the average provider-search time from five to eight minutes to under one minute. Deloitte has over 300 agents live in its Agent Fleet, with more than 100 listed on Google Cloud Marketplace.",
+      "zh": "Deloitte 以 Google Cloud Gemini 模型打造的「Care Finder」代理人是其 Agent Fleet 的一部分。該代理人能理解病患需求並配對適合的網路內醫療提供者，將平均搜尋時間從五到八分鐘縮短至不到一分鐘。Deloitte 的 Agent Fleet 目前有超過 300 個代理人上線，其中逾 100 個已列於 Google Cloud Marketplace。"
+    },
+    "highlights": {
+      "en": [
+        "Care Finder helps patients find in-network providers in less than one minute, versus 5-8 minutes by phone.",
+        "Built with Google Cloud as part of Deloitte's Agent Fleet of 300+ live AI agents.",
+        "Over 100 Deloitte agents are listed on Google Cloud Marketplace.",
+        "The agent uses natural language processing to interpret patient needs and match healthcare services."
+      ],
+      "zh": [
+        "Care Finder 協助病患在不到一分鐘內找到網路內醫療提供者，相較電話查詢的 5-8 分鐘大幅縮短。",
+        "以 Google Cloud 建構，是 Deloitte 超過 300 個 AI 代理人組成的 Agent Fleet 之一。",
+        "超過 100 個 Deloitte 代理人已列於 Google Cloud Marketplace。",
+        "代理人運用自然語言處理技術理解病患需求並配對醫療服務。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Google Cloud",
+      "Vertex AI"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Deloitte & Google Cloud Guide the Agentic AI Adoption Journey",
+        "url": "https://www.deloitte.com/us/en/alliances/articles/google-cloud-agentic-ai-adoption-journey.html"
+      },
+      {
+        "title": "Deloitte Expands Alliances With Google Cloud and ServiceNow to Accelerate Agentic AI Adoption",
+        "url": "https://www.prnewswire.com/news-releases/deloitte-expands-alliances-with-google-cloud-and-servicenow-to-accelerate-agentic-ai-adoption-in-the-enterprise-302423941.html"
+      }
+    ]
+  },
+  {
+    "id": "business-professional-services-customer-ferret-ai",
+    "industry": "business-professional-services",
+    "agentType": "customer",
+    "company": "Ferret.ai",
+    "isNew": false,
+    "summary": {
+      "en": "Ferret.ai uses AI on Google Cloud to deliver real-time relationship intelligence and reputational risk monitoring.",
+      "zh": "Ferret.ai 在 Google Cloud 上運用 AI 提供即時人際關係情報與聲譽風險監控服務。"
+    },
+    "overview": {
+      "en": "Ferret.ai leverages AI and Google Cloud infrastructure, including Vertex AI, to offer users curated insights about the backgrounds of people in their personal and professional networks. The platform continuously scans contacts for potential risks and opportunities, drawing on decades of news archives, white-collar crime records, corporate ownership data, and civil and criminal court filings to deliver actionable intelligence in real time.",
+      "zh": "Ferret.ai 運用 AI 與 Google Cloud 基礎架構（包括 Vertex AI）為用戶提供其個人及職業網絡中人物背景的精選洞察。平台持續掃描聯絡人以識別潛在風險與機會，結合數十年新聞資料庫、白領犯罪紀錄、企業所有權資料及民事和刑事法庭紀錄，即時提供可採取行動的情報。"
+    },
+    "highlights": {
+      "en": [
+        "AI continuously scans user contacts to identify reputational risks and relationship opportunities in real time.",
+        "Platform draws on exclusive data including news archives, white-collar crime records, and court filings.",
+        "Uses Vertex AI on Google Cloud to power its relationship intelligence and monitoring capabilities.",
+        "Addresses growing demand for reputational risk management in personal and professional networks."
+      ],
+      "zh": [
+        "AI 持續即時掃描用戶聯絡人，識別聲譽風險與人際機會。",
+        "平台整合獨家資料來源，包括新聞資料庫、白領犯罪紀錄及法庭紀錄。",
+        "利用 Google Cloud 上的 Vertex AI 驅動關係情報與監控能力。",
+        "回應個人與職業網絡中日益增長的聲譽風險管理需求。"
+      ]
+    },
+    "technologies": [
+      "Vertex AI",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "How three startups deliver results faster with Vertex AI | Google Cloud Blog",
+        "url": "https://cloud.google.com/blog/topics/startups/how-three-startups-deliver-results-faster-with-vertex-ai"
+      },
+      {
+        "title": "Ferret | Relationship Intelligence in your pocket",
+        "url": "https://ferret.ai/"
+      }
+    ]
+  },
+  {
+    "id": "business-professional-services-customer-humanizadas",
+    "industry": "business-professional-services",
+    "agentType": "customer",
+    "company": "Humanizadas",
+    "isNew": false,
+    "summary": {
+      "en": "Humanizadas delivers real-time ESG sustainability intelligence via Gemini-powered AI chatbot across 150 sustainability themes.",
+      "zh": "Humanizadas 透過 Gemini 驅動的 AI 聊天機器人，跨 150 個永續主題即時提供 ESG 指標與永續情報。"
+    },
+    "overview": {
+      "en": "Humanizadas uses Google Kubernetes Engine, Cloud Run, and Vertex AI with Gemini models to deliver real-time ESG indicators and sustainability intelligence to organizations across multiple countries. The company built an AI-powered conversational chatbot using Dialogflow that acts as a 24/7 sustainability specialist trained on client-specific data, while automated classification systems process millions of stakeholder data points across 150 hierarchical sustainability themes.",
+      "zh": "Humanizadas 運用 Google Kubernetes Engine、Cloud Run 及 Vertex AI 結合 Gemini 模型，向多個國家的企業即時提供 ESG 指標與永續情報。公司以 Dialogflow 建構 AI 對話聊天機器人，作為 7x24 小時運作、針對客戶資料訓練的永續專家，同時自動化分類系統可跨 150 個分層永續主題處理數百萬個利害關係人資料點。"
+    },
+    "highlights": {
+      "en": [
+        "AI chatbot built with Dialogflow acts as a 24/7 sustainability specialist trained on client-specific ESG data.",
+        "Automated classification systems process millions of stakeholder data points across 150 sustainability themes.",
+        "Platform powered by Vertex AI with Gemini models deployed on Google Kubernetes Engine and Cloud Run.",
+        "ESG intelligence delivered in real time to organizations across multiple countries."
+      ],
+      "zh": [
+        "以 Dialogflow 建構的 AI 聊天機器人針對客戶 ESG 資料訓練，全天候作為永續專家。",
+        "自動化分類系統跨 150 個永續主題處理數百萬個利害關係人資料點。",
+        "平台以 Vertex AI 結合 Gemini 模型，部署於 Google Kubernetes Engine 和 Cloud Run 上。",
+        "即時向多個國家的企業提供 ESG 情報服務。"
+      ]
+    },
+    "technologies": [
+      "Vertex AI",
+      "Gemini",
+      "Google Kubernetes Engine",
+      "Cloud Run",
+      "Dialogflow"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "business-professional-services-customer-intuit",
+    "industry": "business-professional-services",
+    "agentType": "customer",
+    "company": "Intuit",
+    "isNew": false,
+    "summary": {
+      "en": "Intuit integrates Google Cloud Doc AI and Gemini into TurboTax GenOS to autofill ten common US tax forms.",
+      "zh": "Intuit 將 Google Cloud Doc AI 與 Gemini 整合至 TurboTax 的 GenOS，自動填入十種常見美國稅務表格。"
+    },
+    "overview": {
+      "en": "Intuit, makers of TurboTax, integrated Google Cloud's Document AI and Gemini models into its proprietary Generative AI Operating System (GenOS) to expand done-for-you autofill across ten common U.S. tax forms, including 1099 and 1040 variations. Once a user uploads a document, GenOS sends it to Google's Document AI for extraction, categorization, and automatic population of IRS forms within TurboTax, saving time and boosting accuracy for millions of tax filers.",
+      "zh": "TurboTax 的製造商 Intuit 將 Google Cloud 的 Document AI 和 Gemini 模型整合至其自研的生成式 AI 作業系統（GenOS），擴展自動填表功能，涵蓋十種常見美國稅務表格，包括 1099 和 1040 的多種版本。用戶上傳文件後，GenOS 會將其傳送至 Google Document AI 進行提取、分類並自動填入 TurboTax 中的國稅局表格，為數百萬納稅人節省時間並提升準確性。"
+    },
+    "highlights": {
+      "en": [
+        "Google Cloud Document AI and Gemini models integrated into Intuit's GenOS platform.",
+        "Autofill expanded to cover ten common U.S. tax forms, including 1099-B, 1099-COMP, 1099-OID, 1040, and associated schedules.",
+        "TurboTax processed 44 million U.S. tax returns and $107 billion in tax refunds in tax year 2023.",
+        "Investors in stocks, bonds, and crypto benefit from automated data extraction, reducing multi-screen manual entry."
+      ],
+      "zh": [
+        "Google Cloud Document AI 和 Gemini 模型整合至 Intuit 的 GenOS 平台。",
+        "自動填表功能擴展至十種常見美國稅務表格，包括 1099-B、1099-COMP、1099-OID、1040 及相關附表。",
+        "TurboTax 在 2023 稅務年度處理了 4,400 萬份美國報稅申報及 1,070 億美元退稅。",
+        "股票、債券和加密貨幣投資人可受益於自動化資料提取，減少繁複的手動多頁面輸入。"
+      ]
+    },
+    "technologies": [
+      "Document AI",
+      "Gemini",
+      "Vertex AI",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Intuit Further Simplifies Tax Prep for Millions of TurboTax Customers this Tax Season with Google Cloud AI",
+        "url": "https://investors.intuit.com/news-events/press-releases/detail/1246/intuit-further-simplifies-tax-prep-for-millions-of-turbotax-customers-this-tax-season-with-google-cloud-ai"
+      },
+      {
+        "title": "Intuit Further Simplifies Tax Prep for Millions of TurboTax Customers — Intuit Blog",
+        "url": "https://www.intuit.com/blog/news-social/intuit-further-simplifies-tax-prep-for-millions-of-turbotax-customers/"
+      }
+    ]
+  },
+  {
+    "id": "business-professional-services-customer-nobroker",
+    "industry": "business-professional-services",
+    "agentType": "customer",
+    "company": "NoBroker",
+    "isNew": false,
+    "summary": {
+      "en": "NoBroker's ConvoZen AI, powered by Gemini, processes 10,000 hours of recordings daily and supports multiple Indian languages.",
+      "zh": "NoBroker 的 ConvoZen AI 由 Gemini 驅動，每日處理 10,000 小時錄音，支援多種印度語言。"
+    },
+    "overview": {
+      "en": "NoBroker, India's leading real estate platform, deployed ConvoZen AI—powered by Gemini and L4 GPUs—to automate customer support across multiple Indian languages including Hindi, Tamil, Kannada, and English. The platform processes 10,000 hours of call recordings daily, with AI agents projected to handle 25-40% of future calls. The system aims to save customers $1 billion annually through automation and efficiency gains.",
+      "zh": "印度領先房地產平台 NoBroker 部署了由 Gemini 和 L4 GPU 驅動的 ConvoZen AI，自動化處理包括印地語、泰米爾語、卡納達語和英語等多種印度語言的客戶支援。平台每日處理 10,000 小時通話錄音，AI 代理人預計將處理未來 25%-40% 的通話，目標透過自動化和效率提升每年為客戶節省 10 億美元。"
+    },
+    "highlights": {
+      "en": [
+        "ConvoZen AI processes 10,000 hours of call recordings daily on the NoBroker platform.",
+        "AI agents are projected to handle 25-40% of future customer calls.",
+        "Platform supports multilingual customer service across multiple Indian languages.",
+        "The solution aims to save customers $1 billion annually through automation.",
+        "Built with Gemini models and L4 GPUs on Google Cloud."
+      ],
+      "zh": [
+        "ConvoZen AI 每日在 NoBroker 平台上處理 10,000 小時通話錄音。",
+        "AI 代理人預計將處理未來 25%-40% 的客戶來電。",
+        "平台支援跨多種印度語言的多語言客戶服務。",
+        "此解決方案目標透過自動化每年為客戶節省 10 億美元。",
+        "基於 Google Cloud 上的 Gemini 模型和 L4 GPU 建構。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Google Cloud",
+      "L4 GPU"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "NoBroker Unveils ConvoZen.AI: A Comprehensive Conversational AI Cloud for the Agentic Era",
+        "url": "https://www.business-standard.com/content/press-releases-ani/nobroker-unveils-convozen-ai-a-comprehensive-conversational-ai-cloud-for-the-agentic-era-125022800864_1.html"
+      },
+      {
+        "title": "NoBroker's ConvoZen launches two frontier AI speech models for India",
+        "url": "https://www.business-standard.com/companies/news/nobroker-s-convozen-launches-two-frontier-ai-speech-models-for-india-126030900349_1.html"
+      }
+    ]
+  },
+  {
+    "id": "business-professional-services-customer-stax-ai",
+    "industry": "business-professional-services",
+    "agentType": "customer",
+    "company": "Stax AI",
+    "isNew": false,
+    "summary": {
+      "en": "Stax AI automates retirement plan trust accounting in minutes using Vertex AI and MongoDB Atlas.",
+      "zh": "Stax AI 運用 Vertex AI 和 MongoDB Atlas，在數分鐘內自動化處理退休計劃信託會計資料。"
+    },
+    "overview": {
+      "en": "Stax AI aims to revolutionize retirement planning by building an AI-powered operating system for independent retirement plan administrators (TPAs). Using MongoDB Atlas and Vertex AI, the company automates previously manual processes—including trust reconciliation, payroll, census data, and compliance—transforming massive volumes of trust accounting data in minutes. The platform unifies the core workflows of 401(k) plan management into a single seamless experience.",
+      "zh": "Stax AI 致力於透過為獨立退休計劃管理公司（TPA）建構 AI 驅動的作業系統，革新退休規劃領域。藉助 MongoDB Atlas 和 Vertex AI，公司將原本手動的流程自動化，包括信託對帳、薪資、人口普查資料和合規性等，在數分鐘內處理大量信託會計資料。平台將 401(k) 計劃管理的核心工作流程整合至單一無縫體驗。"
+    },
+    "highlights": {
+      "en": [
+        "Transforms massive volumes of trust accounting data in minutes using Vertex AI and MongoDB Atlas.",
+        "Automates trust reconciliation, payroll, census, and compliance workflows for 401(k) plans.",
+        "Unifies core retirement plan administration tasks into one AI-powered platform.",
+        "Eliminates hours of manual work with automated data extraction and filing."
+      ],
+      "zh": [
+        "利用 Vertex AI 和 MongoDB Atlas 在數分鐘內處理大量信託會計資料。",
+        "自動化 401(k) 計劃的信託對帳、薪資、人口普查和合規工作流程。",
+        "將退休計劃管理的核心任務整合至一個 AI 驅動的平台。",
+        "以自動化資料提取和歸檔消除數小時的手動作業。"
+      ]
+    },
+    "technologies": [
+      "Vertex AI",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Stax.ai: Transforming Retirement Data Management | MongoDB Case Study",
+        "url": "https://www.mongodb.com/solutions/customer-case-studies/stax-ai"
+      },
+      {
+        "title": "Stax AI transforms trust accounting data with Google Cloud and MongoDB",
+        "url": "https://www.youtube.com/watch?v=urdwQxE5t-I"
+      }
+    ]
+  },
+  {
+    "id": "business-professional-services-customer-sutherland",
+    "industry": "business-professional-services",
+    "agentType": "customer",
+    "company": "Sutherland",
+    "isNew": false,
+    "summary": {
+      "en": "Sutherland boosts client-facing teams with Google Cloud AI, surfacing real-time suggested responses and automated insights.",
+      "zh": "Sutherland 透過 Google Cloud AI 強化客戶服務團隊，即時推送建議回應並自動化洞察分析。"
+    },
+    "overview": {
+      "en": "Sutherland, a leading digital transformation company, partnered with Google Cloud to deploy AI solutions that bring together human expertise and AI for customer-facing teams. Built on Vertex AI and Agent Assist, the Sutherland Agent Success platform automatically surfaces suggested responses from the knowledge base and gen AI-powered answers to agents in real time—without manual searches—streamlining customer interactions and improving service quality.",
+      "zh": "數位轉型領導企業 Sutherland 與 Google Cloud 合作，部署結合人類專業知識與 AI 的客戶服務解決方案。基於 Vertex AI 和 Agent Assist 建構的 Sutherland Agent Success 平台，可自動向客服人員即時推送知識庫的建議回應和 AI 生成答案——無需手動搜尋——簡化客戶互動並提升服務品質。"
+    },
+    "highlights": {
+      "en": [
+        "Agent Success platform built on Google Cloud's Vertex AI and Agent Assist technologies.",
+        "Real-time AI suggestions surface relevant knowledge base content and gen AI-powered responses without manual search.",
+        "Multilingual support covers 150+ languages through Translate AI capability.",
+        "Sutherland and Google Cloud expanded their partnership to scale AI solutions globally in 2025."
+      ],
+      "zh": [
+        "Agent Success 平台基於 Google Cloud 的 Vertex AI 和 Agent Assist 技術建構。",
+        "即時 AI 建議無需手動搜尋即可呈現相關知識庫內容和 AI 生成回應。",
+        "透過 Translate AI 功能支援超過 150 種語言的多語言服務。",
+        "Sutherland 與 Google Cloud 於 2025 年擴大合作夥伴關係，在全球規模化 AI 解決方案。"
+      ]
+    },
+    "technologies": [
+      "Vertex AI",
+      "Agent Assist",
+      "Google Cloud",
+      "Gemini"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Sutherland and Google Cloud Partner to Deliver Real-World AI Solutions to Businesses Globally",
+        "url": "https://www.sutherlandglobal.com/about-us/latest-news/2025/sutherland-and-google-cloud-partner-to-deliver-real-world-ai-solutions-to-businesses-globally"
+      },
+      {
+        "title": "AI Customer Experience Cloud-Based AI Solution | Sutherland Agent Success",
+        "url": "https://www.sutherlandglobal.com/products-x-platforms/sutherland-agent-success"
+      }
+    ]
+  },
+  {
+    "id": "business-professional-services-customer-wagestream",
+    "industry": "business-professional-services",
+    "agentType": "customer",
+    "company": "Wagestream",
+    "isNew": false,
+    "summary": {
+      "en": "Wagestream uses Gemini models to handle over 80% of internal customer inquiries about pay and benefits.",
+      "zh": "Wagestream 使用 Gemini 模型處理超過 80% 的內部客戶詢問，包含薪資日期與餘額查詢。"
+    },
+    "overview": {
+      "en": "Wagestream, a financial wellbeing platform that serves as an employee benefit for frontline workers, is using Gemini models to handle more than 80% of its internal customer inquiries—including common questions about payment dates, account balances, and more. This automation enables the platform to scale its support capacity efficiently while allowing human agents to focus on more complex member needs.",
+      "zh": "Wagestream 是一個為一線員工提供財務健康服務的員工福利平台，正使用 Gemini 模型處理超過 80% 的內部客戶詢問，包括薪資日期、帳戶餘額等常見問題。此自動化使平台能有效擴展支援能力，同時讓人工客服專注於更複雜的會員需求。"
+    },
+    "highlights": {
+      "en": [
+        "Gemini models handle more than 80% of internal customer inquiries automatically.",
+        "Covers common questions including payment dates, account balances, and benefit details.",
+        "Enables efficient scale of customer support without proportional increase in human agents.",
+        "Supports a financial wellbeing platform used by frontline workers at employers like Asda and NHS."
+      ],
+      "zh": [
+        "Gemini 模型自動處理超過 80% 的內部客戶詢問。",
+        "涵蓋薪資日期、帳戶餘額及福利詳情等常見問題。",
+        "無需大幅增加人工客服的情況下有效擴展客戶支援規模。",
+        "支援 Asda、NHS 等雇主為一線員工提供的財務健康平台。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "business-professional-services-customer-wealthapi",
+    "industry": "business-professional-services",
+    "agentType": "customer",
+    "company": "WealthAPI",
+    "isNew": false,
+    "summary": {
+      "en": "WealthAPI uses Gemini and DataStax Astra DB to deliver real-time personalized financial insights to millions in Germany.",
+      "zh": "WealthAPI 結合 Gemini 與 DataStax Astra DB，為德國數百萬用戶即時提供個人化財務洞察。"
+    },
+    "overview": {
+      "en": "WealthAPI, the leading provider of wealth management interfaces in Germany, uses Gemini and DataStax Astra DB to deliver next-gen financial insights in real time to millions of customers. The platform aggregates and analyzes complex financial data—including multi-banking and multi-portfolio information—to provide personalized guidance and recommendations such as cost-saving alternatives for financial products. Response times improved by an estimated 90% following the DataStax vector search integration.",
+      "zh": "WealthAPI 是德國領先的財富管理介面提供商，結合 Gemini 和 DataStax Astra DB 向數百萬客戶即時提供下一代財務洞察。平台聚合並分析複雜的財務資料（包括多銀行和多投資組合資訊），提供個人化指引和建議，例如為金融產品推薦更划算的替代方案。整合 DataStax 向量搜尋後，回應時間估計縮短了 90%。"
+    },
+    "highlights": {
+      "en": [
+        "Delivers real-time personalized financial insights to millions of customers in Germany.",
+        "Integrates Gemini with DataStax Astra DB vector search for next-gen financial intelligence.",
+        "Response times improved by an estimated 90% with vector search integration.",
+        "Covers multi-banking, multi-portfolio aggregation, KYC, and open finance use cases."
+      ],
+      "zh": [
+        "向德國數百萬客戶即時提供個人化財務洞察。",
+        "整合 Gemini 與 DataStax Astra DB 向量搜尋，實現下一代財務智慧。",
+        "向量搜尋整合後回應時間估計縮短 90%。",
+        "涵蓋多銀行、多投資組合聚合、KYC 及開放金融應用場景。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "WealthAPI delivers next-gen financial insights in real time with Gemini and DataStax",
+        "url": "https://www.youtube.com/watch?v=zdoKmMLSGdg"
+      },
+      {
+        "title": "wealthAPI Powers Personalized Recommendations with Astra DB | DataStax",
+        "url": "https://www.datastax.com/enterprise-success/wealthapi"
+      }
+    ]
+  },
+  {
+    "id": "business-professional-services-customer-zenbusiness",
+    "industry": "business-professional-services",
+    "agentType": "customer",
+    "company": "ZenBusiness",
+    "isNew": true,
+    "summary": {
+      "en": "ZenBusiness launched Velo, an AI assistant on Gemini Enterprise Agent Platform for business formation, compliance, and website building.",
+      "zh": "ZenBusiness 在 Gemini Enterprise Agent Platform 上推出 AI 助理 Velo，協助企業成立、合規管理及網站建設。"
+    },
+    "overview": {
+      "en": "ZenBusiness utilizes the Gemini Enterprise Agent Platform to simplify business ownership through Velo—an AI business assistant powered by more than 30 domain-specific sub-agents. Velo guides entrepreneurs through formation, compliance, and operational tasks, using insights from over 850,000 small businesses. The routing architecture primarily leverages Google's Gemini models to direct queries to specialized agents covering compliance, business structure, website building, and more.",
+      "zh": "ZenBusiness 運用 Gemini Enterprise Agent Platform，透過 Velo——一個由超過 30 個領域專屬子代理人驅動的 AI 商業助理——簡化創業流程。Velo 結合超過 850,000 家小型企業的洞察，引導創業者完成企業成立、合規管理和營運任務。路由架構主要運用 Google Gemini 模型，將查詢導向涵蓋合規、企業架構、網站建設等專屬代理人。"
+    },
+    "highlights": {
+      "en": [
+        "Velo AI assistant uses 30+ domain-specific sub-agents powered primarily by Google's Gemini models.",
+        "Draws on insights from over 850,000 small businesses to guide entrepreneurs.",
+        "Covers formation, EIN, registered agent, licensing, compliance, and website building workflows.",
+        "ZenBusiness Enterprise provides SOC2-compliant, API-driven embedded infrastructure for SMB platforms."
+      ],
+      "zh": [
+        "Velo AI 助理使用超過 30 個主要由 Google Gemini 模型驅動的領域專屬子代理人。",
+        "結合超過 850,000 家小型企業的洞察，引導創業者做出決策。",
+        "涵蓋企業成立、EIN 申請、法定代理人、許可證、合規和網站建設工作流程。",
+        "ZenBusiness Enterprise 為中小企業平台提供符合 SOC2 標準的 API 驅動嵌入式基礎架構。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Gemini Enterprise Agent Platform",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "ZenBusiness Launches Velo, the Smarter Way to Start and Run a Business with AI",
+        "url": "https://www.prnewswire.com/news-releases/zenbusiness-launches-velo-the-smarter-way-to-start-and-run-a-business-with-ai-302510117.html"
+      },
+      {
+        "title": "ZenBusiness Velo — Your AI Business Assistant",
+        "url": "https://www.zenbusiness.com/velo/"
+      }
+    ]
+  }
+]
