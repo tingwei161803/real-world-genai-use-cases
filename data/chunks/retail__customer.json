@@ -169,7 +169,7 @@
     "industry": "retail",
     "agentType": "customer",
     "company": "Best Buy",
-    "isNew": false,
+    "isNew": true,
     "summary": {
       "en": "Best Buy deployed an Agent Assist powered by Gemini Enterprise for CX to autonomously guide shoppers through tech specs, issue resolution, and scheduling.",
       "zh": "Best Buy 部署 Gemini Enterprise for CX 的 Agent Assist，自動引導顧客處理技術規格查詢、問題解決與預約排程。"
@@ -327,7 +327,7 @@
     "industry": "retail",
     "agentType": "customer",
     "company": "Bunnings",
-    "isNew": false,
+    "isNew": true,
     "summary": {
       "en": "Bunnings launched Buddy, a multimodal AI shopping assistant built with Gemini Enterprise for CX, helping Australian DIYers find products and plan projects.",
       "zh": "Bunnings 推出以 Gemini Enterprise for CX 打造的多模態 AI 購物助理 Buddy，協助澳洲 DIY 愛好者找商品、規劃專案。"
@@ -571,7 +571,7 @@
     "industry": "retail",
     "agentType": "customer",
     "company": "Estée Lauder Companies",
-    "isNew": false,
+    "isNew": true,
     "summary": {
       "en": "Estée Lauder and Jo Malone London launched an AI Scent Advisor on Vertex AI that maps natural language to olfactory data for bespoke fragrance recommendations.",
       "zh": "Estée Lauder 與 Jo Malone London 在 Vertex AI 上推出 AI Scent Advisor，將自然語言映射至香氛資料，提供量身定制的香水推薦。"
@@ -818,7 +818,7 @@
     "industry": "retail",
     "agentType": "customer",
     "company": "Grupo Falabella",
-    "isNew": false,
+    "isNew": true,
     "summary": {
       "en": "Grupo Falabella rebuilt incident management with a 24/7 AI conversational agent, cutting resolution time from 2 hours to 30 minutes.",
       "zh": "Grupo Falabella 以 24/7 AI 對話代理重建事件管理流程，將解決時間從 2 小時縮短至 30 分鐘。"
@@ -863,7 +863,7 @@
     "industry": "retail",
     "agentType": "customer",
     "company": "Home Depot",
-    "isNew": false,
+    "isNew": true,
     "summary": {
       "en": "Home Depot launched Magic Apron, a Gemini Enterprise agentic AI that brings expert orange-apron advice to customers wherever they are.",
       "zh": "Home Depot 推出 Magic Apron，以 Gemini Enterprise 主動式 AI 將專業橙色圍裙服務帶給每位顧客。"
@@ -908,7 +908,7 @@
     "industry": "retail",
     "agentType": "customer",
     "company": "Home Depot",
-    "isNew": false,
+    "isNew": true,
     "summary": {
       "en": "Home Depot's Gemini-powered phone agent identifies caller needs within 10 seconds, delivering store support 4x faster.",
       "zh": "Home Depot 以 Gemini 驅動的電話代理在 10 秒內識別來電需求，門市電話支援速度提升 4 倍。"
@@ -952,7 +952,7 @@
     "industry": "retail",
     "agentType": "customer",
     "company": "Honeywell",
-    "isNew": false,
+    "isNew": true,
     "summary": {
       "en": "Honeywell's Smart Shopping Platform, developed with Google Cloud and 66degrees, uses Gemini to give retailers real-time in-store compliance and inventory insights.",
       "zh": "Honeywell 與 Google Cloud 及 66degrees 共同開發的 Smart Shopping Platform 運用 Gemini，為零售商提供即時的門市合規性與庫存洞察。"
@@ -1033,7 +1033,7 @@
     "industry": "retail",
     "agentType": "customer",
     "company": "Kingfisher",
-    "isNew": false,
+    "isNew": true,
     "summary": {
       "en": "Kingfisher deployed Vertex AI Search across 1,700+ stores in Europe, moving beyond keyword search to AI-driven shopping assistants for home improvement projects.",
       "zh": "Kingfisher 在歐洲逾 1,700 家門市部署 Vertex AI Search，從關鍵字搜尋升級至 AI 驅動的家居改善專案購物助理。"
@@ -1077,7 +1077,7 @@
     "industry": "retail",
     "agentType": "customer",
     "company": "La Maison du Whisky",
-    "isNew": false,
+    "isNew": true,
     "summary": {
       "en": "La Maison du Whisky uses Gemini Enterprise to create a Digital Sommelier that transforms product data into premium marketing storytelling in seconds.",
       "zh": "La Maison du Whisky 運用 Gemini Enterprise 打造數位侍酒師，在幾秒內將產品資料轉化為高端行銷故事內容。"
@@ -1115,7 +1115,7 @@
     "industry": "retail",
     "agentType": "customer",
     "company": "Liverpool",
-    "isNew": false,
+    "isNew": true,
     "summary": {
       "en": "Liverpool, Mexico's premier department store, is projecting a 10x ROI from its AI shopping assistant that brings signature in-store service online.",
       "zh": "墨西哥頂級百貨公司 Liverpool 預計其 AI 購物助理將帶來 10 倍投資報酬率，將招牌門市服務延伸至線上。"
@@ -1329,7 +1329,7 @@
     "industry": "retail",
     "agentType": "customer",
     "company": "Mars",
-    "isNew": false,
+    "isNew": true,
     "summary": {
       "en": "Mars adopted Gemini Enterprise as its primary AI platform for global associates, enabling AI agent building across over a century of product and consumer data.",
       "zh": "Mars 採用 Gemini Enterprise 作為全球員工的主要 AI 平台，讓員工能基於逾百年的產品與消費者資料構建 AI 代理。"
@@ -1463,7 +1463,7 @@
     "industry": "retail",
     "agentType": "customer",
     "company": "Natura",
-    "isNew": false,
+    "isNew": true,
     "summary": {
       "en": "Natura's Google Cloud AI sales assistant reaches customers on WhatsApp for abandoned cart recovery, boosting buyer conversion by 112%.",
       "zh": "Natura 的 Google Cloud AI 銷售助理透過 WhatsApp 觸及棄單顧客，將買家轉換率提升 112%。"
@@ -1625,8 +1625,8 @@
     "id": "retail-customer-papa-john-s",
     "industry": "retail",
     "agentType": "customer",
-    "company": "Papa John's",
-    "isNew": false,
+    "company": "Papa John’s",
+    "isNew": true,
     "summary": {
       "en": "Papa John's deployed a Gemini-powered Food Ordering Agent with omnichannel voice and text ordering, making it the first restaurant to deploy this system at scale.",
       "zh": "Papa John's 部署由 Gemini 驅動的 Food Ordering Agent，實現全渠道語音與文字點餐，成為首家大規模部署此系統的餐廳。"
@@ -1708,7 +1708,7 @@
     "industry": "retail",
     "agentType": "customer",
     "company": "Reliance",
-    "isNew": false,
+    "isNew": true,
     "summary": {
       "en": "Reliance is transforming retail for millions in India with a Shopping Agent that guides customers from natural language requests to a fully assembled cart.",
       "zh": "Reliance 以購物代理為印度數百萬消費者變革零售體驗，從自然語言請求直接引導顧客完成購物車組建。"
@@ -1954,7 +1954,7 @@
     "industry": "retail",
     "agentType": "customer",
     "company": "Unilever",
-    "isNew": false,
+    "isNew": true,
     "summary": {
       "en": "Unilever partnered with Google Cloud in a five-year deal using Gemini Enterprise Agent Platform to transform how consumers discover and shop for its global brands.",
       "zh": "Unilever 與 Google Cloud 簽署五年合作協議，運用 Gemini Enterprise Agent Platform 變革消費者探索和購買其全球品牌的方式。"
@@ -1999,7 +1999,7 @@
     "industry": "retail",
     "agentType": "customer",
     "company": "Varejo de Moda",
-    "isNew": false,
+    "isNew": true,
     "summary": {
       "en": "Varejo de Moda, a Brazilian fashion retailer, uses Virtual Try-On and AI product page assistants to help customers visualize and understand products online.",
       "zh": "巴西時尚零售商 Varejo de Moda 運用虛擬試穿與 AI 商品頁面助理，協助顧客在線上視覺化並了解商品。"
@@ -2080,7 +2080,7 @@
     "id": "retail-customer-wendy-s",
     "industry": "retail",
     "agentType": "customer",
-    "company": "Wendy's",
+    "company": "Wendy’s",
     "isNew": false,
     "summary": {
       "en": "Wendy's FreshAI pairs Gemini's conversational AI with audio and visual elements for a consistent drive-thru experience, shaving 22 seconds off service times.",
@@ -2128,7 +2128,7 @@
     "industry": "retail",
     "agentType": "customer",
     "company": "Woolworths Group",
-    "isNew": false,
+    "isNew": true,
     "summary": {
       "en": "Woolworths Group became the first Australian retailer on Google's agentic platform, evolving its Olive chatbot to anticipate customer needs and plan meals.",
       "zh": "Woolworths Group 成為首家採用 Google 主動式 AI 平台的澳洲零售商，將 Olive 聊天機器人升級為能預判顧客需求並規劃餐食的智慧助理。"

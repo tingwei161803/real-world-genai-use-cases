@@ -108,8 +108,8 @@
     "company": "Arizona State University",
     "isNew": false,
     "summary": {
-      "en": "ASU Prep's Archie chatbot, powered by Gemini, improves students' first-attempt math accuracy by 6%.",
-      "zh": "ASU Prep 以 Gemini 驅動的 Archie 聊天機器人，讓學生數學首次作答正確率提升 6%。"
+      "en": "ASU Prep's Archie chatbot, powered by Gemini, provides real-time math tutoring hints and error feedback for middle and high school students.",
+      "zh": "ASU Prep 以 Gemini 驅動的 Archie 聊天機器人，為國中與高中生提供即時數學輔導提示與錯誤回饋。"
     },
     "overview": {
       "en": "Arizona State University's ASU Prep division developed Archie, a Gemini-powered AI math tutor for middle and high school students. Archie provides real-time hints and error feedback as students work through math problems, identifying mistakes and guiding students step by step. The tool uses optical character recognition to interpret handwritten math and integrates with ASU's broader Digit adaptive learning platform.",
@@ -117,13 +117,11 @@
     },
     "highlights": {
       "en": [
-        "Increased students' first-attempt correct answers by 6% through hint and error feedback functions.",
         "Uses optical character recognition (OCR) to interpret handwritten math problems in real time.",
         "Developed in collaboration with Google Cloud and presented at the ASU+GSV Summit.",
         "Integrated with the broader Digit adaptive math learning platform for K-12 students."
       ],
       "zh": [
-        "透過提示與錯誤回饋功能，學生首次作答正確率提升 6%。",
         "運用光學字元辨識（OCR）即時解讀學生手寫的數學題。",
         "與 Google Cloud 合作開發，並在 ASU+GSV Summit 上公開發表。",
         "整合進針對 K-12 學生的 Digit 自適應數學學習平台。"

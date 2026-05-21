@@ -742,7 +742,7 @@
     "industry": "healthcare-life-sciences",
     "agentType": "employee",
     "company": "ExaCare AI",
-    "isNew": false,
+    "isNew": true,
     "summary": {
       "en": "ExaCare AI uses Gemini Enterprise Agent Platform to streamline post-acute care admissions and clinical operations for 1,500+ facilities.",
       "zh": "ExaCare AI 利用 Gemini Enterprise Agent Platform 為逾 1,500 家機構簡化照後照護的入院流程與臨床作業。"
@@ -1019,7 +1019,7 @@
     "industry": "healthcare-life-sciences",
     "agentType": "employee",
     "company": "Highmark",
-    "isNew": false,
+    "isNew": true,
     "summary": {
       "en": "Highmark's Sidekick AI assistant, built on Google Cloud, generated $27.9M in value and grew to 6M+ prompts with 20,000+ active users.",
       "zh": "Highmark 基於 Google Cloud 打造的 AI 助理 Sidekick 創造了 2,790 萬美元的價值，成長至逾 600 萬次提示，擁有逾 2 萬名活躍用戶。"
@@ -1069,7 +1069,7 @@
     "industry": "healthcare-life-sciences",
     "agentType": "employee",
     "company": "Humana",
-    "isNew": false,
+    "isNew": true,
     "summary": {
       "en": "Humana launched Agent Assist with Google Cloud's Gemini to help 20,000+ member advocates handle 80M annual calls more efficiently.",
       "zh": "Humana 與 Google Cloud 合作推出 Agent Assist，協助逾 2 萬名會員服務專員更有效率地處理每年 8,000 萬通來電。"
@@ -1316,7 +1316,7 @@
     "industry": "healthcare-life-sciences",
     "agentType": "employee",
     "company": "Marista Group",
-    "isNew": false,
+    "isNew": true,
     "summary": {
       "en": "Marista Group uses Google Agentspace to cut hospital billing discrepancy management from weeks to hours.",
       "zh": "Marista Group 利用 Google Agentspace 將醫院帳單差異處理時間從數週縮短至數小時。"
@@ -1359,7 +1359,7 @@
     "industry": "healthcare-life-sciences",
     "agentType": "employee",
     "company": "Merck",
-    "isNew": false,
+    "isNew": true,
     "summary": {
       "en": "Merck signed a $1B partnership with Google Cloud to deploy Gemini Enterprise across R&D, manufacturing, and commercial functions.",
       "zh": "Merck 與 Google Cloud 簽署高達 10 億美元的合作協議，在研發、製造及商業等職能全面部署 Gemini Enterprise。"
@@ -1410,7 +1410,7 @@
     "industry": "healthcare-life-sciences",
     "agentType": "employee",
     "company": "PFM Medical",
-    "isNew": false,
+    "isNew": true,
     "summary": {
       "en": "PFM Medical built an enterprise search tool on Google Cloud to help teams quickly find data across SharePoint and other systems.",
       "zh": "PFM Medical 基於 Google Cloud 打造企業搜尋工具，協助團隊快速查找 SharePoint 等系統中儲存的資料。"
@@ -1494,7 +1494,7 @@
     "industry": "healthcare-life-sciences",
     "agentType": "employee",
     "company": "Rede Américas",
-    "isNew": false,
+    "isNew": true,
     "summary": {
       "en": "Rede Américas adopted Gemini Enterprise Agent Platform to streamline operations across its 25-hospital Latin American network.",
       "zh": "Rede Américas 採用 Gemini Enterprise Agent Platform，簡化其遍布拉丁美洲 25 家醫院網絡的作業流程。"
@@ -1580,7 +1580,7 @@
     "industry": "healthcare-life-sciences",
     "agentType": "employee",
     "company": "Sami Saúde",
-    "isNew": false,
+    "isNew": true,
     "summary": {
       "en": "Sami Saúde uses Google Cloud AI and Gemini Enterprise Agent Platform to cut attendance sheet analysis from hours to minutes.",
       "zh": "Sami Saúde 利用 Google Cloud AI 與 Gemini Enterprise Agent Platform 將出勤表分析時間從數小時縮短至數分鐘。"
@@ -1760,7 +1760,7 @@
     "industry": "healthcare-life-sciences",
     "agentType": "employee",
     "company": "SIGNAL IDUNA",
-    "isNew": false,
+    "isNew": true,
     "summary": {
       "en": "SIGNAL IDUNA uses Gemini Enterprise to deliver health services 37% faster.",
       "zh": "SIGNAL IDUNA 利用 Gemini Enterprise 將健康服務的提供速度提升 37%。"
@@ -1801,7 +1801,7 @@
     "industry": "healthcare-life-sciences",
     "agentType": "employee",
     "company": "Sírio-Libanês Hospital",
-    "isNew": false,
+    "isNew": true,
     "summary": {
       "en": "Sírio-Libanês Hospital deployed Gemini for Workspace to 10,000+ employees, boosting productivity while ensuring LGPD compliance.",
       "zh": "Sírio-Libanês Hospital 將 Gemini for Workspace 部署至逾 1 萬名員工，在確保符合 LGPD 的前提下提升生產力。"
@@ -1882,7 +1882,7 @@
     "industry": "healthcare-life-sciences",
     "agentType": "employee",
     "company": "Supermetrics",
-    "isNew": false,
+    "isNew": true,
     "summary": {
       "en": "Supermetrics Marketing Intelligence Agent delivers live cross-channel insights directly in Gemini Enterprise connecting 175+ data sources.",
       "zh": "Supermetrics Marketing Intelligence Agent 直接在 Gemini Enterprise 中提供跨 175 個以上資料來源的即時跨通路洞察。"
@@ -2184,7 +2184,7 @@
     "industry": "healthcare-life-sciences",
     "agentType": "employee",
     "company": "Waystar",
-    "isNew": false,
+    "isNew": true,
     "summary": {
       "en": "Waystar uses Google Cloud's Gemini to build AI that has prevented $15B in denied healthcare claims and cut appeal time by 90%.",
       "zh": "Waystar 利用 Google Cloud 的 Gemini 打造 AI 工具，已防止 150 億美元的醫療保險拒付，並將申訴時間縮短 90%。"
@@ -2329,7 +2329,7 @@
     "industry": "healthcare-life-sciences",
     "agentType": "creative",
     "company": "Cimed",
-    "isNew": false,
+    "isNew": true,
     "summary": {
       "en": "Cimed uses Veo 3 via Gemini Enterprise Agent Platform to create 'Sônia', an AI-generated character for its Lavitan Night campaign.",
       "zh": "Cimed 透過 Gemini Enterprise Agent Platform 的 Veo 3，創作 AI 生成角色「Sônia」主演 Lavitan Night 廣告活動。"
