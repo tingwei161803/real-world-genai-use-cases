@@ -133,22 +133,22 @@
     "company": "Scaleup",
     "isNew": false,
     "summary": {
-      "en": "Scaleup's AI transcription platform generates subtitles in 7 languages and reduced student dropout by 17%.",
-      "zh": "Scaleup 的 AI 轉錄平台可生成七種語言字幕，並將學員中途退出率降低 17%。"
+      "en": "Scaleup's AI transcription platform automatically generates multilingual subtitles for video lessons, reducing student dropout rates.",
+      "zh": "Scaleup 的 AI 轉錄平台可自動為影片課程生成多語言字幕，降低學員中途退出率。"
     },
     "overview": {
-      "en": "Scaleup built an AI-based technology that transcribes video lessons and automatically generates subtitles in up to seven languages, making educational content more accessible for diverse learners. The multilingual subtitle feature improved content absorption and demonstrably reduced student dropout rates before course completion. The initiative represents a scalable approach to content localization in online education.",
-      "zh": "Scaleup 開發了一套 AI 技術，可自動轉錄影片課程並生成多達七種語言的字幕，讓更多學習者能夠輕鬆獲取教育內容。多語言字幕功能改善了內容吸收效果，並明顯降低了學員在課程結束前的退出率。此舉代表線上教育內容在地化的可擴展方案。"
+      "en": "Scaleup built an AI-based technology that transcribes video lessons and automatically generates multilingual subtitles, making educational content more accessible for diverse learners. The multilingual subtitle feature improved content absorption and demonstrably reduced student dropout rates before course completion. The initiative represents a scalable approach to content localization in online education.",
+      "zh": "Scaleup 開發了一套 AI 技術，可自動轉錄影片課程並生成多語言字幕，讓更多學習者能夠輕鬆獲取教育內容。多語言字幕功能改善了內容吸收效果，並明顯降低了學員在課程結束前的退出率。此舉代表線上教育內容在地化的可擴展方案。"
     },
     "highlights": {
       "en": [
-        "Transcribes video lessons and generates subtitles automatically in up to seven languages.",
-        "Reduced student dropout rates before course completion by 17%.",
+        "Transcribes video lessons and generates multilingual subtitles automatically, expanding accessibility for diverse learners.",
+        "Reduced student dropout rates before course completion.",
         "Improves content absorption for diverse, multilingual learners."
       ],
       "zh": [
-        "自動轉錄影片課程並生成多達七種語言的字幕。",
-        "將學員在課程結束前的退出率降低 17%。",
+        "自動轉錄影片課程並生成多語言字幕，擴大多元學習者的可及性。",
+        "降低學員在課程結束前的退出率。",
         "為多語言學習者改善內容吸收效果。"
       ]
     },

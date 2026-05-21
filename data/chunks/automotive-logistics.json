@@ -1261,9 +1261,12 @@
       {
         "title": "Google Cloud — Real-world gen AI use cases from the world's leading organizations",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Domina case study | Google Cloud",
+        "url": "https://cloud.google.com/customers/intl/es-419/domina?hl=es-419"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "automotive-logistics-data-geotab",
@@ -1623,9 +1626,12 @@
       {
         "title": "Google Cloud — Real-world gen AI use cases from the world's leading organizations",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Startups are building the agentic future with Google Cloud — Google Cloud Blog",
+        "url": "https://cloud.google.com/blog/topics/startups/startups-are-building-the-agentic-future-with-google-cloud"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "automotive-logistics-data-truckhouse",

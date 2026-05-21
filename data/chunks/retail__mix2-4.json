@@ -6,24 +6,22 @@
     "company": "OK Corporation",
     "isNew": false,
     "summary": {
-      "en": "OK Corporation uses BigQuery for near real-time purchase analytics across 147 Tokyo-region discount stores.",
-      "zh": "OK Corporation 利用 BigQuery 對東京地區 147 家折扣超市進行近即時銷售數據分析，以優化現成食品備量。"
+      "en": "OK Corporation uses BigQuery for near real-time purchase analytics across its Tokyo-region discount store network.",
+      "zh": "OK Corporation 利用 BigQuery 對東京地區折扣超市網絡進行近即時銷售數據分析，以優化現成食品備量。"
     },
     "overview": {
-      "en": "OK Corporation, a discount supermarket chain with 147 stores in the Tokyo region, replaced a legacy on-premises data warehouse with BigQuery to handle purchase data from over 100 stores. The cloud analytics platform enables near real-time purchase analysis, letting stores dynamically adjust prepared food quantities based on current sales trends. The migration also supports the company's goal of 20% annual growth and lays groundwork for future machine learning-based sales forecasting.",
-      "zh": "OK Corporation 是東京地區擁有 147 家門市的折扣超市連鎖，原有的本地資料倉儲已無法承載龐大的銷售數據，因此遷移至 BigQuery。全新的雲端分析平台支援超過 100 家門市的近即時採購分析，讓各門市能根據即時銷售趨勢動態調整現成食品的備貨量。這項轉型也為公司每年 20% 的成長目標提供基礎，並為未來導入機器學習銷售預測預做準備。"
+      "en": "OK Corporation, a discount supermarket chain with stores in the Tokyo region, replaced a legacy on-premises data warehouse with BigQuery to handle purchase data from over 100 stores. The cloud analytics platform enables near real-time purchase analysis, letting stores dynamically adjust prepared food quantities based on current sales trends. The migration lays groundwork for future machine learning-based sales forecasting.",
+      "zh": "OK Corporation 是東京地區的折扣超市連鎖，原有的本地資料倉儲已無法承載龐大的銷售數據，因此遷移至 BigQuery。全新的雲端分析平台支援超過 100 家門市的近即時採購分析，讓各門市能根據即時銷售趨勢動態調整現成食品的備貨量。這項轉型也為未來導入機器學習銷售預測預做準備。"
     },
     "highlights": {
       "en": [
         "Replaced an on-premises data warehouse that could not handle data volume from 100+ stores with BigQuery on Google Cloud.",
         "Enabled near real-time purchase analysis so stores can adjust prepared food quantities based on live sales trends.",
-        "Supports OK Corporation's strategic goal of 20% annual growth.",
         "Plans underway to add machine learning for sales forecasting on the same platform."
       ],
       "zh": [
         "以 BigQuery 取代無法承載 100 多家門市數據量的本地資料倉儲。",
         "實現近即時採購分析，讓門市能根據即時銷售趨勢調整現成食品備量。",
-        "支援 OK Corporation 每年 20% 成長的策略目標。",
         "計畫在同一平台上新增機器學習銷售預測功能。"
       ]
     },

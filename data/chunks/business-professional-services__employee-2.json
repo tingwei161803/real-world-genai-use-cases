@@ -38,6 +38,7 @@
   },
   {
     "id": "business-professional-services-employee-instalily",
+
     "industry": "business-professional-services",
     "agentType": "employee",
     "company": "Instalily",
@@ -1009,9 +1010,12 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "SulAmérica Case Study | Google Cloud",
+        "url": "https://cloud.google.com/customers/sulamerica-seguros"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "business-professional-services-employee-synthpop",

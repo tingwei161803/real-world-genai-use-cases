@@ -82,21 +82,21 @@
     "company": "Contraktor",
     "isNew": false,
     "summary": {
-      "en": "Contraktor uses AI to analyze and review contracts, cutting review time by up to 75%.",
-      "zh": "Contraktor 採用 AI 分析與審查合約，將審查時間縮短最多 75%。"
+      "en": "Contraktor uses AI to analyze and review contracts, significantly reducing review time.",
+      "zh": "Contraktor 採用 AI 分析與審查合約，大幅縮短審查時間。"
     },
     "overview": {
-      "en": "Contraktor, a contract management platform, developed an AI-powered project to analyze contracts using Google Cloud. The solution reads and extracts relevant data from documents automatically. As a result, contract analysis and review time was reduced by up to 75%, enabling legal and procurement teams to work far more efficiently.",
-      "zh": "Contraktor 是一個合約管理平台，利用 Google Cloud 開發了 AI 驅動的合約分析專案。解決方案能自動讀取並擷取文件中的關鍵資料，使合約分析與審查時間縮短最多 75%，讓法務與採購團隊的工作效率大幅提升。"
+      "en": "Contraktor, a contract management platform, developed an AI-powered project to analyze contracts using Google Cloud. The solution reads and extracts relevant data from documents automatically, enabling legal and procurement teams to work far more efficiently.",
+      "zh": "Contraktor 是一個合約管理平台，利用 Google Cloud 開發了 AI 驅動的合約分析專案。解決方案能自動讀取並擷取文件中的關鍵資料，讓法務與採購團隊的工作效率大幅提升。"
     },
     "highlights": {
       "en": [
-        "AI-powered contract analysis reduces review time by up to 75%.",
+        "AI-powered contract analysis significantly reduces review time.",
         "Automatically reads and extracts relevant data from contract documents.",
         "Enables faster legal and procurement workflows across the organization."
       ],
       "zh": [
-        "AI 驅動的合約分析將審查時間縮短最多 75%。",
+        "AI 驅動的合約分析大幅縮短審查時間。",
         "自動讀取並擷取合約文件中的相關資料。",
         "加快組織內法務與採購流程。"
       ]
@@ -110,7 +110,8 @@
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
       }
-    ]
+    ],
+    "needsReview": true
   },
   {
     "id": "business-professional-services-data-croud",
@@ -145,6 +146,10 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "How Croud Delivers 4–5X Productivity with Gemini and NotebookLM",
+        "url": "https://www.youtube.com/watch?v=eTVoUC7AUt4"
       }
     ]
   },
@@ -197,22 +202,22 @@
     "company": "Galaxies",
     "isNew": false,
     "summary": {
-      "en": "Galaxies uses BigQuery and Vertex AI to create synthetic consumer personas, cutting research costs by 85%.",
-      "zh": "Galaxies 利用 BigQuery 與 Vertex AI 創建合成消費者人設，將研究直接成本降低 85%。"
+      "en": "Galaxies uses BigQuery and Vertex AI to create synthetic consumer personas, significantly cutting research costs.",
+      "zh": "Galaxies 利用 BigQuery 與 Vertex AI 創建合成消費者人設，大幅降低研究直接成本。"
     },
     "overview": {
-      "en": "Galaxies uses BigQuery, Vertex AI, and Cloud Storage to create 'Synthetic Personas' powered by advanced clustering and LLMs trained exclusively on proprietary data. This enables marketing campaigns to be tested with hundreds of profiles in 48 hours instead of months. The Google Cloud migration also achieved 85% savings in direct research costs while providing an integrated environment for data lake, data warehouse, machine learning, and generative AI operations.",
-      "zh": "Galaxies 使用 BigQuery、Vertex AI 及 Cloud Storage，以先進叢集分析和僅在專有資料上訓練的 LLM，打造「合成人設」。行銷活動現在可在 48 小時內以數百個人設進行測試，而非以往的數月。遷移至 Google Cloud 後，直接研究成本節省 85%，同時提供數據湖、數據倉庫、機器學習與生成式 AI 的整合環境。"
+      "en": "Galaxies uses BigQuery, Vertex AI, and Cloud Storage to create 'Synthetic Personas' powered by advanced clustering and LLMs trained exclusively on proprietary data. This enables marketing campaigns to be tested with large numbers of profiles in a fraction of the time previously required. The Google Cloud migration significantly reduced direct research costs while providing an integrated environment for data lake, data warehouse, machine learning, and generative AI operations.",
+      "zh": "Galaxies 使用 BigQuery、Vertex AI 及 Cloud Storage，以先進叢集分析和僅在專有資料上訓練的 LLM，打造「合成人設」。行銷活動現在可以更快的速度以大量人設進行測試。遷移至 Google Cloud 後，直接研究成本大幅降低，同時提供數據湖、數據倉庫、機器學習與生成式 AI 的整合環境。"
     },
     "highlights": {
       "en": [
-        "Synthetic Personas enable marketing campaign testing with hundreds of profiles in 48 hours instead of months.",
-        "Google Cloud migration achieved 85% savings in direct research costs.",
+        "Synthetic Personas enable faster marketing campaign testing with large numbers of profiles.",
+        "Google Cloud migration achieved significant savings in direct research costs.",
         "Integrated environment covers data lake, data warehouse, ML, and generative AI operations."
       ],
       "zh": [
-        "合成人設讓行銷活動可在 48 小時內以數百個人設進行測試，而非數月。",
-        "遷移至 Google Cloud 後，直接研究成本節省 85%。",
+        "合成人設讓行銷活動可以更快的速度以大量人設進行測試。",
+        "遷移至 Google Cloud 後，直接研究成本大幅降低。",
         "提供涵蓋數據湖、數據倉庫、機器學習及生成式 AI 的整合環境。"
       ]
     },
@@ -226,7 +231,8 @@
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
       }
-    ]
+    ],
+    "needsReview": true
   },
   {
     "id": "business-professional-services-data-gamuda-berhad",
@@ -1146,6 +1152,10 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "XEBO.ai case study | Google Cloud",
+        "url": "https://cloud.google.com/customers/xeboai"
       }
     ]
   },
@@ -1156,22 +1166,22 @@
     "company": "Zenpli",
     "isNew": false,
     "summary": {
-      "en": "Zenpli uses Vertex AI multimodal models for 90% faster onboarding and 50% cost reduction in digital identity services.",
-      "zh": "Zenpli 使用 Vertex AI 多模態模型，實現數位身份識別服務的入職流程快 90%、成本降低 50%。"
+      "en": "Zenpli uses Vertex AI multimodal models to accelerate client onboarding and reduce costs in digital identity services.",
+      "zh": "Zenpli 使用 Vertex AI 多模態模型加速客戶入職流程並降低數位身份識別服務成本。"
     },
     "overview": {
-      "en": "Zenpli, a digital identity partner for businesses, leverages the multimodal capabilities of models available in Vertex AI to enhance its client onboarding experience. The solution delivers a 90% faster onboarding process for contracts, a 50% reduction in costs through AI-powered automation, and superior data quality that ensures regulatory compliance.",
-      "zh": "數位身份識別服務商 Zenpli 運用 Vertex AI 模型的多模態能力，提升客戶的入職體驗。解決方案帶來合約入職流程快 90%、AI 驅動自動化成本降低 50%，以及確保法規合規的優質資料品質。"
+      "en": "Zenpli, a digital identity partner for businesses, leverages the multimodal capabilities of models available in Vertex AI to enhance its client onboarding experience. The solution delivers significantly faster onboarding for contracts through AI-powered automation, and superior data quality that ensures regulatory compliance.",
+      "zh": "數位身份識別服務商 Zenpli 運用 Vertex AI 模型的多模態能力，提升客戶的入職體驗。解決方案透過 AI 驅動自動化大幅加速合約入職流程，並以優質資料品質確保法規合規。"
     },
     "highlights": {
       "en": [
-        "Client onboarding process with contracts is 90% faster using Vertex AI multimodal models.",
-        "AI-powered automation reduces costs by 50%.",
+        "Vertex AI multimodal models significantly accelerate the client onboarding process for contracts.",
+        "AI-powered automation reduces operational costs.",
         "Superior data quality ensures regulatory compliance for digital identity verification."
       ],
       "zh": [
-        "使用 Vertex AI 多模態模型，合約入職流程快 90%。",
-        "AI 驅動自動化降低成本 50%。",
+        "Vertex AI 多模態模型大幅加速合約客戶入職流程。",
+        "AI 驅動自動化降低營運成本。",
         "優質資料品質確保數位身份驗證的法規合規。"
       ]
     },
@@ -1183,7 +1193,8 @@
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
       }
-    ]
+    ],
+    "needsReview": true
   },
   {
     "id": "business-professional-services-data-zoi",
@@ -1303,6 +1314,10 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "About Agoda and Fast Facts",
+        "url": "https://www.agoda.com/press/agoda-fast-facts/"
       }
     ]
   },
@@ -1622,6 +1637,10 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "monday.com Ltd. SEC Filing FY2025",
+        "url": "https://www.sec.gov/Archives/edgar/data/0001845338/000117891325001186/exhibit_99-1.htm"
       }
     ]
   },

@@ -732,9 +732,12 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Exa and Google Partnership | Exa Blog",
+        "url": "https://exa.ai/blog/exa-google-cloud"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "technology-employee-fireflies-ai",
@@ -1296,9 +1299,12 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Macro case study | Google Cloud",
+        "url": "https://cloud.google.com/customers/macro"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "technology-employee-maqqie",

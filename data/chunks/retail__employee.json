@@ -507,9 +507,12 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Compass Customer Success Story — Google Workspace",
+        "url": "https://workspace.google.com/customers/compass/"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "retail-employee-custard-stand-chili",
@@ -1433,9 +1436,12 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Personalize customer service responses with Gemini | Google Workspace Blog",
+        "url": "https://workspace.google.com/blog/ai-and-machine-learning/beyond-prompt-part-6-personalize-customer-service-responses"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "retail-employee-swarovski",

@@ -568,22 +568,22 @@
     "company": "Discover Financial",
     "isNew": false,
     "summary": {
-      "en": "Discover Financial's 10,000 contact center reps use AI to search and synthesize policy information during customer calls.",
-      "zh": "Discover Financial 的 1 萬名客服中心代表使用 AI 在通話中快速搜尋並整合政策資訊。"
+      "en": "Discover Financial's nearly 10,000 contact center reps use AI to search and synthesize policy information during customer calls.",
+      "zh": "Discover Financial 的近 1 萬名客服中心代表使用 AI 在通話中快速搜尋並整合政策資訊。"
     },
     "overview": {
-      "en": "Discover Financial deployed an AI-powered search and synthesis tool for its 10,000 contact center representatives. During customer calls, representatives can quickly search across detailed policies and procedures and receive synthesized answers, reducing the time spent looking up information and enabling more focused, accurate customer interactions.",
-      "zh": "Discover Financial 為其 1 萬名客服中心代表部署了 AI 搜尋與整合工具。在客戶通話期間，代表可快速搜尋詳細的政策和流程，並獲得整合後的答案，減少查找資訊的時間，從而進行更專注、更準確的客戶互動。"
+      "en": "Discover Financial deployed an AI-powered search and synthesis tool for its nearly 10,000 contact center representatives. During customer calls, representatives can quickly search across detailed policies and procedures and receive synthesized answers, reducing the time spent looking up information and enabling more focused, accurate customer interactions.",
+      "zh": "Discover Financial 為其近 1 萬名客服中心代表部署了 AI 搜尋與整合工具。在客戶通話期間，代表可快速搜尋詳細的政策和流程，並獲得整合後的答案，減少查找資訊的時間，從而進行更專注、更準確的客戶互動。"
     },
     "highlights": {
       "en": [
-        "Deployed AI-powered search for 10,000 contact center representatives.",
+        "Deployed AI-powered search for nearly 10,000 contact center representatives.",
         "Enables real-time search across detailed policies and procedures during calls.",
         "Synthesizes information to provide accurate answers quickly.",
         "Improves quality and efficiency of customer interactions at scale."
       ],
       "zh": [
-        "為 1 萬名客服中心代表部署 AI 搜尋工具。",
+        "為近 1 萬名客服中心代表部署 AI 搜尋工具。",
         "在通話期間即時搜尋詳細的政策和流程。",
         "整合資訊以快速提供準確答案。",
         "大規模提升客戶互動的品質與效率。"
@@ -597,9 +597,12 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Discover Financial Services Deploys Google Cloud's Generative AI to Transform Customer Service — PR Newswire",
+        "url": "https://www.prnewswire.com/news-releases/discover-financial-services-deploys-google-clouds-generative-ai-to-transform-customer-service-302111450.html"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "financial-services-employee-ebanx",
@@ -767,9 +770,12 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "How FinQuery uses Gemini for Google Workspace — Google Workspace Blog",
+        "url": "https://workspace.google.com/blog/customer-stories/finquery-innovates-gemini-google-workspace"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "financial-services-employee-five-sigma",
@@ -867,23 +873,23 @@
     "company": "Hang Seng Bank",
     "isNew": false,
     "summary": {
-      "en": "Hang Seng Bank uses Vertex AI to power an AI-search knowledge platform for contact center reps across millions of documents.",
-      "zh": "香港恒生銀行使用 Vertex AI 為客服中心代表建立 AI 搜尋知識平台，覆蓋數百萬份文件。"
+      "en": "Hang Seng Bank uses Vertex AI to power an AI-search knowledge platform for contact center reps across a large corpus of product and regulatory documents.",
+      "zh": "香港恒生銀行使用 Vertex AI 為客服中心代表建立 AI 搜尋知識平台，涵蓋大量產品與法規文件。"
     },
     "overview": {
-      "en": "Hang Seng Bank, Hong Kong's largest local bank, built a new knowledge management platform powered by Vertex AI. The platform enables contact center representatives to easily retrieve information using AI-powered search across millions of documents covering products and regulations. This significantly reduces the time representatives spend searching for answers during customer interactions.",
-      "zh": "香港恒生銀行是香港最大的本地銀行，建立了由 Vertex AI 驅動的全新知識管理平台。該平台讓客服中心代表能夠透過 AI 搜尋，在涵蓋產品和法規的數百萬份文件中輕鬆檢索資訊，大幅縮短代表在客戶互動期間搜尋答案的時間。"
+      "en": "Hang Seng Bank, Hong Kong's largest local bank, built a new knowledge management platform powered by Vertex AI. The platform enables contact center representatives to easily retrieve information using AI-powered search across a large corpus of documents covering products and regulations. This significantly reduces the time representatives spend searching for answers during customer interactions.",
+      "zh": "香港恒生銀行是香港最大的本地銀行，建立了由 Vertex AI 驅動的全新知識管理平台。該平台讓客服中心代表能夠透過 AI 搜尋，在涵蓋產品和法規的大量文件中輕鬆檢索資訊，大幅縮短代表在客戶互動期間搜尋答案的時間。"
     },
     "highlights": {
       "en": [
         "Built a Vertex AI-powered knowledge management platform for contact center use.",
-        "AI-powered search covers millions of documents on products and regulations.",
+        "AI-powered search covers a large corpus of documents on products and regulations.",
         "Enables faster, more accurate information retrieval for customer service representatives.",
         "Reduces manual search time during live customer interactions."
       ],
       "zh": [
         "建立了由 Vertex AI 驅動的客服中心知識管理平台。",
-        "AI 搜尋涵蓋數百萬份產品和法規文件。",
+        "AI 搜尋涵蓋大量產品和法規文件。",
         "讓客服代表能夠更快速、更準確地檢索資訊。",
         "減少即時客戶互動期間的手動搜尋時間。"
       ]
@@ -1042,21 +1048,21 @@
       "zh": "Interseguro 遷移至 Google Cloud 後，為銷售人員、客服中心及理賠處理建立了 Gemini 驅動的 AI 代理人。"
     },
     "overview": {
-      "en": "Interseguro, part of Peru's Intercorp Group, is a leading insurance provider with over 1,200 employees specializing in annuities, life insurance, and general coverage. After migrating its core systems to Google Cloud, the company formed a dedicated generative AI team to build Gemini-powered agents for its sales force, call center, and claims processing. The tools analyze images and read claims files to speed up customer service.",
-      "zh": "Interseguro 是秘魯 Intercorp 集團的子公司，是專注於年金、人壽保險和一般保險的領先保險提供商，擁有逾 1,200 名員工。在將核心系統遷移至 Google Cloud 後，公司組建了專門的生成式 AI 團隊，為其銷售人員、客服中心及理賠處理建立 Gemini 驅動的代理人。這些工具能分析圖像和讀取理賠文件，以加快客戶服務速度。"
+      "en": "Interseguro, part of Peru's Intercorp Group, is a leading insurance provider specializing in annuities, life insurance, and general coverage. After migrating its core systems to Google Cloud, the company formed a dedicated generative AI team to build Gemini-powered agents for its sales force, call center, and claims processing. The tools analyze images and read claims files to speed up customer service.",
+      "zh": "Interseguro 是秘魯 Intercorp 集團的子公司，是專注於年金、人壽保險和一般保險的領先保險提供商。在將核心系統遷移至 Google Cloud 後，公司組建了專門的生成式 AI 團隊，為其銷售人員、客服中心及理賠處理建立 Gemini 驅動的代理人。這些工具能分析圖像和讀取理賠文件，以加快客戶服務速度。"
     },
     "highlights": {
       "en": [
         "Migrated core systems to Google Cloud and formed a dedicated gen AI team.",
         "Built Gemini-powered agents for sales force, call center, and claims processing.",
         "AI tools analyze images and read claims files to speed up customer service.",
-        "Serves 1,200+ employees and a rapidly growing sales force."
+        "Serves a large employee base and a rapidly growing sales force."
       ],
       "zh": [
         "將核心系統遷移至 Google Cloud 並組建了專門的生成式 AI 團隊。",
         "為銷售人員、客服中心及理賠處理建立 Gemini 驅動的代理人。",
         "AI 工具分析圖像和讀取理賠文件，加快客戶服務速度。",
-        "服務逾 1,200 名員工及快速成長的銷售團隊。"
+        "服務龐大的員工群體及快速成長的銷售團隊。"
       ]
     },
     "technologies": [
@@ -1449,9 +1455,12 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "plutos ONE Case Study | Google Cloud",
+        "url": "https://cloud.google.com/customers/plutos"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "financial-services-employee-qualia-clear",
@@ -1787,9 +1796,12 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Stacks Case Study | Google Cloud",
+        "url": "https://cloud.google.com/customers/stacks"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "financial-services-employee-stream",
@@ -1798,22 +1810,22 @@
     "company": "Stream",
     "isNew": false,
     "summary": {
-      "en": "Stream uses Gemini models to handle over 80% of internal customer inquiries about pay dates, balances, and more.",
-      "zh": "Stream 使用 Gemini 模型處理逾 80% 的內部客戶查詢，涵蓋薪資日期、餘額等問題。"
+      "en": "Stream uses Gemini models to automatically handle a large share of internal customer inquiries about pay dates, balances, and more.",
+      "zh": "Stream 使用 Gemini 模型自動處理大量內部客戶查詢，涵蓋薪資日期、餘額等問題。"
     },
     "overview": {
-      "en": "Stream offers financial tools to employers and employees, including earned wage access services. The company uses Gemini models to handle more than 80% of its internal customer inquiries automatically, including questions about pay dates, balances, and other financial topics, significantly reducing the workload on human support staff.",
-      "zh": "Stream 為雇主和員工提供金融工具，包括工資提前取用服務。公司使用 Gemini 模型自動處理逾 80% 的內部客戶查詢，包括薪資日期、餘額及其他財務相關問題，大幅減輕了真人客服人員的工作負擔。"
+      "en": "Stream offers financial tools to employers and employees, including earned wage access services. The company uses Gemini models to automatically handle the majority of its internal customer inquiries, including questions about pay dates, balances, and other financial topics, significantly reducing the workload on human support staff.",
+      "zh": "Stream 為雇主和員工提供金融工具，包括工資提前取用服務。公司使用 Gemini 模型自動處理大多數內部客戶查詢，包括薪資日期、餘額及其他財務相關問題，大幅減輕了真人客服人員的工作負擔。"
     },
     "highlights": {
       "en": [
-        "Gemini models handle more than 80% of internal customer inquiries automatically.",
+        "Gemini models automatically handle the majority of internal customer inquiries.",
         "Covers questions about pay dates, balances, and financial topics.",
         "Significantly reduces workload on human support staff.",
         "Serves both employers and employees with earned wage access financial tools."
       ],
       "zh": [
-        "Gemini 模型自動處理逾 80% 的內部客戶查詢。",
+        "Gemini 模型自動處理大多數內部客戶查詢。",
         "涵蓋薪資日期、餘額及財務相關問題。",
         "大幅減輕真人客服人員的工作負擔。",
         "為雇主和員工提供工資提前取用金融工具。"
@@ -1988,9 +2000,12 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Tributei é destaque no Relatório de Impacto Econômico do Google — Contabeis",
+        "url": "https://www.contabeis.com.br/noticias/66897/tributei-e-destaque-no-relatorio-de-impacto-economico-do-google/"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "financial-services-employee-wealth-com",
