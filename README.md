@@ -31,7 +31,7 @@ python3 data/extract.py      # -> data/raw/usecases-en.json
 node data/merge.js           # -> data/use-cases.js
 ```
 
-目前進度 · Status：Phase 1 已完成 **Automotive & Logistics**（42 筆）。其餘 10 個產業將陸續補上。
+目前進度 · Status：**全部 11 個產業、1,276 筆** 已完成中英雙語擴寫與來源查證。
 
 ---
 
