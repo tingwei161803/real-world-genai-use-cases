@@ -48,8 +48,8 @@
     "company": "AndesML",
     "isNew": false,
     "summary": {
-      "en": "AndesML's retail media platform on Vertex AI and Gemini delivers 30% campaign performance lift and 30-day faster production.",
-      "zh": "AndesML 的零售媒體平台基於 Vertex AI 與 Gemini，為客戶廣告活動帶來 30% 效能提升並縮短逾 30 天生產時間。"
+      "en": "AndesML's retail media platform on Vertex AI and Gemini helps enterprises launch and monetize their own ad networks with AI-driven campaign automation.",
+      "zh": "AndesML 的零售媒體平台基於 Vertex AI 與 Gemini，協助企業建立並變現自有廣告網路，透過 AI 自動化廣告活動管理。"
     },
     "overview": {
       "en": "AndesML is a retail media platform that helps large enterprises launch and monetize their own ad networks by matching the right ad to the right customer at the right time. Built on Vertex AI, BigQuery, and Gemini models, the platform automates audience targeting, creative optimization, and campaign analytics. By leveraging Google Cloud's AI infrastructure, AndesML enables brands to build first-party data-driven ad ecosystems with significantly reduced operational overhead.",
@@ -57,15 +57,15 @@
     },
     "highlights": {
       "en": [
-        "Delivered a 30% performance lift in customer ad campaigns compared to baseline.",
-        "Accelerated campaign production time by more than 30 days through AI-driven automation.",
+        "Improved campaign performance for enterprise ad clients through AI-driven audience targeting and optimization.",
+        "Accelerated campaign production time through AI-driven automation.",
         "Reduced operational costs for enterprise clients running retail media networks.",
         "Built on Vertex AI and Gemini models enabling advanced audience targeting and real-time optimization.",
         "BigQuery underpins the data analytics layer for campaign measurement and audience insights."
       ],
       "zh": [
-        "客戶廣告活動效能較基準提升 30%。",
-        "透過 AI 自動化將廣告製作時間縮短逾 30 天。",
+        "透過 AI 驅動的受眾定向與優化，提升企業廣告客戶的廣告活動效能。",
+        "透過 AI 自動化加速廣告製作流程。",
         "降低企業客戶運營零售媒體網路的運營成本。",
         "基於 Vertex AI 與 Gemini 模型，實現進階受眾定向與即時優化。",
         "BigQuery 支撐廣告活動衡量與受眾洞察的資料分析層。"
@@ -75,10 +75,6 @@
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
-        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
-      },
-      {
-        "title": "Real-world gen AI use cases from the world's leading organizations | Google Cloud Blog",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
       }
     ],

@@ -196,23 +196,21 @@
     "company": "ROSHN Group",
     "isNew": false,
     "summary": {
-      "en": "ROSHN Group uses Gemini Code Assist to boost engineer productivity, registering 45,000 new users shortly after launch.",
-      "zh": "ROSHN Group 使用 Gemini Code Assist 提升工程師生產力，上線後迅速累積 45,000 名新用戶。"
+      "en": "ROSHN Group uses Gemini Code Assist to boost engineer productivity on its real estate shopping platform.",
+      "zh": "ROSHN Group 使用 Gemini Code Assist 提升其房地產購物平台工程師的生產力。"
     },
     "overview": {
-      "en": "ROSHN Group, a Saudi real estate developer, deployed Gemini Code Assist and Cloud Assist to accelerate engineering work on its real estate shopping website and app. The productivity gains enabled the team to deliver a high-quality digital experience rapidly. Shortly after launch, the platform registered 45,000 new users and processed 9,400 completed digital purchases.",
-      "zh": "ROSHN Group 是沙烏地阿拉伯的房地產開發商，部署了 Gemini Code Assist 與 Cloud Assist，以加速其房地產購物網站和應用程式的工程工作。生產力的提升使團隊能夠快速交付高品質的數位體驗。上線後不久，該平台就累積了 45,000 名新用戶，並完成了 9,400 筆數位購買。"
+      "en": "ROSHN Group, a Saudi real estate developer, deployed Gemini Code Assist and Cloud Assist to accelerate engineering work on its real estate shopping website and app. The productivity gains enabled the team to deliver a high-quality digital experience rapidly, supporting a strong early adoption of the platform after launch.",
+      "zh": "ROSHN Group 是沙烏地阿拉伯的房地產開發商，部署了 Gemini Code Assist 與 Cloud Assist，以加速其房地產購物網站和應用程式的工程工作。生產力的提升使團隊能夠快速交付高品質的數位體驗，並在上線後獲得強勁的早期採用。"
     },
     "highlights": {
       "en": [
         "Gemini Code Assist and Cloud Assist increased engineer productivity on the real estate platform.",
-        "45,000 new users registered shortly after the platform launched.",
-        "9,400 completed digital purchases were recorded shortly after launch."
+        "Platform saw strong early user adoption and digital purchase activity shortly after launch."
       ],
       "zh": [
         "Gemini Code Assist 與 Cloud Assist 提升了房地產平台工程師的生產力。",
-        "平台上線後不久即有 45,000 名新用戶完成註冊。",
-        "上線後短期內完成了 9,400 筆數位購買。"
+        "平台上線後迅速獲得強勁的用戶採用與數位購買活動。"
       ]
     },
     "technologies": [
@@ -333,22 +331,22 @@
     "company": "AutoCIO",
     "isNew": true,
     "summary": {
-      "en": "AutoCIO's AI agent automates end-to-end portfolio workflows delivering predictive signals across 50,000+ securities.",
-      "zh": "AutoCIO 的 AI 代理自動執行端到端投資組合工作流程，提供超過 50,000 種證券的預測訊號。"
+      "en": "AutoCIO's AI agent automates end-to-end portfolio workflows delivering predictive signals across a broad universe of securities.",
+      "zh": "AutoCIO 的 AI 代理自動執行端到端投資組合工作流程，提供跨廣泛證券的預測訊號。"
     },
     "overview": {
-      "en": "AutoCIO offers the AutoCIO Financial Forecasting Agent to portfolio managers and investment teams, enabling them to design, optimize, and manage portfolios through automation. The agent automates end-to-end workflows, delivers predictive signals across more than 50,000 securities, and enables real-time, hyper-customized investment strategies through natural language prompts—removing manual bottlenecks in quantitative investment processes.",
-      "zh": "AutoCIO 為投資組合經理和投資團隊提供 AutoCIO Financial Forecasting Agent，讓他們能夠透過自動化設計、優化和管理投資組合。該代理自動執行端到端工作流程，在超過 50,000 種證券中提供預測訊號，並透過自然語言提示實現即時、高度定制的投資策略，消除量化投資流程中的手動瓶頸。"
+      "en": "AutoCIO offers the AutoCIO Financial Forecasting Agent to portfolio managers and investment teams, enabling them to design, optimize, and manage portfolios through automation. The agent automates end-to-end workflows, delivers predictive signals across a broad universe of securities, and enables real-time, hyper-customized investment strategies through natural language prompts—removing manual bottlenecks in quantitative investment processes.",
+      "zh": "AutoCIO 為投資組合經理和投資團隊提供 AutoCIO Financial Forecasting Agent，讓他們能夠透過自動化設計、優化和管理投資組合。該代理自動執行端到端工作流程，在廣泛的證券中提供預測訊號，並透過自然語言提示實現即時、高度定制的投資策略，消除量化投資流程中的手動瓶頸。"
     },
     "highlights": {
       "en": [
-        "Delivers predictive signals across more than 50,000 securities for portfolio managers.",
+        "Delivers predictive signals across a broad universe of securities for portfolio managers.",
         "Automates complete end-to-end investment portfolio workflows.",
         "Enables real-time, hyper-customized strategies via natural language prompts.",
         "Removes manual bottlenecks in quantitative investment processes."
       ],
       "zh": [
-        "為投資組合經理提供超過 50,000 種證券的預測訊號。",
+        "為投資組合經理提供跨廣泛證券的預測訊號。",
         "自動化完整的端到端投資組合工作流程。",
         "透過自然語言提示實現即時、高度定制的投資策略。",
         "消除量化投資流程中的手動瓶頸。"
@@ -378,20 +376,20 @@
       "zh": "Banco Macro 使用 BigQuery、Vertex AI 和 Gemini，在阿根廷最大私人銀行的 30 多個業務領域中支援對話式 AI。"
     },
     "overview": {
-      "en": "Banco Macro, Argentina's leading private national bank with over 6 million customers, built a comprehensive data and AI platform using BigQuery, Vertex AI, and Gemini. This enables conversational AI assistants for customer service and empowers 30+ business domains to create and share machine learning models. The AI-powered platform accelerated data processing, allowing teams to generate data products at unprecedented speeds and improving call center efficiency by 15%.",
-      "zh": "Banco Macro 是阿根廷最大的私人銀行，擁有超過 600 萬名客戶，使用 BigQuery、Vertex AI 和 Gemini 建構了全面的數據和 AI 平台。這使客戶服務能夠使用對話式 AI 助理，並賦能 30 多個業務領域建立和共享機器學習模型。AI 驅動的平台加速了數據處理，讓團隊能以前所未有的速度生成數據產品，並將客服中心效率提升了 15%。"
+      "en": "Banco Macro, Argentina's leading private national bank with over 6 million customers, built a comprehensive data and AI platform using BigQuery, Vertex AI, and Gemini. This enables conversational AI assistants for customer service and empowers 30+ business domains to create and share machine learning models. The AI-powered platform accelerated data processing, allowing teams to generate data products at unprecedented speeds.",
+      "zh": "Banco Macro 是阿根廷最大的私人銀行，擁有超過 600 萬名客戶，使用 BigQuery、Vertex AI 和 Gemini 建構了全面的數據和 AI 平台。這使客戶服務能夠使用對話式 AI 助理，並賦能 30 多個業務領域建立和共享機器學習模型。AI 驅動的平台加速了數據處理，讓團隊能以前所未有的速度生成數據產品。"
     },
     "highlights": {
       "en": [
         "Deployed conversational AI assistants for customer service powered by BigQuery, Vertex AI, and Gemini.",
         "Enabled 30+ business domains to create and share machine learning models on a unified platform.",
-        "AI-generated call summaries and suggested responses increased customer service efficiency by 15%.",
+        "AI-generated call summaries and suggested responses improve customer service efficiency.",
         "Accelerated data processing to generate data products at previously unimaginable speeds."
       ],
       "zh": [
         "以 BigQuery、Vertex AI 和 Gemini 為客戶服務部署了對話式 AI 助理。",
         "賦能 30 多個業務領域在統一平台上建立和共享機器學習模型。",
-        "AI 生成的通話摘要和建議回覆使客服效率提升了 15%。",
+        "AI 生成的通話摘要和建議回覆提升了客服效率。",
         "加速數據處理，讓團隊以前所未有的速度生成數據產品。"
       ]
     },
@@ -405,9 +403,12 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Banco Macro caso de éxito | Google Cloud",
+        "url": "https://cloud.google.com/customers/intl/es-419/banco-macro-data"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "financial-services-data-bud-financial",
@@ -1082,9 +1083,12 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Quom caso de éxito | Google Cloud",
+        "url": "https://cloud.google.com/customers/intl/es-419/quom"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "financial-services-data-hiperstream",
@@ -1431,9 +1435,16 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Calculating physical climate risk for sustainable finance | Google Cloud Blog",
+        "url": "https://cloud.google.com/blog/topics/sustainability/calculating-physical-climate-risk-for-sustainable-finance"
+      },
+      {
+        "title": "MSCI, Google Partnering on AI Solutions to Manage Climate Risk for Investors | ESG Today",
+        "url": "https://www.esgtoday.com/msci-google-partnering-on-ai-solutions-to-manage-climate-risk-for-investors/"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "financial-services-data-nativeorange",
@@ -1558,9 +1569,16 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Oper Credits case study | Google Cloud",
+        "url": "https://cloud.google.com/customers/opercredits"
+      },
+      {
+        "title": "How Oper is Transforming the Mortgage Experience with AI and Google Cloud | Oper Credits Blog",
+        "url": "https://www.opercredits.com/blog/how-oper-is-transforming-the-mortgage-experience-with-ai-and-google-cloud"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "financial-services-data-rogo",

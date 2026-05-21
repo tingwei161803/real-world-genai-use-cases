@@ -806,9 +806,12 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Get started with ready-to-use AI frameworks | Google Cloud Blog",
+        "url": "https://cloud.google.com/transform/get-started-with-ready-to-use-ai-frameworks"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "media-marketing-gaming-creative-connected-stories",

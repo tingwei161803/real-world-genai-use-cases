@@ -750,9 +750,12 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "SEED-PR Caso de sucesso | Google Cloud",
+        "url": "https://cloud.google.com/customers/intl/pt-br/seed-pr?hl=pt-BR"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "public-sector-nonprofits-employee-stanford-university",
@@ -1199,9 +1202,12 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Understood uses Gemini to reduce stress and save 10 hours per project | Google Workspace Blog",
+        "url": "https://workspace.google.com/blog/ai-and-machine-learning/beyond-prompt-how-understood-uses-gemini-reduce-stress-and-save-10-hours-project"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "public-sector-nonprofits-employee-uniformed-services-university",

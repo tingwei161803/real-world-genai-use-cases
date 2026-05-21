@@ -124,9 +124,16 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Élisa Interactive — AI-Assisted Level Design",
+        "url": "https://www.elisainteractive.com/"
+      },
+      {
+        "title": "A new era of gaming: how the next generation of play is being redefined by AI agents | Google Cloud Blog",
+        "url": "https://cloud.google.com/transform/a-new-era-of-gaming-how-the-next-generation-of-play-is-being-redefined-by-ai-agents"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "media-marketing-gaming-creative-major-league-baseball",

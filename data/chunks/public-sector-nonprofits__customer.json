@@ -743,23 +743,23 @@
     "company": "Rio De Janeiro City Data Office",
     "isNew": false,
     "summary": {
-      "en": "Rio de Janeiro's 1746 citizen service chatbot, powered by Dialogflow, reduced average response time from 30 to 5 minutes.",
-      "zh": "里約熱內盧市 1746 市民服務聊天機器人以 Dialogflow 驅動，將平均回應時間從 30 分鐘縮短至 5 分鐘。"
+      "en": "Rio de Janeiro's 1746 citizen service chatbot, powered by Dialogflow, significantly reduced average response time for urban maintenance and municipal inquiries.",
+      "zh": "里約熱內盧市 1746 市民服務聊天機器人以 Dialogflow 驅動，大幅縮短城市維護與市政查詢的平均回應時間。"
     },
     "overview": {
-      "en": "Rio de Janeiro City Data Office powers the 1746 citizen service chatbot using Dialogflow, handling urban maintenance requests and municipal inquiries. The conversational AI manages over 30,000 monthly conversations, dramatically reducing citizen response time from 30 minutes to 5 minutes. The chatbot helps residents report issues, make inquiries, and navigate municipal services around the clock.",
-      "zh": "里約熱內盧市數據辦公室以 Dialogflow 驅動 1746 市民服務聊天機器人，處理城市維護請求和市政查詢。對話式 AI 每月處理逾 3 萬次對話，將市民平均回應時間從 30 分鐘大幅縮短至 5 分鐘，讓居民可全天候回報問題、查詢資訊並使用市政服務。"
+      "en": "Rio de Janeiro City Data Office powers the 1746 citizen service chatbot using Dialogflow, handling urban maintenance requests and municipal inquiries. The conversational AI significantly reduced citizen response time and handles a high volume of monthly conversations. The chatbot helps residents report issues, make inquiries, and navigate municipal services around the clock.",
+      "zh": "里約熱內盧市數據辦公室以 Dialogflow 驅動 1746 市民服務聊天機器人，處理城市維護請求和市政查詢。對話式 AI 大幅縮短市民平均回應時間並承載大量每月對話，讓居民可全天候回報問題、查詢資訊並使用市政服務。"
     },
     "highlights": {
       "en": [
-        "Reduced citizen response time from 30 minutes to 5 minutes—an 83% improvement.",
-        "Handles over 30,000 monthly conversations covering urban maintenance and municipal inquiries.",
+        "Significantly reduced citizen response time for urban maintenance and municipal inquiries.",
+        "Handles a high volume of monthly conversations covering urban maintenance and municipal inquiries.",
         "Available 24/7, allowing residents to report and track urban issues around the clock.",
         "Powered by Google Cloud Dialogflow, integrated with Rio de Janeiro's 1746 municipal service line."
       ],
       "zh": [
-        "將市民回應時間從 30 分鐘縮短至 5 分鐘，效率提升 83%。",
-        "每月處理逾 3 萬次對話，涵蓋城市維護與市政查詢。",
+        "大幅縮短城市維護與市政查詢的市民回應時間。",
+        "每月承載大量對話，涵蓋城市維護與市政查詢。",
         "全天候可用，讓居民隨時回報並追蹤城市問題。",
         "以 Google Cloud Dialogflow 驅動，整合里約熱內盧 1746 市政服務專線。"
       ]

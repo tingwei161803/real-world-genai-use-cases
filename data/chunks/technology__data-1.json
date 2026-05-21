@@ -33,9 +33,12 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "180 Seguros Case Study | Google Cloud",
+        "url": "https://cloud.google.com/customers/180-seguros"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "technology-data-ab-initio",
@@ -161,21 +164,21 @@
     "company": "Agromai",
     "isNew": false,
     "summary": {
-      "en": "Agromai uses Google Cloud AI to classify up to 10 million hectares per day for agricultural risk analysis.",
-      "zh": "Agromai 透過 Google Cloud AI 每日可分析多達 1,000 萬公頃農業地塊，提供高精準度風險評估。"
+      "en": "Agromai uses Google Cloud AI for agricultural risk analysis of large volumes of agricultural land per day.",
+      "zh": "Agromai 透過 Google Cloud AI 每日大規模分析農業地塊，為金融機構與保險業者提供高精準度風險評估。"
     },
     "overview": {
-      "en": "Agromai operates a unified platform powered by Google Cloud that delivers highly accurate risk analysis of agricultural plots to financial institutions and insurers. Using AI models, the company has achieved significant performance gains, with the ability to classify up to 10 million hectares of agricultural land per day.",
-      "zh": "Agromai 以 Google Cloud 驅動統一平台，為金融機構與保險業者提供高精準度的農業地塊風險分析。透過 AI 模型，公司實現重大性能突破，每日可分類多達 1,000 萬公頃土地。"
+      "en": "Agromai operates a unified platform powered by Google Cloud that delivers highly accurate risk analysis of agricultural plots to financial institutions and insurers. Using AI models, the company has achieved significant performance gains in classifying agricultural land at scale.",
+      "zh": "Agromai 以 Google Cloud 驅動統一平台，為金融機構與保險業者提供高精準度的農業地塊風險分析。透過 AI 模型，公司實現重大性能突破，能夠大規模分類農業土地。"
     },
     "highlights": {
       "en": [
-        "Classifies up to 10 million hectares of agricultural land per day using AI models.",
+        "Classifies large volumes of agricultural land per day using AI models.",
         "Delivers highly accurate risk analysis for financial institutions and insurers.",
         "Unified Google Cloud platform enables significant performance gains over previous solutions."
       ],
       "zh": [
-        "每日可分類多達 1,000 萬公頃農業土地。",
+        "每日大規模分類農業土地。",
         "為金融機構與保險業者提供高精準度風險分析。",
         "統一 Google Cloud 平台帶來顯著性能提升。"
       ]
@@ -313,9 +316,12 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Alphaus migrates business-critical database to Spanner | Google Cloud Blog (JP)",
+        "url": "https://cloud.google.com/blog/ja/topics/customers/alphaus-migrates-business-critical-database-to-spanner"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "technology-data-aluga-mais",
@@ -725,21 +731,21 @@
     "company": "Bosch SDS",
     "isNew": false,
     "summary": {
-      "en": "Bosch SDS uses Google Cloud Kubernetes, BigQuery, and Firebase to cut energy costs 12% and improve sustainability.",
-      "zh": "Bosch SDS 以 Google Cloud Kubernetes、BigQuery 與 Firebase 建立 AI 認知引擎，降低能源成本 12% 並改善再生能源使用。"
+      "en": "Bosch SDS uses Google Cloud Kubernetes, BigQuery, and Firebase to reduce energy costs and improve sustainability.",
+      "zh": "Bosch SDS 以 Google Cloud Kubernetes、BigQuery 與 Firebase 建立 AI 認知引擎，降低能源成本並改善再生能源使用。"
     },
     "overview": {
-      "en": "Bosch SDS, a global technology and services supplier, has integrated sustainability into its core operations. Using Google Cloud Kubernetes, BigQuery, and Firebase to manage and scale solutions, the company built an AI-based cognition engine with real-time alerts that reduced energy costs by 12%, improved indoor comfort, and enabled better usage of renewable energy.",
-      "zh": "全球科技與服務供應商 Bosch SDS 將永續發展整合至核心營運。以 Google Cloud Kubernetes、BigQuery 與 Firebase 管理並擴展解決方案，建立具即時警報的 AI 認知引擎，成功降低能源成本 12%，改善室內舒適度並提升再生能源使用率。"
+      "en": "Bosch SDS, a global technology and services supplier, has integrated sustainability into its core operations. Using Google Cloud Kubernetes, BigQuery, and Firebase to manage and scale solutions, the company built an AI-based cognition engine with real-time alerts that reduced energy costs, improved indoor comfort, and enabled better usage of renewable energy.",
+      "zh": "全球科技與服務供應商 Bosch SDS 將永續發展整合至核心營運。以 Google Cloud Kubernetes、BigQuery 與 Firebase 管理並擴展解決方案，建立具即時警報的 AI 認知引擎，成功降低能源成本，改善室內舒適度並提升再生能源使用率。"
     },
     "highlights": {
       "en": [
-        "Reduced energy costs by 12% through AI-based cognition engine with real-time alerts.",
+        "Reduced energy costs through AI-based cognition engine with real-time alerts.",
         "Improved indoor comfort and renewable energy utilization.",
         "Built on Google Cloud Kubernetes, BigQuery, and Firebase for scalable sustainability management."
       ],
       "zh": [
-        "透過具即時警報的 AI 認知引擎降低能源成本 12%。",
+        "透過具即時警報的 AI 認知引擎降低能源成本。",
         "改善室內舒適度並提升再生能源利用率。",
         "以 Google Cloud Kubernetes、BigQuery 與 Firebase 建立可擴展永續管理平台。"
       ]
@@ -1412,9 +1418,12 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Globant case study | Google Cloud",
+        "url": "https://cloud.google.com/customers/intl/es-419/globant"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "technology-data-glocation",

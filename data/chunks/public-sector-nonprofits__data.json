@@ -276,22 +276,22 @@
     "company": "Brazil’s Ministry of Education",
     "isNew": false,
     "summary": {
-      "en": "Brazil's Ministry of Education migrated its SIMEC system to Google Cloud, eliminating unreliability and automating processes for over 1 million users.",
-      "zh": "巴西教育部將 SIMEC 系統遷移至 Google Cloud，消除系統不穩定性並自動化流程，服務超過百萬用戶。"
+      "en": "Brazil's Ministry of Education migrated its SIMEC system to Google Cloud, eliminating unreliability and automating processes for a nationwide user base.",
+      "zh": "巴西教育部將 SIMEC 系統遷移至 Google Cloud，消除系統不穩定性並自動化流程，服務全國各地的用戶。"
     },
     "overview": {
-      "en": "Brazil's Ministry of Education faced challenges with its mission-critical SIMEC platform, through which it distributes public education policies to more than one million users across the country. In mid-2022, SIMEC was migrated to Google Cloud, ending recurring system unreliability, automating key processes, and significantly reducing the volume of user support calls. The cloud migration improved the platform's performance and scalability to serve Brazil's nationwide education administration.",
-      "zh": "巴西教育部的核心系統 SIMEC 面臨挑戰，該系統向全國超過百萬用戶分發公共教育政策。2022 年中，SIMEC 遷移至 Google Cloud，終結系統不穩定問題，實現關鍵流程自動化，並大幅減少用戶支援請求量。此次雲端遷移提升了平台效能與擴展能力，支持巴西全國教育行政管理。"
+      "en": "Brazil's Ministry of Education faced challenges with its mission-critical SIMEC platform, through which it distributes public education policies to users across the country. In mid-2022, SIMEC was migrated to Google Cloud, ending recurring system unreliability, automating key processes, and significantly reducing the volume of user support calls. The cloud migration improved the platform's performance and scalability to serve Brazil's nationwide education administration.",
+      "zh": "巴西教育部的核心系統 SIMEC 面臨挑戰，該系統向全國各地用戶分發公共教育政策。2022 年中，SIMEC 遷移至 Google Cloud，終結系統不穩定問題，實現關鍵流程自動化，並大幅減少用戶支援請求量。此次雲端遷移提升了平台效能與擴展能力，支持巴西全國教育行政管理。"
     },
     "highlights": {
       "en": [
-        "SIMEC serves over 1 million users distributing public education policies nationwide.",
+        "SIMEC distributes public education policies nationwide to a large user base.",
         "Migration to Google Cloud in mid-2022 ended system unreliability issues.",
         "Automated key administrative processes, reducing support call volume.",
         "Improved scalability and reliability for one of Brazil's most critical public education platforms."
       ],
       "zh": [
-        "SIMEC 服務超過百萬用戶，在全國分發公共教育政策。",
+        "SIMEC 向全國大量用戶分發公共教育政策。",
         "2022 年中遷移至 Google Cloud，終結系統不穩定問題。",
         "自動化關鍵行政流程，降低用戶支援請求量。",
         "提升巴西最重要公共教育平台之一的可擴展性與可靠性。"

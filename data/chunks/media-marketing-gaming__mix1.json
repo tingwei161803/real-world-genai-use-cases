@@ -415,23 +415,23 @@
     "company": "Gozango",
     "isNew": false,
     "summary": {
-      "en": "Gozango uses Gemini 2.5 Pro to cut topic modeling time by 80%, generate ads 100x faster, and identify call outcomes with 96% accuracy.",
-      "zh": "Gozango 使用 Gemini 2.5 Pro 將主題建模時間縮短 80%、廣告生成速度提升 100 倍，並以 96% 準確率識別通話結果。"
+      "en": "Gozango uses Gemini 2.5 Pro to significantly reduce topic modeling time, generate ads faster at scale, and automate call outcome identification for better lead quality management.",
+      "zh": "Gozango 使用 Gemini 2.5 Pro 大幅縮短主題建模時間、加速廣告大規模生成，並自動識別通話結果，改善潛在客戶品質管理。"
     },
     "overview": {
-      "en": "Gozango, an all-in-one marketing platform, uses Gemini 2.5 Pro in three key ways to dramatically improve operational efficiency: reducing the time to model industry topics by 80%, generating thousands of ads 100 times faster than before, and automating call outcome identification with 96% accuracy for better lead quality management.",
-      "zh": "一站式行銷平台 Gozango 以三種關鍵方式使用 Gemini 2.5 Pro 大幅提升營運效率：將產業主題建模時間縮短 80%、廣告生成速度提升 100 倍，以及以 96% 準確率自動識別通話結果，改善潛在客戶品質管理。"
+      "en": "Gozango, an all-in-one marketing platform, uses Gemini 2.5 Pro in three key ways to dramatically improve operational efficiency: reducing the time to model industry topics, generating thousands of ads faster than before, and automating call outcome identification for better lead quality management.",
+      "zh": "一站式行銷平台 Gozango 以三種關鍵方式使用 Gemini 2.5 Pro 大幅提升營運效率：縮短產業主題建模時間、加速廣告大規模生成，以及自動識別通話結果，改善潛在客戶品質管理。"
     },
     "highlights": {
       "en": [
-        "80% reduction in time to model industry topics with Gemini 2.5 Pro.",
-        "Ads generated 100x faster, enabling thousands of ad variations at scale.",
-        "96% accuracy in automated call outcome identification for improved lead quality."
+        "Significantly reduced time to model industry topics with Gemini 2.5 Pro.",
+        "Ads generated much faster at scale, enabling thousands of ad variations.",
+        "Automated call outcome identification improves lead quality management."
       ],
       "zh": [
-        "使用 Gemini 2.5 Pro 將產業主題建模時間縮短 80%。",
-        "廣告生成速度提升 100 倍，可大規模生成數千個廣告變體。",
-        "自動通話結果識別準確率達 96%，改善潛在客戶品質。"
+        "使用 Gemini 2.5 Pro 大幅縮短產業主題建模時間。",
+        "廣告生成速度顯著提升，可大規模生成數千個廣告變體。",
+        "自動通話結果識別，改善潛在客戶品質管理。"
       ]
     },
     "technologies": [
@@ -541,25 +541,25 @@
     "company": "JoongAng Ilbo",
     "isNew": false,
     "summary": {
-      "en": "JoongAng Ilbo uses Vertex AI and Gemini in its editing system to generate headline suggestions with 70%+ similarity to final published headlines.",
-      "zh": "JoongAng Ilbo 在編輯系統中使用 Vertex AI 與 Gemini 生成標題建議，與最終發布標題相似度達 70% 以上。"
+      "en": "JoongAng Ilbo uses Vertex AI and Gemini in its editing system to generate headline suggestions that closely match final published headlines.",
+      "zh": "JoongAng Ilbo 在編輯系統中使用 Vertex AI 與 Gemini 生成標題建議，與最終發布標題高度相似。"
     },
     "overview": {
-      "en": "JoongAng Ilbo, a leading Korean newspaper founded in 1965, uses Vertex AI and Gemini in its article editing system to generate headline suggestions based on article content with appropriate length and tone. The AI achieves 70%+ similarity with final published headlines, giving journalists strong starting points for editorial refinement. The system also automatically summarizes front-page articles into email newsletters using pre-designed prompts.",
-      "zh": "1965 年創立的韓國主要報紙 JoongAng Ilbo 在文章編輯系統中使用 Vertex AI 與 Gemini，根據文章內容生成適當長度和語氣的標題建議。AI 生成的標題與最終發布標題相似度達 70% 以上，為記者提供良好的編輯出發點。系統還使用預設提示自動將頭版文章摘要為電子報。"
+      "en": "JoongAng Ilbo, a leading Korean newspaper founded in 1965, uses Vertex AI and Gemini in its article editing system to generate headline suggestions based on article content with appropriate length and tone. The AI-generated headlines closely match final published headlines, giving journalists strong starting points for editorial refinement. The system also automatically summarizes front-page articles into email newsletters using pre-designed prompts.",
+      "zh": "1965 年創立的韓國主要報紙 JoongAng Ilbo 在文章編輯系統中使用 Vertex AI 與 Gemini，根據文章內容生成適當長度和語氣的標題建議。AI 生成的標題與最終發布標題高度相似，為記者提供良好的編輯出發點。系統還使用預設提示自動將頭版文章摘要為電子報。"
     },
     "highlights": {
       "en": [
-        "AI-generated headlines achieve 70%+ similarity with final published headlines.",
-        "Captures key words and phrases, giving journalists strong editorial starting points.",
+        "AI-generated headlines closely match final published headlines, giving journalists strong editorial starting points.",
+        "Captures key words and phrases to support editorial refinement.",
         "Automatically summarizes front-page articles into email newsletters.",
-        "Uses 60 years of archived articles as training context."
+        "Uses decades of archived articles as training context."
       ],
       "zh": [
-        "AI 生成的標題與最終發布標題相似度達 70% 以上。",
-        "捕捉關鍵字詞，為記者提供良好的編輯出發點。",
+        "AI 生成的標題與最終發布標題高度相似，為記者提供良好的編輯出發點。",
+        "捕捉關鍵字詞，支援編輯優化工作。",
         "自動將頭版文章摘要為電子報。",
-        "以 60 年的檔案文章作為訓練背景。"
+        "以數十年的檔案文章作為訓練背景。"
       ]
     },
     "technologies": [
@@ -664,22 +664,22 @@
     "company": "Nippon Television Network",
     "isNew": false,
     "summary": {
-      "en": "Japan's oldest commercial TV broadcaster built an internal AI chat platform FACTly-Mate with Gemini, reaching 2,000 users within six months.",
-      "zh": "日本最古老的商業電視台使用 Gemini 構建了內部 AI 聊天平台 FACTly-Mate，六個月內達到 2,000 名用戶。"
+      "en": "Japan's oldest commercial TV broadcaster built an internal AI chat platform FACTly-Mate with Gemini, achieving broad employee adoption shortly after launch.",
+      "zh": "日本最古老的商業電視台使用 Gemini 構建了內部 AI 聊天平台 FACTly-Mate，上線後迅速獲得員工廣泛使用。"
     },
     "overview": {
-      "en": "Nippon Television Network, Japan's oldest commercial TV broadcaster, uses Gemini and Vertex AI Studio to power FACTly-Mate, a secure internal conversational AI platform. The system allows employees to brainstorm ideas, translate contracts, and summarize documents using pre-configured prompts, without information leakage concerns. The platform achieved 2,000 unique browsers within six months of launch.",
-      "zh": "日本最古老的商業電視台日本電視網使用 Gemini 和 Vertex AI Studio 驅動 FACTly-Mate，一個安全的內部對話式 AI 平台。系統允許員工使用預設提示進行創意發想、翻譯合約和摘要文件，無需擔心資訊外洩。平台在推出後六個月內達到 2,000 名不重複瀏覽者。"
+      "en": "Nippon Television Network, Japan's oldest commercial TV broadcaster, uses Gemini and Vertex AI Studio to power FACTly-Mate, a secure internal conversational AI platform. The system allows employees to brainstorm ideas, translate contracts, and summarize documents using pre-configured prompts, without information leakage concerns. The platform achieved broad adoption among employees shortly after launch.",
+      "zh": "日本最古老的商業電視台日本電視網使用 Gemini 和 Vertex AI Studio 驅動 FACTly-Mate，一個安全的內部對話式 AI 平台。系統允許員工使用預設提示進行創意發想、翻譯合約和摘要文件，無需擔心資訊外洩。平台上線後迅速獲得員工廣泛採用。"
     },
     "highlights": {
       "en": [
-        "2,000 unique users within six months of FACTly-Mate launch.",
+        "FACTly-Mate achieved broad employee adoption shortly after launch.",
         "Secure internal platform prevents information leakage unlike public generative AI services.",
         "Used for creative ideation (\"wall bouncing\"), contract translation, and document summarization.",
         "Pre-configured prompts make AI accessible to all employees without technical expertise."
       ],
       "zh": [
-        "FACTly-Mate 推出六個月內達到 2,000 名不重複用戶。",
+        "FACTly-Mate 上線後迅速獲得員工廣泛採用。",
         "安全的內部平台與公共生成式 AI 服務不同，防止資訊外洩。",
         "用於創意發想（「拋磚引玉」）、合約翻譯和文件摘要。",
         "預設提示讓所有員工無需技術專業知識即可使用 AI。"
@@ -861,9 +861,12 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "How customers are putting Gemini to work — Google Cloud Blog",
+        "url": "https://cloud.google.com/blog/products/ai-machine-learning/how-customers-are-putting-gemini-to-work"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "media-marketing-gaming-employee-vimeo",

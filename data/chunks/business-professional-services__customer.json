@@ -280,9 +280,12 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Humanizadas caso de sucesso | Google Cloud",
+        "url": "https://cloud.google.com/customers/intl/pt-br/humanizadas?hl=pt-BR"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "business-professional-services-customer-intuit",
@@ -515,9 +518,12 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Wagestream — Financial Wellbeing Platform",
+        "url": "https://wagestream.com/en-us/financial-wellbeing-platform"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "business-professional-services-customer-wealthapi",

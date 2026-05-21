@@ -345,11 +345,18 @@
       "Natural Language AI",
       "Google Cloud"
     ],
-    "needsReview": true,
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "mov 導入事例 | Google Cloud",
+        "url": "https://cloud.google.com/customers/intl/ja-jp/mov"
+      },
+      {
+        "title": "mov: Vertex AI を採用した口コミ分析で店舗支援 | Google Cloud ブログ",
+        "url": "https://cloud.google.com/blog/ja/topics/customers/mov-word-of-mouth-analysis-with-vertex-ai"
       }
     ]
   },
@@ -489,11 +496,14 @@
       "Cloud TPU",
       "Google Cloud"
     ],
-    "needsReview": true,
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "NTT Data 導入事例 | Google Cloud",
+        "url": "https://cloud.google.com/customers/intl/ja-jp/ntt-data"
       }
     ]
   },
@@ -1601,11 +1611,14 @@
       "NVIDIA GPU",
       "Google Cloud"
     ],
-    "needsReview": true,
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Thinking Machines Expands Use of Google Cloud AI Hypercomputer | Google Cloud Press Corner",
+        "url": "https://www.googlecloudpresscorner.com/2026-04-22-Thinking-Machines-Expands-Use-of-Google-Cloud-AI-Hypercomputer"
       }
     ]
   },
@@ -1616,22 +1629,20 @@
     "company": "Thinkion",
     "isNew": true,
     "summary": {
-      "en": "Thinkion used Google Cloud AI to reduce latency by 70% and scale its online ordering platform for gastronomic venues in Argentina.",
-      "zh": "Thinkion 利用 Google Cloud AI 將延遲降低 70%，並為阿根廷餐飲場所的線上訂購平台實現近乎無限擴展。"
+      "en": "Thinkion used Google Cloud AI to optimize its online ordering platform for gastronomic venues in Argentina, achieving near-unlimited scalability.",
+      "zh": "Thinkion 利用 Google Cloud AI 優化阿根廷餐飲場所的線上訂購平台，實現近乎無限的可擴展性。"
     },
     "overview": {
-      "en": "Thinkion, an Argentine technology company serving gastronomic venues, used Google Cloud's AI tools to optimize its online ordering platform and operational management system. The implementation reduced latency by 70% and gave the company the ability to adjust traffic at nearly unlimited scale, enabling the platform to handle demand spikes without performance degradation.",
-      "zh": "Thinkion 是一家服務阿根廷餐飲場所的科技公司，使用 Google Cloud 的 AI 工具優化其線上訂購平台與營運管理系統。實施後延遲降低了 70%，並讓公司獲得了近乎無限規模調整流量的能力，使平台能夠應對需求高峰而不影響效能。"
+      "en": "Thinkion, an Argentine technology company serving gastronomic venues, used Google Cloud's AI tools to optimize its online ordering platform and operational management system. The implementation gave the company the ability to adjust traffic at nearly unlimited scale, enabling the platform to handle demand spikes without performance degradation.",
+      "zh": "Thinkion 是一家服務阿根廷餐飲場所的科技公司，使用 Google Cloud 的 AI 工具優化其線上訂購平台與營運管理系統。實施後讓公司獲得了近乎無限規模調整流量的能力，使平台能夠應對需求高峰而不影響效能。"
     },
     "highlights": {
       "en": [
-        "Latency reduced by 70% after implementing Google Cloud AI tools.",
         "Gained ability to adjust traffic at nearly unlimited scale for demand spikes.",
         "Optimized both online ordering and operational management systems.",
         "Serves gastronomic venues in Argentina with scalable cloud-native infrastructure."
       ],
       "zh": [
-        "採用 Google Cloud AI 工具後延遲降低 70%。",
         "獲得了近乎無限規模調整流量的能力，可應對需求高峰。",
         "同時優化了線上訂購與營運管理系統。",
         "以可擴展的雲端原生基礎架構服務阿根廷餐飲場所。"

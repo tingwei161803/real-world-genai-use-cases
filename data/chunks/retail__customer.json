@@ -34,9 +34,12 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "425DEGREE case study | Google Cloud",
+        "url": "https://cloud.google.com/customers/425degree"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "retail-customer-allegro",
@@ -281,6 +284,10 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Blackcircles case study | Google Cloud",
+        "url": "https://cloud.google.com/customers/blackcircles"
       }
     ]
   },
@@ -319,6 +326,10 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "BrainLogic case study | Google Cloud",
+        "url": "https://cloud.google.com/customers/brainlogic"
       }
     ]
   },
@@ -648,6 +659,10 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Etsy case study | Google Cloud",
+        "url": "https://cloud.google.com/customers/etsy-ai"
       }
     ]
   },
@@ -731,6 +746,10 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "FamilyMart case study | Google Cloud",
+        "url": "https://cloud.google.com/customers/familymart"
       }
     ]
   },
@@ -995,8 +1014,8 @@
     "company": "THE ICONIC",
     "isNew": false,
     "summary": {
-      "en": "THE ICONIC uses Vertex AI multimodal search for event-based discovery, cutting null searches from 5% to near zero and boosting revenue 2.6%.",
-      "zh": "THE ICONIC 運用 Vertex AI 多模態搜尋實現活動主題探索，將零結果搜尋從 5% 降至近零，營收提升 2.6%。"
+      "en": "THE ICONIC uses Vertex AI multimodal search for event-based discovery, significantly reducing null searches and improving product discoverability for millions of customers.",
+      "zh": "THE ICONIC 運用 Vertex AI 多模態搜尋實現活動主題探索，大幅減少零結果搜尋，提升數百萬顧客的商品探索體驗。"
     },
     "overview": {
       "en": "THE ICONIC, Australia and New Zealand's leading fashion platform with 2 million active customers, uses Vertex AI multimodal search to enable event-based product discovery. Customers can search for contextual queries like \"beach-themed party\" and receive curated outfit recommendations across 20 million monthly visits, with the AI dramatically reducing unsuccessful searches.",
@@ -1004,14 +1023,12 @@
     },
     "highlights": {
       "en": [
-        "Reduced null search results from 5% to nearly zero with Vertex AI multimodal search.",
-        "Drove a 2.6% increase in revenue through improved product discovery.",
+        "Significantly reduced null search results with Vertex AI multimodal search, dramatically improving product discovery.",
         "Enables event-based contextual search (e.g., 'beach-themed party') for 2 million active customers.",
         "Handles 20 million monthly visits with AI-powered fashion discovery."
       ],
       "zh": [
-        "透過 Vertex AI 多模態搜尋將零結果搜尋從 5% 降至近零。",
-        "透過改善商品探索功能帶動營收提升 2.6%。",
+        "透過 Vertex AI 多模態搜尋大幅減少零結果搜尋，顯著改善商品探索體驗。",
         "為 200 萬活躍顧客提供活動主題情境搜尋（例如「海灘主題派對」）。",
         "以 AI 驅動的時尚探索功能處理每月 2,000 萬次訪問。"
       ]
@@ -1025,8 +1042,13 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "THE ICONIC Finds Perfect Fit with Google Cloud's Generative AI",
+        "url": "https://www.googlecloudpresscorner.com/2025-01-21-THE-ICONIC-Finds-Perfect-Fit-with-Google-Clouds-Generative-AI"
       }
-    ]
+    ],
+    "needsReview": true
   },
   {
     "id": "retail-customer-kingfisher",
@@ -1253,23 +1275,23 @@
     "company": "Magalu",
     "isNew": false,
     "summary": {
-      "en": "Magalu uses Vertex AI to power Lu's Brain, the AI behind its popular brand persona Lu who has 14 million+ social media followers.",
-      "zh": "Magalu 運用 Vertex AI 打造「Lu's Brain」，驅動其擁有超過 1,400 萬社群媒體追蹤者的品牌人物 Lu 的 AI 互動能力。"
+      "en": "Magalu uses Vertex AI to power Lu's Brain, the AI behind its popular 3D brand persona Lu who has millions of social media followers across platforms.",
+      "zh": "Magalu 運用 Vertex AI 打造「Lu's Brain」，驅動其擁有數百萬社群媒體追蹤者的 3D 品牌人物 Lu 的 AI 互動能力。"
     },
     "overview": {
-      "en": "Magalu, one of Brazil's largest retailers, has put customer service at the center of its AI strategy. The company uses Vertex AI to create 'Lu's Brain,' powering an interactive conversational agent for Lu—Magalu's popular 3D brand persona with more than 14 million followers across TikTok and Instagram. The AI enables Lu to engage with customers in dynamic, personalized conversations at scale.",
-      "zh": "Magalu 是巴西最大零售商之一，將客戶服務置於其 AI 策略的核心。公司運用 Vertex AI 打造「Lu's Brain」，驅動 Magalu 旗下人氣 3D 品牌人物 Lu 的互動對話代理功能。Lu 在 TikTok 和 Instagram 上擁有超過 1,400 萬追蹤者，AI 讓她能夠大規模與顧客進行動態、個人化的對話互動。"
+      "en": "Magalu, one of Brazil's largest retailers, has put customer service at the center of its AI strategy. The company uses Vertex AI to create 'Lu's Brain,' powering an interactive conversational agent for Lu—Magalu's popular 3D brand persona with millions of followers across social media platforms. The AI enables Lu to engage with customers in dynamic, personalized conversations at scale.",
+      "zh": "Magalu 是巴西最大零售商之一，將客戶服務置於其 AI 策略的核心。公司運用 Vertex AI 打造「Lu's Brain」，驅動 Magalu 旗下人氣 3D 品牌人物 Lu 的互動對話代理功能。Lu 在社群媒體平台上擁有數百萬追蹤者，AI 讓她能夠大規模與顧客進行動態、個人化的對話互動。"
     },
     "highlights": {
       "en": [
         "Vertex AI powers 'Lu's Brain' enabling the popular brand persona to engage in interactive AI conversations.",
-        "Brand persona Lu has over 14 million followers across TikTok and Instagram.",
+        "Brand persona Lu has millions of followers across social media platforms.",
         "Customer service placed at the center of Magalu's AI strategy.",
         "Showcased at Google Cloud Next '24 as a significant gen AI use case."
       ],
       "zh": [
         "Vertex AI 驅動「Lu's Brain」，讓人氣品牌人物能進行互動式 AI 對話。",
-        "品牌人物 Lu 在 TikTok 和 Instagram 上合計超過 1,400 萬追蹤者。",
+        "品牌人物 Lu 在社群媒體平台上擁有數百萬追蹤者。",
         "客戶服務是 Magalu AI 策略的核心。",
         "在 Google Cloud Next '24 上作為重要生成式 AI 應用案例展示。"
       ]
@@ -1283,7 +1305,8 @@
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
       }
-    ]
+    ],
+    "needsReview": true
   },
   {
     "id": "retail-customer-manhattan-associates",
@@ -1465,8 +1488,8 @@
     "company": "Natura",
     "isNew": true,
     "summary": {
-      "en": "Natura's Google Cloud AI sales assistant reaches customers on WhatsApp for abandoned cart recovery, boosting buyer conversion by 112%.",
-      "zh": "Natura 的 Google Cloud AI 銷售助理透過 WhatsApp 觸及棄單顧客，將買家轉換率提升 112%。"
+      "en": "Natura's Google Cloud AI sales assistant reaches customers on WhatsApp for abandoned cart recovery, significantly boosting buyer conversion.",
+      "zh": "Natura 的 Google Cloud AI 銷售助理透過 WhatsApp 觸及棄單顧客，顯著提升買家轉換率。"
     },
     "overview": {
       "en": "Natura, the Brazilian cosmetics company, built a sales assistant on its website using Google Cloud AI to personalize recommendations and recover abandoned carts. When the assistant detects abandoned items, it proactively reaches out to customers via WhatsApp, allowing them to ask questions and modify orders in the chat before completing payment on the website.",
@@ -1474,13 +1497,13 @@
     },
     "highlights": {
       "en": [
-        "Increased buyer conversion by 112% through WhatsApp-based cart recovery outreach.",
+        "Significantly boosted buyer conversion through WhatsApp-based cart recovery outreach.",
         "AI assistant proactively contacts customers via WhatsApp when abandoned items are detected.",
         "Customers can ask questions and modify orders in WhatsApp before being directed to complete payment.",
         "Combines personalized recommendations with proactive abandoned cart recovery."
       ],
       "zh": [
-        "透過 WhatsApp 棄單挽回功能，買家轉換率提升 112%。",
+        "透過 WhatsApp 棄單挽回功能顯著提升買家轉換率。",
         "AI 助理在偵測到棄置商品時，主動透過 WhatsApp 聯繫顧客。",
         "顧客可在 WhatsApp 中提問和修改訂單，再前往網站完成付款。",
         "結合個人化推薦與主動式棄單挽回機制。"
@@ -1496,7 +1519,8 @@
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
       }
-    ]
+    ],
+    "needsReview": true
   },
   {
     "id": "retail-customer-nectar",
@@ -1579,7 +1603,8 @@
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
       }
-    ]
+    ],
+    "needsReview": true
   },
   {
     "id": "retail-customer-omoda",
@@ -1618,6 +1643,10 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Omoda and Google Cloud Partner to Revolutionize Online Fashion Shopping with Generative AI",
+        "url": "https://www.prnewswire.com/news-releases/omoda-and-google-cloud-partner-to-revolutionize-online-fashion-shopping-with-generative-ai-302349005.html"
       }
     ]
   },
@@ -1700,6 +1729,10 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "PopChill case study | Google Cloud",
+        "url": "https://cloud.google.com/customers/popchill"
       }
     ]
   },
@@ -1751,24 +1784,24 @@
     "company": "Shop Global",
     "isNew": false,
     "summary": {
-      "en": "Shop Global built a Vertex AI-powered personal shopper on LINE, delivering recommendations from 1,000+ brands in 1–2 minutes and supporting 150,000 event visitors.",
-      "zh": "Shop Global 在 LINE 上打造 Vertex AI 個人購物助理，1–2 分鐘內從逾 1,000 個品牌提供推薦，並服務 15 萬名活動訪客。"
+      "en": "Shop Global built a Vertex AI-powered personal shopper on LINE, delivering rapid personalized recommendations from a large brand catalog and successfully supporting the Saha Group Fair event.",
+      "zh": "Shop Global 在 LINE 上打造 Vertex AI 個人購物助理，快速從龐大品牌目錄提供個人化推薦，並成功支援 Saha Group Fair 活動。"
     },
     "overview": {
-      "en": "Shop Global, a major Thai ecommerce company under the Saha Group, built an AI-powered personal shopper integrated with LINE messaging using Vertex AI Search, Vertex AI Conversation, Gemini, and BigQuery. The system delivers personalized product recommendations from over 1,000 brands in 1–2 minutes through natural language and photo search, and successfully supported 150,000 visitors during the Saha Group Fair '25 event.",
-      "zh": "Shop Global 是泰國 Saha Group 旗下的大型電商公司，運用 Vertex AI Search、Vertex AI Conversation、Gemini 及 BigQuery，打造了整合於 LINE 即時通訊的 AI 個人購物助理。系統透過自然語言和圖片搜尋，在 1–2 分鐘內從逾 1,000 個品牌提供個人化商品推薦，並在 Saha Group Fair '25 活動期間成功服務了 15 萬名訪客。"
+      "en": "Shop Global, a major Thai ecommerce company under the Saha Group, built an AI-powered personal shopper integrated with LINE messaging using Vertex AI Search, Vertex AI Conversation, Gemini, and BigQuery. The system delivers personalized product recommendations through natural language and photo search, and successfully supported a large number of visitors during the Saha Group Fair '25 event.",
+      "zh": "Shop Global 是泰國 Saha Group 旗下的大型電商公司，運用 Vertex AI Search、Vertex AI Conversation、Gemini 及 BigQuery，打造了整合於 LINE 即時通訊的 AI 個人購物助理。系統透過自然語言和圖片搜尋提供個人化商品推薦，並在 Saha Group Fair '25 活動期間成功服務大量訪客。"
     },
     "highlights": {
       "en": [
-        "Delivers personalized product recommendations from 1,000+ brands in 1–2 minutes via LINE.",
+        "Delivers rapid personalized product recommendations via LINE using natural language and photo search.",
         "Supports natural language and photo search for intuitive product discovery.",
-        "Successfully handled 150,000 visitors during the Saha Group Fair '25 event.",
+        "Successfully handled large visitor traffic during the Saha Group Fair '25 event.",
         "Built with Vertex AI Search, Vertex AI Conversation, Gemini, and BigQuery."
       ],
       "zh": [
-        "透過 LINE 在 1–2 分鐘內提供來自逾 1,000 個品牌的個人化商品推薦。",
+        "透過 LINE 以自然語言和圖片搜尋快速提供個人化商品推薦。",
         "支援自然語言和圖片搜尋，實現直覺式商品探索。",
-        "在 Saha Group Fair '25 活動期間成功服務 15 萬名訪客。",
+        "在 Saha Group Fair '25 活動期間成功服務大量訪客。",
         "使用 Vertex AI Search、Vertex AI Conversation、Gemini 及 BigQuery 構建。"
       ]
     },
@@ -1784,7 +1817,8 @@
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
       }
-    ]
+    ],
+    "needsReview": true
   },
   {
     "id": "retail-customer-target",
@@ -1906,6 +1940,10 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Toolstation Boosts Search-Based Revenue by 5.5% and Transforms Product Discovery with Google Cloud AI",
+        "url": "https://www.googlecloudpresscorner.com/2025-07-09-Toolstation-Boosts-Search-Based-Revenue-by-5-5-and-Transforms-Product-Discovery-with-Google-Cloud-AI"
       }
     ]
   },
@@ -1946,6 +1984,10 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Tradera case study | Google Cloud",
+        "url": "https://cloud.google.com/customers/tradera"
       }
     ]
   },
@@ -2208,6 +2250,10 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Brainlogic case study | Google Cloud",
+        "url": "https://cloud.google.com/customers/brainlogic"
       }
     ]
   },

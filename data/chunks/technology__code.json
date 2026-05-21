@@ -1053,9 +1053,16 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Magic partners with Google Cloud to train frontier-scale LLMs | Google Cloud Blog",
+        "url": "https://cloud.google.com/blog/products/ai-machine-learning/magic-ai-100m-tokens-cloud-supercomputer"
+      },
+      {
+        "title": "100M Token Context Windows — Magic",
+        "url": "https://magic.dev/blog/100m-token-context-windows"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "technology-code-meta",
@@ -1802,9 +1809,12 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Turing Announces 70% Increase in Acceptance Rates With Google Cloud's Gemini Code Assist",
+        "url": "https://www.prnewswire.com/news-releases/turing-continues-leading-ai-enhancement-of-tech-talent-company-announces-70-increase-in-acceptance-rates-with-google-clouds-gemini-code-assist-302120395.html"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "technology-code-vercel",
@@ -2054,8 +2064,11 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Writer case study | Google Cloud",
+        "url": "https://cloud.google.com/customers/writer"
       }
-    ],
-    "needsReview": true
+    ]
   }
 ]

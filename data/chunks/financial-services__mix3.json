@@ -992,11 +992,18 @@
       "Gemini",
       "Google Cloud"
     ],
-    "needsReview": true,
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Wayfair case study | Google Cloud",
+        "url": "https://cloud.google.com/customers/wayfair-ai"
+      },
+      {
+        "title": "Wayfair and Google Cloud Announce Expanded Partnership to Transform Online Retail with Gemini",
+        "url": "https://www.prnewswire.com/news-releases/wayfair-and-google-cloud-announce-expanded-partnership-to-transform-online-retail-with-gemini-302348276.html"
       }
     ]
   },

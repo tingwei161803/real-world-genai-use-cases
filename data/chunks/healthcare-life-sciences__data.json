@@ -851,9 +851,12 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Febrafar case study | Google Cloud",
+        "url": "https://cloud.google.com/customers/febrafar"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "healthcare-life-sciences-data-genbio-ai",
@@ -993,25 +996,23 @@
     "company": "Hospital de Amor",
     "isNew": true,
     "summary": {
-      "en": "Hospital de Amor uses Google Cloud AI to automate X-ray analysis for early lung cancer detection, reviewing 30,000+ images in its initial phase.",
-      "zh": "Hospital de Amor 運用 Google Cloud AI 自動化 X 光影像分析，用於早期肺癌偵測，初期已分析逾 3 萬張影像。"
+      "en": "Hospital de Amor uses Google Cloud AI to automate X-ray analysis for early lung cancer detection.",
+      "zh": "Hospital de Amor 運用 Google Cloud AI 自動化 X 光影像分析，用於早期肺癌偵測。"
     },
     "overview": {
-      "en": "Hospital de Amor is using Google Cloud AI to improve early lung cancer detection by automating X-ray image analysis and speeding up diagnoses. In its initial phase, the project analyzed more than 30,000 images and identified 68 cases that required deeper investigation, significantly improving early detection capabilities.",
-      "zh": "Hospital de Amor 運用 Google Cloud AI 自動化 X 光影像分析，提升早期肺癌偵測能力並加快診斷速度。在初始階段，專案已分析逾 3 萬張影像，識別出 68 個需要深入調查的病例，大幅提升早期偵測能力。"
+      "en": "Hospital de Amor is using Google Cloud AI to improve early lung cancer detection by automating X-ray image analysis and speeding up diagnoses. The project has significantly improved early detection capabilities by enabling automated screening at scale.",
+      "zh": "Hospital de Amor 運用 Google Cloud AI 自動化 X 光影像分析，提升早期肺癌偵測能力並加快診斷速度。專案透過大規模自動化篩查，大幅提升早期偵測能力。"
     },
     "highlights": {
       "en": [
-        "Analyzed more than 30,000 X-ray images in the initial project phase.",
-        "Identified 68 cases requiring deeper investigation for potential lung cancer.",
         "Automates X-ray image analysis to speed up early lung cancer diagnoses.",
-        "Google Cloud AI infrastructure supports screening at scale for underserved populations."
+        "Google Cloud AI infrastructure supports screening at scale for underserved populations.",
+        "Enables automated detection of cases requiring deeper investigation."
       ],
       "zh": [
-        "初始階段已分析逾 3 萬張 X 光影像。",
-        "識別出 68 個需要深入調查的潛在肺癌病例。",
         "自動化 X 光影像分析加快早期肺癌診斷速度。",
-        "Google Cloud AI 基礎架構支援大規模篩查服務不足的人群。"
+        "Google Cloud AI 基礎架構支援大規模篩查服務不足的人群。",
+        "實現需要深入調查病例的自動化偵測。"
       ]
     },
     "technologies": [
@@ -1078,22 +1079,22 @@
     "company": "Insilica",
     "isNew": true,
     "summary": {
-      "en": "Insilica uses Gemini Enterprise Agent Platform to process millions of regulatory documents into a unified agentic risk assessment platform.",
-      "zh": "Insilica 運用 Gemini Enterprise Agent Platform 處理數百萬份監管文件，構建統一的代理式風險評估平台。"
+      "en": "Insilica uses Gemini Enterprise Agent Platform to process large volumes of regulatory documents into a unified agentic risk assessment platform.",
+      "zh": "Insilica 運用 Gemini Enterprise Agent Platform 處理大量監管文件，構建統一的代理式風險評估平台。"
     },
     "overview": {
-      "en": "Insilica uses the Gemini Enterprise Agent Platform to process millions of regulatory documents and thousands of databases into a unified, agentic risk assessment platform. The platform enables automated analysis of complex regulatory landscapes for life sciences compliance and risk management.",
-      "zh": "Insilica 運用 Gemini Enterprise Agent Platform 處理數百萬份監管文件和數千個資料庫，構建統一的代理式風險評估平台，實現生命科學合規與風險管理的複雜監管自動化分析。"
+      "en": "Insilica uses the Gemini Enterprise Agent Platform to process large volumes of regulatory documents and multiple databases into a unified, agentic risk assessment platform. The platform enables automated analysis of complex regulatory landscapes for life sciences compliance and risk management.",
+      "zh": "Insilica 運用 Gemini Enterprise Agent Platform 處理大量監管文件與多個資料庫，構建統一的代理式風險評估平台，實現生命科學合規與風險管理的複雜監管自動化分析。"
     },
     "highlights": {
       "en": [
-        "Processes millions of regulatory documents and thousands of databases using Gemini Enterprise Agent Platform.",
+        "Processes large volumes of regulatory documents and multiple databases using Gemini Enterprise Agent Platform.",
         "Unified agentic risk assessment platform for life sciences regulatory compliance.",
         "Automates complex analysis across vast regulatory landscapes.",
         "Enables faster and more comprehensive risk identification for pharma and biotech."
       ],
       "zh": [
-        "運用 Gemini Enterprise Agent Platform 處理數百萬份監管文件和數千個資料庫。",
+        "運用 Gemini Enterprise Agent Platform 處理大量監管文件與多個資料庫。",
         "為生命科學監管合規打造統一的代理式風險評估平台。",
         "自動化分析廣泛的監管環境。",
         "為製藥與生物科技企業提供更快速、更全面的風險識別能力。"
@@ -1376,23 +1377,23 @@
     "company": "Ordaōs",
     "isNew": false,
     "summary": {
-      "en": "Ordaōs uses Google Kubernetes Engine to scale AI analysis of millions of protein structures for drug discovery with greater flexibility.",
-      "zh": "Ordaōs 運用 Google Kubernetes Engine 靈活擴展數百萬個蛋白質結構的 AI 分析，加速藥物研發。"
+      "en": "Ordaōs uses Google Kubernetes Engine to scale AI analysis of large numbers of protein structures for drug discovery with greater flexibility.",
+      "zh": "Ordaōs 運用 Google Kubernetes Engine 靈活擴展大量蛋白質結構的 AI 分析，加速藥物研發。"
     },
     "overview": {
-      "en": "Ordaōs, an AI-driven drug discovery leader, relies on cloud computing to design, process, and analyze data for millions of protein structures. The company uses Google Kubernetes Engine to achieve increased flexibility and easier scalability, enabling them to take on new, larger AI projects in protein-based drug discovery.",
-      "zh": "AI 驅動的藥物研發領導者 Ordaōs 依賴雲端運算設計、處理和分析數百萬個蛋白質結構的資料。公司運用 Google Kubernetes Engine 實現更高的靈活性與更便捷的可擴展性，能夠承接更大型的蛋白質藥物研發 AI 專案。"
+      "en": "Ordaōs, an AI-driven drug discovery leader, relies on cloud computing to design, process, and analyze data for large numbers of protein structures. The company uses Google Kubernetes Engine to achieve increased flexibility and easier scalability, enabling them to take on new, larger AI projects in protein-based drug discovery.",
+      "zh": "AI 驅動的藥物研發領導者 Ordaōs 依賴雲端運算設計、處理和分析大量蛋白質結構的資料。公司運用 Google Kubernetes Engine 實現更高的靈活性與更便捷的可擴展性，能夠承接更大型的蛋白質藥物研發 AI 專案。"
     },
     "highlights": {
       "en": [
         "Google Kubernetes Engine provides flexibility and scalability for large-scale protein structure analysis.",
-        "Designs, processes, and analyzes data for millions of protein structures computationally.",
+        "Designs, processes, and analyzes data for large numbers of protein structures computationally.",
         "Enables AI-driven drug discovery at scales previously not feasible.",
         "Increased scalability supports expansion into new, larger AI research projects."
       ],
       "zh": [
         "Google Kubernetes Engine 提供大規模蛋白質結構分析的靈活性與可擴展性。",
-        "計算設計、處理和分析數百萬個蛋白質結構的資料。",
+        "計算設計、處理和分析大量蛋白質結構的資料。",
         "支援以前無法實現的規模 AI 驅動藥物研發。",
         "增強的可擴展性支持擴展至更大型的 AI 研究專案。"
       ]
@@ -1406,9 +1407,12 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Ordaos case study | Google Cloud",
+        "url": "https://cloud.google.com/customers/ordaos"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "healthcare-life-sciences-data-probrain",
@@ -1446,9 +1450,12 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "ProBrain case study | Google Cloud",
+        "url": "https://cloud.google.com/customers/intl/pt-br/probrain"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "healthcare-life-sciences-data-proximal-health",
@@ -1587,23 +1594,23 @@
     "company": "Rezo",
     "isNew": true,
     "summary": {
-      "en": "Rezo Therapeutics uses Gemini models, GPUs, TPUs, and Gemini Enterprise Agent Platform to generate hundreds of thousands of protein complexes in weeks, cutting target discovery time in half.",
-      "zh": "Rezo Therapeutics 運用 Gemini 模型、GPU、TPU 及 Gemini Enterprise Agent Platform，在數週內生成數十萬個蛋白質複合物，將靶點發現時間縮短一半。"
+      "en": "Rezo Therapeutics uses Gemini models, GPUs, TPUs, and Gemini Enterprise Agent Platform to rapidly generate structurally resolved protein complexes, significantly accelerating target discovery.",
+      "zh": "Rezo Therapeutics 運用 Gemini 模型、GPU、TPU 及 Gemini Enterprise Agent Platform，快速生成結構解析的蛋白質複合物，大幅加速靶點發現。"
     },
     "overview": {
-      "en": "Rezo Therapeutics is a Google Cloud-native oncology company that uses AI to map protein-protein interactions — the complex biological networks that drive cancer — in pursuit of small-molecule drugs for 'undruggable' targets. By leveraging Gemini models, GPUs, TPUs, and Gemini Enterprise Agent Platform, Rezo can generate hundreds of thousands of structurally resolved protein complexes in just weeks, cutting target discovery time in half.",
-      "zh": "Rezo Therapeutics 是一家 Google Cloud 原生腫瘤學公司，運用 AI 繪製驅動癌症的複雜蛋白質-蛋白質相互作用網絡，追求針對「難以成藥」靶點的小分子藥物。借助 Gemini 模型、GPU、TPU 及 Gemini Enterprise Agent Platform，Rezo 能夠在短短數週內生成數十萬個結構解析的蛋白質複合物，將靶點發現時間縮短一半。"
+      "en": "Rezo Therapeutics is a Google Cloud-native oncology company that uses AI to map protein-protein interactions — the complex biological networks that drive cancer — in pursuit of small-molecule drugs for 'undruggable' targets. By leveraging Gemini models, GPUs, TPUs, and Gemini Enterprise Agent Platform, Rezo can rapidly generate large numbers of structurally resolved protein complexes, significantly accelerating target discovery compared to conventional approaches.",
+      "zh": "Rezo Therapeutics 是一家 Google Cloud 原生腫瘤學公司，運用 AI 繪製驅動癌症的複雜蛋白質-蛋白質相互作用網絡，追求針對「難以成藥」靶點的小分子藥物。借助 Gemini 模型、GPU、TPU 及 Gemini Enterprise Agent Platform，Rezo 能夠快速生成大量結構解析的蛋白質複合物，相較傳統方法大幅加速靶點發現。"
     },
     "highlights": {
       "en": [
-        "Generates hundreds of thousands of structurally resolved protein complexes in weeks.",
-        "Target discovery time cut in half compared to conventional approaches.",
+        "Rapidly generates large numbers of structurally resolved protein complexes.",
+        "Significantly accelerates target discovery compared to conventional approaches.",
         "Targets historically 'undruggable' proteins through protein-protein interaction mapping.",
         "Uses Gemini models, GPUs, TPUs, and Gemini Enterprise Agent Platform on Google Cloud."
       ],
       "zh": [
-        "數週內生成數十萬個結構解析的蛋白質複合物。",
-        "與傳統方法相比，靶點發現時間縮短一半。",
+        "快速生成大量結構解析的蛋白質複合物。",
+        "相較傳統方法大幅加速靶點發現。",
         "透過蛋白質-蛋白質相互作用繪製，針對歷來「難以成藥」的蛋白質。",
         "在 Google Cloud 上使用 Gemini 模型、GPU、TPU 及 Gemini Enterprise Agent Platform。"
       ]
@@ -1878,9 +1885,16 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Triplebar Announces Development of Disruptive Generative AI Genomic Language Models",
+        "url": "https://triplebar.com/triplebar-announces-development-of-disruptive-generative-ai-genomic-language-models/"
+      },
+      {
+        "title": "Triplebar, the biotech firm solving the global food and drug supply issues of tomorrow | VentureBeat",
+        "url": "https://venturebeat.com/business/triplebar-the-biotech-firm-solving-the-global-food-and-drug-supply-issues-of-tomorrow/"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "healthcare-life-sciences-data-via-scientific",
