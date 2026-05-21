@@ -1,0 +1,1417 @@
+[
+  {
+    "id": "media-marketing-gaming-creative-adobe",
+    "industry": "media-marketing-gaming",
+    "agentType": "creative",
+    "company": "Adobe",
+    "isNew": false,
+    "summary": {
+      "en": "Adobe integrates Google's Imagen 3 and Veo 2 into Adobe Express and Project Concepts for creative professionals.",
+      "zh": "Adobe 將 Google 的 Imagen 3 與 Veo 2 整合至 Adobe Express 和 Project Concepts，賦能創意專業人士。"
+    },
+    "overview": {
+      "en": "Adobe and Google Cloud expanded their strategic partnership to embed Google's generative AI models—Imagen 3, Veo 2, and Gemini—directly into Adobe's creative suite. Creative professionals using Adobe Express, Adobe Firefly, Photoshop, Premiere, and GenStudio can now generate high-quality images and videos within their existing workflows without leaving Adobe apps. The collaboration began with Adobe Express and Project Concepts as the initial entry points.",
+      "zh": "Adobe 與 Google Cloud 擴大策略夥伴關係，將 Google 的生成式 AI 模型（Imagen 3、Veo 2、Gemini）直接內嵌於 Adobe 創意套件。使用 Adobe Express、Firefly、Photoshop、Premiere 及 GenStudio 的創意人員，可在現有工作流程中直接生成高品質圖片與影片。此合作以 Adobe Express 及 Project Concepts 為起點。"
+    },
+    "highlights": {
+      "en": [
+        "Imagen 3 and Veo 2 models are available natively inside Adobe Express and Project Concepts, with plans to expand to Firefly, Photoshop, Premiere, and GenStudio.",
+        "Enterprise customers gain access to Adobe Firefly Foundry to customize and deploy brand-specific AI models for on-brand content generation at scale.",
+        "The partnership gives Adobe's diverse customer base—from individual creators to large enterprises—access to Google's latest generative AI models within Adobe workflows."
+      ],
+      "zh": [
+        "Imagen 3 與 Veo 2 已原生支援 Adobe Express 及 Project Concepts，並計畫擴展至 Firefly、Photoshop、Premiere 和 GenStudio。",
+        "企業客戶可透過 Adobe Firefly Foundry 自訂並部署品牌專屬 AI 模型，大規模生成符合品牌風格的內容。",
+        "此合作使個人創作者至大型企業等各類 Adobe 用戶，均能在熟悉的工作流程中直接使用 Google 最新生成式 AI 模型。"
+      ]
+    },
+    "technologies": ["Imagen 3", "Veo 2", "Gemini", "Vertex AI", "Adobe Firefly"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Adobe and Google Cloud Expand Strategic Partnership to Advance the Future of Creative AI",
+        "url": "https://www.googlecloudpresscorner.com/2025-10-28-Adobe-and-Google-Cloud-Expand-Strategic-Partnership-to-Advance-the-Future-of-Creative-AI"
+      },
+      {
+        "title": "Adobe and Google Cloud Expand Strategic Partnership — Adobe Newsroom",
+        "url": "https://news.adobe.com/news/2025/10/adobe-max-2025-google-cloud"
+      }
+    ]
+  },
+  {
+    "id": "media-marketing-gaming-creative-afooga",
+    "industry": "media-marketing-gaming",
+    "agentType": "creative",
+    "company": "Afooga",
+    "isNew": false,
+    "summary": {
+      "en": "Afooga's AI content factory uses Vertex AI and Veo to generate, test, and distribute content at massive scale across TikTok, Meta, YouTube, and more.",
+      "zh": "Afooga 的 AI 內容實驗工廠以 Vertex AI 和 Veo 大規模生成、測試並分發跨平台內容。"
+    },
+    "overview": {
+      "en": "Afooga is an AI-powered content experimentation platform that enables businesses to generate, test, and distribute content at massive scale from a single hypothesis. The platform automatically optimizes content across major channels including TikTok, Meta, YouTube, and others. Afooga leverages Vertex AI and Veo for generative video capabilities, and its entire infrastructure is architected on Google Cloud.",
+      "zh": "Afooga 是一個 AI 驅動的內容實驗平台，讓企業從單一假設出發，大規模生成、測試並分發內容。平台可自動跨 TikTok、Meta、YouTube 等主要管道優化內容。Afooga 採用 Vertex AI 和 Veo 提供生成式影片能力，整體架構完全建立在 Google Cloud 上。"
+    },
+    "highlights": {
+      "en": [
+        "Enables businesses to run content experiments at scale from a single creative hypothesis across multiple social platforms simultaneously.",
+        "Leverages Veo for generative video creation alongside Vertex AI for content optimization and distribution.",
+        "Entire platform is built natively on Google Cloud infrastructure, ensuring scalability and reliability."
+      ],
+      "zh": [
+        "讓企業從單一創意假設出發，同時在多個社群平台大規模執行內容實驗。",
+        "搭配 Vertex AI 進行內容優化與分發，並運用 Veo 生成式影片能力。",
+        "整個平台原生建立於 Google Cloud 基礎設施上，確保可擴展性與穩定性。"
+      ]
+    },
+    "technologies": ["Vertex AI", "Veo", "Google Cloud"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "media-marketing-gaming-creative-alson-ai",
+    "industry": "media-marketing-gaming",
+    "agentType": "creative",
+    "company": "Alson AI",
+    "isNew": false,
+    "summary": {
+      "en": "Alson AI uses Veo and Gemini to help creators turn ideas into illustrated books and animations, cutting costs from thousands of dollars to $25.",
+      "zh": "Alson AI 運用 Veo 和 Gemini 幫助創作者將靈感轉化為繪本與動畫，製作成本從數千美元降至 25 美元。"
+    },
+    "overview": {
+      "en": "Alson AI is a creative platform that uses Google's Veo and Gemini models to enable anyone to turn their ideas, memories, and imagination into illustrated books and animations. The platform dramatically reduces both the time and cost of content creation—production time drops from months to minutes, and costs fall from thousands of dollars to just $25. Alson AI was featured in a Google Cloud blog showcasing startups using generative media models.",
+      "zh": "Alson AI 是一個創意平台，使用 Google 的 Veo 和 Gemini 模型，讓任何人都能將想法、回憶與想像轉化為繪本及動畫。平台大幅壓縮創作時間與成本——製作時間從數月縮短至數分鐘，費用從數千美元降至僅 25 美元。Alson AI 被 Google Cloud 部落格收錄為使用生成式媒體模型的代表新創企業。"
+    },
+    "highlights": {
+      "en": [
+        "Production time reduced from months to minutes using Veo and Gemini generative AI models.",
+        "Creation costs reduced from thousands of dollars to $25 per project.",
+        "Platform enables storytelling through illustrated books and animations accessible to non-technical creators."
+      ],
+      "zh": [
+        "利用 Veo 和 Gemini 生成式 AI，製作時間從數月縮短至數分鐘。",
+        "每個專案製作成本從數千美元降至 25 美元。",
+        "平台讓非技術背景的創作者也能透過繪本與動畫形式訴說故事。"
+      ]
+    },
+    "technologies": ["Veo", "Gemini", "Vertex AI", "Google Cloud"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Meet a dozen startups using generative media to revolutionize content creation | Google Cloud Blog",
+        "url": "https://cloud.google.com/transform/generative-media-models-dozen-startups-helping-anyone-create-content-with-ai"
+      }
+    ]
+  },
+  {
+    "id": "media-marketing-gaming-creative-american-cornhole-league",
+    "industry": "media-marketing-gaming",
+    "agentType": "creative",
+    "company": "American Cornhole League",
+    "isNew": false,
+    "summary": {
+      "en": "American Cornhole League uses Gemini in Drive to turn hours of broadcast footage into social media clips and captions with a single prompt.",
+      "zh": "美國 Cornhole 聯盟使用 Gemini in Drive，一個提示詞就能從播出素材中選取片段並產出社群媒體說明文字。"
+    },
+    "overview": {
+      "en": "The American Cornhole League uses Gemini in Drive to streamline its social media content workflow. Editors can select clips from broadcast footage and write social media captions using a single prompt, transforming what was previously an hours-long manual task into a rapid, AI-assisted process. This allows the league's content team to produce engaging social posts more efficiently.",
+      "zh": "美國 Cornhole 聯盟使用 Gemini in Drive 簡化社群媒體內容工作流程。編輯人員只需一個提示詞，即可從播出素材中選取片段並撰寫說明文字，將原本耗費數小時的手動作業轉變為快速的 AI 輔助流程。這讓聯盟內容團隊能更有效率地製作社群貼文。"
+    },
+    "highlights": {
+      "en": [
+        "Hours-long social media content creation task reduced to a single prompt using Gemini in Drive.",
+        "Enables non-technical sports staff to quickly select broadcast clips and generate captions for social platforms.",
+        "Demonstrates practical AI adoption for small-to-mid-size sports organizations."
+      ],
+      "zh": [
+        "使用 Gemini in Drive，數小時的社群內容製作作業縮短為一個提示詞即可完成。",
+        "讓非技術背景的運動組織人員能快速選取播出片段並為社群平台生成說明文字。",
+        "展示小型到中型運動組織如何實際應用 AI。"
+      ]
+    },
+    "technologies": ["Gemini", "Google Drive", "Google Workspace"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "media-marketing-gaming-creative-ateme",
+    "industry": "media-marketing-gaming",
+    "agentType": "creative",
+    "company": "Ateme",
+    "isNew": false,
+    "summary": {
+      "en": "Ateme uses Vertex AI and Gemini to automate multilingual subtitle generation, cutting a 15-hour manual process to minutes for under $1 per hour of content.",
+      "zh": "Ateme 使用 Vertex AI 和 Gemini 自動化多語言字幕生成，將原本耗費 15 小時的人工流程壓縮至數分鐘，每小時內容費用不到 1 美元。"
+    },
+    "overview": {
+      "en": "Ateme, a French video streaming compression and delivery solutions provider with 580 employees across 20 countries, partnered with Google Cloud to transform its subtitle generation workflow. The AI-powered solution uses Vertex AI and Gemini models to automate audio transcription, precise timecode spotting, and multilingual subtitle generation. Previously, generating subtitles for one hour of video could take up to 15 hours of manual work; now the same output is produced in minutes for less than $1.",
+      "zh": "Ateme 是法國影片串流壓縮與傳輸解決方案供應商，擁有 580 名員工，業務遍及 20 個國家。Ateme 與 Google Cloud 合作，徹底改造字幕生成流程。AI 解決方案採用 Vertex AI 和 Gemini 模型，自動完成語音轉錄、精確時間碼定位及多語言字幕生成。過去為一小時影片製作字幕最多需耗費 15 小時人工；現在同等工作僅需數分鐘且成本不到 1 美元。"
+    },
+    "highlights": {
+      "en": [
+        "Subtitle generation time reduced from up to 15 hours of manual work to minutes per hour of video content.",
+        "Cost reduced to under $1 per hour of content, compared to several thousand euros for manual subtitle creation.",
+        "Solution deployed via Titan File, containerized on Google Kubernetes Engine with media stored in Google Cloud Storage.",
+        "Enables clients to expand into new linguistic markets and meet regulatory accessibility requirements at scale."
+      ],
+      "zh": [
+        "每小時影片的字幕生成時間從最長 15 小時壓縮至數分鐘。",
+        "每小時內容成本降至 1 美元以下，相較於人工製作的數千歐元大幅節省。",
+        "解決方案透過 Titan File 部署，以 Google Kubernetes Engine 容器化運行，媒體檔案儲存於 Google Cloud Storage。",
+        "讓客戶能夠大規模進入新語言市場，並符合法規無障礙要求。"
+      ]
+    },
+    "technologies": ["Vertex AI", "Gemini", "Google Kubernetes Engine", "Google Cloud Storage"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Ateme customer story | Google Cloud",
+        "url": "https://cloud.google.com/customers/ateme"
+      },
+      {
+        "title": "Ateme & Google Cloud Advance Gen AI Video Subtitling",
+        "url": "https://www.ateme.com/press/ateme-collaborates-with-google-cloud-to-help-transform-video-subtitling-with-gen-ai/"
+      }
+    ]
+  },
+  {
+    "id": "media-marketing-gaming-creative-atlas",
+    "industry": "media-marketing-gaming",
+    "agentType": "creative",
+    "company": "Atlas",
+    "isNew": true,
+    "summary": {
+      "en": "Atlas, an agentic 3D content creation platform, launched a multi-agent AI system that builds and operates complete 3D production workflows for game studios.",
+      "zh": "Atlas 是一個代理式 3D 內容創作平台，推出多代理 AI 系統，可為遊戲工作室建構並運行完整的 3D 製作工作流程。"
+    },
+    "overview": {
+      "en": "Atlas is an agentic 3D-content creation platform designed specifically for professional game studios. The company recently launched its multi-agent AI system within Atlas AI Studio, introducing AI agents capable of building and operating complete 3D production workflows. This enables game studios to automate and accelerate complex 3D asset creation pipelines that previously required significant manual labor.",
+      "zh": "Atlas 是專為專業遊戲工作室打造的代理式 3D 內容創作平台。公司近期在 Atlas AI Studio 推出多代理 AI 系統，導入能夠建構並運行完整 3D 製作工作流程的 AI 代理。這讓遊戲工作室得以自動化並加速過去需要大量人工的複雜 3D 資產創作流程。"
+    },
+    "highlights": {
+      "en": [
+        "Multi-agent AI system capable of building and operating complete end-to-end 3D production workflows for game studios.",
+        "Designed specifically for professional game studio use cases, addressing the unique demands of AAA and indie game production.",
+        "Atlas AI Studio serves as the platform integrating these autonomous AI agents into game development pipelines."
+      ],
+      "zh": [
+        "多代理 AI 系統可為遊戲工作室建構並運行完整的端到端 3D 製作工作流程。",
+        "專為專業遊戲工作室設計，滿足 AAA 及獨立遊戲開發的獨特需求。",
+        "Atlas AI Studio 作為平台，將這些自主 AI 代理整合至遊戲開發流程中。"
+      ]
+    },
+    "technologies": ["Vertex AI", "Google Cloud", "Gemini"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "media-marketing-gaming-creative-avid",
+    "industry": "media-marketing-gaming",
+    "agentType": "creative",
+    "company": "Avid",
+    "isNew": true,
+    "summary": {
+      "en": "Avid delivers a cloud-native studio with Content Core on Google Cloud, integrating Gemini-powered multimodal AI search into Media Composer for natural language frame discovery.",
+      "zh": "Avid 在 Google Cloud 上推出 Content Core 雲端原生工作室，將 Gemini 多模態 AI 搜尋整合至 Media Composer，支援自然語言尋找影格。"
+    },
+    "overview": {
+      "en": "Avid launched Content Core as a cloud-native platform on Google Cloud, using BigQuery, Vision Warehouse, and Vertex AI Search to transform passive media storage into an active, searchable library. The partnership integrates multimodal AI search powered by Gemini into Media Composer, allowing editors to find the exact frame they need using natural language descriptions—turning hours of manual logging into seconds of discovery. The multi-year partnership was announced at NAB Show 2026.",
+      "zh": "Avid 在 Google Cloud 上推出 Content Core 雲端原生平台，運用 BigQuery、Vision Warehouse 和 Vertex AI Search 將被動的媒體儲存轉化為可主動搜尋的素材庫。此合作將 Gemini 驅動的多模態 AI 搜尋整合至 Media Composer，讓剪輯師能用自然語言描述找到所需影格，把數小時的手動標記縮短為秒級發現。這項多年合作於 2026 年 NAB Show 正式宣布。"
+    },
+    "highlights": {
+      "en": [
+        "Media Composer now supports natural language search allowing editors to locate specific frames by describing visual content, dialogue, or emotional cues.",
+        "Avid Content Core on Google Cloud uses BigQuery, Vision Warehouse, and Vertex AI Search to turn media archives into intelligent, searchable assets.",
+        "Agentic AI workflows can autonomously match visual styles, identify emotional cues in raw footage, and streamline metadata logging."
+      ],
+      "zh": [
+        "Media Composer 現支援自然語言搜尋，剪輯師可透過描述畫面內容、對白或情感線索來定位特定影格。",
+        "Google Cloud 上的 Avid Content Core 透過 BigQuery、Vision Warehouse 和 Vertex AI Search，將媒體檔案庫轉化為智慧化可搜尋資產。",
+        "代理式 AI 工作流程可自主匹配視覺風格、識別原始素材中的情感線索，並簡化元數據標記。"
+      ]
+    },
+    "technologies": ["Gemini", "Vertex AI", "BigQuery", "Google Cloud", "Vision Warehouse"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Avid and Google Cloud Announce Partnership to Bring Agentic AI to Media Production",
+        "url": "https://www.googlecloudpresscorner.com/2026-04-16-Avid-and-Google-Cloud-Announce-Partnership-to-Bring-Agentic-AI-to-Media-Production"
+      },
+      {
+        "title": "Avid and Google Cloud Partner to Bring Gemini and Agentic AI to Media Composer and Content Core | CineD",
+        "url": "https://www.cined.com/avid-and-google-cloud-partner-to-bring-agentic-ai-into-media-composer-and-content-core/"
+      }
+    ]
+  },
+  {
+    "id": "media-marketing-gaming-creative-backlight",
+    "industry": "media-marketing-gaming",
+    "agentType": "creative",
+    "company": "Backlight",
+    "isNew": true,
+    "summary": {
+      "en": "Backlight's Iconik platform uses Google Cloud's Video Intelligence API to auto-tag media on upload, cutting production cycles by up to 50% and storage costs by up to 60%.",
+      "zh": "Backlight 的 Iconik 平台使用 Google Cloud Video Intelligence API，在上傳時自動標記媒體，生產週期縮短最多 50%，儲存成本降低最多 60%。"
+    },
+    "overview": {
+      "en": "Backlight simplifies complex media workflows for teams of all sizes, from production through monetization. Its Iconik platform is built on Google Cloud and uses the Video Intelligence API to automatically add searchable metadata when media is uploaded, removing the need for manual tagging. Customers benefit from significantly shorter production cycles and substantial storage savings by better understanding their media libraries, reducing duplications, and optimizing asset placement.",
+      "zh": "Backlight 為各規模團隊簡化從製作到變現的複雜媒體工作流程。其 Iconik 平台建立在 Google Cloud 上，並使用 Video Intelligence API 在媒體上傳時自動添加可搜尋的元數據，無需手動標記。客戶可透過更深入了解媒體庫、減少重複內容及優化資產放置，顯著縮短生產週期並節省大量儲存成本。"
+    },
+    "highlights": {
+      "en": [
+        "Iconik platform automatically adds searchable metadata on upload using Google Cloud's Video Intelligence API, eliminating manual tagging.",
+        "Customers achieve up to 50% shorter production cycles through improved media discovery and workflow efficiency.",
+        "Storage costs reduced by up to 60% by identifying duplicates and optimizing asset placement across media libraries.",
+        "Backlight delivered this capability through Google Cloud Marketplace for enterprise media teams."
+      ],
+      "zh": [
+        "Iconik 平台使用 Google Cloud Video Intelligence API，在上傳時自動添加可搜尋元數據，無需手動標記。",
+        "客戶透過改善媒體探索和工作流程效率，生產週期最多縮短 50%。",
+        "透過識別重複內容和優化媒體庫資產放置，儲存成本最多降低 60%。",
+        "Backlight 透過 Google Cloud Marketplace 為企業媒體團隊提供此功能。"
+      ]
+    },
+    "technologies": ["Video Intelligence API", "Google Cloud", "Vertex AI"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Backlight Delivers Next Level Media Asset Management Through Google Cloud Marketplace",
+        "url": "https://www.businesswire.com/news/home/20230802140675/en/Backlight-Delivers-Next-Level-Media-Asset-Management-Through-Google-Cloud-Marketplace"
+      },
+      {
+        "title": "Backlight x Google Cloud",
+        "url": "https://www.backlight.co/partners/google-cloud"
+      }
+    ]
+  },
+  {
+    "id": "media-marketing-gaming-creative-bending-spoons",
+    "industry": "media-marketing-gaming",
+    "agentType": "creative",
+    "company": "Bending Spoons",
+    "isNew": false,
+    "summary": {
+      "en": "Bending Spoons integrated Imagen 3 (Nano Banana) into Remini, driving a 175% surge in weekly installs to 1.16 million and 5x more images generated per user.",
+      "zh": "Bending Spoons 將 Imagen 3（Nano Banana）整合至 Remini，帶動每週安裝量激增 175% 至 116 萬次，每位用戶生成圖片數量成長 5 倍。"
+    },
+    "overview": {
+      "en": "Bending Spoons, a Google Cloud customer since 2018, integrated Google's Imagen 3 model (marketed as 'Nano Banana') via Vertex AI into its Remini photo enhancement app. The AI filter transforms user photos into cartoon animals and other creative formats. Following the integration, Remini experienced a viral surge—weekly installs jumped 175% to 1.16 million globally, and users generated 5x more images on average, surpassing 100 million images generated in under two months.",
+      "zh": "Bending Spoons 自 2018 年起是 Google Cloud 客戶，透過 Vertex AI 將 Google 的 Imagen 3 模型（行銷名稱「Nano Banana」）整合至 Remini 照片增強應用程式。這款 AI 濾鏡可將用戶照片轉換為卡通動物等創意格式。整合後 Remini 迎來病毒式爆發——全球每週安裝量暴增 175% 至 116 萬次，用戶平均生成圖片數量成長 5 倍，不到兩個月就突破 1 億張圖片。"
+    },
+    "highlights": {
+      "en": [
+        "Weekly installs of Remini increased 175% to 1.16 million globally following the Nano Banana (Imagen 3) model integration.",
+        "User image generation surged 5x on average, with over 100 million images generated in less than two months post-launch.",
+        "Bending Spoons has been a Google Cloud customer since 2018, processing over 10 billion photo enhancements annually.",
+        "The integration was delivered via Vertex AI, with the Gemini Flash Image model powering the new cartoon-style AI filter."
+      ],
+      "zh": [
+        "整合 Nano Banana（Imagen 3）模型後，Remini 全球每週安裝量增加 175% 至 116 萬次。",
+        "用戶生成圖片數量平均成長 5 倍，上線不到兩個月即突破 1 億張。",
+        "Bending Spoons 自 2018 年起是 Google Cloud 客戶，每年處理逾 100 億次照片增強。",
+        "整合透過 Vertex AI 實現，Gemini Flash Image 模型驅動全新卡通風格 AI 濾鏡。"
+      ]
+    },
+    "technologies": ["Imagen 3", "Vertex AI", "Gemini", "Google Cloud"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Bending Spoons' Remini App Hits 1.16 Million Weekly Installs Following Integration of Google's Nano Banana AI Model",
+        "url": "https://www.googlecloudpresscorner.com/2025-11-14-Bending-Spoons-Remini-App-Hits-1-16-Million-Weekly-Installs-Following-Integration-of-Googles-Nano-Banana-AI-Model"
+      },
+      {
+        "title": "How AI helped build a 100-million-user app behemoth | Google Cloud Blog",
+        "url": "https://cloud.google.com/transform/bending-spoons-cloud-ai-built-apps-100-million-users"
+      }
+    ]
+  },
+  {
+    "id": "media-marketing-gaming-creative-bloomberg-connects",
+    "industry": "media-marketing-gaming",
+    "agentType": "creative",
+    "company": "Bloomberg Connects",
+    "isNew": false,
+    "summary": {
+      "en": "Bloomberg Connects uses Gemini to create immersive AI-powered audio guides that enhance museum accessibility for visually impaired visitors.",
+      "zh": "Bloomberg Connects 使用 Gemini 創建沉浸式 AI 音頻導覽，提升視障博物館參觀者的無障礙體驗。"
+    },
+    "overview": {
+      "en": "Bloomberg Connects, a free arts and culture app, leverages Google's Gemini to help create immersive audio guides for museum visitors. The AI-enhanced audio experience specifically improves accessibility for visually impaired visitors, providing richer descriptions and guided experiences throughout museum galleries. The initiative reflects a broader trend of cultural institutions using generative AI to make art more accessible.",
+      "zh": "Bloomberg Connects 是一款免費藝術文化應用程式，運用 Google 的 Gemini 協助創建沉浸式博物館音頻導覽。AI 增強的音頻體驗特別改善了視障參觀者的無障礙體驗，在博物館各展廳提供更豐富的描述與導覽。此舉反映了文化機構運用生成式 AI 使藝術更易於接觸的廣泛趨勢。"
+    },
+    "highlights": {
+      "en": [
+        "Gemini powers AI-generated audio descriptions and immersive audio guide content for museum visitors.",
+        "Specifically designed to enhance accessibility for visually impaired museum visitors.",
+        "Reflects a broader application of generative AI to democratize cultural experiences."
+      ],
+      "zh": [
+        "Gemini 驅動 AI 生成的音頻描述與沉浸式導覽內容。",
+        "特別為提升視障博物館參觀者的無障礙體驗而設計。",
+        "反映了生成式 AI 在普及文化體驗方面的廣泛應用。"
+      ]
+    },
+    "technologies": ["Gemini", "Google Cloud"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "media-marketing-gaming-creative-boyter-island-srl",
+    "industry": "media-marketing-gaming",
+    "agentType": "creative",
+    "company": "Boyter Island SRL",
+    "isNew": false,
+    "summary": {
+      "en": "Boyter Island SRL uses Google Workspace with Gemini to overcome writer's block and improve its creative process.",
+      "zh": "Boyter Island SRL 使用內建 Gemini 的 Google Workspace 克服創作瓶頸，提升創意流程效率。"
+    },
+    "overview": {
+      "en": "Boyter Island SRL, a creative content company, uses Google Workspace integrated with Gemini to support and enhance its creative writing and content production processes. The AI capabilities help team members overcome creative blocks and work more efficiently, enabling better quality output and faster turnaround times for creative projects.",
+      "zh": "Boyter Island SRL 是一家創意內容公司，使用整合了 Gemini 的 Google Workspace 來支援並提升其創意寫作與內容生產流程。AI 能力幫助團隊成員克服創作障礙，工作更有效率，為創意專案帶來更高品質的產出和更快的交付速度。"
+    },
+    "highlights": {
+      "en": [
+        "Google Workspace with Gemini is used to assist creative writers in overcoming writer's block.",
+        "AI tools integrated directly into the existing Google Workspace environment, reducing friction in adoption.",
+        "Improves creative process efficiency and content quality for the team."
+      ],
+      "zh": [
+        "內建 Gemini 的 Google Workspace 協助創意寫作人員克服創作瓶頸。",
+        "AI 工具直接整合於現有 Google Workspace 環境，降低採用障礙。",
+        "提升團隊創意流程效率與內容品質。"
+      ]
+    },
+    "technologies": ["Gemini", "Google Workspace"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "media-marketing-gaming-creative-brahma-ai",
+    "industry": "media-marketing-gaming",
+    "agentType": "creative",
+    "company": "Brahma AI",
+    "isNew": true,
+    "summary": {
+      "en": "Brahma AI powers high-fidelity interactive digital likenesses for retail, entertainment, and healthcare within a secure, governed AI framework.",
+      "zh": "Brahma AI 在安全且受治理的 AI 框架內，為零售、娛樂和醫療領域打造高保真互動式數位分身。"
+    },
+    "overview": {
+      "en": "Brahma AI is an enterprise AI content platform specializing in creating high-fidelity digital likenesses that are interactive and intelligence-driven. The platform serves industries including retail, entertainment, and healthcare, delivering realistic digital representations within a secure and governed framework. Brahma AI's technology enables brands and organizations to deploy interactive digital versions of people or characters at scale.",
+      "zh": "Brahma AI 是一個企業 AI 內容平台，專注於創建高保真互動式且由智慧驅動的數位分身。平台服務零售、娛樂和醫療等產業，在安全且受治理的框架內提供逼真的數位形象。Brahma AI 的技術讓品牌和組織能夠大規模部署互動式數位人物或角色。"
+    },
+    "highlights": {
+      "en": [
+        "Creates high-fidelity interactive digital likenesses for use across retail, entertainment, and healthcare industries.",
+        "Platform operates within a secure and governed AI framework suitable for enterprise use cases.",
+        "Intelligence-driven digital likenesses enable real-time interactive experiences at scale."
+      ],
+      "zh": [
+        "為零售、娛樂和醫療產業創建高保真互動式數位分身。",
+        "平台在安全且受治理的 AI 框架內運作，適合企業級應用場景。",
+        "由智慧驅動的數位分身支援大規模即時互動體驗。"
+      ]
+    },
+    "technologies": ["Vertex AI", "Gemini", "Google Cloud"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "media-marketing-gaming-creative-brandtech-group",
+    "industry": "media-marketing-gaming",
+    "agentType": "creative",
+    "company": "Brandtech Group",
+    "isNew": false,
+    "summary": {
+      "en": "Brandtech Group built Pencil Pro, a gen AI ad platform on Google Cloud that creates ads, predicts performance, and has driven 48% lower CPA and 79% higher ROAS for brands.",
+      "zh": "Brandtech Group 在 Google Cloud 上打造 Pencil Pro 生成式 AI 廣告平台，可創建廣告並預測成效，已為品牌實現 CPA 降低 48%、ROAS 提升 79%。"
+    },
+    "overview": {
+      "en": "Brandtech Group built Pencil Pro, a generative AI platform for brands to create ads, predict performance, and optimize active campaigns. Pencil's predictive system is trained on data from over $1 billion in media investments, enabling it to generate marketing content and predict its performance before launch. The platform migrated to Google Cloud and is deeply integrated with Google's advanced AI models including Veo 2. Over 5,000 brands have used the platform, and three of the world's eight biggest advertisers rely on it.",
+      "zh": "Brandtech Group 打造了 Pencil Pro，一個供品牌創建廣告、預測成效並優化進行中活動的生成式 AI 平台。Pencil 的預測系統基於逾 10 億美元媒體投資數據訓練，能在發布前生成行銷內容並預測成效。平台已遷移至 Google Cloud 並深度整合 Google 先進 AI 模型（包含 Veo 2）。逾 5,000 個品牌使用此平台，全球八大廣告主中有三家依賴它。"
+    },
+    "highlights": {
+      "en": [
+        "Pencil's predictive system is trained on data from over $1 billion in media investments to predict ad performance before launch.",
+        "Platform has driven an average 48% drop in CPA, 79% increase in ROAS, and 2x reduction in creative production time and cost.",
+        "Over 5,000 unique brands have used Pencil, including 3 of the world's 8 biggest advertisers.",
+        "Veo 2 integration enables video ad generation within the Pencil Pro workflow on Google Cloud."
+      ],
+      "zh": [
+        "Pencil 的預測系統基於逾 10 億美元媒體投資數據訓練，可在廣告發布前預測成效。",
+        "平台已幫助品牌平均降低 CPA 48%、提升 ROAS 79%，並將創意製作時間與成本減半。",
+        "逾 5,000 個品牌使用 Pencil，包含全球八大廣告主中的三家。",
+        "整合 Veo 2，支援在 Google Cloud 上的 Pencil Pro 工作流程中生成影片廣告。"
+      ]
+    },
+    "technologies": ["Veo 2", "Gemini", "Vertex AI", "Google Cloud"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Brandtech Group Supercharges Gen AI Marketing Platform, Pencil Pro, with Google Cloud Collaboration",
+        "url": "https://lbbonline.com/news/brandtech-group-supercharges-gen-ai-marketing-platform-pencil-pro-with-google-cloud-collaboration"
+      },
+      {
+        "title": "Announcing our latest model integration, Google Veo2 | Pencil",
+        "url": "https://trypencil.com/blog/news/announcing-google-veo2"
+      }
+    ]
+  },
+  {
+    "id": "media-marketing-gaming-creative-camb-ai",
+    "industry": "media-marketing-gaming",
+    "agentType": "creative",
+    "company": "CAMB.AI",
+    "isNew": false,
+    "summary": {
+      "en": "CAMB.AI, a Google for Startups Cloud AI Accelerator participant, enables storytelling in every language using foundational AI for multilingual content localization.",
+      "zh": "CAMB.AI 是 Google for Startups Cloud AI Accelerator 成員，透過基礎 AI 實現每種語言的故事敘述與多語言內容本地化。"
+    },
+    "overview": {
+      "en": "CAMB.AI is a multilingual AI platform and participant in the Google for Startups Cloud AI Accelerator program. The company uses foundational AI models to enable content creators and media companies to tell stories in any language, facilitating global content localization at scale. The platform helps overcome language barriers in storytelling and content distribution.",
+      "zh": "CAMB.AI 是一個多語言 AI 平台，同時是 Google for Startups Cloud AI Accelerator 計畫的成員。公司使用基礎 AI 模型，讓內容創作者和媒體公司能以任何語言講述故事，大規模實現全球內容本地化。該平台有助於突破故事敘述和內容發行中的語言障礙。"
+    },
+    "highlights": {
+      "en": [
+        "Selected for the Google for Startups Cloud AI Accelerator program, gaining access to Google's AI resources and mentorship.",
+        "Enables multilingual content localization at scale, allowing stories to reach global audiences in their native languages.",
+        "Leverages foundational AI models for high-quality language and voice synthesis across content types."
+      ],
+      "zh": [
+        "入選 Google for Startups Cloud AI Accelerator 計畫，獲得 Google AI 資源與導師指導。",
+        "大規模支援多語言內容本地化，讓故事以受眾母語觸及全球市場。",
+        "採用基礎 AI 模型，為各類內容提供高品質語言與語音合成。"
+      ]
+    },
+    "technologies": ["Vertex AI", "Google Cloud", "Gemini"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "media-marketing-gaming-creative-canal",
+    "industry": "media-marketing-gaming",
+    "agentType": "creative",
+    "company": "CANAL+",
+    "isNew": true,
+    "summary": {
+      "en": "CANAL+ partnered with Google Cloud to accelerate AI-powered content indexing and personalization for 40 million subscribers, and to use Veo 3 for scene previsualization.",
+      "zh": "CANAL+ 與 Google Cloud 合作，為 4,000 萬訂閱用戶加速 AI 驅動的內容索引與個人化，並使用 Veo 3 進行場景預視覺化。"
+    },
+    "overview": {
+      "en": "CANAL+, a French media group with over 40 million subscribers across 70+ countries, announced a multi-year strategic partnership with Google Cloud in March 2026. The collaboration will accelerate video content indexing of CANAL+'s extensive library using multimodal AI, enabling smarter and more personalized content recommendations on the CANAL+ App. In addition, production partners will gain access to Veo 3 to previsualize scenes and recreate historical moments from archival images.",
+      "zh": "CANAL+ 是法國媒體集團，在 70 多個國家擁有逾 4,000 萬訂閱用戶，於 2026 年 3 月宣布與 Google Cloud 簽訂多年策略合作協議。此合作將利用多模態 AI 加速 CANAL+ 龐大內容庫的影片索引，為 CANAL+ App 提供更智慧、更個性化的內容推薦。此外，製作合作夥伴將可使用 Veo 3 進行場景預視覺化及從檔案圖像重現歷史場景。"
+    },
+    "highlights": {
+      "en": [
+        "40 million subscribers across 70+ countries will benefit from AI-powered personalized content recommendations on the CANAL+ App.",
+        "Multimodal content indexing creates an in-depth database combining sound, video, and text data for richer content classification.",
+        "Production partners gain access to Veo 3 for scene previsualization and recreating historical events from archival images.",
+        "Partnership begins deployment across European and African markets starting June 2026."
+      ],
+      "zh": [
+        "70 多個國家的 4,000 萬訂閱用戶將受益於 CANAL+ App 上 AI 驅動的個人化內容推薦。",
+        "多模態內容索引創建結合聲音、影像和文字數據的深度資料庫，實現更豐富的內容分類。",
+        "製作合作夥伴可使用 Veo 3 進行場景預視覺化及從檔案圖像重現歷史事件。",
+        "合作將於 2026 年 6 月起在歐洲和非洲市場展開部署。"
+      ]
+    },
+    "technologies": ["Veo 3", "Gemini", "Google Cloud", "Vertex AI"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "CANAL+ and Google Cloud Form Strategic Partnership on AI",
+        "url": "https://www.googlecloudpresscorner.com/2026-03-11-CANAL-and-Google-Cloud-Form-Strategic-Partnership-on-AI"
+      },
+      {
+        "title": "Canal+ Taps Google Cloud For AI-Powered Content Discovery, Personalization and Production | TV Tech",
+        "url": "https://www.tvtechnology.com/business/canal-taps-google-cloud-for-ai-powered-content-discovery-personalization-and-production"
+      }
+    ]
+  },
+  {
+    "id": "media-marketing-gaming-creative-canal-13",
+    "industry": "media-marketing-gaming",
+    "agentType": "creative",
+    "company": "Canal 13",
+    "isNew": true,
+    "summary": {
+      "en": "Canal 13, a Chilean broadcaster, uses Google Cloud AI including Gemini to personalize content creation, distribution, and audience recommendations.",
+      "zh": "智利廣播公司 Canal 13 使用 Google Cloud AI（包含 Gemini）個人化內容創作、分發與受眾推薦。"
+    },
+    "overview": {
+      "en": "Canal 13, a leading Chilean broadcaster, has adopted Google Cloud AI tools including Gemini to transform how it creates and distributes content. The AI tools help the network tailor recommendations to its audience based on their preferences, and automate parts of its production process to improve efficiency. This digital transformation positions Canal 13 to compete more effectively in the evolving media landscape.",
+      "zh": "智利領先廣播公司 Canal 13 採用包含 Gemini 在內的 Google Cloud AI 工具，改變其創作和分發內容的方式。AI 工具幫助該頻道根據受眾偏好量身訂製推薦，並自動化部分製作流程以提升效率。此數位轉型使 Canal 13 能在不斷演變的媒體環境中更具競爭力。"
+    },
+    "highlights": {
+      "en": [
+        "Gemini and Google Cloud AI tools enable audience-tailored content recommendations based on viewing preferences.",
+        "AI automates portions of the production process, improving operational efficiency.",
+        "Canal 13 joins a growing number of Latin American broadcasters adopting generative AI for content personalization."
+      ],
+      "zh": [
+        "Gemini 和 Google Cloud AI 工具根據收視偏好實現受眾量身訂製的內容推薦。",
+        "AI 自動化部分製作流程，提升營運效率。",
+        "Canal 13 加入越來越多採用生成式 AI 進行內容個人化的拉丁美洲廣播公司行列。"
+      ]
+    },
+    "technologies": ["Gemini", "Google Cloud", "Vertex AI"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "media-marketing-gaming-creative-canva",
+    "industry": "media-marketing-gaming",
+    "agentType": "creative",
+    "company": "Canva",
+    "isNew": false,
+    "summary": {
+      "en": "Canva uses Vertex AI to power Magic Design for Video, enabling users to create engaging shareable videos in seconds while skipping tedious editing steps.",
+      "zh": "Canva 使用 Vertex AI 驅動影片魔法設計功能，讓用戶跳過繁瑣剪輯步驟，在數秒內創建精彩的可分享影片。"
+    },
+    "overview": {
+      "en": "Canva, the popular design platform, integrates Vertex AI to power its Magic Design for Video feature, which allows users to skip time-consuming editing steps while creating shareable and engaging videos in seconds. Canva also integrates Google's Imagen on Vertex AI for image generation, and uses Veo 3 for AI-powered video generation within the platform. The AI integrations are part of Canva's broader Magic Studio suite serving over 220 million users globally.",
+      "zh": "設計平台 Canva 整合 Vertex AI 驅動其影片魔法設計功能，讓用戶跳過耗時的剪輯步驟，在數秒內創建可分享的精彩影片。Canva 還整合了 Google 在 Vertex AI 上的 Imagen 用於圖片生成，並在平台內使用 Veo 3 進行 AI 影片生成。這些 AI 整合是 Canva 服務全球逾 2.2 億用戶的 Magic Studio 套件的核心組成部分。"
+    },
+    "highlights": {
+      "en": [
+        "Magic Design for Video powered by Vertex AI allows users to create shareable videos in seconds without manual editing.",
+        "Canva integrates Imagen on Vertex AI for text-to-image generation accessible directly within the design platform.",
+        "Veo 3 integration enables AI video generation within existing Canva subscriptions.",
+        "Part of Magic Studio, Canva's AI suite serving over 220 million users worldwide."
+      ],
+      "zh": [
+        "Vertex AI 驅動的影片魔法設計功能讓用戶無需手動剪輯即可在數秒內創建可分享影片。",
+        "Canva 整合 Vertex AI 上的 Imagen，讓用戶直接在設計平台內進行文字生成圖片。",
+        "整合 Veo 3，現有 Canva 訂閱用戶即可使用 AI 影片生成。",
+        "是 Magic Studio 的組成部分，Canva 的 AI 套件服務全球逾 2.2 億用戶。"
+      ]
+    },
+    "technologies": ["Vertex AI", "Imagen", "Veo 3", "Google Cloud"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Introducing Canva AI 2.0: Reimagining how the world creates",
+        "url": "https://www.canva.com/newsroom/news/canva-create-2026-ai/"
+      }
+    ]
+  },
+  {
+    "id": "media-marketing-gaming-creative-capcom",
+    "industry": "media-marketing-gaming",
+    "agentType": "creative",
+    "company": "Capcom",
+    "isNew": false,
+    "summary": {
+      "en": "Capcom uses Vertex AI with Gemini and Imagen 2 to auto-generate in-game object concepts, enabling individual developers to produce what previously required entire teams.",
+      "zh": "Capcom 使用 Vertex AI 搭配 Gemini 和 Imagen 2 自動生成遊戲內物件概念，讓單一開發者實現過去需要整個團隊才能完成的工作。"
+    },
+    "overview": {
+      "en": "Capcom, creator of hit game franchises including Monster Hunter and Street Fighter, uses Vertex AI with Gemini and Imagen 2 models to automatically generate in-game object concepts and images from design documents. The AI system is fed text, images, and design tables to generate and evaluate hundreds of thousands of unique in-game item ideas. The system not only generates ideas but evaluates their quality against predetermined criteria, automatically refining outputs. This allows individual developers to produce volumes of concepts that previously required multiple team members working together.",
+      "zh": "Capcom 是 Monster Hunter 和 Street Fighter 等熱門遊戲系列的開發商，使用 Vertex AI 搭配 Gemini 和 Imagen 2 模型，從設計文件自動生成遊戲內物件概念和圖片。AI 系統輸入文字、圖片和設計表格，生成並評估數十萬個獨特的遊戲內物品創意。系統不僅生成創意，還依預設標準評估品質並自動精煉輸出。這讓單一開發者就能產出過去需要多名團隊成員協作才能完成的龐大創意量。"
+    },
+    "highlights": {
+      "en": [
+        "Gemini models deliver high-quality game concept results in seconds, enabling rapid ideation at the scale needed for modern game development.",
+        "Individual developers can now produce in-game concepts that previously required multiple team members working together.",
+        "The AI system evaluates idea quality against predetermined criteria and automatically refines outputs.",
+        "System has received positive feedback from Capcom's development teams and is being expanded for wider internal use."
+      ],
+      "zh": [
+        "Gemini 模型在數秒內生成高品質遊戲概念，實現現代遊戲開發所需規模的快速創意發想。",
+        "單一開發者現在就能產出過去需要多名團隊成員協作的遊戲內概念。",
+        "AI 系統依預設標準評估創意品質並自動精煉輸出。",
+        "系統已獲 Capcom 開發團隊好評，並正擴展供更廣泛的內部使用。"
+      ]
+    },
+    "technologies": ["Vertex AI", "Gemini", "Imagen 2", "Google Cloud"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Living games are here: How gen AI is leveling up the games industry | Google Cloud Blog",
+        "url": "https://blog.google/products/google-cloud/generative-ai-video-games/"
+      },
+      {
+        "title": "Capcom is experimenting with generative AI to help generate the hundreds of thousands of ideas needed for game development",
+        "url": "https://automaton-media.com/en/game-development/capcom-is-experimenting-with-generative-ai-to-help-generate-the-hundreds-of-thousands-of-ideas-needed-for-game-development/"
+      }
+    ]
+  },
+  {
+    "id": "media-marketing-gaming-creative-captions",
+    "industry": "media-marketing-gaming",
+    "agentType": "creative",
+    "company": "Captions",
+    "isNew": false,
+    "summary": {
+      "en": "Captions, a next-generation storytelling startup, integrated Veo 2 to let users seamlessly add AI-generated B-roll to their talking videos.",
+      "zh": "新世代故事敘述新創 Captions 整合 Veo 2，讓用戶能無縫在說話影片中添加 AI 生成的補充影片素材。"
+    },
+    "overview": {
+      "en": "Captions is a next-generation storytelling and video creation platform. The company integrated Veo 2, Google's advanced video generation model, making it simple for users to add AI-generated B-roll content to their talking-head videos. This integration allows creators to enrich their content with relevant supplementary footage without the need for additional filming, streamlining the video creation process.",
+      "zh": "Captions 是新世代故事敘述與影片創作平台。公司整合了 Google 的先進影片生成模型 Veo 2，讓用戶能輕鬆在說話鏡頭影片中添加 AI 生成的補充影片素材。這個整合讓創作者無需額外拍攝即可用相關補充片段豐富內容，簡化影片創作流程。"
+    },
+    "highlights": {
+      "en": [
+        "Veo 2 integration enables users to add AI-generated B-roll content directly to talking-head videos within the Captions platform.",
+        "Simplifies video production by eliminating the need for additional filming to source supplementary footage.",
+        "Serves content creators, social media producers, and storytellers seeking to enhance video quality."
+      ],
+      "zh": [
+        "整合 Veo 2，讓用戶在 Captions 平台內直接為說話鏡頭影片添加 AI 生成的補充影片素材。",
+        "透過消除額外拍攝需求來簡化影片製作流程。",
+        "服務尋求提升影片品質的內容創作者、社群媒體製作人和故事敘述者。"
+      ]
+    },
+    "technologies": ["Veo 2", "Google Cloud"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "media-marketing-gaming-creative-cartwheel",
+    "industry": "media-marketing-gaming",
+    "agentType": "creative",
+    "company": "Cartwheel",
+    "isNew": false,
+    "summary": {
+      "en": "Cartwheel is a generative animation platform using Gemini Flash, Imagen, and Veo 3 to help storytellers create editable 3D character animations faster.",
+      "zh": "Cartwheel 是生成式動畫平台，使用 Gemini Flash、Imagen 和 Veo 3，幫助創作者更快速製作可編輯的 3D 角色動畫。"
+    },
+    "overview": {
+      "en": "Cartwheel is a generative animation platform designed to help users tell stories faster and more creatively. The platform uses Gemini Flash for character creation prompts, Imagen for creating reference images for 3D character development, and Veo 3 for video-to-animation input control that makes the resulting animations editable by professional artists. This multi-model approach accelerates the full 3D animation pipeline from concept to production.",
+      "zh": "Cartwheel 是專為幫助用戶更快速、更有創意地講述故事而設計的生成式動畫平台。平台使用 Gemini Flash 進行角色創建提示，使用 Imagen 為 3D 角色開發創建參考圖片，使用 Veo 3 提供影片轉動畫的輸入控制，讓藝術家可以編輯輸出的動畫。這種多模型方法加速了從概念到製作的完整 3D 動畫流程。"
+    },
+    "highlights": {
+      "en": [
+        "Multi-model architecture combines Gemini Flash for prompting, Imagen for reference images, and Veo 3 for video-to-animation conversion.",
+        "Veo 3 video-to-animation control makes AI-generated animations editable by professional artists.",
+        "Accelerates the complete 3D animation pipeline from character concept to production-ready output."
+      ],
+      "zh": [
+        "多模型架構結合 Gemini Flash 進行提示、Imagen 創建參考圖片，以及 Veo 3 進行影片轉動畫轉換。",
+        "Veo 3 的影片轉動畫控制讓 AI 生成的動畫可由專業藝術家進行編輯。",
+        "加速從角色概念到製作就緒輸出的完整 3D 動畫流程。"
+      ]
+    },
+    "technologies": ["Gemini", "Imagen", "Veo 3", "Vertex AI", "Google Cloud"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "media-marketing-gaming-creative-comfyui",
+    "industry": "media-marketing-gaming",
+    "agentType": "creative",
+    "company": "ComfyUI",
+    "isNew": false,
+    "summary": {
+      "en": "ComfyUI, an open-source visual AI engine with 20,000+ extensions, integrates Gemini 2.5 and Veo 3 for multimodal content creation on Google Cloud infrastructure.",
+      "zh": "開源視覺 AI 引擎 ComfyUI 擁有逾 20,000 個擴充套件，整合 Gemini 2.5 和 Veo 3，在 Google Cloud 基礎設施上支援多模態內容創作。"
+    },
+    "overview": {
+      "en": "ComfyUI is an open-source engine for visual AI that helps creators prototype and automate media generation using pre-set models and over 20,000 community-built extensions. The platform integrates Gemini 2.5 and Veo 3 for multimodal content creation, enabling advanced image and video generation workflows. ComfyUI runs on Google Cloud infrastructure, providing the scalable compute required for intensive generative AI workloads.",
+      "zh": "ComfyUI 是一個開源視覺 AI 引擎，幫助創作者使用預設模型和逾 20,000 個社群建置的擴充套件，進行媒體生成的原型製作和自動化。平台整合 Gemini 2.5 和 Veo 3 用於多模態內容創作，實現進階圖片和影片生成工作流程。ComfyUI 在 Google Cloud 基礎設施上運行，提供密集生成式 AI 工作負載所需的可擴展運算能力。"
+    },
+    "highlights": {
+      "en": [
+        "Open-source platform with 20,000+ extensions, enabling a vast ecosystem of community-driven creative AI workflows.",
+        "Integrates Gemini 2.5 and Veo 3 for multimodal image and video generation within custom pipelines.",
+        "Runs on Google Cloud infrastructure, providing scalable compute for enterprise and individual creator workloads alike."
+      ],
+      "zh": [
+        "擁有逾 20,000 個擴充套件的開源平台，打造龐大的社群驅動創意 AI 工作流程生態系統。",
+        "在自訂管道中整合 Gemini 2.5 和 Veo 3，支援多模態圖片和影片生成。",
+        "在 Google Cloud 基礎設施上運行，為企業和個人創作者工作負載提供可擴展的運算能力。"
+      ]
+    },
+    "technologies": ["Gemini 2.5", "Veo 3", "Google Cloud"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "media-marketing-gaming-creative-connected-stories",
+    "industry": "media-marketing-gaming",
+    "agentType": "creative",
+    "company": "Connected-Stories",
+    "isNew": false,
+    "summary": {
+      "en": "Connected-Stories uses Imagen and Gemini on Vertex AI to transform digital content creation, enabling personalized, data-driven advertising at scale.",
+      "zh": "Connected-Stories 在 Vertex AI 上使用 Imagen 和 Gemini，實現數位內容創作的轉型，支援大規模個人化、數據驅動的廣告投放。"
+    },
+    "overview": {
+      "en": "Connected-Stories is a creative management platform that leverages generative AI to transform digital content creation, personalization, and real-time optimization. Using Imagen and Gemini on Vertex AI, the platform simplifies workflows, democratizes access to data-driven creatives, and enables brands to scale advertising campaigns efficiently. Its GenAIssance module provides a conversational interface and multimodal creative studio for generating interactive, dynamically personalized content available on Google Cloud Marketplace.",
+      "zh": "Connected-Stories 是一個創意管理平台，運用生成式 AI 改造數位內容創作、個人化和即時優化。透過在 Vertex AI 上使用 Imagen 和 Gemini，平台簡化工作流程、普及數據驅動創意的使用，並讓品牌能有效大規模投放廣告活動。其 GenAIssance 模組提供對話式介面和多模態創意工作室，用於生成互動式、動態個人化內容，已在 Google Cloud Marketplace 上架。"
+    },
+    "highlights": {
+      "en": [
+        "GenAIssance module, available on Google Cloud Marketplace, provides multimodal AI content generation with a conversational interface.",
+        "Vertex AI powers improved segment identification accuracy for more precise targeting in advertising campaigns.",
+        "Enables brands to create unique personalized consumer journeys powered by AI/ML personalization triggers using first-party data."
+      ],
+      "zh": [
+        "可在 Google Cloud Marketplace 取得的 GenAIssance 模組，透過對話式介面提供多模態 AI 內容生成。",
+        "Vertex AI 提升受眾群體識別準確度，實現廣告活動中更精準的定向投放。",
+        "讓品牌能使用第一方數據，透過 AI/ML 個人化觸發器創建獨特的個人化用戶旅程。"
+      ]
+    },
+    "technologies": ["Imagen", "Gemini", "Vertex AI", "Google Cloud"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "How Connected Stories is using Google Data Cloud to deliver a creative management platform | Google Cloud Blog",
+        "url": "https://cloud.google.com/blog/products/data-analytics/how-connected-stories-is-using-google-data-cloud"
+      }
+    ]
+  },
+  {
+    "id": "media-marketing-gaming-creative-dreamlands",
+    "industry": "media-marketing-gaming",
+    "agentType": "creative",
+    "company": "Dreamlands",
+    "isNew": true,
+    "summary": {
+      "en": "Dreamlands is an AI world-creation platform that lets anyone describe a 3D environment in their own words and receive a complete, explorable world in minutes.",
+      "zh": "Dreamlands 是一個 AI 世界創作平台，讓任何人用自己的語言描述 3D 環境，並在數分鐘內獲得完整可探索的世界。"
+    },
+    "overview": {
+      "en": "Dreamlands is an AI world-creation platform designed to make 3D environment creation accessible to everyone. Users describe a 3D environment in their own words and receive a complete, explorable world in minutes. The platform integrates the entire process—from research and concept art, to 3D generation, to building complete worlds—into a single workspace, enabling creators to prototype ideas faster than ever before. Dreamlands is powered by Google Cloud's generative AI infrastructure.",
+      "zh": "Dreamlands 是一個旨在讓所有人都能創建 3D 環境的 AI 世界創作平台。用戶用自己的語言描述 3D 環境，並在數分鐘內獲得完整可探索的世界。平台將研究和概念藝術、3D 生成到建構完整世界的整個流程整合到單一工作空間中，讓創作者比以往任何時候都能更快速地進行創意原型製作。Dreamlands 由 Google Cloud 生成式 AI 基礎設施驅動。"
+    },
+    "highlights": {
+      "en": [
+        "End-to-end 3D world creation platform integrating concept art, 3D generation, and world-building in a single workspace.",
+        "Text-to-3D-world capability allows non-technical users to generate explorable environments from plain-language descriptions.",
+        "Significantly accelerates 3D environment prototyping, reducing days of work to minutes."
+      ],
+      "zh": [
+        "端到端 3D 世界創作平台，在單一工作空間整合概念藝術、3D 生成和世界建構。",
+        "文字轉 3D 世界能力讓非技術用戶能從自然語言描述生成可探索的環境。",
+        "大幅加速 3D 環境原型製作，將數天的工作縮短至數分鐘。"
+      ]
+    },
+    "technologies": ["Vertex AI", "Gemini", "Google Cloud"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "media-marketing-gaming-creative-eagle-eye",
+    "industry": "media-marketing-gaming",
+    "agentType": "creative",
+    "company": "Eagle Eye",
+    "isNew": false,
+    "summary": {
+      "en": "Eagle Eye used BigQuery and Vertex AI to build EagleAI, an AI loyalty platform achieving 5x better engagement and $7 incremental sales per $1 invested.",
+      "zh": "Eagle Eye 使用 BigQuery 和 Vertex AI 建構 EagleAI AI 忠誠度平台，實現參與度提升 5 倍，每 1 美元投資帶來 7 美元增量銷售。"
+    },
+    "overview": {
+      "en": "Eagle Eye, a leading loyalty and promotions platform provider, used BigQuery and Vertex AI to build EagleAI—an AI-powered solution that generates personalized promotions at scale. The platform processes and learns from 2.8 billion customer interactions per minute, always optimizing to power the next best personalized action for every customer. EagleAI has delivered a 7:1 ROI for major retail clients including Tesco, Morrisons, and Carrefour, while also achieving 5x better engagement than traditional promotional methods.",
+      "zh": "Eagle Eye 是領先的忠誠度和促銷平台供應商，使用 BigQuery 和 Vertex AI 建構了 EagleAI——一個大規模生成個性化促銷的 AI 解決方案。平台每分鐘處理並學習來自 28 億次客戶互動，持續優化為每位客戶提供最佳個性化行動。EagleAI 已為 Tesco、Morrisons 和 Carrefour 等大型零售客戶實現 7:1 的投資回報率，同時也達到比傳統促銷方式高 5 倍的參與度。"
+    },
+    "highlights": {
+      "en": [
+        "EagleAI processes 2.8 billion customer interactions per minute to power real-time personalized promotions.",
+        "Achieved 7:1 ROI (or $7 incremental sales per $1 invested) for major retail clients including Tesco, Morrisons, and Carrefour.",
+        "5x better engagement than traditional promotional methods reported across customer deployments.",
+        "Blends Spark and BigQuery for optimal data processing, with Vertex AI powering the machine learning models."
+      ],
+      "zh": [
+        "EagleAI 每分鐘處理 28 億次客戶互動，驅動即時個性化促銷。",
+        "為 Tesco、Morrisons 和 Carrefour 等大型零售客戶實現 7:1 投資回報率（每投入 1 美元帶來 7 美元增量銷售）。",
+        "客戶部署中報告參與度比傳統促銷方式高出 5 倍。",
+        "結合 Spark 和 BigQuery 進行最佳數據處理，Vertex AI 驅動機器學習模型。"
+      ]
+    },
+    "technologies": ["BigQuery", "Vertex AI", "Google Cloud"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Eagle Eye Unveils EagleAI, an AI-Powered Data Science Solution Designed for Retail",
+        "url": "https://www.prnewswire.com/news-releases/eagle-eye-unveils-eagleai-an-ai-powered-data-science-solution-designed-for-retail-302032236.html"
+      },
+      {
+        "title": "EagleAI platform | Eagle Eye",
+        "url": "https://eagleeye.com/eagleai"
+      }
+    ]
+  },
+  {
+    "id": "media-marketing-gaming-creative-editora-abril",
+    "industry": "media-marketing-gaming",
+    "agentType": "creative",
+    "company": "Editora Abril",
+    "isNew": false,
+    "summary": {
+      "en": "Editora Abril, a major Brazilian publisher, uses a Vertex AI content recommendation model that achieves a 52% click accuracy on recommended articles.",
+      "zh": "巴西主要出版商 Editora Abril 使用 Vertex AI 內容推薦模型，推薦文章的點擊準確率達 52%。"
+    },
+    "overview": {
+      "en": "Editora Abril, a major Brazilian publisher and printer, migrated its data infrastructure to Google Cloud in 2022 and built an AI-powered content recommendation system using Vertex AI. The system was initially developed as a proof of concept with Quatro Rodas magazine. After 40 days of the first phase, the Vertex AI-powered model achieved 52% accuracy in recommending articles that readers would click (at least one of five recommended articles clicked). This strengthens reader relationships and opens new opportunities for monetization and customer retention.",
+      "zh": "Editora Abril 是巴西主要出版商，2022 年將數據基礎設施遷移至 Google Cloud，並使用 Vertex AI 建構了 AI 驅動的內容推薦系統。該系統最初以 Quatro Rodas 雜誌為基礎開發概念驗證。第一階段實施 40 天後，Vertex AI 驅動的模型達到了 52% 的文章推薦點擊準確率（讀者點擊了五篇推薦文章中的至少一篇）。這有助於加強與讀者的關係，並開啟貨幣化和客戶留存的新機會。"
+    },
+    "highlights": {
+      "en": [
+        "Vertex AI content recommendation model achieved 52% click accuracy across five recommended articles in the first 40-day pilot.",
+        "System migrated to Google Cloud in 2022, enabling data intelligence and machine learning capabilities at scale.",
+        "Initial deployment focused on Quatro Rodas magazine before planned rollout across Editora Abril's broader brand portfolio.",
+        "Enables Editora Abril to use first-party reader data to personalize content and strengthen subscriber relationships."
+      ],
+      "zh": [
+        "Vertex AI 內容推薦模型在前 40 天試點中，五篇推薦文章的點擊準確率達 52%。",
+        "系統於 2022 年遷移至 Google Cloud，實現大規模的數據智慧和機器學習能力。",
+        "首先在 Quatro Rodas 雜誌部署，計劃在 Editora Abril 更廣泛的品牌組合中推廣。",
+        "讓 Editora Abril 能使用第一方讀者數據個性化內容，強化訂閱者關係。"
+      ]
+    },
+    "technologies": ["Vertex AI", "Google Cloud", "BigQuery"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Editora Abril Estudo de caso | Google Cloud",
+        "url": "https://cloud.google.com/customers/intl/pt-br/editora-abril?hl=pt-BR"
+      }
+    ]
+  },
+  {
+    "id": "media-marketing-gaming-creative-elevenlabs",
+    "industry": "media-marketing-gaming",
+    "agentType": "creative",
+    "company": "ElevenLabs",
+    "isNew": true,
+    "summary": {
+      "en": "ElevenLabs expanded its Google Cloud partnership with NVIDIA Blackwell GPUs and Gemini integration to scale enterprise voice agents across 70+ languages.",
+      "zh": "ElevenLabs 擴大與 Google Cloud 的合作，引入 NVIDIA Blackwell GPU 和 Gemini 整合，大規模部署支援 70 多種語言的企業級語音代理。"
+    },
+    "overview": {
+      "en": "ElevenLabs, a voice platform specializing in natural-sounding speech synthesis, announced a multi-year extension of its strategic collaboration with Google Cloud in February 2026. The partnership gives ElevenLabs access to Google Cloud's G4 VMs powered by NVIDIA Blackwell GPUs for training and serving voice models, Gemini integration for reasoning and multi-step planning in its Agents Platform, and Veo for multimedia content production. ElevenLabs' products now support enterprise voice agents responding in more than 70 languages.",
+      "zh": "ElevenLabs 是專注於自然語音合成的語音平台，於 2026 年 2 月宣布延長與 Google Cloud 的多年策略合作。此合作讓 ElevenLabs 可使用 Google Cloud G4 VM（由 NVIDIA Blackwell GPU 驅動）訓練和服務語音模型、在代理平台中整合 Gemini 實現推理和多步驟規劃，以及使用 Veo 進行多媒體內容製作。ElevenLabs 的產品現已支援企業語音代理以 70 多種語言響應。"
+    },
+    "highlights": {
+      "en": [
+        "Access to Google Cloud G4 VMs powered by NVIDIA Blackwell GPUs enables training and serving larger voice models at enterprise scale.",
+        "Gemini models integrated into the Agents Platform for reasoning and multi-step planning in voice assistants.",
+        "Veo integration on the Creative Platform enables teams to produce video and audio content in less time.",
+        "Enterprise voice agents now support real-time voice synthesis and content localization in more than 70 languages."
+      ],
+      "zh": [
+        "使用 NVIDIA Blackwell GPU 驅動的 Google Cloud G4 VM，支援企業規模的更大型語音模型訓練與服務。",
+        "Gemini 模型整合至代理平台，為語音助理提供推理和多步驟規劃能力。",
+        "在 Creative Platform 上整合 Veo，讓團隊能更快速製作影片和音頻內容。",
+        "企業語音代理現可支援 70 多種語言的即時語音合成和內容本地化。"
+      ]
+    },
+    "technologies": ["Gemini", "Veo", "Google Cloud", "NVIDIA Blackwell GPU", "Vertex AI"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "ElevenLabs Partners with Google Cloud for Cloud Services and the Latest NVIDIA Blackwell GPUs",
+        "url": "https://www.googlecloudpresscorner.com/2026-02-26-ElevenLabs-Partners-with-Google-Cloud-for-Cloud-Services-and-the-Latest-NVIDIA-Blackwell-GPUs,1"
+      },
+      {
+        "title": "ElevenLabs and Google Cloud expand AI partnership with NVIDIA Blackwell GPU support | The Next Web",
+        "url": "https://thenextweb.com/news/elevenlabs-and-google-cloud-expand-ai-partnership-with-nvidia-blackwell-gpu-support"
+      }
+    ]
+  },
+  {
+    "id": "media-marketing-gaming-creative-fal",
+    "industry": "media-marketing-gaming",
+    "agentType": "creative",
+    "company": "fal",
+    "isNew": false,
+    "summary": {
+      "en": "fal, a generative media platform for developers, integrates Google's Veo 2 on Google Cloud to enable high-quality AI video generation with realistic motion.",
+      "zh": "開發者導向的生成式媒體平台 fal 在 Google Cloud 上整合 Veo 2，支援具有真實動態效果的高品質 AI 影片生成。"
+    },
+    "overview": {
+      "en": "fal is a generative media platform that accelerates AI model inference to improve content generation speed. The platform integrates Google's Veo 2 technology to help developers and creators generate videos with realistic motion and high-quality output. fal enables complex content workflows by orchestrating Veo 2 with other AI tools for voice generation, animation, and music composition. The platform became available on Google Cloud Marketplace in September 2025, with SOC 2 compliance for enterprise customers.",
+      "zh": "fal 是一個加速 AI 模型推斷以提升內容生成速度的生成式媒體平台。平台整合 Google 的 Veo 2 技術，幫助開發者和創作者生成具有真實動態效果和高品質輸出的影片。fal 透過協調 Veo 2 與其他 AI 工具（語音生成、動畫和音樂合成）實現複雜的內容工作流程。平台於 2025 年 9 月上架 Google Cloud Marketplace，並符合企業客戶的 SOC 2 合規要求。"
+    },
+    "highlights": {
+      "en": [
+        "Veo 2 integration enables text-to-video and image-to-video generation with realistic motion and high-fidelity output.",
+        "fal orchestrates Veo 2 with voice, animation, and music AI models to power end-to-end content production pipelines.",
+        "Available on Google Cloud Marketplace since September 2025 with SOC 2 compliance for enterprise deployments.",
+        "Platform accelerates generative AI model inference speed to improve the pace and scale of content creation."
+      ],
+      "zh": [
+        "整合 Veo 2 支援具有真實動態效果和高保真輸出的文字生成影片及圖片生成影片。",
+        "fal 協調 Veo 2 與語音、動畫和音樂 AI 模型，驅動端到端內容製作流程。",
+        "自 2025 年 9 月起在 Google Cloud Marketplace 上架，符合企業部署的 SOC 2 合規要求。",
+        "平台加速生成式 AI 模型推斷速度，提升內容創作的速度和規模。"
+      ]
+    },
+    "technologies": ["Veo 2", "Google Cloud", "Vertex AI"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Empowering Developers to Craft Next-Gen Video Workflows with Veo | Google AI for Developers",
+        "url": "https://ai.google.dev/showcase/fal"
+      }
+    ]
+  },
+  {
+    "id": "media-marketing-gaming-creative-figma",
+    "industry": "media-marketing-gaming",
+    "agentType": "creative",
+    "company": "Figma",
+    "isNew": false,
+    "summary": {
+      "en": "Figma partnered with Google Cloud to integrate Gemini 2.5 Flash and Imagen 4, delivering 50% lower image generation latency for its 13 million monthly users.",
+      "zh": "Figma 與 Google Cloud 合作整合 Gemini 2.5 Flash 和 Imagen 4，為 1,300 萬月活躍用戶降低圖片生成延遲 50%。"
+    },
+    "overview": {
+      "en": "Figma and Google Cloud announced an expanded collaboration in October 2025 that brings Gemini 2.5 Flash, Gemini 2.0, and Imagen 4 directly into Figma's design platform. The integration enables 13 million monthly active users to generate high-quality, brand-approved images with simple prompts, edit details with AI, and access a wide variety of design assets within their existing workflows. The integration of Gemini 2.5 Flash reduced image generation latency by 50% compared to previous implementations.",
+      "zh": "Figma 和 Google Cloud 於 2025 年 10 月宣布擴大合作，將 Gemini 2.5 Flash、Gemini 2.0 和 Imagen 4 直接整合到 Figma 設計平台。此整合讓 1,300 萬月活躍用戶能在現有工作流程中用簡單提示詞生成高品質、符合品牌的圖片、使用 AI 編輯細節，並取得多樣的設計資產。整合 Gemini 2.5 Flash 後，圖片生成延遲比之前的實現方式降低了 50%。"
+    },
+    "highlights": {
+      "en": [
+        "Gemini 2.5 Flash integration reduced image generation latency by 50% for Figma's Make Image feature.",
+        "13 million monthly active users can now generate brand-approved images, edit with AI, and access design variety via simple prompts.",
+        "Imagen 4 supports watermarking and provenance verification for regulated enterprise workflows.",
+        "Partnership announced October 2025, with global rollout planned for all Figma users."
+      ],
+      "zh": [
+        "整合 Gemini 2.5 Flash 後，Figma 的「生成圖片」功能延遲降低 50%。",
+        "1,300 萬月活躍用戶現可透過簡單提示詞生成符合品牌的圖片、使用 AI 編輯並取得多樣設計資產。",
+        "Imagen 4 支援浮水印和來源驗證，適用於受監管的企業工作流程。",
+        "合作於 2025 年 10 月宣布，計劃向所有 Figma 用戶全球推廣。"
+      ]
+    },
+    "technologies": ["Gemini 2.5 Flash", "Imagen 4", "Google Cloud", "Vertex AI"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Figma and Google Cloud Team Up to Empower Next Generation of Creative Builders",
+        "url": "https://www.googlecloudpresscorner.com/2025-10-09-Figma-and-Google-Cloud-Team-Up-to-Empower-Next-Generation-of-Creative-Builders"
+      },
+      {
+        "title": "Google and Figma partner in bid to remake real-time design with Gemini 2.5 | Fast Company",
+        "url": "https://www.fastcompany.com/91417132/google-figma-gemini-2-5-flash-desi"
+      }
+    ]
+  },
+  {
+    "id": "media-marketing-gaming-creative-globo",
+    "industry": "media-marketing-gaming",
+    "agentType": "creative",
+    "company": "Globo",
+    "isNew": false,
+    "summary": {
+      "en": "Globo, Latin America's largest media group, uses Google Cloud AI to hyper-personalize streaming content, more than doubling click-through-play rates with Vertex AI Search.",
+      "zh": "拉丁美洲最大媒體集團 Globo 使用 Google Cloud AI 為串流內容實現超個人化，透過 Vertex AI Search 使點擊播放率提升逾一倍。"
+    },
+    "overview": {
+      "en": "Globo, Latin America's largest media company with 26 pay-TV channels and the Globoplay streaming platform, established a strategic partnership with Google Cloud for co-innovation and business transformation. Using Vertex AI Search, Globo created a content recommendations experience that more than doubled the click-through-play rate on its streaming platform. The partnership also extends to training Globo employees in advanced machine learning and developing personalized real-time recommendation capabilities.",
+      "zh": "Globo 是拉丁美洲最大的媒體公司，擁有 26 個付費電視頻道和 Globoplay 串流平台，與 Google Cloud 建立了共同創新和業務轉型的策略合作夥伴關係。Globo 使用 Vertex AI Search 創建了內容推薦體驗，使其串流平台的點擊播放率提升逾一倍。合作還延伸至培訓 Globo 員工掌握進階機器學習技術，以及開發即時個性化推薦能力。"
+    },
+    "highlights": {
+      "en": [
+        "Vertex AI Search-powered recommendations more than doubled the click-through-play rate on Globoplay streaming platform.",
+        "Strategic partnership includes co-innovation initiatives and Google Cloud AI training for Globo employees.",
+        "Partnership spans Globo's 26 pay-TV channels and digital streaming platform Globoplay to optimize content experiences.",
+        "Highlighted at Google Cloud Next '25 as a standout example of AI-driven media personalization."
+      ],
+      "zh": [
+        "Vertex AI Search 驅動的推薦使 Globoplay 串流平台的點擊播放率提升逾一倍。",
+        "策略合作夥伴關係包含共同創新計畫和 Google Cloud AI 培訓 Globo 員工。",
+        "合作涵蓋 Globo 的 26 個付費電視頻道和數位串流平台 Globoplay，以優化內容體驗。",
+        "在 Google Cloud Next '25 上被列為 AI 驅動媒體個性化的傑出案例。"
+      ]
+    },
+    "technologies": ["Vertex AI", "Vertex AI Search", "Google Cloud"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Globo Case Study | Google Cloud",
+        "url": "https://cloud.google.com/customers/globo"
+      },
+      {
+        "title": "Media Giant Grupo Globo Announces Strategic Partnership with Google Cloud",
+        "url": "https://www.prnewswire.com/news-releases/media-giant-grupo-globo-announces-strategic-partnership-with-google-cloud-for-co-innovation-and-business-transformation-301263937.html"
+      }
+    ]
+  },
+  {
+    "id": "media-marketing-gaming-creative-hedra",
+    "industry": "media-marketing-gaming",
+    "agentType": "creative",
+    "company": "Hedra",
+    "isNew": false,
+    "summary": {
+      "en": "Hedra Studio combines proprietary models with Veo, Imagen, and Gemini to generate polished marketing content and deliver dynamic real-time interactive video experiences.",
+      "zh": "Hedra Studio 結合自研模型與 Veo、Imagen 和 Gemini，生成精良的行銷內容，並提供動態即時互動影片體驗。"
+    },
+    "overview": {
+      "en": "Hedra is an end-to-end marketing creation platform designed to generate high-quality content at scale. Hedra Studio combines Hedra's proprietary multimodal models with Google's Veo and Imagen, enabling users to produce polished marketing content for a wide range of use cases. Additionally, Hedra's Live Avatars feature uses Gemini to deliver dynamic, real-time interactive video experiences, making it possible for brands to deploy responsive AI-powered spokespersons.",
+      "zh": "Hedra 是一個旨在大規模生成高品質內容的端到端行銷創作平台。Hedra Studio 結合 Hedra 的自研多模態模型與 Google 的 Veo 和 Imagen，讓用戶能為各種使用場景製作精良的行銷內容。此外，Hedra 的 Live Avatars 功能使用 Gemini 提供動態即時互動影片體驗，讓品牌能夠部署反應靈敏的 AI 驅動品牌代言人。"
+    },
+    "highlights": {
+      "en": [
+        "Hedra Studio integrates Veo and Imagen alongside proprietary multimodal models for polished, production-ready marketing content.",
+        "Live Avatars feature uses Gemini to power real-time interactive video experiences with dynamic AI-generated responses.",
+        "Platform designed for high-volume content production, enabling brands to scale visual marketing assets efficiently."
+      ],
+      "zh": [
+        "Hedra Studio 整合 Veo 和 Imagen 及自研多模態模型，製作精良的製作就緒行銷內容。",
+        "Live Avatars 功能使用 Gemini 驅動具有動態 AI 生成回應的即時互動影片體驗。",
+        "平台專為高量內容製作設計，讓品牌能高效擴展視覺行銷資產。"
+      ]
+    },
+    "technologies": ["Veo", "Imagen", "Gemini", "Vertex AI", "Google Cloud"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "media-marketing-gaming-creative-heygen",
+    "industry": "media-marketing-gaming",
+    "agentType": "creative",
+    "company": "HeyGen",
+    "isNew": false,
+    "summary": {
+      "en": "HeyGen's AI video platform uses Gemini 2.5 to automate video planning and translate content into 180+ languages, with 10x Google Cloud spend growth driven by Video Agent adoption.",
+      "zh": "HeyGen 的 AI 影片平台使用 Gemini 2.5 自動化影片規劃並將內容翻譯至 180 多種語言，Video Agent 的採用推動 Google Cloud 費用成長 10 倍。"
+    },
+    "overview": {
+      "en": "HeyGen is an AI-powered video generation platform that makes creating, translating, and personalizing high-quality videos simple and accessible. The platform leverages Gemini 2.5 Pro, Flash, and Flash-Lite to automate video planning, analyze user-generated footage, optimize content through advanced visual and audio processing, and translate videos into over 180 languages. With approximately one million videos created daily and millions of users, HeyGen runs approximately 80% of its technology on Google Cloud, and has seen 10x growth in Google Cloud spend since Q1 2025.",
+      "zh": "HeyGen 是一個讓創建、翻譯和個性化高品質影片變得簡單易取的 AI 影片生成平台。平台運用 Gemini 2.5 Pro、Flash 和 Flash-Lite 自動化影片規劃、分析用戶生成素材、透過進階視覺和音頻處理優化內容，並將影片翻譯至 180 多種語言。每日約生成 100 萬個影片，擁有數百萬用戶，HeyGen 約 80% 的技術在 Google Cloud 上運行，自 2025 年 Q1 起 Google Cloud 費用成長了 10 倍。"
+    },
+    "highlights": {
+      "en": [
+        "Video Translate powered by Gemini 2.5 supports translation of full video scripts into over 180 languages.",
+        "Approximately one million videos created daily on the platform; 80% of HeyGen's technology stack runs on Google Cloud.",
+        "10x growth in Google Cloud spend since Q1 2025, driven primarily by rapid adoption of Video Agent.",
+        "One-prompt video automation: HeyGen automates video planning, footage analysis, and content optimization with a single input."
+      ],
+      "zh": [
+        "Gemini 2.5 驅動的 Video Translate 支援將完整影片腳本翻譯至 180 多種語言。",
+        "平台每日約生成 100 萬個影片；HeyGen 約 80% 的技術堆疊在 Google Cloud 上運行。",
+        "自 2025 年 Q1 起 Google Cloud 費用成長 10 倍，主要由 Video Agent 的快速採用所驅動。",
+        "一鍵影片自動化：HeyGen 透過單一輸入自動完成影片規劃、素材分析和內容優化。"
+      ]
+    },
+    "technologies": ["Gemini 2.5", "Google Cloud", "Vertex AI"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "HeyGen case study | Google Cloud",
+        "url": "https://cloud.google.com/customers/heygen"
+      },
+      {
+        "title": "Exploring HeyGen and Google's AI video innovation | HeyGen Blog",
+        "url": "https://www.heygen.com/blog/exploring-heygen-google-ai-video-innovation"
+      }
+    ]
+  },
+  {
+    "id": "media-marketing-gaming-creative-hour-one",
+    "industry": "media-marketing-gaming",
+    "agentType": "creative",
+    "company": "Hour One",
+    "isNew": false,
+    "summary": {
+      "en": "Hour One migrated to Google Cloud's high-performance GPUs, achieving 1.8x faster inference speed, 28% lower inference costs, and scaling its business 20x.",
+      "zh": "Hour One 遷移至 Google Cloud 高效能 GPU，實現推斷速度提升 1.8 倍、推斷成本降低 28%，並將業務規模擴展 20 倍。"
+    },
+    "overview": {
+      "en": "Hour One, a platform for AI-generated video production with virtual human presenters, migrated its compute workloads to high-performance Cloud GPUs on Google Cloud. This migration dramatically improved performance and economics: inference speed improved by 1.8x compared to their previous third-party GPU infrastructure, while inference costs dropped by 28%. The cost savings were passed on to customers in the form of lower prices, while reinvestment into the business enabled Hour One to scale to 20x its previous size.",
+      "zh": "Hour One 是一個提供 AI 生成影片及虛擬人播報的製作平台，將運算工作負載遷移至 Google Cloud 上的高效能 Cloud GPU。此遷移大幅提升了效能和經濟效益：推斷速度比之前的第三方 GPU 基礎設施提升 1.8 倍，而推斷成本降低了 28%。省下的成本以更低價格回饋給客戶，而對業務的再投資使 Hour One 將規模擴展至之前的 20 倍。"
+    },
+    "highlights": {
+      "en": [
+        "Inference speed improved 1.8x after migrating to Google Cloud GPU infrastructure from third-party GPUs.",
+        "Inference costs reduced by 28%, savings passed on to customers as lower video production prices.",
+        "Business scaled to 20x its previous size following the cloud migration, enabling more customers and higher video volumes.",
+        "Better image quality and more sophisticated AI models made possible by Google Cloud's GPU capacity."
+      ],
+      "zh": [
+        "從第三方 GPU 遷移至 Google Cloud GPU 基礎設施後，推斷速度提升 1.8 倍。",
+        "推斷成本降低 28%，節省的成本以更低的影片製作價格回饋給客戶。",
+        "雲端遷移後業務規模擴展至之前的 20 倍，服務更多客戶並產出更多影片。",
+        "Google Cloud GPU 容量使更高品質的圖片和更複雜的 AI 模型成為可能。"
+      ]
+    },
+    "technologies": ["Google Cloud", "Cloud GPU"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Hour One Case Study | Google Cloud",
+        "url": "https://cloud.google.com/customers/hourone"
+      }
+    ]
+  },
+  {
+    "id": "media-marketing-gaming-creative-instreamatic",
+    "industry": "media-marketing-gaming",
+    "agentType": "creative",
+    "company": "Instreamatic",
+    "isNew": false,
+    "summary": {
+      "en": "Instreamatic, a Google for Startups AI cloud accelerator participant, uses AI to create hundreds of hyper-personalized video and audio ad variations from existing creative assets in minutes.",
+      "zh": "Google for Startups AI 雲端加速器成員 Instreamatic 使用 AI，在數分鐘內從現有創意素材生成數百個超個人化影片和音頻廣告變體。"
+    },
+    "overview": {
+      "en": "Instreamatic is an AI-powered advertising platform and participant in the Google for Startups AI Cloud Accelerator. The platform specializes in contextual and hyper-personalized video and audio ad creation, transforming existing creative assets into hundreds of personalized variations in minutes. Its patented AI technology swaps contextual details—such as the name of the streaming service, specific promo codes, or local store details—in voiceovers while keeping visuals intact, enabling advertisers to create thousands of personalized CTV and audio ad versions.",
+      "zh": "Instreamatic 是一個 AI 驅動的廣告平台，也是 Google for Startups AI 雲端加速器的成員。該平台專注於情境化和超個人化的影片及音頻廣告創作，在數分鐘內將現有創意素材轉化為數百個個性化變體。其專利 AI 技術在保持視覺不變的同時，在配音中替換情境細節（如串流服務名稱、特定促銷代碼或本地門市詳情），讓廣告主能創建數千個個性化 CTV 和音頻廣告版本。"
+    },
+    "highlights": {
+      "en": [
+        "Selected for the Google for Startups AI Cloud Accelerator, gaining access to Google Cloud's AI resources and mentorship.",
+        "Transforms existing creative assets into hundreds or thousands of hyper-personalized video and audio ad variations in minutes.",
+        "Patented contextual AI swaps voiceover details (streaming services, promo codes, store locations) while preserving visuals.",
+        "Platform generates, tests, and optimizes ad variations live in a single optimization loop."
+      ],
+      "zh": [
+        "入選 Google for Startups AI 雲端加速器，獲得 Google Cloud AI 資源和導師指導。",
+        "在數分鐘內將現有創意素材轉化為數百或數千個超個人化影片和音頻廣告變體。",
+        "專利情境 AI 在保持視覺不變的同時替換配音細節（串流服務、促銷代碼、門市位置）。",
+        "平台在單一優化循環中即時生成、測試和優化廣告變體。"
+      ]
+    },
+    "technologies": ["Google Cloud", "Vertex AI"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Instreamatic: Video & Audio Ad Optimization",
+        "url": "https://instreamatic.com/"
+      },
+      {
+        "title": "This Audio Startup Is Using AI To Generate Contextual CTV Ads | AdExchanger",
+        "url": "https://www.adexchanger.com/digital-tv/this-audio-startup-is-using-ai-to-generate-contextual-ctv-ads/"
+      }
+    ]
+  },
+  {
+    "id": "media-marketing-gaming-creative-invideo",
+    "industry": "media-marketing-gaming",
+    "agentType": "creative",
+    "company": "Invideo",
+    "isNew": true,
+    "summary": {
+      "en": "Invideo empowers marketing teams to scale video production in 50+ languages with AI, maintaining brand consistency and built-in quality controls.",
+      "zh": "Invideo 讓行銷團隊能以 AI 大規模製作 50 多種語言的影片，同時維持品牌一致性和內建品質管控。"
+    },
+    "overview": {
+      "en": "Invideo is an AI-powered video production platform that empowers marketing teams to scale their video output while maintaining brand consistency. By leveraging brand guidelines and existing assets, Invideo delivers production-ready ads and short films with built-in quality controls. The platform supports output in more than 50 languages, enabling global marketing campaigns from a single production workflow.",
+      "zh": "Invideo 是一個 AI 驅動的影片製作平台，讓行銷團隊能在維持品牌一致性的同時擴大影片產出量。透過運用品牌指南和現有資產，Invideo 提供具有內建品質管控的製作就緒廣告和短片。平台支援 50 多種語言的輸出，讓單一製作工作流程就能執行全球行銷活動。"
+    },
+    "highlights": {
+      "en": [
+        "AI leverages brand guidelines and existing assets to generate production-ready ads and short films at scale.",
+        "Built-in quality controls ensure brand-consistent output without manual review of every asset.",
+        "Supports video output in more than 50 languages, enabling global marketing from a single workflow."
+      ],
+      "zh": [
+        "AI 運用品牌指南和現有資產，大規模生成製作就緒的廣告和短片。",
+        "內建品質管控確保每個資產都符合品牌一致性，無需手動審查。",
+        "支援 50 多種語言的影片輸出，讓單一工作流程就能執行全球行銷活動。"
+      ]
+    },
+    "technologies": ["Google Cloud", "Vertex AI", "Gemini"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "media-marketing-gaming-creative-koolio-ai",
+    "industry": "media-marketing-gaming",
+    "agentType": "creative",
+    "company": "Koolio.ai",
+    "isNew": false,
+    "summary": {
+      "en": "Koolio.ai integrates Gemini, Lyria, and Veo to power AI-generated dialogue, transcription, sound effects, and music selection for end-to-end podcast production.",
+      "zh": "Koolio.ai 整合 Gemini、Lyria 和 Veo，驅動 AI 生成對白、語音轉錄、音效選擇和配樂選配，支援端到端播客製作。"
+    },
+    "overview": {
+      "en": "Koolio.ai is an AI-powered audio content creation platform designed to help creators produce high-quality podcasts. The platform integrates Gemini for AI-generated dialogue and transcription, Lyria for intelligent sound effects and music selection, and Veo for additional media capabilities, streamlining the entire audio creation workflow from concept to final production. Koolio.ai was featured by Google Cloud as one of the leading startups leveraging Veo 3, Imagen 4, and Gemini 2.5.",
+      "zh": "Koolio.ai 是一個 AI 驅動的音頻內容創作平台，專為幫助創作者製作高品質播客而設計。平台整合 Gemini 用於 AI 生成對白和語音轉錄，Lyria 用於智慧音效和配樂選配，Veo 用於額外媒體能力，簡化從概念到最終製作的整個音頻創作工作流程。Koolio.ai 被 Google Cloud 列為運用 Veo 3、Imagen 4 和 Gemini 2.5 的領先新創企業之一。"
+    },
+    "highlights": {
+      "en": [
+        "Integrates Gemini for AI-generated dialogue, accurate transcription, and audio enhancement across the production pipeline.",
+        "Lyria integration enables intelligent sound effects and music selection that matches content tone and context.",
+        "Veo integration adds video and multimodal capabilities to the audio creation workflow.",
+        "Featured by Google Cloud as a leading startup using Veo 3, Imagen 4, and Gemini 2.5 for content creation."
+      ],
+      "zh": [
+        "整合 Gemini 在整個製作流程中提供 AI 生成對白、精準語音轉錄和音頻增強。",
+        "整合 Lyria 支援與內容基調和情境相匹配的智慧音效和配樂選配。",
+        "整合 Veo 為音頻創作工作流程添加影片和多模態能力。",
+        "被 Google Cloud 列為使用 Veo 3、Imagen 4 和 Gemini 2.5 進行內容創作的領先新創企業。"
+      ]
+    },
+    "technologies": ["Gemini", "Lyria", "Veo", "Vertex AI", "Google Cloud"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Meet a dozen startups using generative media to revolutionize content creation | Google Cloud Blog",
+        "url": "https://cloud.google.com/transform/generative-media-models-dozen-startups-helping-anyone-create-content-with-ai"
+      }
+    ]
+  },
+  {
+    "id": "media-marketing-gaming-creative-krea-ai",
+    "industry": "media-marketing-gaming",
+    "agentType": "creative",
+    "company": "Krea.ai",
+    "isNew": false,
+    "summary": {
+      "en": "Krea.ai, a creative AI suite, integrates Veo 3 and other Google Cloud models to provide real-time image/video generation for artists creating ads, product photos, and game assets.",
+      "zh": "創意 AI 工具套件 Krea.ai 整合 Veo 3 和其他 Google Cloud 模型，為藝術家和行銷人員提供即時圖片/影片生成，用於廣告、產品照片和遊戲資產創作。"
+    },
+    "overview": {
+      "en": "Krea.ai is a creative suite of AI tools that offers real-time image and video generation along with personalized model training for artists and marketers. The platform integrates Google Cloud's Veo 3 and other models, providing access to advanced generative capabilities that enable users to create high-quality ads, product photos, and game assets. Krea.ai serves professional creators who need fast, high-fidelity visual content generation at scale.",
+      "zh": "Krea.ai 是一個提供即時圖片和影片生成以及個性化模型訓練的創意 AI 工具套件，服務藝術家和行銷人員。平台整合 Google Cloud 的 Veo 3 和其他模型，提供先進的生成能力，讓用戶能創建高品質廣告、產品照片和遊戲資產。Krea.ai 服務需要快速、高保真視覺內容大規模生成的專業創作者。"
+    },
+    "highlights": {
+      "en": [
+        "Real-time image and video generation powered by Veo 3 and other Google Cloud models for professional creative workflows.",
+        "Supports personalized model training, enabling artists to fine-tune AI output to match specific creative styles.",
+        "Use cases span high-quality advertising, product photography, and game asset creation.",
+        "Available to both individual artists and enterprise marketing teams through its creative tools platform."
+      ],
+      "zh": [
+        "由 Veo 3 和其他 Google Cloud 模型驅動的即時圖片和影片生成，適用於專業創意工作流程。",
+        "支援個性化模型訓練，讓藝術家能微調 AI 輸出以匹配特定創意風格。",
+        "使用場景涵蓋高品質廣告、產品攝影和遊戲資產創作。",
+        "透過其創意工具平台服務個人藝術家和企業行銷團隊。"
+      ]
+    },
+    "technologies": ["Veo 3", "Google Cloud", "Vertex AI", "Gemini"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  }
+]

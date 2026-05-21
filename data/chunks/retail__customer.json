@@ -1,0 +1,2253 @@
+[
+  {
+    "id": "retail-customer-425degree",
+    "industry": "retail",
+    "agentType": "customer",
+    "company": "425DEGREE",
+    "isNew": false,
+    "summary": {
+      "en": "425DEGREE boosted cart additions 10% with BigQuery ML personalized recommendations after migrating to Google Cloud.",
+      "zh": "425DEGREE 遷移至 Google Cloud 後，透過 BigQuery ML 個人化推薦使加購率提升 10%。"
+    },
+    "overview": {
+      "en": "425DEGREE, a Thailand-based specialist retailer of smartphone accessories and gadgets offering 50,000 products, migrated its infrastructure to Google Cloud to achieve seamless auto-scaling during traffic surges. The migration enabled the company to harness BigQuery ML for personalized product recommendations and significantly improved site performance.",
+      "zh": "425DEGREE 是泰國一家專賣智慧型手機配件與3C產品的零售商，提供超過 50,000 種商品。遷移至 Google Cloud 後，可在流量高峰期間無縫自動擴充，同時運用 BigQuery ML 提供個人化推薦，大幅提升網站效能。"
+    },
+    "highlights": {
+      "en": [
+        "Drove 10% more additions to customer carts through personalized recommendations powered by BigQuery ML.",
+        "Reduced page load speed by approximately 30% after migrating to Google Cloud.",
+        "Achieved seamless auto-scaling during traffic surges without performance degradation."
+      ],
+      "zh": [
+        "透過 BigQuery ML 個人化推薦，購物車加購率提升 10%。",
+        "遷移至 Google Cloud 後，頁面載入速度提升約 30%。",
+        "在流量尖峰期間實現無縫自動擴充，不影響服務品質。"
+      ]
+    },
+    "technologies": [
+      "BigQuery ML",
+      "Google Cloud",
+      "Vertex AI"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "retail-customer-allegro",
+    "industry": "retail",
+    "agentType": "customer",
+    "company": "Allegro",
+    "isNew": false,
+    "summary": {
+      "en": "Allegro, Europe's largest e-commerce platform, enables millions of real-time personalized conversations with AI-powered omnichannel orchestration.",
+      "zh": "歐洲最大電商 Allegro 透過 AI 全渠道協作，實現數百萬次即時個人化對話。"
+    },
+    "overview": {
+      "en": "Allegro, the largest e-commerce player of European origin, built an omnichannel audience factory combining its in-house AI with GrowthLoop's Compound Marketing Engine on Google Cloud. The solution predicts best-performing channels for each audience segment and automates delivery of personalized ads across Meta, TikTok, DV360, and YouTube.",
+      "zh": "Allegro 是歐洲最大的電商平台，結合自家 AI 與 GrowthLoop 的複合行銷引擎，在 Google Cloud 上構建全渠道受眾工廠。系統能預測每個受眾區隔最有效的投放渠道，並自動化在 Meta、TikTok、DV360 及 YouTube 上投放個人化廣告。"
+    },
+    "highlights": {
+      "en": [
+        "Over 60% increase in gross merchandise value (GMV) across DV360, Meta, TikTok, and YouTube.",
+        "Nearly 4x improvement in click-through rate on Meta and 70% decrease in cost-per-click.",
+        "Moved from idea to MVP in just two months by integrating GrowthLoop with Allegro's proprietary AI models."
+      ],
+      "zh": [
+        "在 DV360、Meta、TikTok 和 YouTube 上的商品交易總額 (GMV) 提升超過 60%。",
+        "Meta 點擊率提升近 4 倍，每次點擊費用下降 70%。",
+        "整合 GrowthLoop 與 Allegro 自家 AI 模型，僅兩個月內從構想到推出 MVP。"
+      ]
+    },
+    "technologies": [
+      "Google Cloud",
+      "BigQuery",
+      "GrowthLoop",
+      "Vertex AI"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Allegro Selects GrowthLoop to Drive Efficiency and Revenue",
+        "url": "https://www.growthloop.com/case-studies/allegro-unlocks-new-revenue-and-efficiency-with-growthloop"
+      }
+    ]
+  },
+  {
+    "id": "retail-customer-best-buy",
+    "industry": "retail",
+    "agentType": "customer",
+    "company": "Best Buy",
+    "isNew": false,
+    "summary": {
+      "en": "Best Buy uses Vertex AI to condense thousands of product reviews into concise insights, improving customer trust and buying decisions.",
+      "zh": "Best Buy 運用 Vertex AI 將數千則產品評論濃縮為精簡摘要，提升顧客信任與購買決策品質。"
+    },
+    "overview": {
+      "en": "Best Buy deployed Google Cloud's Vertex AI to automatically condense thousands of product reviews into concise, actionable insights for shoppers. This AI-powered summarization capability helps customers make more informed buying decisions faster, improving trust and satisfaction while supporting Best Buy's mission to bring the in-store expertise into customers' homes.",
+      "zh": "Best Buy 部署 Google Cloud 的 Vertex AI，自動將數千則產品評論濃縮成簡潔易懂的摘要，幫助購物者快速做出更明智的購買決定。這項 AI 驅動的摘要功能提升了顧客信任與滿意度，同時助力 Best Buy 將門市專業服務延伸至顧客家中。"
+    },
+    "highlights": {
+      "en": [
+        "Vertex AI condenses thousands of product reviews into concise insights for faster decision-making.",
+        "Improved customer trust and satisfaction through AI-powered review summarization.",
+        "Supports Best Buy's goal of bridging the gap between digital and in-person shopping experiences."
+      ],
+      "zh": [
+        "Vertex AI 將數千則評論濃縮為精簡摘要，加速顧客決策流程。",
+        "透過 AI 評論摘要功能提升顧客信任與滿意度。",
+        "協助 Best Buy 縮小數位與實體購物體驗之間的差距。"
+      ]
+    },
+    "technologies": [
+      "Vertex AI",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Best Buy case study | Google Cloud",
+        "url": "https://cloud.google.com/customers/bestbuy"
+      }
+    ]
+  },
+  {
+    "id": "retail-customer-best-buy-2",
+    "industry": "retail",
+    "agentType": "customer",
+    "company": "Best Buy",
+    "isNew": false,
+    "summary": {
+      "en": "Best Buy built a Vertex AI-powered Gift Finder that simulates a human-like shopping assistant to deliver personalized gift recommendations.",
+      "zh": "Best Buy 打造 Vertex AI 禮物推薦工具，模擬真人購物顧問提供個人化禮品建議。"
+    },
+    "overview": {
+      "en": "Best Buy developed a Gift Finder tool using Vertex AI that uses large language models to simulate a human shopping assistant. The tool understands customer preferences through conversational interaction and recommends thoughtful, personalized gift products, helping to bridge the gap between digital and in-person shopping experiences.",
+      "zh": "Best Buy 運用 Vertex AI 開發了一款禮物推薦工具，透過大型語言模型模擬真人購物顧問。這個工具藉由對話式互動理解顧客偏好，並推薦貼心的個人化禮品，協助縮小數位與實體購物體驗的差距。"
+    },
+    "highlights": {
+      "en": [
+        "Gift Finder uses large language models to simulate a human-like shopping assistant experience.",
+        "Understands customer preferences through natural conversation to recommend personalized gift products.",
+        "Bridges the digital and in-person shopping gap with AI-driven product guidance."
+      ],
+      "zh": [
+        "禮物推薦工具運用大型語言模型模擬真人購物顧問體驗。",
+        "透過自然對話理解顧客偏好，推薦個人化禮品。",
+        "以 AI 驅動的產品引導縮小數位與實體購物的差距。"
+      ]
+    },
+    "technologies": [
+      "Vertex AI",
+      "Google Cloud",
+      "Gemini"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Best Buy case study | Google Cloud",
+        "url": "https://cloud.google.com/customers/bestbuy"
+      }
+    ]
+  },
+  {
+    "id": "retail-customer-best-buy-3",
+    "industry": "retail",
+    "agentType": "customer",
+    "company": "Best Buy",
+    "isNew": false,
+    "summary": {
+      "en": "Best Buy deployed an Agent Assist powered by Gemini Enterprise for CX to autonomously guide shoppers through tech specs, issue resolution, and scheduling.",
+      "zh": "Best Buy 部署 Gemini Enterprise for CX 的 Agent Assist，自動引導顧客處理技術規格查詢、問題解決與預約排程。"
+    },
+    "overview": {
+      "en": "Best Buy deployed Agent Assist, powered by Gemini Enterprise for Customer Experience, to guide shoppers autonomously through complex tech specifications, issue resolution, and appointment scheduling. The system handles natural conversational flows without requiring human intervention for routine inquiries, enhancing the self-service shopping experience.",
+      "zh": "Best Buy 部署了基於 Gemini Enterprise for Customer Experience 的 Agent Assist，自動引導購物者完成複雜的技術規格查詢、問題解決及預約排程。系統能在無需人工介入的情況下處理常規諮詢的自然對話，提升自助式購物體驗。"
+    },
+    "highlights": {
+      "en": [
+        "Agent Assist autonomously guides shoppers through complex tech specs and issue resolution.",
+        "Handles appointment scheduling through natural conversation without human intervention.",
+        "Built on Gemini Enterprise for Customer Experience platform."
+      ],
+      "zh": [
+        "Agent Assist 自動引導購物者完成複雜的技術規格查詢與問題解決。",
+        "透過自然對話處理預約排程，無需人工介入。",
+        "基於 Gemini Enterprise for Customer Experience 平台構建。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Gemini Enterprise for Customer Experience",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Best Buy case study | Google Cloud",
+        "url": "https://cloud.google.com/customers/bestbuy"
+      }
+    ]
+  },
+  {
+    "id": "retail-customer-big-sur-ai",
+    "industry": "retail",
+    "agentType": "customer",
+    "company": "Big Sur AI",
+    "isNew": false,
+    "summary": {
+      "en": "Big Sur AI offers its AI-powered retail personalization platform on Google Cloud Marketplace for e-commerce customers.",
+      "zh": "Big Sur AI 在 Google Cloud Marketplace 上提供零售 AI 個人化平台，服務電商客戶。"
+    },
+    "overview": {
+      "en": "Big Sur AI has made its AI-powered personalization platform available on Google Cloud Marketplace, enabling retail and e-commerce businesses to deploy advanced personalization capabilities. The platform helps retailers deliver more relevant product experiences to their customers through AI-driven recommendations.",
+      "zh": "Big Sur AI 已將其 AI 個人化平台上架至 Google Cloud Marketplace，讓零售與電商企業能夠部署先進的個人化功能。這個平台透過 AI 驅動的推薦，協助零售商為顧客提供更貼切的產品體驗。"
+    },
+    "highlights": {
+      "en": [
+        "AI-powered personalization platform listed on Google Cloud Marketplace for retail and e-commerce.",
+        "Helps retailers deliver relevant product experiences through AI-driven recommendations.",
+        "Enables rapid deployment of personalization capabilities for online retailers."
+      ],
+      "zh": [
+        "AI 個人化平台上架 Google Cloud Marketplace，服務零售與電商企業。",
+        "透過 AI 推薦協助零售商提供更貼切的產品體驗。",
+        "讓線上零售商能快速部署個人化功能。"
+      ]
+    },
+    "technologies": [
+      "Google Cloud Marketplace",
+      "Vertex AI",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "retail-customer-blackcircles",
+    "industry": "retail",
+    "agentType": "customer",
+    "company": "blackcircles",
+    "isNew": false,
+    "summary": {
+      "en": "blackcircles built TyreMate, a Dialogflow CX virtual assistant on Google Cloud, achieving a Net Promoter Score of 79 in tire retail.",
+      "zh": "blackcircles 在 Google Cloud 上建置 TyreMate 智慧虛擬助理，在輪胎零售業取得 79 的 NPS 淨推薦值。"
+    },
+    "overview": {
+      "en": "blackcircles, a UK-based online tire retailer with over 2,200 partner garages, built TyreMate—an intelligent virtual assistant using BigQuery, Vertex AI, and Dialogflow CX. The assistant guides customers through tire purchases with personalized recommendations and centralizes data across its expanding international operations, maintaining a strong NPS of 79 in a traditionally complex sector.",
+      "zh": "blackcircles 是英國線上輪胎零售商，擁有超過 2,200 家合作修車廠。公司運用 BigQuery、Vertex AI 及 Dialogflow CX 構建了 TyreMate 智慧虛擬助理，引導顧客完成輪胎選購並提供個人化建議。整合的資料基礎架構支撐其持續擴展的國際業務，在傳統複雜的行業中維持 79 的高 NPS。"
+    },
+    "highlights": {
+      "en": [
+        "Maintains a Net Promoter Score of 79 in the traditionally complex tire retail sector.",
+        "TyreMate built with BigQuery, Vertex AI, and Dialogflow CX to guide personalized tire purchases.",
+        "Centralized data infrastructure supporting expanding international operations across 2,200+ partner garages."
+      ],
+      "zh": [
+        "在傳統複雜的輪胎零售業中維持 79 的淨推薦值 (NPS)。",
+        "TyreMate 運用 BigQuery、Vertex AI 及 Dialogflow CX 構建，提供個人化輪胎選購引導。",
+        "整合資料基礎架構支撐超過 2,200 家合作修車廠的國際業務擴展。"
+      ]
+    },
+    "technologies": [
+      "BigQuery",
+      "Vertex AI",
+      "Dialogflow CX",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ]
+  },
+  {
+    "id": "retail-customer-brainlogic",
+    "industry": "retail",
+    "agentType": "customer",
+    "company": "BrainLogic",
+    "isNew": false,
+    "summary": {
+      "en": "BrainLogic powers Zapia, a Latin American conversational commerce AI assistant on Vertex AI with over 90% positive user feedback.",
+      "zh": "BrainLogic 在 Vertex AI 上打造 Zapia 對話式商務 AI 助理，服務拉丁美洲市場，用戶好評率超過 90%。"
+    },
+    "overview": {
+      "en": "BrainLogic uses Anthropic's Claude models on Vertex AI to power Zapia, a personal AI assistant tailored to the Latin American market's preference for conversational commerce. Zapia supports millions of users with product discovery, local business searches, and purchase assistance, leveraging natural language interactions to make shopping more accessible.",
+      "zh": "BrainLogic 在 Vertex AI 上運用 Anthropic 的 Claude 模型，打造了專為拉丁美洲對話式商務習慣設計的個人 AI 助理 Zapia。Zapia 服務數百萬用戶，提供商品探索、本地商家搜尋及購物協助，透過自然語言互動讓購物更便利。"
+    },
+    "highlights": {
+      "en": [
+        "Achieved over 90% positive user feedback across millions of users in the Latin American market.",
+        "Supports product discovery, local business searches, and purchase assistance through conversational AI.",
+        "Powered by Anthropic's Claude models running on Vertex AI."
+      ],
+      "zh": [
+        "在拉丁美洲市場數百萬用戶中獲得超過 90% 的正面回饋。",
+        "透過對話式 AI 支援商品探索、本地商家搜尋及購物協助。",
+        "由在 Vertex AI 上運行的 Anthropic Claude 模型驅動。"
+      ]
+    },
+    "technologies": [
+      "Vertex AI",
+      "Anthropic Claude",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ]
+  },
+  {
+    "id": "retail-customer-bunnings",
+    "industry": "retail",
+    "agentType": "customer",
+    "company": "Bunnings",
+    "isNew": false,
+    "summary": {
+      "en": "Bunnings launched Buddy, a multimodal AI shopping assistant built with Gemini Enterprise for CX, helping Australian DIYers find products and plan projects.",
+      "zh": "Bunnings 推出以 Gemini Enterprise for CX 打造的多模態 AI 購物助理 Buddy，協助澳洲 DIY 愛好者找商品、規劃專案。"
+    },
+    "overview": {
+      "en": "Bunnings, Australia's leading hardware superstore, became one of the first Australian retailers globally to deploy Google's Gemini Enterprise for Customer Experience at scale. Built in just over six weeks, the AI shopping assistant Buddy combines Google AI with Bunnings' deep product expertise, enabling customers to upload photos of handwritten shopping lists or broken parts for instant identification and location in the nearest store.",
+      "zh": "Bunnings 是澳洲領先的建材五金超市，成為全球首批大規模部署 Google Gemini Enterprise for Customer Experience 的澳洲零售商之一。僅耗費六週以上時間，AI 購物助理 Buddy 結合了 Google AI 與 Bunnings 深厚的產品專業知識，讓顧客可上傳手寫購物清單或損壞零件的照片，即時識別並找到最近分店的庫存位置。"
+    },
+    "highlights": {
+      "en": [
+        "Built with Gemini Enterprise for CX and deployed in just over six weeks.",
+        "Multimodal capabilities allow customers to upload photos of handwritten lists or broken parts for instant identification.",
+        "First Australian retailer — and one of the first globally — to deploy Google's Gemini Enterprise for CX at scale.",
+        "Plans to integrate customer loyalty data for hyper-personalized recommendations."
+      ],
+      "zh": [
+        "使用 Gemini Enterprise for CX 構建，僅六週多即完成部署。",
+        "多模態功能讓顧客可上傳手寫清單或損壞零件照片進行即時識別。",
+        "是澳洲首家、也是全球首批大規模部署 Google Gemini Enterprise for CX 的零售商之一。",
+        "計劃整合顧客忠誠度資料，提供超個人化推薦。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Gemini Enterprise for Customer Experience",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Bunnings shows off AI shopping agent at Google showcase | Computer Weekly",
+        "url": "https://www.computerweekly.com/news/366642113/Bunnings-shows-off-AI-shopping-agent-at-Google-showcase"
+      },
+      {
+        "title": "Meet Buddy — Bunnings' AI-Powered D.I.Y. Assistant",
+        "url": "https://www.bunnings.com.au/buddy"
+      }
+    ]
+  },
+  {
+    "id": "retail-customer-cainz",
+    "industry": "retail",
+    "agentType": "customer",
+    "company": "Cainz",
+    "isNew": false,
+    "summary": {
+      "en": "Cainz, a Japanese home improvement chain, is building an AI-driven next-generation store that merges online and offline shopping seamlessly.",
+      "zh": "日本居家修繕連鎖店 Cainz 正打造 AI 驅動的次世代門市，無縫融合線上與線下購物體驗。"
+    },
+    "overview": {
+      "en": "Cainz, a leading Japanese home improvement chain, is developing an autonomous next-generation store concept that leverages advanced AI technologies, including generative AI, to merge the best of online and offline shopping. The initiative aims to create a faster, seamless consumer experience that blends digital convenience with physical retail.",
+      "zh": "Cainz 是日本知名居家修繕連鎖店，正在開發一種自主式次世代門市概念，運用包含生成式 AI 在內的先進 AI 技術，融合線上與線下購物的優點。這項計畫旨在打造更快速、無縫的消費體驗，結合數位便利性與實體零售。"
+    },
+    "highlights": {
+      "en": [
+        "Building an autonomous next-generation store concept using generative AI.",
+        "Merges the best of online and offline shopping to create a seamless consumer experience.",
+        "Aims to deliver faster customer service through advanced AI in physical retail locations."
+      ],
+      "zh": [
+        "運用生成式 AI 打造自主式次世代門市概念。",
+        "融合線上與線下購物優點，創造無縫消費體驗。",
+        "致力透過先進 AI 在實體零售門市提供更快速的顧客服務。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Vertex AI",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "retail-customer-carrefour-taiwan",
+    "industry": "retail",
+    "agentType": "customer",
+    "company": "Carrefour Taiwan",
+    "isNew": false,
+    "summary": {
+      "en": "Carrefour Taiwan's AI Sommelier, powered by Gemini, offers personalized wine recommendations through a conversational app experience.",
+      "zh": "Carrefour Taiwan 的 AI Sommelier 由 Gemini 驅動，透過對話式 App 體驗提供個人化葡萄酒推薦。"
+    },
+    "overview": {
+      "en": "Carrefour Taiwan built an AI Sommelier as a conversational AI service integrated into its mobile app, helping customers select wines based on their personal preferences. Powered by Gemini models and drawing on a vast wine database, the service provides personalized recommendations and seamlessly integrates the online and offline shopping experience.",
+      "zh": "Carrefour Taiwan 在其行動 App 中整合了 AI Sommelier 對話式 AI 服務，協助顧客依個人喜好選酒。這項服務由 Gemini 模型驅動，結合龐大的葡萄酒資料庫提供個人化推薦，無縫整合線上與線下購物體驗。"
+    },
+    "highlights": {
+      "en": [
+        "AI Sommelier powered by Gemini models integrated directly into the Carrefour Taiwan mobile app.",
+        "Leverages a vast wine database to deliver personalized wine recommendations based on customer preferences.",
+        "Seamlessly integrates online and offline shopping for a unified wine-buying experience."
+      ],
+      "zh": [
+        "由 Gemini 模型驅動的 AI Sommelier 直接整合於 Carrefour Taiwan 行動 App 中。",
+        "結合龐大葡萄酒資料庫，根據顧客偏好提供個人化推薦。",
+        "無縫整合線上與線下購物，提供統一的選酒購酒體驗。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Vertex AI",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ]
+  },
+  {
+    "id": "retail-customer-dunelm",
+    "industry": "retail",
+    "agentType": "customer",
+    "company": "Dunelm",
+    "isNew": false,
+    "summary": {
+      "en": "Dunelm partnered with Google Cloud to deploy Vertex AI Search for Retail, reducing zero-result searches to under 1% and significantly improving product discovery.",
+      "zh": "Dunelm 與 Google Cloud 合作部署 Vertex AI Search for Retail，將零結果搜尋降至不到 1%，大幅改善商品探索體驗。"
+    },
+    "overview": {
+      "en": "Dunelm, the UK's market leader in homewares, partnered with Google Cloud to enhance its online shopping experience with a generative AI-driven product discovery solution. Transitioning from a legacy search engine to Google Cloud's Vertex AI Search for Retail, the company achieved Google-quality search results and significantly reduced search friction for shoppers browsing its extensive range of products.",
+      "zh": "英國居家用品市場領導品牌 Dunelm 與 Google Cloud 合作，以生成式 AI 驅動的商品探索解決方案提升線上購物體驗。從舊版搜尋引擎升級至 Google Cloud 的 Vertex AI Search for Retail 後，Dunelm 實現了 Google 等級的搜尋品質，並大幅降低顧客搜尋商品時的阻礙。"
+    },
+    "highlights": {
+      "en": [
+        "Reduced search terms returning zero results to under 1% with Vertex AI Search for Retail.",
+        "Achieved Google-quality product discovery on dunelm.com.",
+        "Announced partnership with Google Cloud in October 2024 in collaboration with Kin + Carta (Valtech)."
+      ],
+      "zh": [
+        "透過 Vertex AI Search for Retail 將零結果搜尋降至不到 1%。",
+        "在 dunelm.com 上實現 Google 等級的商品探索體驗。",
+        "於 2024 年 10 月宣布與 Google Cloud 及 Kin + Carta（Valtech）的合作夥伴關係。"
+      ]
+    },
+    "technologies": [
+      "Vertex AI Search for Retail",
+      "Vertex AI",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Dunelm Enhances Product Discovery with Google Cloud's Advanced Generative AI Technology",
+        "url": "https://corporate.dunelm.com/news/2024/dunelm-enhances-product-discovery-with-google-clouds-advanced-generative-ai-technology/"
+      }
+    ]
+  },
+  {
+    "id": "retail-customer-eezee",
+    "industry": "retail",
+    "agentType": "customer",
+    "company": "Eezee",
+    "isNew": false,
+    "summary": {
+      "en": "Eezee chose Gemini as the most reliable model to build its Southeast Asian B2B platform connecting small businesses with industrial suppliers.",
+      "zh": "Eezee 選擇 Gemini 作為最可靠的模型，構建連結中小企業與工業供應商的東南亞 B2B 平台。"
+    },
+    "overview": {
+      "en": "Eezee, a Southeast Asian B2B platform connecting small businesses with suppliers of industrial and construction materials, evaluated multiple AI models and found Gemini to be the most reliable option for its needs. The platform uses Gemini to power product discovery and supplier matching capabilities that help small businesses source the materials they need efficiently.",
+      "zh": "Eezee 是連結中小企業與工業、建築材料供應商的東南亞 B2B 平台。在評估多個 AI 模型後，公司認為 Gemini 是最可靠的選擇。平台運用 Gemini 驅動商品探索與供應商配對功能，協助中小企業高效採購所需材料。"
+    },
+    "highlights": {
+      "en": [
+        "Selected Gemini as the most reliable AI model after evaluating alternatives for B2B platform needs.",
+        "Powers product discovery and supplier matching for small businesses sourcing industrial and construction materials.",
+        "Serves the Southeast Asian market's unique B2B procurement requirements."
+      ],
+      "zh": [
+        "評估多個 AI 模型後，選擇 Gemini 作為 B2B 平台最可靠的 AI 模型。",
+        "驅動中小企業採購工業與建築材料的商品探索與供應商配對功能。",
+        "服務東南亞市場獨特的 B2B 採購需求。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Vertex AI",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "retail-customer-erajaya",
+    "industry": "retail",
+    "agentType": "customer",
+    "company": "Erajaya",
+    "isNew": false,
+    "summary": {
+      "en": "Erajaya, Indonesia's largest lifestyle smart retailer, uses Dialogflow and Vertex AI to automate customer service and enable semantic product search.",
+      "zh": "印尼最大生活風格智慧零售商 Erajaya 運用 Dialogflow 與 Vertex AI 自動化客服並實現語意化商品搜尋。"
+    },
+    "overview": {
+      "en": "Erajaya, Indonesia's largest lifestyle smart retailer operating brands like Eraspace and Ibox, uses Dialogflow and Vertex AI to power AI-driven customer service and semantic search across its e-commerce platform. The implementation automated customer service tasks and improved product discovery, leading to increased customer interactions and enhanced operational efficiency as the company scales to meet evolving market demands.",
+      "zh": "Erajaya 是印尼最大的生活風格智慧零售商，旗下經營 Eraspace 和 Ibox 等品牌。公司運用 Dialogflow 和 Vertex AI 驅動 AI 客服與電商平台的語意搜尋功能。這項實施方案自動化了客服任務、改善了商品探索體驗，帶動顧客互動增加並提升營運效率，協助公司因應市場需求持續擴展。"
+    },
+    "highlights": {
+      "en": [
+        "Automated customer service tasks across e-commerce platform using Dialogflow and Vertex AI.",
+        "Improved product discovery with semantic search capabilities.",
+        "Increased customer interactions and enhanced operational efficiency at scale."
+      ],
+      "zh": [
+        "透過 Dialogflow 和 Vertex AI 在電商平台上自動化客服任務。",
+        "透過語意搜尋功能改善商品探索體驗。",
+        "在規模化的同時提升顧客互動量與營運效率。"
+      ]
+    },
+    "technologies": [
+      "Dialogflow CX",
+      "Vertex AI",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ]
+  },
+  {
+    "id": "retail-customer-est-e-lauder-companies",
+    "industry": "retail",
+    "agentType": "customer",
+    "company": "Estée Lauder Companies",
+    "isNew": false,
+    "summary": {
+      "en": "Estée Lauder and Jo Malone London launched an AI Scent Advisor on Vertex AI that maps natural language to olfactory data for bespoke fragrance recommendations.",
+      "zh": "Estée Lauder 與 Jo Malone London 在 Vertex AI 上推出 AI Scent Advisor，將自然語言映射至香氛資料，提供量身定制的香水推薦。"
+    },
+    "overview": {
+      "en": "The Estée Lauder Companies and Jo Malone London launched the AI-powered Scent Advisor, built on Gemini Enterprise Agent Platform and Gemini models. The conversational agent lets customers describe scents in their own words and maps those personal preferences to Jo Malone's complex olfactory data attributes to generate bespoke, expert-informed fragrance recommendations. It launched on JoMalone.com in the UK and US in December 2025.",
+      "zh": "Estée Lauder Companies 與 Jo Malone London 在 Gemini Enterprise Agent Platform 及 Gemini 模型上推出了 AI 驅動的 Scent Advisor。這個對話式 AI 代理讓顧客以自己的語言描述喜好的香氣，並將個人偏好映射至 Jo Malone 複雜的香氛資料屬性，生成量身定制的專業香水推薦。該服務已於 2025 年 12 月在英國和美國的 JoMalone.com 上線。"
+    },
+    "highlights": {
+      "en": [
+        "Conversational AI maps customer natural language descriptions to Jo Malone's olfactory data for personalized fragrance recommendations.",
+        "Built on Gemini Enterprise Agent Platform and Gemini models, launched on JoMalone.com in UK and US in December 2025.",
+        "Digitally recreates the in-store Jo Malone London signature consultation experience online."
+      ],
+      "zh": [
+        "對話式 AI 將顧客的自然語言描述映射至 Jo Malone 香氛資料，提供個人化香水推薦。",
+        "基於 Gemini Enterprise Agent Platform 和 Gemini 模型構建，2025 年 12 月在英美兩國的 JoMalone.com 上線。",
+        "數位化重現 Jo Malone London 標誌性的實體門市諮詢體驗。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Gemini Enterprise Agent Platform",
+      "Vertex AI",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "The Estée Lauder Companies and Jo Malone London Introduce AI-Powered Scent Advisor Experience",
+        "url": "https://www.elcompanies.com/en/news-and-media/newsroom/press-releases/2025/12-02-2025-121509645"
+      }
+    ]
+  },
+  {
+    "id": "retail-customer-etsy",
+    "industry": "retail",
+    "agentType": "customer",
+    "company": "Etsy",
+    "isNew": false,
+    "summary": {
+      "en": "Etsy uses Vertex AI, BigQuery, Dataflow, and Gemini to personalize shopping for 90 million buyers, boosting conversions 3% and SEO visits 5%.",
+      "zh": "Etsy 運用 Vertex AI、BigQuery、Dataflow 及 Gemini 為 9,000 萬買家個人化購物體驗，轉換率提升 3%、SEO 流量增加 5%。"
+    },
+    "overview": {
+      "en": "Etsy uses a comprehensive Google Cloud stack—Vertex AI, BigQuery, Dataflow, and Gemini models—to personalize shopping experiences for nearly 90 million shoppers across its 130 million-item marketplace. The AI-powered approach enables \"algotorial curation\" that dramatically expands curated theme collections, improves search engine visibility, and enhances accessibility through better alt text generation.",
+      "zh": "Etsy 運用完整的 Google Cloud 技術棧——Vertex AI、BigQuery、Dataflow 及 Gemini 模型——為近 9,000 萬名購物者在其擁有 1.3 億件商品的市集上個人化購物體驗。這種 AI 驅動的方法實現了「演算法與編輯協作策展」，大幅擴展主題系列，提升搜尋引擎能見度，並透過更好的替代文字生成增強無障礙功能。"
+    },
+    "highlights": {
+      "en": [
+        "Increased listings per theme by 80x through AI-powered 'algotorial curation'.",
+        "Improved SEO-driven visits by 5% through enhanced content generation.",
+        "Boosted conversions by 3% through AI-enhanced alt text generation and discovery.",
+        "Serves nearly 90 million shoppers across a 130 million-item marketplace."
+      ],
+      "zh": [
+        "透過 AI 驅動的「演算法與編輯協作策展」，每個主題的商品數量提升 80 倍。",
+        "透過強化的內容生成，SEO 帶來的訪問量提升 5%。",
+        "透過 AI 強化的替代文字生成與探索功能，轉換率提升 3%。",
+        "服務近 9,000 萬名購物者，覆蓋 1.3 億件商品的市集。"
+      ]
+    },
+    "technologies": [
+      "Vertex AI",
+      "BigQuery",
+      "Dataflow",
+      "Gemini",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ]
+  },
+  {
+    "id": "retail-customer-fairprice-group",
+    "industry": "retail",
+    "agentType": "customer",
+    "company": "FairPrice Group",
+    "isNew": false,
+    "summary": {
+      "en": "FairPrice Group, Singapore's largest retailer, powers its Store of Tomorrow with AI smart carts, a digital wine sommelier, and a frontline worker app on Google Cloud.",
+      "zh": "新加坡最大零售商 FairPrice Group 在 Google Cloud 上打造 AI 智慧購物車、數位葡萄酒侍酒師與前線員工 App，推動「未來門市」願景。"
+    },
+    "overview": {
+      "en": "FairPrice Group, Singapore's largest retailer, deepened its AI collaboration with Google Cloud to power its Store of Tomorrow initiative. The implementations include multimodal smart carts with conversational assistants, a digital wine sommelier accessible via NFC-enabled shelf labels, and Grocer Genie—an intelligent app for frontline workers. The smart carts are built using Google Cloud's Chirp 2 speech model, Vertex AI Search, and the Gemini API.",
+      "zh": "新加坡最大零售商 FairPrice Group 深化了與 Google Cloud 的 AI 合作，推動「未來門市」計畫。實施內容包括具對話功能的多模態智慧購物車、透過 NFC 電子價格標籤啟動的數位葡萄酒侍酒師，以及為前線員工設計的智慧 App「Grocer Genie」。智慧購物車採用 Google Cloud 的 Chirp 2 語音模型、Vertex AI Search 及 Gemini API 構建。"
+    },
+    "highlights": {
+      "en": [
+        "Smart carts built with Google Cloud's Chirp 2, Vertex AI Search, and Gemini API deliver personalized in-cart recommendations.",
+        "Digital wine sommelier activated via NFC-enabled shelf labels provides tailored wine guidance including tasting notes and food pairings.",
+        "Grocer Genie intelligent app empowers frontline workers with AI-driven product knowledge.",
+        "FairPrice Group is Singapore's largest retailer operating the first-of-its-kind Store of Tomorrow."
+      ],
+      "zh": [
+        "採用 Google Cloud Chirp 2、Vertex AI Search 及 Gemini API 構建的智慧購物車，提供個人化購物車內推薦。",
+        "透過 NFC 電子貨架標籤啟動的數位葡萄酒侍酒師，提供包含品飲筆記和餐酒搭配的個人化葡萄酒引導。",
+        "Grocer Genie 智慧 App 為前線員工提供 AI 驅動的商品知識支援。",
+        "FairPrice Group 是新加坡最大的零售商，打造全球首創的「未來門市」。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Vertex AI Search",
+      "Chirp 2",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "FairPrice Group, Singapore's Largest Retailer, Deepens AI Collaboration with Google Cloud",
+        "url": "https://www.googlecloudpresscorner.com/2025-08-27-FairPrice-Group,-Singapores-Largest-Retailer,-Deepens-AI-Collaboration-with-Google-Cloud,-Brings-New-Agentic-Applications-to-its-Store-of-Tomorrow-and-Workforce"
+      }
+    ]
+  },
+  {
+    "id": "retail-customer-familymart",
+    "industry": "retail",
+    "agentType": "customer",
+    "company": "FamilyMart",
+    "isNew": false,
+    "summary": {
+      "en": "FamilyMart Taiwan uses Vertex AI Search and BigQuery to deliver personalized in-app search, achieving a 4x increase in click-through rate.",
+      "zh": "台灣全家便利超商運用 Vertex AI Search 與 BigQuery 提供個人化 App 搜尋，點擊率提升 4 倍。"
+    },
+    "overview": {
+      "en": "FamilyMart, one of Taiwan's largest convenience store chains, uses Vertex AI Search and BigQuery to deliver a personalized shopping experience in its mobile app. By transitioning to AI-powered search, the company is able to return more relevant product results to each customer, significantly improving engagement and purchase intent.",
+      "zh": "全家便利超商是台灣最大連鎖超商之一，運用 Vertex AI Search 和 BigQuery 在行動 App 中提供個人化購物體驗。透過轉型至 AI 驅動的搜尋功能，公司能為每位顧客呈現更精準的商品搜尋結果，顯著提升互動率與購買意願。"
+    },
+    "highlights": {
+      "en": [
+        "Achieved a 4x increase in in-app click-through rate with Vertex AI Search-powered personalized results.",
+        "Vertex AI Search and BigQuery deliver more relevant product results to individual customers.",
+        "Enhanced mobile app shopping experience for one of Taiwan's largest convenience store chains."
+      ],
+      "zh": [
+        "透過 Vertex AI Search 個人化搜尋結果，App 內點擊率提升 4 倍。",
+        "Vertex AI Search 與 BigQuery 為個別顧客呈現更精準的商品搜尋結果。",
+        "提升台灣最大連鎖超商之一的行動 App 購物體驗。"
+      ]
+    },
+    "technologies": [
+      "Vertex AI Search",
+      "BigQuery",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ]
+  },
+  {
+    "id": "retail-customer-flor-keeps",
+    "industry": "retail",
+    "agentType": "customer",
+    "company": "Flor Keeps",
+    "isNew": false,
+    "summary": {
+      "en": "Flor Keeps, a dried flower shop, uses Gemini integrated with Gmail to summarize emails and draft responses, saving the founder hours each week.",
+      "zh": "Flor Keeps 乾燥花店透過整合 Gmail 的 Gemini 摘要郵件並草擬回覆，每週為創辦人節省大量時間。"
+    },
+    "overview": {
+      "en": "Flor Keeps, a dried flower shop in Austin, Texas, uses Gemini integrated with Gmail to handle high volumes of customer email inquiries. The AI summarizes lengthy emails into key points, identifies main topics, and drafts cohesive responses, extracting specific details like wedding order quantities to reduce back-and-forth communication.",
+      "zh": "Flor Keeps 是德州奧斯汀的一家乾燥花店，透過整合 Gmail 的 Gemini 處理大量顧客郵件詢問。AI 將冗長郵件濃縮為重點摘要、識別主要議題並草擬完整回覆，提取如婚禮訂單數量等具體細節，減少來回溝通的次數。"
+    },
+    "highlights": {
+      "en": [
+        "Gemini summarizes lengthy customer inquiry emails into concise bullet points.",
+        "Automatically drafts cohesive responses, reducing back-and-forth email exchanges.",
+        "Extracts specific details (e.g., wedding order quantities) to streamline order processing.",
+        "The founder no longer sends emails without using Gemini, saving hours of work each week."
+      ],
+      "zh": [
+        "Gemini 將冗長的顧客詢問郵件濃縮成簡潔的重點摘要。",
+        "自動草擬完整回覆，減少來回溝通的郵件往返。",
+        "提取具體細節（如婚禮訂單數量）以簡化訂單處理流程。",
+        "創辦人現在每封郵件都使用 Gemini，每週節省大量工作時間。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Google Workspace",
+      "Gmail"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ]
+  },
+  {
+    "id": "retail-customer-groupby",
+    "industry": "retail",
+    "agentType": "customer",
+    "company": "GroupBy",
+    "isNew": false,
+    "summary": {
+      "en": "GroupBy built an AI-first Search and Discovery Platform on Vertex AI Search for Retail to optimize revenue and brand loyalty for B2C and B2B retailers.",
+      "zh": "GroupBy 在 Vertex AI Search for Retail 上打造 AI 優先的搜尋與探索平台，協助 B2C 及 B2B 零售商優化營收與品牌忠誠度。"
+    },
+    "overview": {
+      "en": "GroupBy, an ecommerce service provider, developed an AI-first Search and Discovery Platform powered by Vertex AI Search for Retail. This solution is designed to optimize revenue, strengthen brand loyalty, and drive sales growth for both B2C and B2B retailers by delivering more relevant and personalized product discovery experiences.",
+      "zh": "GroupBy 是電子商務服務供應商，在 Vertex AI Search for Retail 上開發了 AI 優先的搜尋與探索平台。這個解決方案旨在透過提供更精準的個人化商品探索體驗，協助 B2C 及 B2B 零售商優化營收、強化品牌忠誠度並推動業績成長。"
+    },
+    "highlights": {
+      "en": [
+        "AI-first Search and Discovery Platform powered by Vertex AI Search for Retail.",
+        "Designed to optimize revenue, strengthen brand loyalty, and drive sales growth.",
+        "Serves both B2C and B2B retailers with personalized product discovery."
+      ],
+      "zh": [
+        "基於 Vertex AI Search for Retail 打造的 AI 優先搜尋與探索平台。",
+        "旨在優化營收、強化品牌忠誠度並推動業績成長。",
+        "以個人化商品探索服務同時覆蓋 B2C 及 B2B 零售商。"
+      ]
+    },
+    "technologies": [
+      "Vertex AI Search for Retail",
+      "Vertex AI",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "retail-customer-grupo-falabella",
+    "industry": "retail",
+    "agentType": "customer",
+    "company": "Grupo Falabella",
+    "isNew": false,
+    "summary": {
+      "en": "Grupo Falabella rebuilt incident management with a 24/7 AI conversational agent, cutting resolution time from 2 hours to 30 minutes.",
+      "zh": "Grupo Falabella 以 24/7 AI 對話代理重建事件管理流程，將解決時間從 2 小時縮短至 30 分鐘。"
+    },
+    "overview": {
+      "en": "Grupo Falabella rebuilt its incident management system with a 24/7 conversational agent built using Google Cloud's Conversational Agents with multi-agent orchestration. Previously, incident reporting through informal channels took up to 16 minutes per ticket and resolution averaged 2 hours. The new multi-channel solution supports voice, web, Microsoft Teams, and WhatsApp.",
+      "zh": "Grupo Falabella 運用 Google Cloud 的對話式代理技術與多代理協作機制，重建了全天候事件管理系統。過去透過非正式渠道回報事件每張工單需耗時長達 16 分鐘，平均解決時間為 2 小時。新的多渠道解決方案支援語音、網頁、Microsoft Teams 及 WhatsApp。"
+    },
+    "highlights": {
+      "en": [
+        "Resolution times dropped from 2 hours to 30 minutes with the AI-powered incident management system.",
+        "Ticket creation time reduced from 16 minutes to 4 minutes.",
+        "Multi-channel support across voice, web, Microsoft Teams, and WhatsApp.",
+        "Built with Google Cloud Conversational Agents and multi-agent orchestration logic."
+      ],
+      "zh": [
+        "AI 事件管理系統將解決時間從 2 小時縮短至 30 分鐘。",
+        "工單建立時間從 16 分鐘縮短至 4 分鐘。",
+        "支援語音、網頁、Microsoft Teams 及 WhatsApp 等多渠道。",
+        "使用 Google Cloud 對話式代理與多代理協作邏輯構建。"
+      ]
+    },
+    "technologies": [
+      "Conversational Agents",
+      "Vertex AI",
+      "Gemini",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "falabella.com Case Study | Google Cloud",
+        "url": "https://cloud.google.com/customers/falabella-com"
+      }
+    ]
+  },
+  {
+    "id": "retail-customer-home-depot",
+    "industry": "retail",
+    "agentType": "customer",
+    "company": "Home Depot",
+    "isNew": false,
+    "summary": {
+      "en": "Home Depot launched Magic Apron, a Gemini Enterprise agentic AI that brings expert orange-apron advice to customers wherever they are.",
+      "zh": "Home Depot 推出 Magic Apron，以 Gemini Enterprise 主動式 AI 將專業橙色圍裙服務帶給每位顧客。"
+    },
+    "overview": {
+      "en": "Home Depot launched Magic Apron, a sophisticated digital agent built on Gemini Enterprise that brings the brand's legendary in-store expertise to customers at home or on the jobsite. The agentic AI can orchestrate complex project journeys, provide deep product knowledge, integrate real-time local store inventory, and use multimodal capabilities including image upload to help customers through any home improvement challenge.",
+      "zh": "Home Depot 推出了 Magic Apron，這是一個基於 Gemini Enterprise 構建的精密數位代理，將品牌傳奇性的門市專業知識帶給居家或在工地的顧客。這個主動式 AI 能協調複雜的專案旅程、提供深入的產品知識、整合即時本地門市庫存，並運用包含圖片上傳在內的多模態功能，協助顧客應對各種家居改善挑戰。"
+    },
+    "highlights": {
+      "en": [
+        "Magic Apron built on Gemini Enterprise delivers expert advice replicating the in-store orange-apron experience.",
+        "Integrates real-time local store inventory and product location guidance.",
+        "Supports multimodal interactions including image uploads for complex project planning.",
+        "Partnership announced with Google Cloud in January 2026 to expand agentic AI capabilities."
+      ],
+      "zh": [
+        "Magic Apron 基於 Gemini Enterprise 構建，提供複製門市橙色圍裙體驗的專業建議。",
+        "整合即時本地門市庫存與商品位置引導。",
+        "支援包含圖片上傳的多模態互動，用於複雜專案規劃。",
+        "2026 年 1 月與 Google Cloud 宣布合作夥伴關係，進一步擴展主動式 AI 能力。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Gemini Enterprise",
+      "Vertex AI",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "The Home Depot and Google Cloud Launch Agentic AI Tools",
+        "url": "https://corporate.homedepot.com/news/partnerships/home-depot-and-google-cloud-launch-agentic-ai-tools-help-customers-and-associates"
+      }
+    ]
+  },
+  {
+    "id": "retail-customer-home-depot-2",
+    "industry": "retail",
+    "agentType": "customer",
+    "company": "Home Depot",
+    "isNew": false,
+    "summary": {
+      "en": "Home Depot's Gemini-powered phone agent identifies caller needs within 10 seconds, delivering store support 4x faster.",
+      "zh": "Home Depot 以 Gemini 驅動的電話代理在 10 秒內識別來電需求，門市電話支援速度提升 4 倍。"
+    },
+    "overview": {
+      "en": "Home Depot deployed an AI-powered phone agent built on Gemini Enterprise for Customer Experience, enabling customers to skip complicated phone menus and resolve home improvement problems through natural conversation. A 50-state pilot demonstrated that the phone agent could identify caller needs within 10 seconds and deliver customer store phone support four times faster than before.",
+      "zh": "Home Depot 部署了基於 Gemini Enterprise for Customer Experience 構建的 AI 電話代理，讓顧客可以跳過複雜的電話選單，透過自然對話解決家居改善問題。涵蓋 50 個州的試驗證明，電話代理能在 10 秒內識別來電者的需求，門市電話客服速度提升 4 倍。"
+    },
+    "highlights": {
+      "en": [
+        "AI phone agent identifies caller needs within 10 seconds in a 50-state pilot.",
+        "Delivers customer store phone support four times faster than the previous system.",
+        "Customers bypass complicated phone menus through natural conversation.",
+        "Built on Gemini Enterprise for Customer Experience."
+      ],
+      "zh": [
+        "AI 電話代理在涵蓋 50 個州的試驗中，可於 10 秒內識別來電需求。",
+        "門市電話客服速度較原系統提升 4 倍。",
+        "顧客可透過自然對話跳過複雜的電話選單。",
+        "基於 Gemini Enterprise for Customer Experience 構建。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Gemini Enterprise for Customer Experience",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "The Home Depot Delivers Customer Store Phone Support Four Times Faster Using Google Cloud's Gemini Enterprise for Customer Experience",
+        "url": "https://corporate.homedepot.com/news/company/home-depot-delivers-customer-store-phone-support-four-times-faster-using-google-clouds"
+      }
+    ]
+  },
+  {
+    "id": "retail-customer-honeywell",
+    "industry": "retail",
+    "agentType": "customer",
+    "company": "Honeywell",
+    "isNew": false,
+    "summary": {
+      "en": "Honeywell's Smart Shopping Platform, developed with Google Cloud and 66degrees, uses Gemini to give retailers real-time in-store compliance and inventory insights.",
+      "zh": "Honeywell 與 Google Cloud 及 66degrees 共同開發的 Smart Shopping Platform 運用 Gemini，為零售商提供即時的門市合規性與庫存洞察。"
+    },
+    "overview": {
+      "en": "Honeywell developed the Smart Shopping Platform in partnership with Google Cloud and 66degrees, powered by Gemini AI. The platform transforms the physical store into an intelligent environment, providing retailers with real-time insights into in-store compliance, inventory accuracy, and associate productivity to modernize the retail aisle experience.",
+      "zh": "Honeywell 與 Google Cloud 及 66degrees 合作，由 Gemini AI 驅動，開發了 Smart Shopping Platform。這個平台將實體門市轉變為智慧環境，為零售商提供門市合規性、庫存準確性與員工生產力的即時洞察，以現代化零售走道體驗。"
+    },
+    "highlights": {
+      "en": [
+        "Smart Shopping Platform powered by Gemini provides real-time in-store compliance monitoring.",
+        "Delivers insights into inventory accuracy and associate productivity.",
+        "Developed in partnership with Google Cloud and 66degrees.",
+        "Transforms physical store aisles into intelligent retail environments."
+      ],
+      "zh": [
+        "由 Gemini 驅動的 Smart Shopping Platform 提供即時門市合規性監控。",
+        "提供庫存準確性與員工生產力的洞察。",
+        "與 Google Cloud 及 66degrees 合作開發。",
+        "將實體門市走道轉化為智慧零售環境。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Vertex AI",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "retail-customer-the-iconic",
+    "industry": "retail",
+    "agentType": "customer",
+    "company": "THE ICONIC",
+    "isNew": false,
+    "summary": {
+      "en": "THE ICONIC uses Vertex AI multimodal search for event-based discovery, cutting null searches from 5% to near zero and boosting revenue 2.6%.",
+      "zh": "THE ICONIC 運用 Vertex AI 多模態搜尋實現活動主題探索，將零結果搜尋從 5% 降至近零，營收提升 2.6%。"
+    },
+    "overview": {
+      "en": "THE ICONIC, Australia and New Zealand's leading fashion platform with 2 million active customers, uses Vertex AI multimodal search to enable event-based product discovery. Customers can search for contextual queries like \"beach-themed party\" and receive curated outfit recommendations across 20 million monthly visits, with the AI dramatically reducing unsuccessful searches.",
+      "zh": "THE ICONIC 是澳洲與紐西蘭領先的時尚平台，擁有 200 萬活躍顧客。公司運用 Vertex AI 多模態搜尋實現活動主題商品探索，讓顧客可搜尋如「海灘主題派對」等情境查詢，並獲得精心策劃的穿搭推薦，在每月 2,000 萬次訪問中大幅減少搜尋失敗的情況。"
+    },
+    "highlights": {
+      "en": [
+        "Reduced null search results from 5% to nearly zero with Vertex AI multimodal search.",
+        "Drove a 2.6% increase in revenue through improved product discovery.",
+        "Enables event-based contextual search (e.g., 'beach-themed party') for 2 million active customers.",
+        "Handles 20 million monthly visits with AI-powered fashion discovery."
+      ],
+      "zh": [
+        "透過 Vertex AI 多模態搜尋將零結果搜尋從 5% 降至近零。",
+        "透過改善商品探索功能帶動營收提升 2.6%。",
+        "為 200 萬活躍顧客提供活動主題情境搜尋（例如「海灘主題派對」）。",
+        "以 AI 驅動的時尚探索功能處理每月 2,000 萬次訪問。"
+      ]
+    },
+    "technologies": [
+      "Vertex AI",
+      "Gemini",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ]
+  },
+  {
+    "id": "retail-customer-kingfisher",
+    "industry": "retail",
+    "agentType": "customer",
+    "company": "Kingfisher",
+    "isNew": false,
+    "summary": {
+      "en": "Kingfisher deployed Vertex AI Search across 1,700+ stores in Europe, moving beyond keyword search to AI-driven shopping assistants for home improvement projects.",
+      "zh": "Kingfisher 在歐洲逾 1,700 家門市部署 Vertex AI Search，從關鍵字搜尋升級至 AI 驅動的家居改善專案購物助理。"
+    },
+    "overview": {
+      "en": "Kingfisher, an international home improvement company operating over 1,700 stores across seven European countries under brands including B&Q, Castorama, Brico Dépôt, and Screwfix, partnered with Google Cloud in March 2026. The company deployed Vertex AI Search for Commerce on its e-commerce platforms to move beyond traditional keyword search toward proactive AI-driven assistants that can help customers plan complex home improvement projects.",
+      "zh": "Kingfisher 是跨國家居改善公司，旗下品牌包括 B&Q、Castorama、Brico Dépôt 及 Screwfix，在歐洲七個國家經營逾 1,700 家門市。公司於 2026 年 3 月與 Google Cloud 合作，在電商平台上部署 Vertex AI Search for Commerce，從傳統關鍵字搜尋升級至主動式 AI 驅動的助理，協助顧客規劃複雜的家居改善專案。"
+    },
+    "highlights": {
+      "en": [
+        "Deployed Vertex AI Search for Commerce across B&Q, Castorama France and Poland, and Brico Dépôt France.",
+        "AI Athena platform uses text, voice, images, and video for comprehensive home improvement guidance.",
+        "Expanded on the success of virtual assistants Hello Casto and Hello B&Q launched in 2023.",
+        "Covers 1,700+ stores across seven European countries."
+      ],
+      "zh": [
+        "在 B&Q、法國與波蘭的 Castorama，以及法國 Brico Dépôt 部署 Vertex AI Search for Commerce。",
+        "Athena AI 平台運用文字、語音、圖片及影片提供全面的家居改善引導。",
+        "擴展了 2023 年推出的虛擬助理 Hello Casto 和 Hello B&Q 的成功基礎。",
+        "覆蓋歐洲七個國家逾 1,700 家門市。"
+      ]
+    },
+    "technologies": [
+      "Vertex AI Search for Commerce",
+      "Vertex AI",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Kingfisher and Google Cloud Partner to Deliver AI-Powered Shopping Across UK and Europe",
+        "url": "https://www.kingfisher.com/media/news/2026/kingfisher-and-google-cloud-partner"
+      }
+    ]
+  },
+  {
+    "id": "retail-customer-la-maison-du-whisky",
+    "industry": "retail",
+    "agentType": "customer",
+    "company": "La Maison du Whisky",
+    "isNew": false,
+    "summary": {
+      "en": "La Maison du Whisky uses Gemini Enterprise to create a Digital Sommelier that transforms product data into premium marketing storytelling in seconds.",
+      "zh": "La Maison du Whisky 運用 Gemini Enterprise 打造數位侍酒師，在幾秒內將產品資料轉化為高端行銷故事內容。"
+    },
+    "overview": {
+      "en": "La Maison du Whisky (whisky.fr), a specialized spirits and beverages retailer operating in France and internationally, chose Gemini Enterprise to build a Digital Sommelier. The AI transforms technical product data into premium storytelling and marketing copy in seconds, enabling the retailer to deliver expert-level product narratives at scale without manual editorial effort.",
+      "zh": "La Maison du Whisky（whisky.fr）是在法國及國際市場經營的專業烈酒與飲品零售商，選擇 Gemini Enterprise 打造數位侍酒師。這個 AI 在幾秒內將技術性產品資料轉化為高端故事性行銷文案，讓零售商能在無需大量人工編輯的情況下，大規模提供專家級產品敘事內容。"
+    },
+    "highlights": {
+      "en": [
+        "Digital Sommelier powered by Gemini Enterprise transforms technical product data into premium storytelling copy instantly.",
+        "Enables expert-level product narrative generation at scale without manual editorial effort.",
+        "Supports the retailer's premium brand positioning across its French and international operations."
+      ],
+      "zh": [
+        "由 Gemini Enterprise 驅動的數位侍酒師，即時將技術性產品資料轉化為高端故事性文案。",
+        "無需大量人工編輯，即可大規模生成專家級產品敘事內容。",
+        "支援零售商在法國及國際市場的高端品牌定位。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Gemini Enterprise",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ]
+  },
+  {
+    "id": "retail-customer-liverpool",
+    "industry": "retail",
+    "agentType": "customer",
+    "company": "Liverpool",
+    "isNew": false,
+    "summary": {
+      "en": "Liverpool, Mexico's premier department store, is projecting a 10x ROI from its AI shopping assistant that brings signature in-store service online.",
+      "zh": "墨西哥頂級百貨公司 Liverpool 預計其 AI 購物助理將帶來 10 倍投資報酬率，將招牌門市服務延伸至線上。"
+    },
+    "overview": {
+      "en": "Liverpool, a popular Mexican department store chain, is bringing its signature in-store service experience online through an AI shopping assistant. The initiative projects a 10x return on investment, driven by Google Cloud AI, and the company has also partnered with commercetools to build agentic commerce experiences for shoppers.",
+      "zh": "Liverpool 是墨西哥知名的百貨連鎖店，正透過 AI 購物助理將其招牌門市服務體驗延伸至線上。這項以 Google Cloud AI 驅動的計畫預計帶來 10 倍投資報酬率，公司也與 commercetools 合作，為購物者打造主動式商務體驗。"
+    },
+    "highlights": {
+      "en": [
+        "Projects a 10x ROI on its AI shopping assistant bringing in-store service online.",
+        "AI shopping assistant highlighted at Google Cloud Next 2026 for outstanding retail outcomes.",
+        "Partnered with commercetools for agentic AI commerce experiences."
+      ],
+      "zh": [
+        "AI 購物助理預計帶來 10 倍投資報酬率，將門市服務延伸至線上。",
+        "AI 購物助理在 Google Cloud Next 2026 上獲選為傑出零售成果案例。",
+        "與 commercetools 合作打造主動式 AI 商務體驗。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Vertex AI",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Mexico's Liverpool department store deploys agentic AI shopping experience",
+        "url": "https://www.digitalcommerce360.com/2025/11/07/liverpool-agentic-ai-shopping-commercetools/"
+      }
+    ]
+  },
+  {
+    "id": "retail-customer-lowe-s",
+    "industry": "retail",
+    "agentType": "customer",
+    "company": "Lowe's",
+    "isNew": false,
+    "summary": {
+      "en": "Lowe's uses Vertex AI Search and Vector Search to power Visual Scout, a dynamic product discovery tool with 180ms response times for complex queries.",
+      "zh": "Lowe's 運用 Vertex AI Search 與 Vector Search 驅動 Visual Scout 動態商品探索工具，複雜查詢回應時間達 180 毫秒。"
+    },
+    "overview": {
+      "en": "Lowe's deployed Vertex AI Search for dynamic product recommendations and complex search queries, and built Visual Scout—an interactive way to explore its catalog on lowes.com. Visual Scout uses Vertex AI Feature Store for product image embeddings and Vertex AI Vector Search for similarity-based product discovery, allowing customers to 'like' or 'dislike' items and dynamically refine results.",
+      "zh": "Lowe's 部署 Vertex AI Search 提供動態商品推薦並處理複雜搜尋查詢，並構建了 Visual Scout——一種在 lowes.com 上互動式探索商品目錄的工具。Visual Scout 運用 Vertex AI Feature Store 處理商品圖片嵌入向量，以及 Vertex AI Vector Search 進行相似度商品探索，讓顧客透過「喜歡」或「不喜歡」商品來動態精煉搜尋結果。"
+    },
+    "highlights": {
+      "en": [
+        "Visual Scout built on Vertex AI Feature Store and Vertex AI Vector Search for image-based product discovery.",
+        "99th percentile response times of approximately 180 milliseconds ensure a smooth shopping experience.",
+        "Customers refine product recommendations by liking or disliking items in an interactive panel.",
+        "Vertex AI Search generates dynamic product recommendations for complex customer queries."
+      ],
+      "zh": [
+        "Visual Scout 基於 Vertex AI Feature Store 和 Vertex AI Vector Search 構建，實現圖像式商品探索。",
+        "第 99 百分位回應時間約 180 毫秒，確保流暢的購物體驗。",
+        "顧客可在互動面板中透過喜歡或不喜歡商品來精煉推薦結果。",
+        "Vertex AI Search 為複雜的顧客查詢生成動態商品推薦。"
+      ]
+    },
+    "technologies": [
+      "Vertex AI Search",
+      "Vertex AI Feature Store",
+      "Vertex AI Vector Search",
+      "BigQuery",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "How Vertex AI Vector Search helps create interactive shopping experiences",
+        "url": "https://cloud.google.com/blog/topics/retail/how-vertex-ai-vector-search-helps-create-interactive-shopping-experiences"
+      }
+    ]
+  },
+  {
+    "id": "retail-customer-lush",
+    "industry": "retail",
+    "agentType": "customer",
+    "company": "Lush",
+    "isNew": false,
+    "summary": {
+      "en": "Lush uses Vertex AI and Cloud Storage to power Lush Lens, an AI image recognition system that cut Christmas queue times to 3 minutes and saved 440,000 liters of water.",
+      "zh": "Lush 運用 Vertex AI 與 Cloud Storage 驅動 Lush Lens AI 圖像識別系統，將聖誕節排隊時間縮短至 3 分鐘，並節省 440,000 公升的水。"
+    },
+    "overview": {
+      "en": "Lush, a global pioneer of ethical cosmetics, uses Vertex AI and Google Cloud Storage to power Lush Lens—an AI image recognition system that identifies packaging-free products at checkout. The system hosts over 550,000 product images in Cloud Storage and uses Vertex AI for model training and deployment, enabling tills to instantly identify any unpackaged product shown to the camera.",
+      "zh": "Lush 是全球道德美妝的先驅，運用 Vertex AI 和 Google Cloud Storage 驅動 Lush Lens——一種在結帳時識別無包裝產品的 AI 圖像識別系統。系統在 Cloud Storage 中存放超過 550,000 張產品圖片，並使用 Vertex AI 進行模型訓練與部署，讓收銀機能即時識別呈現於鏡頭前的任何無包裝產品。"
+    },
+    "highlights": {
+      "en": [
+        "Reduced peak Christmas queue times from out-the-door waits to approximately 3 minutes.",
+        "Saved 440,000 liters of water previously needed for in-store product demonstrations.",
+        "Hosts a library of 550,000+ product images in Cloud Storage for AI-powered identification.",
+        "Shortened new employee onboarding time and improved checkout accuracy."
+      ],
+      "zh": [
+        "將聖誕購物旺季排隊時間從大排長龍縮短至約 3 分鐘。",
+        "節省了原本用於門市產品示範的 440,000 公升水。",
+        "在 Cloud Storage 中存放超過 550,000 張產品圖片以支援 AI 識別。",
+        "縮短新員工入職時間並提升結帳準確性。"
+      ]
+    },
+    "technologies": [
+      "Vertex AI",
+      "Cloud Storage",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "How Lush and Google Cloud AI are reinventing retail checkout",
+        "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/how-lush-and-google-cloud-ai-are-reinventing-retail-checkout/"
+      },
+      {
+        "title": "Lush case study | Google Cloud",
+        "url": "https://cloud.google.com/customers/lush-lens"
+      }
+    ]
+  },
+  {
+    "id": "retail-customer-magalu",
+    "industry": "retail",
+    "agentType": "customer",
+    "company": "Magalu",
+    "isNew": false,
+    "summary": {
+      "en": "Magalu uses Vertex AI to power Lu's Brain, the AI behind its popular brand persona Lu who has 14 million+ social media followers.",
+      "zh": "Magalu 運用 Vertex AI 打造「Lu's Brain」，驅動其擁有超過 1,400 萬社群媒體追蹤者的品牌人物 Lu 的 AI 互動能力。"
+    },
+    "overview": {
+      "en": "Magalu, one of Brazil's largest retailers, has put customer service at the center of its AI strategy. The company uses Vertex AI to create 'Lu's Brain,' powering an interactive conversational agent for Lu—Magalu's popular 3D brand persona with more than 14 million followers across TikTok and Instagram. The AI enables Lu to engage with customers in dynamic, personalized conversations at scale.",
+      "zh": "Magalu 是巴西最大零售商之一，將客戶服務置於其 AI 策略的核心。公司運用 Vertex AI 打造「Lu's Brain」，驅動 Magalu 旗下人氣 3D 品牌人物 Lu 的互動對話代理功能。Lu 在 TikTok 和 Instagram 上擁有超過 1,400 萬追蹤者，AI 讓她能夠大規模與顧客進行動態、個人化的對話互動。"
+    },
+    "highlights": {
+      "en": [
+        "Vertex AI powers 'Lu's Brain' enabling the popular brand persona to engage in interactive AI conversations.",
+        "Brand persona Lu has over 14 million followers across TikTok and Instagram.",
+        "Customer service placed at the center of Magalu's AI strategy.",
+        "Showcased at Google Cloud Next '24 as a significant gen AI use case."
+      ],
+      "zh": [
+        "Vertex AI 驅動「Lu's Brain」，讓人氣品牌人物能進行互動式 AI 對話。",
+        "品牌人物 Lu 在 TikTok 和 Instagram 上合計超過 1,400 萬追蹤者。",
+        "客戶服務是 Magalu AI 策略的核心。",
+        "在 Google Cloud Next '24 上作為重要生成式 AI 應用案例展示。"
+      ]
+    },
+    "technologies": [
+      "Vertex AI",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ]
+  },
+  {
+    "id": "retail-customer-manhattan-associates",
+    "industry": "retail",
+    "agentType": "customer",
+    "company": "Manhattan Associates",
+    "isNew": false,
+    "summary": {
+      "en": "Manhattan Associates built a Gemini-powered chatbot to help retailers deliver faster, more consistent customer service and reduce pressure on support teams.",
+      "zh": "Manhattan Associates 打造由 Gemini 驅動的聊天機器人，協助零售商提供更快速、一致的客戶服務，並減輕支援團隊的工作負擔。"
+    },
+    "overview": {
+      "en": "Manhattan Associates, a global leader in supply chain commerce solutions, built a customer service chatbot powered by Gemini models. The solution enables retailers to deliver faster, more consistent customer service interactions, reducing the workload and pressure on their customer support teams while maintaining high service quality.",
+      "zh": "Manhattan Associates 是全球供應鏈商務解決方案的領導者，打造了由 Gemini 模型驅動的客服聊天機器人。這個解決方案協助零售商提供更快速、一致的客戶服務互動，在維持高服務品質的同時，減輕客戶支援團隊的工作量與壓力。"
+    },
+    "highlights": {
+      "en": [
+        "Gemini-powered chatbot enables retailers to deliver faster and more consistent customer service.",
+        "Reduces pressure on customer support teams while maintaining high service quality.",
+        "Built by a global leader in supply chain commerce solutions for retail deployment."
+      ],
+      "zh": [
+        "Gemini 驅動的聊天機器人讓零售商能提供更快速、一致的客戶服務。",
+        "在維持高服務品質的同時，減輕客戶支援團隊的工作壓力。",
+        "由全球供應鏈商務解決方案領導者為零售部署所打造。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Vertex AI",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "retail-customer-mars",
+    "industry": "retail",
+    "agentType": "customer",
+    "company": "Mars",
+    "isNew": false,
+    "summary": {
+      "en": "Mars adopted Gemini Enterprise as its primary AI platform for global associates, enabling AI agent building across over a century of product and consumer data.",
+      "zh": "Mars 採用 Gemini Enterprise 作為全球員工的主要 AI 平台，讓員工能基於逾百年的產品與消費者資料構建 AI 代理。"
+    },
+    "overview": {
+      "en": "Mars selected Gemini Enterprise as its primary productivity platform for global associates, enabling them to build AI agents that standardize access to over a century of product and consumer data and insights. The partnership, announced in April 2026, focuses on growth orchestration across marketing, sales, and R&D, secure agent consolidation through low-code tools, and unified enterprise search.",
+      "zh": "Mars 選擇 Gemini Enterprise 作為全球員工的主要生產力平台，讓員工能夠構建 AI 代理，標準化取用逾百年的產品與消費者資料及洞察。這項於 2026 年 4 月宣布的合作夥伴關係，聚焦於行銷、銷售與研發的成長協調，透過低程式碼工具進行安全代理整合，以及統一的企業搜尋功能。"
+    },
+    "highlights": {
+      "en": [
+        "Gemini Enterprise selected as primary AI productivity platform for Mars' global workforce.",
+        "Associates can build secure AI agents using low-code tools to access over a century of product and consumer data.",
+        "Covers growth orchestration in marketing, sales, and R&D.",
+        "Partnership announced April 2026 with Google Cloud."
+      ],
+      "zh": [
+        "Gemini Enterprise 被選為 Mars 全球員工的主要 AI 生產力平台。",
+        "員工可透過低程式碼工具構建安全的 AI 代理，取用逾百年的產品與消費者資料。",
+        "涵蓋行銷、銷售及研發的成長協調功能。",
+        "2026 年 4 月與 Google Cloud 宣布合作夥伴關係。"
+      ]
+    },
+    "technologies": [
+      "Gemini Enterprise",
+      "Gemini",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Mars partners with Google Cloud to empower global Associates with Gemini Enterprise",
+        "url": "https://www.mars.com/news-and-stories/press-releases-statements/mars-partners-google-cloud-empower-global-associates-gemini-enterprise"
+      }
+    ]
+  },
+  {
+    "id": "retail-customer-mercado-libre",
+    "industry": "retail",
+    "agentType": "customer",
+    "company": "Mercado Libre",
+    "isNew": false,
+    "summary": {
+      "en": "Mercado Libre uses Vertex AI embeddings for semantic search, improving product discoverability for 200 million+ consumers across Latin America.",
+      "zh": "Mercado Libre 運用 Vertex AI 嵌入向量進行語意搜尋，為拉丁美洲逾 2 億消費者提升商品可探索性。"
+    },
+    "overview": {
+      "en": "Mercado Libre incorporated semantic search into its digital shopping platforms using AI embeddings from the Vertex AI Agent Builder, significantly improving product recommendations and discoverability for more than 200 million consumers across Latin America. The system generates vector embeddings for catalog items and uses Google's Vector Search database to handle complex contextual queries that traditional keyword search struggled with.",
+      "zh": "Mercado Libre 運用 Vertex AI Agent Builder 的 AI 嵌入向量，在其數位購物平台中導入語意搜尋功能，大幅提升超過 2 億拉丁美洲消費者的商品推薦與探索性。系統為商品目錄生成向量嵌入，並使用 Google 的 Vector Search 資料庫處理傳統關鍵字搜尋難以應對的複雜情境查詢。"
+    },
+    "highlights": {
+      "en": [
+        "Semantic search using Vertex AI embeddings serves 200 million+ consumers across Latin America.",
+        "Vector Search handles complex contextual queries that keyword search could not address.",
+        "Complex queries (about half of all search traffic) now return more relevant results, increasing click-through and conversion rates.",
+        "System understands contextual queries like 'gift for a soccer fan' to surface relevant products."
+      ],
+      "zh": [
+        "運用 Vertex AI 嵌入向量的語意搜尋服務拉丁美洲逾 2 億消費者。",
+        "Vector Search 處理關鍵字搜尋無法應對的複雜情境查詢。",
+        "複雜查詢（約佔所有搜尋流量的一半）現在能返回更相關的結果，提升點擊率與轉換率。",
+        "系統能理解如「送給足球迷的禮物」等情境查詢，呈現相關商品。"
+      ]
+    },
+    "technologies": [
+      "Vertex AI",
+      "Vertex AI Agent Builder",
+      "Vector Search",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Mercado Libre / Grupo Boticario: Enhancing E-commerce Search with Vector Embeddings and Generative AI",
+        "url": "https://www.zenml.io/llmops-database/enhancing-e-commerce-search-with-vector-embeddings-and-generative-ai"
+      }
+    ]
+  },
+  {
+    "id": "retail-customer-mercari",
+    "industry": "retail",
+    "agentType": "customer",
+    "company": "Mercari",
+    "isNew": false,
+    "summary": {
+      "en": "Mercari dramatically improved buyer and seller UX using Vertex AI, cutting listing time to seconds and enabling image-based product search.",
+      "zh": "Mercari 運用 Vertex AI 大幅改善買賣雙方體驗，將商品上架時間縮短至幾秒，並實現以圖搜物功能。"
+    },
+    "overview": {
+      "en": "Mercari, Japan's largest online marketplace where one in five Japanese people shop monthly, uses Vertex AI and Weights & Biases to transform both sides of its marketplace. For sellers, AI Listing generates item descriptions from uploaded photos and suggests optimal categories and prices. For buyers, image search allows users to find visually similar items from a single photo within seconds.",
+      "zh": "Mercari 是日本最大的二手物品交易平台，每月有五分之一的日本人使用。公司運用 Vertex AI 和 Weights & Biases 改善市集買賣雙方的體驗。賣家方面，AI 上架功能從上傳照片自動生成商品描述並建議最佳分類與價格；買家方面，以圖搜物功能讓用戶只需一張照片，即可在幾秒內找到外觀相似的商品。"
+    },
+    "highlights": {
+      "en": [
+        "AI Listing reduces item listing time from minutes to seconds by auto-generating descriptions from photos.",
+        "Image search allows buyers to find visually similar items within seconds from a single photo.",
+        "Millions of image searches and tens of thousands of transactions resulted in the first months after launch.",
+        "Vertex AI powers Vector Search enabling image search and other marketplace AI capabilities."
+      ],
+      "zh": [
+        "AI 上架功能從照片自動生成商品描述，將上架時間從數分鐘縮短至幾秒。",
+        "以圖搜物功能讓買家只需一張照片，幾秒內即可找到外觀相似的商品。",
+        "上線後首幾個月即產生數百萬次圖片搜尋和數萬筆交易。",
+        "Vertex AI 驅動 Vector Search，實現以圖搜物及其他市集 AI 功能。"
+      ]
+    },
+    "technologies": [
+      "Vertex AI",
+      "Vertex AI Vector Search",
+      "Google Kubernetes Engine",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Mercari leverages Google's vector search technology to create a new marketplace",
+        "url": "https://cloud.google.com/blog/topics/developers-practitioners/mercari-leverages-googles-vector-search-technology-create-new-marketplace"
+      }
+    ]
+  },
+  {
+    "id": "retail-customer-natura",
+    "industry": "retail",
+    "agentType": "customer",
+    "company": "Natura",
+    "isNew": false,
+    "summary": {
+      "en": "Natura's Google Cloud AI sales assistant reaches customers on WhatsApp for abandoned cart recovery, boosting buyer conversion by 112%.",
+      "zh": "Natura 的 Google Cloud AI 銷售助理透過 WhatsApp 觸及棄單顧客，將買家轉換率提升 112%。"
+    },
+    "overview": {
+      "en": "Natura, the Brazilian cosmetics company, built a sales assistant on its website using Google Cloud AI to personalize recommendations and recover abandoned carts. When the assistant detects abandoned items, it proactively reaches out to customers via WhatsApp, allowing them to ask questions and modify orders in the chat before completing payment on the website.",
+      "zh": "巴西化妝品公司 Natura 在其網站上使用 Google Cloud AI 打造了一個銷售助理，用於個人化推薦並挽回棄置購物車。當助理偵測到棄置商品時，會主動透過 WhatsApp 聯繫顧客，讓他們可以在聊天中提問和修改訂單，再前往網站完成付款。"
+    },
+    "highlights": {
+      "en": [
+        "Increased buyer conversion by 112% through WhatsApp-based cart recovery outreach.",
+        "AI assistant proactively contacts customers via WhatsApp when abandoned items are detected.",
+        "Customers can ask questions and modify orders in WhatsApp before being directed to complete payment.",
+        "Combines personalized recommendations with proactive abandoned cart recovery."
+      ],
+      "zh": [
+        "透過 WhatsApp 棄單挽回功能，買家轉換率提升 112%。",
+        "AI 助理在偵測到棄置商品時，主動透過 WhatsApp 聯繫顧客。",
+        "顧客可在 WhatsApp 中提問和修改訂單，再前往網站完成付款。",
+        "結合個人化推薦與主動式棄單挽回機制。"
+      ]
+    },
+    "technologies": [
+      "Google Cloud AI",
+      "Vertex AI",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ]
+  },
+  {
+    "id": "retail-customer-nectar",
+    "industry": "retail",
+    "agentType": "customer",
+    "company": "Nectar",
+    "isNew": false,
+    "summary": {
+      "en": "Nectar uses Gemini-powered AI community agents to handle brand customer conversations on social platforms, turning unstructured data into actionable insights.",
+      "zh": "Nectar 運用 Gemini 驅動的 AI 社群代理處理品牌在社群平台上的顧客對話，將非結構化資料轉化為可行動的洞察。"
+    },
+    "overview": {
+      "en": "Nectar's AI-driven community agents, powered by Gemini, handle customer conversations on social platforms for leading brands and retailers. The platform manages influencer marketing and real-time product feedback at scale, transforming unstructured social data into actionable insights that help brands deepen relationships and drive measurable growth.",
+      "zh": "Nectar 由 Gemini 驅動的 AI 社群代理，代表領先品牌和零售商在社群平台上處理顧客對話。平台大規模管理網紅行銷與即時產品回饋，將非結構化的社群資料轉化為可行動的洞察，協助品牌深化客戶關係並推動可量化的業績成長。"
+    },
+    "highlights": {
+      "en": [
+        "Gemini-powered AI community agents handle brand customer conversations at scale on social platforms.",
+        "Transforms unstructured social data into actionable insights for brands.",
+        "Manages influencer marketing and real-time product feedback simultaneously.",
+        "Helps brands deepen customer relationships and drive measurable growth."
+      ],
+      "zh": [
+        "由 Gemini 驅動的 AI 社群代理，在社群平台上大規模處理品牌客戶對話。",
+        "將非結構化社群資料轉化為品牌可行動的洞察。",
+        "同時管理網紅行銷與即時產品回饋。",
+        "協助品牌深化客戶關係並推動可量化的業績成長。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Vertex AI",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "retail-customer-ok-corporation",
+    "industry": "retail",
+    "agentType": "customer",
+    "company": "OK Corporation",
+    "isNew": false,
+    "summary": {
+      "en": "OK Corporation built a Firebase and Flutter mobile app to digitize 6.77 million loyalty members' cards and enable personalized communication.",
+      "zh": "OK Corporation 以 Firebase 與 Flutter 打造行動 App，為 677 萬名會員數位化會員卡並實現個人化溝通。"
+    },
+    "overview": {
+      "en": "OK Corporation, a discount supermarket chain with 6.77 million OK Club loyalty members, built a mobile app using Firebase and Flutter to digitize membership cards and enable personalized customer communication about product offerings and company values. The app uses Firebase App Distribution for rapid testing and deployment, with Google Cloud security solutions including Cloud Armor and Identity Platform protecting customer data.",
+      "zh": "OK Corporation 是擁有 677 萬名 OK Club 忠誠度會員的折扣超市連鎖店，運用 Firebase 和 Flutter 打造行動 App，數位化會員卡並實現關於產品優惠和公司價值觀的個人化顧客溝通。App 使用 Firebase App Distribution 進行快速測試和部署，並透過包含 Cloud Armor 和 Identity Platform 在內的 Google Cloud 安全解決方案保護顧客資料。"
+    },
+    "highlights": {
+      "en": [
+        "Mobile app digitizes 6.77 million OK Club loyalty member cards built with Firebase and Flutter.",
+        "Enables personalized communication about product offerings and company values.",
+        "Firebase App Distribution enables rapid testing and deployment.",
+        "Customer data protected by Google Cloud Armor and Identity Platform."
+      ],
+      "zh": [
+        "使用 Firebase 和 Flutter 構建的行動 App 為 677 萬名 OK Club 忠誠度會員數位化會員卡。",
+        "實現關於產品優惠和公司價值觀的個人化溝通。",
+        "Firebase App Distribution 支援快速測試和部署。",
+        "顧客資料受 Google Cloud Armor 和 Identity Platform 保護。"
+      ]
+    },
+    "technologies": [
+      "Firebase",
+      "Flutter",
+      "Cloud Armor",
+      "Identity Platform",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ]
+  },
+  {
+    "id": "retail-customer-omoda",
+    "industry": "retail",
+    "agentType": "customer",
+    "company": "Omoda",
+    "isNew": false,
+    "summary": {
+      "en": "Omoda built a Gemini-powered AI stylist that delivers personalized outfit recommendations through natural language, achieving 2.5x higher conversion for users.",
+      "zh": "Omoda 打造由 Gemini 驅動的 AI 造型師，透過自然語言提供個人化穿搭建議，用戶轉換率達平均值的 2.5 倍。"
+    },
+    "overview": {
+      "en": "Omoda, the Netherlands' leading fashion retailer with 650 employees, built an AI stylist using Gemini models and Vertex AI to provide personalized outfit recommendations through natural language conversations. The AI stylist engages customers in dialogue to understand their style preferences and curates complete outfit suggestions, delivering significantly higher engagement and purchase rates.",
+      "zh": "Omoda 是荷蘭領先的時尚零售商，擁有 650 名員工。公司運用 Gemini 模型和 Vertex AI 打造 AI 造型師，透過自然語言對話提供個人化穿搭建議。AI 造型師與顧客對話了解其風格偏好，並策劃完整的穿搭建議，帶來顯著更高的互動率與購買率。"
+    },
+    "highlights": {
+      "en": [
+        "AI stylist users show a conversion rate 2.5 times higher than the average customer.",
+        "Powered by Gemini models and Vertex AI for natural language outfit recommendations.",
+        "Engages customers in personalized style conversations to curate complete outfit suggestions.",
+        "Deployed by the Netherlands' leading fashion retailer with 650 employees."
+      ],
+      "zh": [
+        "使用 AI 造型師的用戶轉換率是平均顧客的 2.5 倍。",
+        "由 Gemini 模型和 Vertex AI 驅動，提供自然語言穿搭推薦。",
+        "與顧客進行個人化風格對話，策劃完整穿搭建議。",
+        "由荷蘭擁有 650 名員工的領先時尚零售商所部署。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Vertex AI",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ]
+  },
+  {
+    "id": "retail-customer-papa-john-s",
+    "industry": "retail",
+    "agentType": "customer",
+    "company": "Papa John's",
+    "isNew": false,
+    "summary": {
+      "en": "Papa John's deployed a Gemini-powered Food Ordering Agent with omnichannel voice and text ordering, making it the first restaurant to deploy this system at scale.",
+      "zh": "Papa John's 部署由 Gemini 驅動的 Food Ordering Agent，實現全渠道語音與文字點餐，成為首家大規模部署此系統的餐廳。"
+    },
+    "overview": {
+      "en": "Papa John's partnered with Google Cloud to build a hyper-personalized Food Ordering Agent powered by Gemini Enterprise for Customer Experience. The fully unified voice and text AI ordering system works across mobile apps, websites, phones, kiosks, and in-car smart systems. The agent features an Intelligent Deal Wizard and recognizes returning Papa Rewards loyalty members to recall past orders.",
+      "zh": "Papa John's 與 Google Cloud 合作，打造由 Gemini Enterprise for Customer Experience 驅動的超個人化 Food Ordering Agent。這個完全統一的語音與文字 AI 點餐系統可跨行動 App、網站、電話、自助點餐機及車載智慧系統運作。代理配備智慧優惠精靈功能，並能識別回訪的 Papa Rewards 忠誠度會員以調用過往訂單記錄。"
+    },
+    "highlights": {
+      "en": [
+        "First restaurant to deploy a fully unified omnichannel voice and text AI ordering system.",
+        "Intelligent Deal Wizard automatically applies best value combinations to reduce cart abandonment.",
+        "Recognizes Papa Rewards loyalty members and proactively offers to reorder past orders.",
+        "Covers 150 million+ customers across mobile apps, websites, phones, kiosks, and in-car systems."
+      ],
+      "zh": [
+        "成為首家部署完全統一的全渠道語音與文字 AI 點餐系統的餐廳。",
+        "智慧優惠精靈自動套用最佳優惠組合，減少購物車棄置率。",
+        "識別 Papa Rewards 忠誠度會員並主動提供重訂過往訂單的選項。",
+        "服務超過 1.5 億顧客，覆蓋行動 App、網站、電話、自助點餐機及車載系統。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Gemini Enterprise for Customer Experience",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Papa Johns and Google Cloud Reimagine the Future of Food Ordering to Better Serve Customers",
+        "url": "https://www.prnewswire.com/news-releases/papa-johns-and-google-cloud-reimagine-the-future-of-food-ordering-to-better-serve-customers-302657329.html"
+      }
+    ]
+  },
+  {
+    "id": "retail-customer-popchill",
+    "industry": "retail",
+    "agentType": "customer",
+    "company": "PopChill",
+    "isNew": false,
+    "summary": {
+      "en": "PopChill uses Vertex AI Search for Commerce to deliver timely luxury goods recommendations, increasing click-through rate on recommended items by 2.5x.",
+      "zh": "PopChill 運用 Vertex AI Search for Commerce 提供即時精品推薦，商品推薦點擊率提升 2.5 倍。"
+    },
+    "overview": {
+      "en": "PopChill, a Taiwanese marketplace for pre-owned luxury goods, uses Vertex AI Search for Commerce to provide timely and relevant product recommendations to its users. By improving the relevance and timing of recommendations, the platform significantly increased buyer engagement and conversion on suggested luxury items.",
+      "zh": "PopChill 是台灣的二手精品交易平台，運用 Vertex AI Search for Commerce 為用戶提供即時且相關的商品推薦。透過提升推薦的相關性與時機，平台顯著提升了買家對推薦精品的互動率與轉換率。"
+    },
+    "highlights": {
+      "en": [
+        "Increased click-through rate on recommended items by 2.5x using Vertex AI Search for Commerce.",
+        "Provides timely and relevant pre-owned luxury goods recommendations.",
+        "Improved buyer engagement and conversion on suggested items."
+      ],
+      "zh": [
+        "運用 Vertex AI Search for Commerce，商品推薦點擊率提升 2.5 倍。",
+        "提供即時且相關的二手精品推薦。",
+        "提升買家對推薦商品的互動率與轉換率。"
+      ]
+    },
+    "technologies": [
+      "Vertex AI Search for Commerce",
+      "Vertex AI",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ]
+  },
+  {
+    "id": "retail-customer-reliance",
+    "industry": "retail",
+    "agentType": "customer",
+    "company": "Reliance",
+    "isNew": false,
+    "summary": {
+      "en": "Reliance is transforming retail for millions in India with a Shopping Agent that guides customers from natural language requests to a fully assembled cart.",
+      "zh": "Reliance 以購物代理為印度數百萬消費者變革零售體驗，從自然語言請求直接引導顧客完成購物車組建。"
+    },
+    "overview": {
+      "en": "Reliance is transforming retail for millions of customers in India with a Shopping Agent powered by Google Cloud AI. Customers can type natural language requests like 'Plan a birthday party,' and the agent guides their entire shopping journey—understanding intent, assembling a relevant cart, and driving greater revenue per session through intelligent upsell and cross-sell.",
+      "zh": "Reliance 以 Google Cloud AI 驅動的購物代理，為印度數百萬消費者變革零售體驗。顧客可以輸入如「規劃生日派對」等自然語言請求，代理便會引導其整個購物旅程——理解意圖、組建相關購物車，並透過智慧追加銷售和交叉銷售提升每次購物的客單價。"
+    },
+    "highlights": {
+      "en": [
+        "Shopping Agent understands natural language requests like 'Plan a birthday party' to guide the full shopping journey.",
+        "Assembles complete carts based on customer intent, driving greater revenue per session.",
+        "Transforms retail for millions of customers across India.",
+        "Powered by Google Cloud AI for intelligent upsell and cross-sell recommendations."
+      ],
+      "zh": [
+        "購物代理理解「規劃生日派對」等自然語言請求，引導完整購物旅程。",
+        "根據顧客意圖組建完整購物車，提升每次購物的客單價。",
+        "為印度數百萬消費者變革零售體驗。",
+        "由 Google Cloud AI 驅動智慧追加銷售和交叉銷售推薦。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Vertex AI",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "retail-customer-shop-global",
+    "industry": "retail",
+    "agentType": "customer",
+    "company": "Shop Global",
+    "isNew": false,
+    "summary": {
+      "en": "Shop Global built a Vertex AI-powered personal shopper on LINE, delivering recommendations from 1,000+ brands in 1–2 minutes and supporting 150,000 event visitors.",
+      "zh": "Shop Global 在 LINE 上打造 Vertex AI 個人購物助理，1–2 分鐘內從逾 1,000 個品牌提供推薦，並服務 15 萬名活動訪客。"
+    },
+    "overview": {
+      "en": "Shop Global, a major Thai ecommerce company under the Saha Group, built an AI-powered personal shopper integrated with LINE messaging using Vertex AI Search, Vertex AI Conversation, Gemini, and BigQuery. The system delivers personalized product recommendations from over 1,000 brands in 1–2 minutes through natural language and photo search, and successfully supported 150,000 visitors during the Saha Group Fair '25 event.",
+      "zh": "Shop Global 是泰國 Saha Group 旗下的大型電商公司，運用 Vertex AI Search、Vertex AI Conversation、Gemini 及 BigQuery，打造了整合於 LINE 即時通訊的 AI 個人購物助理。系統透過自然語言和圖片搜尋，在 1–2 分鐘內從逾 1,000 個品牌提供個人化商品推薦，並在 Saha Group Fair '25 活動期間成功服務了 15 萬名訪客。"
+    },
+    "highlights": {
+      "en": [
+        "Delivers personalized product recommendations from 1,000+ brands in 1–2 minutes via LINE.",
+        "Supports natural language and photo search for intuitive product discovery.",
+        "Successfully handled 150,000 visitors during the Saha Group Fair '25 event.",
+        "Built with Vertex AI Search, Vertex AI Conversation, Gemini, and BigQuery."
+      ],
+      "zh": [
+        "透過 LINE 在 1–2 分鐘內提供來自逾 1,000 個品牌的個人化商品推薦。",
+        "支援自然語言和圖片搜尋，實現直覺式商品探索。",
+        "在 Saha Group Fair '25 活動期間成功服務 15 萬名訪客。",
+        "使用 Vertex AI Search、Vertex AI Conversation、Gemini 及 BigQuery 構建。"
+      ]
+    },
+    "technologies": [
+      "Vertex AI Search",
+      "Vertex AI",
+      "Gemini",
+      "BigQuery",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ]
+  },
+  {
+    "id": "retail-customer-target",
+    "industry": "retail",
+    "agentType": "customer",
+    "company": "Target",
+    "isNew": false,
+    "summary": {
+      "en": "Target uses Google Cloud AI to power personalized Target Circle offers and the Starbucks at Drive Up curbside pickup experience.",
+      "zh": "Target 運用 Google Cloud AI 驅動個人化 Target Circle 優惠，以及 Starbucks at Drive Up 路邊取餐體驗。"
+    },
+    "overview": {
+      "en": "Target uses Google Cloud to power AI solutions across its Target app and Target.com, including personalized Target Circle offers that are tailored to individual customer preferences, and Starbucks at Drive Up—its curbside pickup solution that integrates coffee ordering into the drive-up experience.",
+      "zh": "Target 運用 Google Cloud 在其 Target App 和 Target.com 上驅動 AI 解決方案，包括根據個別顧客偏好量身定制的個人化 Target Circle 優惠，以及 Starbucks at Drive Up——將咖啡點餐整合至路邊取貨體驗的到店取貨解決方案。"
+    },
+    "highlights": {
+      "en": [
+        "Personalized Target Circle offers powered by Google Cloud AI tailored to individual customer preferences.",
+        "Starbucks at Drive Up integrates coffee ordering into the curbside pickup experience.",
+        "AI solutions deployed across both the Target app and Target.com."
+      ],
+      "zh": [
+        "由 Google Cloud AI 驅動的個人化 Target Circle 優惠，根據個別顧客偏好量身定制。",
+        "Starbucks at Drive Up 將咖啡點餐整合至路邊取貨體驗。",
+        "AI 解決方案同時部署於 Target App 和 Target.com。"
+      ]
+    },
+    "technologies": [
+      "Google Cloud",
+      "Vertex AI",
+      "BigQuery"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ]
+  },
+  {
+    "id": "retail-customer-tokopedia",
+    "industry": "retail",
+    "agentType": "customer",
+    "company": "Tokopedia",
+    "isNew": false,
+    "summary": {
+      "en": "Tokopedia uses Vertex AI to improve product data quality, increasing unique products sold by 5% across its Indonesian marketplace.",
+      "zh": "Tokopedia 運用 Vertex AI 提升商品資料品質，使印尼電商市集的獨特商品銷售量增加 5%。"
+    },
+    "overview": {
+      "en": "Tokopedia, an Indonesian ecommerce leader serving 5.9 million merchants and 90 million active users monthly, uses Vertex AI to improve data quality across its product catalog. Better data quality enables more accurate search results and product discovery, directly increasing the number of unique products being sold on the platform.",
+      "zh": "Tokopedia 是印尼電商龍頭，每月服務 590 萬名商家和 9,000 萬名活躍用戶。公司運用 Vertex AI 提升商品目錄的資料品質。更高的資料品質帶來更準確的搜尋結果和商品探索體驗，直接增加了平台上獨特商品的銷售數量。"
+    },
+    "highlights": {
+      "en": [
+        "Increased unique products being sold on the platform by 5% using Vertex AI for data quality improvement.",
+        "Serves 5.9 million merchants and 90 million active users monthly.",
+        "Better data quality enables more accurate product search and discovery.",
+        "Part of broader Google Cloud migration including BigQuery and Cloud Dataflow."
+      ],
+      "zh": [
+        "透過 Vertex AI 改善資料品質，使平台獨特商品銷售量增加 5%。",
+        "每月服務 590 萬名商家和 9,000 萬名活躍用戶。",
+        "更高的資料品質帶來更準確的商品搜尋和探索體驗。",
+        "是更廣泛的 Google Cloud 遷移計畫的一部分，包含 BigQuery 和 Cloud Dataflow。"
+      ]
+    },
+    "technologies": [
+      "Vertex AI",
+      "BigQuery",
+      "Cloud Dataflow",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Tokopedia's AI use case: Improving e-commerce data quality",
+        "url": "https://www.contextwindows.ai/use-cases/tokopedia-improving-e-commerce-data-quality"
+      }
+    ]
+  },
+  {
+    "id": "retail-customer-toolstation",
+    "industry": "retail",
+    "agentType": "customer",
+    "company": "Toolstation",
+    "isNew": false,
+    "summary": {
+      "en": "Toolstation migrated to Vertex AI Search for Commerce, cutting zero-result searches from 2% to 0.1% and boosting search revenue by 5.5%.",
+      "zh": "Toolstation 遷移至 Vertex AI Search for Commerce，將零結果搜尋從 2% 降至 0.1%，搜尋帶動的營收提升 5.5%。"
+    },
+    "overview": {
+      "en": "Toolstation, one of Britain's fastest-growing tool suppliers with 580 stores, migrated its product search to Vertex AI Search for Commerce. The AI-powered search dramatically improved search quality across its extensive product catalog, reducing failed searches and increasing both click-through rates and overall revenue from search-driven purchases.",
+      "zh": "Toolstation 是英國成長最快的五金工具供應商之一，擁有 580 家門市。公司將商品搜尋遷移至 Vertex AI Search for Commerce。AI 驅動的搜尋功能大幅提升了其龐大商品目錄的搜尋品質，減少了搜尋失敗的情況，並提升了點擊率和搜尋驅動購買的整體營收。"
+    },
+    "highlights": {
+      "en": [
+        "Cut searches with no results from 2% to 0.1% with Vertex AI Search for Commerce.",
+        "Achieved a 10% increase in click-through rate.",
+        "Boosted overall search-based revenue by 5.5%.",
+        "Reduced irrelevant search results by 30%."
+      ],
+      "zh": [
+        "透過 Vertex AI Search for Commerce，零結果搜尋從 2% 降至 0.1%。",
+        "點擊率提升 10%。",
+        "搜尋帶動的整體營收提升 5.5%。",
+        "不相關搜尋結果減少 30%。"
+      ]
+    },
+    "technologies": [
+      "Vertex AI Search for Commerce",
+      "Vertex AI",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ]
+  },
+  {
+    "id": "retail-customer-tradera",
+    "industry": "retail",
+    "agentType": "customer",
+    "company": "Tradera",
+    "isNew": false,
+    "summary": {
+      "en": "Tradera uses Gemini Flash to auto-generate secondhand item listings from photos, cutting listing time by 50% and boosting completion rates by 10%.",
+      "zh": "Tradera 運用 Gemini Flash 從照片自動生成二手商品清單，上架時間縮短 50%，完成率提升 10%。"
+    },
+    "overview": {
+      "en": "Tradera, Sweden's largest secondhand marketplace with more than three million users, uses Gemini Flash to automate item listings. The AI analyzes photos to automatically generate titles, descriptions, categories, and attributes for secondhand items, dramatically simplifying the selling process and encouraging more users to list their items.",
+      "zh": "Tradera 是瑞典最大的二手商品交易平台，擁有超過 300 萬名用戶。公司運用 Gemini Flash 自動化商品上架流程。AI 分析照片，自動生成二手商品的標題、描述、分類和屬性，大幅簡化了銷售流程，並鼓勵更多用戶上架商品。"
+    },
+    "highlights": {
+      "en": [
+        "Gemini Flash analyzes photos to auto-generate titles, descriptions, categories, and attributes.",
+        "Increased listing completion rates by 10%.",
+        "Users can list items in 50% less time with AI-powered automation.",
+        "Serves more than 3 million users on Sweden's largest secondhand marketplace."
+      ],
+      "zh": [
+        "Gemini Flash 分析照片，自動生成標題、描述、分類和屬性。",
+        "商品上架完成率提升 10%。",
+        "AI 自動化功能讓用戶上架商品的時間縮短 50%。",
+        "服務瑞典最大二手交易平台上的逾 300 萬名用戶。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Vertex AI",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ]
+  },
+  {
+    "id": "retail-customer-unilever",
+    "industry": "retail",
+    "agentType": "customer",
+    "company": "Unilever",
+    "isNew": false,
+    "summary": {
+      "en": "Unilever partnered with Google Cloud in a five-year deal using Gemini Enterprise Agent Platform to transform how consumers discover and shop for its global brands.",
+      "zh": "Unilever 與 Google Cloud 簽署五年合作協議，運用 Gemini Enterprise Agent Platform 變革消費者探索和購買其全球品牌的方式。"
+    },
+    "overview": {
+      "en": "Unilever signed a five-year partnership with Google Cloud to migrate enterprise applications and data platforms to Google Cloud and adopt Vertex AI and Gemini models across marketing, brand discovery, and internal workflows. The partnership aims to build next-generation marketing capabilities across brand discovery, conversion, and measurement as consumer journeys shift toward conversational and agentic buying experiences.",
+      "zh": "Unilever 與 Google Cloud 簽署了五年合作協議，將企業應用程式和資料平台遷移至 Google Cloud，並在行銷、品牌探索和內部工作流程中採用 Vertex AI 和 Gemini 模型。隨著消費者旅程轉向對話式和主動式購物體驗，這項合作旨在打造跨品牌探索、轉換和衡量的次世代行銷能力。"
+    },
+    "highlights": {
+      "en": [
+        "Five-year partnership with Google Cloud for enterprise cloud migration and AI adoption.",
+        "Uses Gemini Enterprise Agent Platform to transform brand discovery and consumer shopping journeys.",
+        "Partnership covers agentic commerce, marketing intelligence, and integrated data foundation.",
+        "Positions Unilever's brands for conversational and agentic buying experience shifts."
+      ],
+      "zh": [
+        "與 Google Cloud 簽署五年企業雲端遷移及 AI 採用合作協議。",
+        "運用 Gemini Enterprise Agent Platform 變革品牌探索與消費者購物旅程。",
+        "合作夥伴關係涵蓋主動式商務、行銷智慧及整合資料基礎架構。",
+        "為 Unilever 品牌因應對話式和主動式購物體驗趨勢做好準備。"
+      ]
+    },
+    "technologies": [
+      "Gemini Enterprise Agent Platform",
+      "Gemini",
+      "Vertex AI",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Google Cloud collab pioneers next-gen consumer goods tech | Unilever",
+        "url": "https://www.unilever.com/news/press-and-media/press-releases/2026/google-cloud-partnership-pioneers-next-generation-of-consumer-goods-technologies/"
+      }
+    ]
+  },
+  {
+    "id": "retail-customer-varejo-de-moda",
+    "industry": "retail",
+    "agentType": "customer",
+    "company": "Varejo de Moda",
+    "isNew": false,
+    "summary": {
+      "en": "Varejo de Moda, a Brazilian fashion retailer, uses Virtual Try-On and AI product page assistants to help customers visualize and understand products online.",
+      "zh": "巴西時尚零售商 Varejo de Moda 運用虛擬試穿與 AI 商品頁面助理，協助顧客在線上視覺化並了解商品。"
+    },
+    "overview": {
+      "en": "Varejo de Moda, a Brazilian fashion retailer, uses Virtual Try-On as a simulator to help consumers visualize themselves wearing specific styles and trends during an online purchase. AI is also applied to the Product Detail Page, where a virtual assistant reads the full technical specifications of items to answer specific customer questions, bridging the information gap in online fashion retail.",
+      "zh": "Varejo de Moda 是巴西時尚零售商，在線上購物過程中運用虛擬試穿作為模擬器，協助消費者視覺化自己穿著特定款式和流行趨勢的樣子。AI 也被應用於商品詳情頁面，虛擬助理閱讀商品的完整技術規格以回答顧客的具體問題，填補線上時尚零售的資訊落差。"
+    },
+    "highlights": {
+      "en": [
+        "Virtual Try-On simulator helps consumers visualize themselves wearing specific styles and trends.",
+        "AI-powered Product Detail Page assistant reads full item specifications to answer customer questions.",
+        "Bridges the information gap in online fashion retail through conversational AI.",
+        "Enhances customer confidence and reduces purchase uncertainty."
+      ],
+      "zh": [
+        "虛擬試穿模擬器協助消費者視覺化自己穿著特定款式和流行趨勢的樣子。",
+        "AI 商品詳情頁面助理閱讀完整商品規格以回答顧客問題。",
+        "透過對話式 AI 填補線上時尚零售的資訊落差。",
+        "提升顧客購買信心，降低購買不確定感。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Vertex AI",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "retail-customer-vody",
+    "industry": "retail",
+    "agentType": "customer",
+    "company": "Vody",
+    "isNew": false,
+    "summary": {
+      "en": "Vody, part of Google for Startups Cloud AI Accelerator, builds fine-tuned multimodal AI models to improve retail search, recommendations, and customer engagement.",
+      "zh": "Vody 是 Google for Startups Cloud AI Accelerator 成員，構建微調的多模態 AI 模型，提升零售業搜尋、推薦與顧客互動體驗。"
+    },
+    "overview": {
+      "en": "Vody, a startup participating in the Google for Startups Cloud AI Accelerator, builds fine-tuned multimodal AI models specifically for retail applications. The models are designed to improve search experiences, personalize product recommendations, and enhance customer engagement for retail partners, leveraging Google Cloud's AI infrastructure.",
+      "zh": "Vody 是 Google for Startups Cloud AI Accelerator 的參與新創公司，專門為零售應用構建微調的多模態 AI 模型。這些模型旨在為零售合作夥伴改善搜尋體驗、個人化商品推薦並提升顧客互動，充分利用 Google Cloud 的 AI 基礎架構。"
+    },
+    "highlights": {
+      "en": [
+        "Fine-tuned multimodal AI models designed specifically for retail applications.",
+        "Improves search experiences, personalizes recommendations, and enhances customer engagement.",
+        "Part of Google for Startups Cloud AI Accelerator program.",
+        "Leverages Google Cloud AI infrastructure for retail-specific model development."
+      ],
+      "zh": [
+        "專為零售應用設計的微調多模態 AI 模型。",
+        "改善搜尋體驗、個人化推薦並提升顧客互動。",
+        "Google for Startups Cloud AI Accelerator 計畫的參與成員。",
+        "運用 Google Cloud AI 基礎架構進行零售專用模型開發。"
+      ]
+    },
+    "technologies": [
+      "Vertex AI",
+      "Google Cloud AI",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "retail-customer-wendy-s",
+    "industry": "retail",
+    "agentType": "customer",
+    "company": "Wendy's",
+    "isNew": false,
+    "summary": {
+      "en": "Wendy's FreshAI pairs Gemini's conversational AI with audio and visual elements for a consistent drive-thru experience, shaving 22 seconds off service times.",
+      "zh": "Wendy's FreshAI 結合 Gemini 對話式 AI 與聲音視覺元素，提供一致的得來速體驗，服務時間縮短 22 秒。"
+    },
+    "overview": {
+      "en": "Wendy's developed FreshAI in partnership with Google Cloud, using Gemini's generative AI capabilities combined with audio and visual elements to automate drive-thru ordering. Unlike rule-based systems, FreshAI generates contextual responses in real-time. Starting as a Columbus, Ohio pilot in 2023, the system expanded to franchisees in 2024 and is now processing tens of thousands of orders daily.",
+      "zh": "Wendy's 與 Google Cloud 合作開發了 FreshAI，運用 Gemini 生成式 AI 能力結合音頻和視覺元素，自動化得來速點餐流程。與規則式系統不同，FreshAI 能即時生成情境性回應。從 2023 年俄亥俄州哥倫布市的試點計畫開始，系統於 2024 年擴展至加盟商，目前每日處理數萬筆訂單。"
+    },
+    "highlights": {
+      "en": [
+        "FreshAI shaved 22 seconds off service times at the Columbus, Ohio test site.",
+        "Achieved 86% accuracy — orders handled without team member intervention — during pilot.",
+        "Now processing tens of thousands of orders daily across multiple states.",
+        "Generative AI generates contextual responses in real-time rather than following a fixed rule set."
+      ],
+      "zh": [
+        "FreshAI 在俄亥俄州哥倫布市試點期間，服務時間縮短 22 秒。",
+        "試點期間達到 86% 的準確率，即無需員工介入即可完成訂單的比例。",
+        "目前每日在多個州處理數萬筆訂單。",
+        "生成式 AI 即時生成情境性回應，而非遵循固定規則集。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Wendy's Taps Google Cloud to Revolutionize the Drive-Thru Experience with Artificial Intelligence",
+        "url": "https://www.prnewswire.com/news-releases/wendys-taps-google-cloud-to-revolutionize-the-drive-thru-experience-with-artificial-intelligence-301819196.html"
+      },
+      {
+        "title": "How Wendy's new AI-powered drive-thru is speeding orders and freeing workers | Google Cloud Blog",
+        "url": "https://cloud.google.com/blog/transform/wendys-generative-ai-drive-thru-reinvention-worker-freedom"
+      }
+    ]
+  },
+  {
+    "id": "retail-customer-woolworths-group",
+    "industry": "retail",
+    "agentType": "customer",
+    "company": "Woolworths Group",
+    "isNew": false,
+    "summary": {
+      "en": "Woolworths Group became the first Australian retailer on Google's agentic platform, evolving its Olive chatbot to anticipate customer needs and plan meals.",
+      "zh": "Woolworths Group 成為首家採用 Google 主動式 AI 平台的澳洲零售商，將 Olive 聊天機器人升級為能預判顧客需求並規劃餐食的智慧助理。"
+    },
+    "overview": {
+      "en": "Woolworths Group, Australia's largest supermarket chain, became the first Australian retailer to partner with Google's agentic platform—Gemini Enterprise for Customer Experience. The company is evolving its seven-year-old Olive digital shopping assistant into an intuitive partner that anticipates customer needs, plans meals based on preferences, spots relevant specials, and makes shopping easier. The agentic-powered Olive has been launched for all 200,000+ Woolworths staff.",
+      "zh": "Woolworths Group 是澳洲最大的超市連鎖集團，成為首家採用 Google 主動式 AI 平台——Gemini Enterprise for Customer Experience 的澳洲零售商。公司正在將其已運行七年的 Olive 數位購物助理升級為能預判顧客需求的直覺型夥伴，根據偏好規劃餐食、找出相關特惠，讓購物更輕鬆。搭載主動式 AI 的 Olive 已在 Woolworths 逾 20 萬名員工中全面上線。"
+    },
+    "highlights": {
+      "en": [
+        "First Australian retailer to partner with Google's Gemini Enterprise for Customer Experience agentic platform.",
+        "Olive chatbot evolved from a static assistant to an agentic partner that anticipates customer needs.",
+        "Agentic-powered Olive launched for all 200,000+ Woolworths Group staff.",
+        "Plans meals based on customer preferences and identifies relevant specials to save money."
+      ],
+      "zh": [
+        "首家採用 Google Gemini Enterprise for Customer Experience 主動式 AI 平台的澳洲零售商。",
+        "Olive 聊天機器人從靜態助理進化為能預判顧客需求的主動式夥伴。",
+        "搭載主動式 AI 的 Olive 已在逾 20 萬名 Woolworths Group 員工中全面上線。",
+        "根據顧客偏好規劃餐食並識別相關特惠，協助節省開支。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Gemini Enterprise for Customer Experience",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Woolworths to incorporate agentic AI into its Olive chatbot - iTnews",
+        "url": "https://www.itnews.com.au/news/woolworths-to-incorporate-agentic-ai-into-its-olive-chatbot-622907"
+      },
+      {
+        "title": "Woolworths teams up with Google AI in 'global game changer' - Inside Retail Australia",
+        "url": "https://insideretail.com.au/digital/ai/woolworths-teams-up-with-google-ai-in-global-game-changer-202601"
+      }
+    ]
+  },
+  {
+    "id": "retail-customer-zapia-ai",
+    "industry": "retail",
+    "agentType": "customer",
+    "company": "Zapia AI",
+    "isNew": false,
+    "summary": {
+      "en": "Zapia AI uses Gemini multi-agent orchestration to support millions of users with product discovery and purchase assistance, achieving 90%+ positive feedback.",
+      "zh": "Zapia AI 運用 Gemini 多代理協作，服務數百萬用戶的商品探索與購買協助需求，用戶好評率超過 90%。"
+    },
+    "overview": {
+      "en": "Zapia AI, a retail technology company, uses multi-agent orchestration powered by Gemini to support millions of users with product discovery, local business searches, and purchase assistance. The use of Gemini for agent reasoning improves response quality, reduces latency, and lowers operational costs, resulting in over 90% positive user feedback.",
+      "zh": "Zapia AI 是零售技術公司，運用 Gemini 驅動的多代理協作，為數百萬用戶提供商品探索、本地商家搜尋及購買協助服務。運用 Gemini 進行代理推理可提升回應品質、降低延遲並削減營運成本，用戶好評率超過 90%。"
+    },
+    "highlights": {
+      "en": [
+        "Multi-agent orchestration powered by Gemini supports millions of users with product discovery and purchase assistance.",
+        "Achieved over 90% positive user feedback.",
+        "Gemini improves agent reasoning, reduces latency, and lowers operational costs.",
+        "Covers product discovery, local business searches, and purchase assistance in one platform."
+      ],
+      "zh": [
+        "由 Gemini 驅動的多代理協作服務數百萬用戶的商品探索與購買協助需求。",
+        "用戶好評率超過 90%。",
+        "Gemini 提升代理推理能力、降低延遲並削減營運成本。",
+        "在單一平台上涵蓋商品探索、本地商家搜尋及購買協助功能。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Vertex AI",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ]
+  },
+  {
+    "id": "retail-customer-zazzle",
+    "industry": "retail",
+    "agentType": "customer",
+    "company": "Zazzle",
+    "isNew": false,
+    "summary": {
+      "en": "Zazzle uses Gemini ADK and CCaaS to enable chat-based product discovery for custom on-demand products, making it easier for customers to find the right designs.",
+      "zh": "Zazzle 運用 Gemini ADK 與 CCaaS 實現對話式商品探索，讓顧客更輕鬆地在客製化隨選商品中找到合適設計。"
+    },
+    "overview": {
+      "en": "Zazzle, a global platform for custom products and designs made on demand, uses Gemini ADK (Agent Development Kit) and CCaaS (Contact Center as a Service) to facilitate chat-based product discovery. The solution enhances the customer experience by making it easier to find the right designs across a wide range of customizable products.",
+      "zh": "Zazzle 是全球客製化隨選商品與設計平台，運用 Gemini ADK（代理開發套件）和 CCaaS（聯絡中心即服務）實現對話式商品探索。這個解決方案讓顧客更輕鬆地在各種客製化商品中找到合適的設計，從而提升顧客體驗。"
+    },
+    "highlights": {
+      "en": [
+        "Gemini ADK and CCaaS enable chat-based product discovery across Zazzle's custom product catalog.",
+        "Makes it easier for customers to find the right designs among a wide range of on-demand products.",
+        "Enhances customer experience through conversational commerce for custom products."
+      ],
+      "zh": [
+        "Gemini ADK 和 CCaaS 在 Zazzle 的客製化商品目錄中實現對話式商品探索。",
+        "讓顧客在各種隨選商品中更輕鬆地找到合適的設計。",
+        "透過客製化商品的對話式商務提升顧客體驗。"
+      ]
+    },
+    "technologies": [
+      "Gemini ADK",
+      "CCaaS",
+      "Gemini",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ]
+  }
+]

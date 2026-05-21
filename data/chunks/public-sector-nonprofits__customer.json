@@ -1,0 +1,1298 @@
+[
+  {
+    "id": "public-sector-nonprofits-customer-alma",
+    "industry": "public-sector-nonprofits",
+    "agentType": "customer",
+    "company": "Alma",
+    "isNew": false,
+    "summary": {
+      "en": "Alma uses AI-powered document processing to simplify U.S. immigration for global talent.",
+      "zh": "Alma 透過 AI 文件處理簡化頂尖全球人才的美國移民流程。"
+    },
+    "overview": {
+      "en": "Alma, an immigration-focused legal tech startup and participant in Google for Startups Cloud AI Accelerator, helps skilled professionals and founders navigate U.S. visa processes. The platform combines attorney expertise with AI to accelerate document review, extract key information from lengthy submissions, and provide personalized application support—making the process faster and more accessible for international talent.",
+      "zh": "Alma 是一家專注移民服務的法律科技新創，也是 Google for Startups Cloud AI Accelerator 的成員。平台結合律師專業知識與 AI，協助技術人才與創業者處理美國簽證申請，透過 AI 加速文件審閱、從大量文件中提取關鍵資訊，並提供個人化申請輔助，讓國際人才的移民之路更快速便捷。"
+    },
+    "highlights": {
+      "en": [
+        "Participant in Google for Startups Cloud AI Accelerator, leveraging cloud AI to scale services.",
+        "AI processes lengthy documents (e.g., 200-page articles) and translates technical content into plain language for USCIS officials.",
+        "Covers all major U.S. talent visa types including O-1, EB-1, EB2-NIW, H-1B, TN, and L-1.",
+        "Combines AI-powered internal tools with attorney oversight for faster, higher-quality applications."
+      ],
+      "zh": [
+        "獲選 Google for Startups Cloud AI Accelerator，藉助雲端 AI 擴展服務規模。",
+        "AI 可處理長達 200 頁的文件，並將技術內容轉譯為 USCIS 官員易懂的語言。",
+        "涵蓋美國主要人才簽證類型，包括 O-1、EB-1、EB2-NIW、H-1B、TN 及 L-1。",
+        "結合 AI 內部工具與律師監督，提升申請效率與核准率。"
+      ]
+    },
+    "technologies": [
+      "Vertex AI",
+      "Google Cloud",
+      "Gemini"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Alma co-founder had such a bad immigration experience she founded a legal AI startup to fix it | TechCrunch",
+        "url": "https://techcrunch.com/2024/07/11/immigration-visa-alma-law/"
+      },
+      {
+        "title": "Google for Startups Accelerator: Cloud AI (North America)",
+        "url": "https://startup.google.com/programs/accelerator/cloud-ai/north-america/"
+      }
+    ]
+  },
+  {
+    "id": "public-sector-nonprofits-customer-arizona-health-care-cost-containment-system",
+    "industry": "public-sector-nonprofits",
+    "agentType": "customer",
+    "company": "Arizona Health Care Cost Containment System",
+    "isNew": false,
+    "summary": {
+      "en": "AHCCCS built an AI-powered opioid treatment locator on Vertex AI and Gemini, reaching 20,000+ users across Arizona.",
+      "zh": "AHCCCS 以 Vertex AI 和 Gemini 建立 AI 驅動的阿片類藥物治療資源搜尋工具，觸及超過 2 萬名亞利桑那州居民。"
+    },
+    "overview": {
+      "en": "Arizona Health Care Cost Containment System (AHCCCS), Arizona's Medicaid agency serving over 2 million people, partnered with Google Cloud and Syntasa to build an Opioid Use Disorder Service Provider Locator. The platform uses Vertex AI, Gemini, and Google Maps API to help residents find nearby treatment options via natural-language queries, available 24/7 across urban and rural areas. Google BigQuery stores the provider database while Looker Studio enables analytics.",
+      "zh": "AHCCCS 是服務超過 200 萬人的亞利桑那州 Medicaid 機構，與 Google Cloud 及 Syntasa 合作建立阿片類藥物使用障礙服務提供者查詢工具。該平台結合 Vertex AI、Gemini 及 Google Maps API，讓居民透過自然語言查詢全天候找到附近的治療資源，涵蓋城市與農村地區，BigQuery 儲存提供者資料庫，Looker Studio 負責數據分析。"
+    },
+    "highlights": {
+      "en": [
+        "Since its late 2021 launch, the platform has reached over 20,000 unique users from 120 Arizona communities (as of April 2025: 100,000+ unique page views).",
+        "Achieved a 55%+ engaged session rate among users seeking opioid treatment resources.",
+        "Supports natural-language queries such as 'I need help with opioid addiction' and pinpoints nearby OBOT, OTP, and residential treatment facilities.",
+        "Platform is smartphone/SMS-optimized, providing 24/7 access across both urban and rural Arizona.",
+        "Google Translate integration enables multi-language support for non-English-speaking residents."
+      ],
+      "zh": [
+        "自 2021 年底上線以來，已觸及超過 2 萬名來自亞利桑那州 120 個社區的獨立用戶（截至 2025 年 4 月，獨立頁面瀏覽次數逾 10 萬次）。",
+        "用戶尋求阿片類治療資源的參與會話率超過 55%。",
+        "支援自然語言查詢（如「我需要阿片類藥物成癮協助」），並定位附近的 OBOT、OTP 及住院治療設施。",
+        "平台針對智慧型手機與簡訊優化，提供全天候服務，覆蓋城市與農村地區。",
+        "整合 Google Translate，為非英語居民提供多語言支援。"
+      ]
+    },
+    "technologies": [
+      "Vertex AI",
+      "Gemini",
+      "BigQuery",
+      "Looker Studio",
+      "Google Maps API",
+      "Google Translate",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "AHCCCS case study | Google Cloud",
+        "url": "https://cloud.google.com/customers/ahcccs"
+      },
+      {
+        "title": "Arizona Exploring AI Virtual Assistant Component For Its Opioid Service Locator Tool — OPEN MINDS",
+        "url": "https://openminds.com/market-intelligence/news/arizona-exploring-ai-virtual-assistant-component-for-its-opioid-service-locator-tool/"
+      }
+    ]
+  },
+  {
+    "id": "public-sector-nonprofits-customer-arizona-state-university",
+    "industry": "public-sector-nonprofits",
+    "agentType": "customer",
+    "company": "Arizona State University",
+    "isNew": false,
+    "summary": {
+      "en": "ASU Prep's Archie chatbot, powered by Gemini, improves students' first-attempt math accuracy by 6%.",
+      "zh": "ASU Prep 以 Gemini 驅動的 Archie 聊天機器人，讓學生數學首次作答正確率提升 6%。"
+    },
+    "overview": {
+      "en": "Arizona State University's ASU Prep division developed Archie, a Gemini-powered AI math tutor for middle and high school students. Archie provides real-time hints and error feedback as students work through math problems, identifying mistakes and guiding students step by step. The tool uses optical character recognition to interpret handwritten math and integrates with ASU's broader Digit adaptive learning platform.",
+      "zh": "Arizona State University 的 ASU Prep 部門開發了以 Gemini 驅動的 AI 數學輔導機器人 Archie，服務國中與高中生。Archie 在學生解題過程中即時提供提示和錯誤回饋，並運用光學字元辨識技術解讀手寫數學題，整合進 ASU 的 Digit 自適應學習平台。"
+    },
+    "highlights": {
+      "en": [
+        "Increased students' first-attempt correct answers by 6% through hint and error feedback functions.",
+        "Uses optical character recognition (OCR) to interpret handwritten math problems in real time.",
+        "Developed in collaboration with Google Cloud and presented at the ASU+GSV Summit.",
+        "Integrated with the broader Digit adaptive math learning platform for K-12 students."
+      ],
+      "zh": [
+        "透過提示與錯誤回饋功能，學生首次作答正確率提升 6%。",
+        "運用光學字元辨識（OCR）即時解讀學生手寫的數學題。",
+        "與 Google Cloud 合作開發，並在 ASU+GSV Summit 上公開發表。",
+        "整合進針對 K-12 學生的 Digit 自適應數學學習平台。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Vertex AI",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Arizona State University case study | Google Cloud",
+        "url": "https://cloud.google.com/customers/arizona-state-university"
+      },
+      {
+        "title": "AI Math Tutor from ASU Prep — ASU Prep Global",
+        "url": "https://www.asuprepglobal.org/ai-math-tutor/"
+      }
+    ]
+  },
+  {
+    "id": "public-sector-nonprofits-customer-beyond-12",
+    "industry": "public-sector-nonprofits",
+    "agentType": "customer",
+    "company": "Beyond 12",
+    "isNew": false,
+    "summary": {
+      "en": "Beyond 12 built a Gemini-powered AI coach to support first-generation college students from under-resourced communities.",
+      "zh": "Beyond 12 以 Gemini 打造 AI 教練，為資源不足社區的第一代大學生提供個人化學業支援。"
+    },
+    "overview": {
+      "en": "Beyond 12, a tech-enabled nonprofit supporting first-generation college students, developed an AI-powered conversational coach using Gemini 1.0 Pro. The tool, known as MyCoach AI, provides personalized support via SMS or app—knowing each student's history and goals, answering questions, and evaluating progress without comparing students to others. The system proactively nudges students about deadlines and escalates to human coaches when needed.",
+      "zh": "Beyond 12 是一家支援第一代大學生的科技型非營利機構，使用 Gemini 1.0 Pro 開發了 AI 對話式輔導工具 MyCoach AI。該工具透過簡訊或應用程式提供個人化支援，了解每位學生的背景與目標，回答問題並評估進度，不與其他學生比較。系統會主動提醒學生重要截止日期，並在需要時轉接人工教練。"
+    },
+    "highlights": {
+      "en": [
+        "Built with Gemini 1.0 Pro to provide personalized, history-aware coaching for first-generation college students.",
+        "Accessible via SMS, ensuring reach for students in under-resourced communities without app requirements.",
+        "Proactively alerts students about deadlines and anticipates potential barriers before they arise.",
+        "Developed a Responsible and Ethical Use of GenAI Framework to guide safe AI deployment in college success programs."
+      ],
+      "zh": [
+        "以 Gemini 1.0 Pro 建構，為第一代大學生提供能記憶歷史紀錄的個人化輔導。",
+        "支援簡訊使用，確保資源不足社區的學生無需安裝應用程式即可獲得協助。",
+        "主動提醒學生重要截止日期，並預先發現潛在障礙。",
+        "制定了生成式 AI 負責任與道德使用框架，引導在大學成功輔導中安全部署 AI。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Vertex AI",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "MyCoach AI: Empowering College Success at Scale — Tools Competition",
+        "url": "https://tools-competition.org/winner/mycoach-ai/"
+      },
+      {
+        "title": "Beyond 12 | Responsible and Ethical Use of GenAI Framework & Toolkit",
+        "url": "https://responsibleai.beyond12.org/"
+      }
+    ]
+  },
+  {
+    "id": "public-sector-nonprofits-customer-bower",
+    "industry": "public-sector-nonprofits",
+    "agentType": "customer",
+    "company": "Bower",
+    "isNew": false,
+    "summary": {
+      "en": "Bower's gamified recycling app uses AI trained with Gemini to identify recyclables at 85–90% accuracy across 170+ countries.",
+      "zh": "Bower 的遊戲化回收應用程式以 Gemini 訓練的 AI 辨識可回收物品，準確率達 85–90%，已擴展至逾 170 個國家。"
+    },
+    "overview": {
+      "en": "Bower, a Swedish startup, created a gamified recycling app offering rewards to users across the Nordics, UK, and beyond. The app integrates generative AI—trained with Gemini and crowdsourced user data—so users can identify recyclable items by pointing their smartphone camera at any object, regardless of barcode. The platform has expanded from the Nordics to over 170 countries and received Google.org Impact Challenge funding.",
+      "zh": "Bower 是一家瑞典新創，開發出遊戲化回收應用程式，為北歐、英國及其他地區的用戶提供獎勵。應用程式整合以 Gemini 及眾包用戶數據訓練的生成式 AI，讓用戶只需將手機鏡頭對準任何物品（無需條碼）即可辨識可回收材質。平台已從北歐擴展至逾 170 個國家，並獲得 Google.org 影響力挑戰資金支持。"
+    },
+    "highlights": {
+      "en": [
+        "AI achieves 85–90% accuracy for manual recycling identification in the EU, trained using Gemini and crowdsourced data.",
+        "Expanded from the Nordics and UK to 170+ countries with a localized recycling rules database.",
+        "Over 600,000 active users have collectively sorted more than 100 million packages since 2019.",
+        "Received Google.org Impact Challenge: Tech for Social Good 2023 funding.",
+        "Gamification features include challenges, experience points (XP), levels, and cash rewards."
+      ],
+      "zh": [
+        "AI 在歐盟的手動回收辨識準確率達 85–90%，以 Gemini 及眾包數據訓練而成。",
+        "從北歐和英國擴展至逾 170 個國家，內建各地回收規則資料庫。",
+        "自 2019 年以來，逾 60 萬活躍用戶合計分類超過 1 億個包裝。",
+        "獲得 Google.org 影響力挑戰：2023 年科技促社會公益資助。",
+        "遊戲化功能包括挑戰任務、經驗點數（XP）、等級晉升及現金獎勵。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Google Cloud",
+      "Vertex AI"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Bower's AI-powered app instantly identifies recyclables at 85 to 90 percent accuracy",
+        "url": "https://www.recyclingproductnews.com/article/42025/bowers-ai-powered-app-instantly-identifies-recyclables-at-85-to-90-percent-accuracy"
+      },
+      {
+        "title": "Google supports app providing recycling info globally — Resource Recycling",
+        "url": "https://resource-recycling.com/recycling/2024/07/23/google-supports-app-providing-recycling-info-globally/"
+      },
+      {
+        "title": "Google.org Impact Challenge: Tech for Social Good 2023 — Bower",
+        "url": "https://impactchallenge.withgoogle.com/techforsocialgood/fellowship/bower"
+      }
+    ]
+  },
+  {
+    "id": "public-sector-nonprofits-customer-careervillage",
+    "industry": "public-sector-nonprofits",
+    "agentType": "customer",
+    "company": "CareerVillage",
+    "isNew": false,
+    "summary": {
+      "en": "CareerVillage's Coach app uses generative AI to provide 24/7 career development support for underrepresented youth.",
+      "zh": "CareerVillage 的 Coach 應用程式以生成式 AI 為弱勢青年提供全天候職涯發展支援。"
+    },
+    "overview": {
+      "en": "CareerVillage, a nonprofit democratizing career guidance for underrepresented youth, launched Coach—an AI-powered career development tool built with support from Google and other major foundations. Coach provides always-available guidance for job seekers to practice interviews, improve resumes, and explore career paths. The platform already features 35 career development activities and was developed with input from over 20 nonprofit and educational partners to ensure equity and reach.",
+      "zh": "CareerVillage 是一家致力於讓弱勢青年獲得職涯指導的非營利組織，在 Google 及多家基金會的支持下推出了 AI 職涯發展工具 Coach。Coach 提供全天候輔導，協助求職者練習面試、改善履歷並探索職涯路徑。平台目前已有 35 個職涯發展活動，並與逾 20 個非營利及教育夥伴共同開發，確保公平觸及。"
+    },
+    "highlights": {
+      "en": [
+        "Already features 35 career development activities with a goal of exceeding 100 in the future.",
+        "Participated in Google's first-ever Generative AI Accelerator, leveraging large language models including Google's.",
+        "Funded by Google.org, the Bill & Melinda Gates Foundation, and Schultz Family Foundation, among others.",
+        "Partnered with 20+ nonprofits to ensure underserved and underrepresented populations are reached."
+      ],
+      "zh": [
+        "目前已有 35 個職涯發展活動，目標未來超過 100 個。",
+        "參與 Google 首屆生成式 AI Accelerator，運用包括 Google 在內的大型語言模型。",
+        "獲 Google.org、Bill & Melinda Gates Foundation 及 Schultz Family Foundation 等機構資助。",
+        "與逾 20 個非營利組織合作，確保觸及服務不足與弱勢群體。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Google Cloud",
+      "Vertex AI"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "CareerVillage Launches Coach, First-of-its-Kind AI Career Development Tool — PR Newswire",
+        "url": "https://www.prnewswire.com/news-releases/careervillage-launches-coach-first-of-its-kind-ai-career-development-tool-built-for-equity-and-measurable-results-302219163.html"
+      },
+      {
+        "title": "COACH: AI-powered Career Coach | CareerVillage.org",
+        "url": "https://www.aicareercoach.org/"
+      }
+    ]
+  },
+  {
+    "id": "public-sector-nonprofits-customer-central-texas-regional-mobility-authority",
+    "industry": "public-sector-nonprofits",
+    "agentType": "customer",
+    "company": "Central Texas Regional Mobility Authority",
+    "isNew": false,
+    "summary": {
+      "en": "Central Texas Regional Mobility Authority uses Vertex AI to modernize toll operations and traffic management at scale.",
+      "zh": "Central Texas Regional Mobility Authority 以 Vertex AI 現代化收費站作業與交通管理系統。"
+    },
+    "overview": {
+      "en": "The Central Texas Regional Mobility Authority (CTRMA) partnered with Google Public Sector and Deloitte to build an AI-driven data platform that processes over 750,000 toll transactions per day. The platform integrates data from road sensors, cameras, and multiple toll systems. Future enhancements include real-time traffic data from Google Maps and Gemini-powered natural language querying for traffic management staff.",
+      "zh": "Central Texas Regional Mobility Authority（CTRMA）與 Google Public Sector 及 Deloitte 合作，建立一個可每日處理逾 75 萬筆收費交易的 AI 驅動數據平台，整合道路感測器、攝影機及多個收費系統的數據。未來升級計劃包括整合 Google Maps 即時交通數據，並以 Gemini 讓交通管理人員以自然語言查詢數據。"
+    },
+    "highlights": {
+      "en": [
+        "Platform can process 100,000 toll transactions every 15 minutes (over 9 million per day at peak).",
+        "Centralizes data from road sensors, cameras, and license plate readers across the toll network.",
+        "Built with Google Public Sector and Deloitte, deployed on Google Cloud infrastructure.",
+        "Future phases include Google Maps real-time traffic integration and Gemini-powered natural language analytics."
+      ],
+      "zh": [
+        "平台可每 15 分鐘處理 10 萬筆收費交易（尖峰時每日逾 900 萬筆）。",
+        "整合收費網絡中道路感測器、攝影機及車牌辨識器的數據。",
+        "與 Google Public Sector 及 Deloitte 合作，部署於 Google Cloud 基礎架構上。",
+        "未來階段將整合 Google Maps 即時交通數據，並以 Gemini 支援自然語言分析查詢。"
+      ]
+    },
+    "technologies": [
+      "Vertex AI",
+      "Google Cloud",
+      "Gemini",
+      "Google Maps API",
+      "BigQuery"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Central Texas Regional Mobility Authority Case study | Google Cloud",
+        "url": "https://cloud.google.com/customers/ctrma"
+      },
+      {
+        "title": "Modernizing Transportation Operations: Smarter Tolling and Beyond | Google Cloud Blog",
+        "url": "https://cloud.google.com/blog/topics/public-sector/modernizing-transportation-operations-smarter-tolling-and-beyond"
+      }
+    ]
+  },
+  {
+    "id": "public-sector-nonprofits-customer-justicia-lab",
+    "industry": "public-sector-nonprofits",
+    "agentType": "customer",
+    "company": "Justicia Lab",
+    "isNew": false,
+    "summary": {
+      "en": "Justicia Lab is developing an AI assistant that helps asylum seekers extract legal information from documents and receive personalized guidance.",
+      "zh": "Justicia Lab 正開發 AI 助理，協助尋求庇護者從法律文件中提取資訊並獲取個人化指引。"
+    },
+    "overview": {
+      "en": "Justicia Lab, the world's first nonprofit AI innovation lab for immigrant justice, received $500,000 in seed funding from Google.org to build an AI-powered platform for immigrant legal services. Users can upload photos of legal letters or documents, extract key information via AI, and receive personalized guidance and next steps. The platform aims to nationally scale free intake and case referral tools for underserved immigrant communities, co-designed with immigrants and advocates.",
+      "zh": "Justicia Lab 是全球首個專注移民正義的非營利 AI 創新實驗室，獲得 Google.org 50 萬美元種子資金，開發移民法律服務 AI 平台。用戶可上傳法律信件或文件的照片，透過 AI 提取關鍵資訊並獲得個人化指引與後續步驟。平台目標是與移民和倡導者共同設計，在全國推廣免費的受案與轉介工具。"
+    },
+    "highlights": {
+      "en": [
+        "Received $500,000 in funding from Google.org to launch the world's first AI lab for immigrant justice.",
+        "AI tool allows users to photograph legal documents and instantly extract actionable information.",
+        "Co-designed with immigrants and advocates, with built-in privacy and security to address trust barriers.",
+        "Aims to scale a free national intake and case referral tool that connects migrants with legal support."
+      ],
+      "zh": [
+        "獲得 Google.org 50 萬美元資助，創立全球首個移民正義 AI 實驗室。",
+        "AI 工具讓用戶拍攝法律文件後即可提取可操作的關鍵資訊。",
+        "與移民及倡導者共同設計，內建隱私與安全機制以解決信任顧慮。",
+        "目標推出免費的全國受案與轉介工具，協助移民與法律支援機構對接。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Vertex AI",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "PRESS RELEASE: Justicia Lab Announces $500,000 in Funding From Google.org",
+        "url": "https://www.justicialab.org/blog/press-release-justicia-lab-announces-500-000-in-funding-from-google-org"
+      },
+      {
+        "title": "Justicia Lab AI | The World's First Non-Profit AI Lab for Immigrant Justice",
+        "url": "https://www.justicialab.org/ai"
+      }
+    ]
+  },
+  {
+    "id": "public-sector-nonprofits-customer-litlab-ai",
+    "industry": "public-sector-nonprofits",
+    "agentType": "customer",
+    "company": "LitLab.ai",
+    "isNew": false,
+    "summary": {
+      "en": "LitLab.ai leverages Veo 3 and Vertex AI to generate personalized literacy stories and provide real-time oral reading analysis for students.",
+      "zh": "LitLab.ai 以 Veo 3 和 Vertex AI 生成個人化識字故事，並為學生提供即時口語閱讀分析。"
+    },
+    "overview": {
+      "en": "LitLab.ai is a reading platform built by researchers and literacy specialists that uses Veo 3 and Vertex AI to create personalized, curriculum-aligned decodable stories and assess student reading fluency in real time. The platform employs voice recognition to provide teachers with AI-analyzed oral reading data and instant feedback on student fluency, supporting K-2 teachers in closing literacy gaps.",
+      "zh": "LitLab.ai 是由研究人員與識字專家打造的閱讀平台，運用 Veo 3 和 Vertex AI 生成符合課程要求的個人化可解碼故事，並即時評估學生閱讀流暢度。平台採用語音辨識技術，為教師提供 AI 分析的口語閱讀數據與即時回饋，協助 K-2 教師縮小識字落差。"
+    },
+    "highlights": {
+      "en": [
+        "Uses Veo 3 on Vertex AI to generate personalized, curriculum-aligned decodable reading content for students.",
+        "Voice recognition enables real-time oral reading fluency analysis and teacher feedback.",
+        "Platform offers a library of ~1,000 pre-made decodable texts alongside AI-generated personalized content.",
+        "Partnered with Reading Horizons to expand AI-powered literacy instruction tools."
+      ],
+      "zh": [
+        "以 Vertex AI 上的 Veo 3 為學生生成符合課程、可個人化的可解碼閱讀內容。",
+        "語音辨識技術支援即時口語閱讀流暢度分析及教師回饋。",
+        "平台提供約 1,000 篇預製可解碼文本，並搭配 AI 生成的個人化內容。",
+        "與 Reading Horizons 合作，擴展 AI 驅動識字教學工具。"
+      ]
+    },
+    "technologies": [
+      "Veo 3",
+      "Vertex AI",
+      "Google Cloud",
+      "Speech-to-Text"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "LitLab.ai — curriculum-aligned decodables and fluency practice",
+        "url": "https://www.litlab.ai/"
+      },
+      {
+        "title": "Reading Horizons Partners with LitLab to Transform Early Literacy Instruction",
+        "url": "https://readinghorizons.com/news/reading-horizons-partners-with-litlab-to-transform-early-literacy-instruction/"
+      }
+    ]
+  },
+  {
+    "id": "public-sector-nonprofits-customer-minnesota-division-of-driver-and-vehicle-services",
+    "industry": "public-sector-nonprofits",
+    "agentType": "customer",
+    "company": "Minnesota Division of Driver and Vehicle Services",
+    "isNew": false,
+    "summary": {
+      "en": "Minnesota DVS uses Google Cloud Translation AI and Dialogflow to provide real-time bilingual services for non-English-speaking license applicants.",
+      "zh": "明尼蘇達 DVS 使用 Google Cloud Translation AI 和 Dialogflow，為非英語母語的駕照申請者提供即時雙語服務。"
+    },
+    "overview": {
+      "en": "The Minnesota Division of Driver and Vehicle Services (DVS) partnered with Google Cloud, Insight, and Botcopy to deploy Contact Center AI virtual agents built on Dialogflow with real-time Translation AI. The chatbot serves residents in English, Spanish, Hmong, and Somali—the four most-spoken languages in Minnesota—helping non-English speakers get licenses and other services via two-way real-time translation, with plans to expand to 30 languages.",
+      "zh": "明尼蘇達 DVS 與 Google Cloud、Insight 及 Botcopy 合作，基於 Dialogflow 和即時翻譯 AI 部署聯絡中心 AI 虛擬助理。聊天機器人以英語、西班牙語、苗語和索馬里語（明尼蘇達州最常用的四種語言）服務居民，協助非英語使用者透過雙向即時翻譯辦理駕照及其他業務，並計劃擴展至 30 種語言。"
+    },
+    "highlights": {
+      "en": [
+        "Provides real-time two-way translation in English, Spanish, Hmong, and Somali via virtual agent.",
+        "Spanish, Somali, and Hmong support covers 67% of non-English speakers in Minnesota.",
+        "Roadmap includes expansion from 4 to 30 languages, prioritized by population need.",
+        "Users can check driver's license status, update insurance, and check title status directly in the chatbot.",
+        "Built with Google Cloud's Contact Center AI using Dialogflow and Translation AI."
+      ],
+      "zh": [
+        "虛擬助理提供英語、西班牙語、苗語和索馬里語的即時雙向翻譯。",
+        "西班牙語、索馬里語和苗語支援涵蓋明尼蘇達州 67% 的非英語使用者。",
+        "路線圖計劃從 4 種語言擴展至 30 種，依人口需求排序優先導入。",
+        "用戶可直接在聊天機器人中查詢駕照狀態、更新保險及查詢車輛所有權狀態。",
+        "以 Google Cloud Contact Center AI、Dialogflow 及 Translation AI 建構。"
+      ]
+    },
+    "technologies": [
+      "Dialogflow CX",
+      "Translation AI",
+      "Google Cloud",
+      "Contact Center AI"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Minnesota Department of Public Safety Case Study | Google Cloud",
+        "url": "https://cloud.google.com/customers/minnesota-department-of-public-safety"
+      },
+      {
+        "title": "Translation AI Helps Bridge Language Barrier for Minnesota DVS — Government Technology",
+        "url": "https://www.govtech.com/artificial-intelligence/translation-ai-helps-bridge-language-barrier-for-minnesota-dvs"
+      }
+    ]
+  },
+  {
+    "id": "public-sector-nonprofits-customer-mrelief",
+    "industry": "public-sector-nonprofits",
+    "agentType": "customer",
+    "company": "mRelief",
+    "isNew": false,
+    "summary": {
+      "en": "mRelief's SMS-accessible AI chatbot simplifies SNAP food assistance enrollment, cutting application time from 90 minutes to under 15.",
+      "zh": "mRelief 透過 SMS 可存取的 AI 聊天機器人，將 SNAP 補助申請時間從 90 分鐘縮短至 15 分鐘以內。"
+    },
+    "overview": {
+      "en": "mRelief is a nonprofit that has built an AI-powered SMS chatbot and web application to simplify SNAP (food assistance) enrollment in all 53 U.S. states and territories. Partnering with Google.org and GitLab Foundation, the organization developed an AI assistant called Johnnie that guides applicants through eligibility screening and application submission. The simplified process takes around 2–3 minutes for screening and 13 minutes for the application, compared to the standard 17-page form or 90-minute phone call.",
+      "zh": "mRelief 是一家非營利組織，建立了 AI 驅動的簡訊聊天機器人和網頁應用程式，簡化美國全部 53 個州和領地的 SNAP（食物補助）申請流程。與 Google.org 和 GitLab Foundation 合作，該組織開發了名為 Johnnie 的 AI 助理，引導申請者完成資格審查和申請提交。簡化流程的審查約需 2-3 分鐘，申請約需 13 分鐘，對比標準的 17 頁表格或 90 分鐘電話申請。"
+    },
+    "highlights": {
+      "en": [
+        "Supported over 2.7 million people and unlocked over $1 billion in SNAP benefits.",
+        "Simplified applications are approved at a 70% rate, vs. 58% without mRelief's support.",
+        "SNAP eligibility screening takes just over 2 minutes; full simplified application takes about 13 minutes.",
+        "AI document-checking model improves photo submission quality and increases first-try application completion by 20%.",
+        "SMS-accessible design ensures reach for users without smartphones or data plans."
+      ],
+      "zh": [
+        "已協助超過 270 萬人，解鎖逾 10 億美元的 SNAP 補助金。",
+        "透過 mRelief 的簡化申請核准率達 70%，未使用時僅 58%。",
+        "SNAP 資格審查僅需約 2 分鐘；完整簡化申請約需 13 分鐘。",
+        "AI 文件檢核模型提升照片提交品質，首次申請完成率提高 20%。",
+        "簡訊可存取設計確保沒有智慧型手機或流量方案的用戶也能使用。"
+      ]
+    },
+    "technologies": [
+      "Google Cloud",
+      "Gemini",
+      "Vertex AI"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "mRelief AI chatbot — Johnnie",
+        "url": "https://ai.mrelief.com/"
+      },
+      {
+        "title": "Project Snapshot: mRelief — Digital Government Hub",
+        "url": "https://digitalgovernmenthub.org/publications/mrelief/"
+      }
+    ]
+  },
+  {
+    "id": "public-sector-nonprofits-customer-nanyang-technological-university",
+    "industry": "public-sector-nonprofits",
+    "agentType": "customer",
+    "company": "Nanyang Technological University",
+    "isNew": false,
+    "summary": {
+      "en": "NTU Singapore's Lyon Housing chatbot, powered by Dialogflow CX and Gemini, saves over 100 staff hours per month on student housing queries.",
+      "zh": "新加坡南洋理工大學以 Dialogflow CX 和 Gemini 建置的 Lyon 住宿聊天機器人，每月為員工節省逾 100 小時。"
+    },
+    "overview": {
+      "en": "Nanyang Technological University (NTU), Singapore, collaborated with CloudMile to upgrade its Lyon Bot student housing assistant with generative AI using Dialogflow CX and Gemini. The enhanced system handles student accommodation queries, employing intent detection, query rewriting, persona classification, and response generation. The hybrid approach combines GenAI for complex queries with intent-based flows for precision, saving the customer service team over 100 hours (14+ days) of manual work per month.",
+      "zh": "新加坡南洋理工大學與 CloudMile 合作，以 Dialogflow CX 和 Gemini 升級 Lyon Bot 學生住宿助理。升級後系統處理學生住宿查詢，運用意圖偵測、查詢改寫、角色分類和回覆生成等技術。混合式方法結合生成式 AI 處理複雜查詢與意圖型流程確保精準，每月為客服團隊節省逾 100 小時（超過 14 天）的人工作業。"
+    },
+    "highlights": {
+      "en": [
+        "Saves the customer service workforce more than 100 hours (14+ days) per month in admin work.",
+        "Upgraded from Dialogflow Essentials to a hybrid Dialogflow CX + Gemini LLM architecture.",
+        "Handles student housing queries with intent detection, query rewriting, and persona-based response generation.",
+        "System serves around 6,000 new students annually during university enrollment periods.",
+        "Partner CloudMile implemented the NTU generative AI upgrade."
+      ],
+      "zh": [
+        "每月為客服團隊節省逾 100 小時（超過 14 天）的行政作業。",
+        "從 Dialogflow Essentials 升級至 Dialogflow CX + Gemini LLM 混合式架構。",
+        "透過意圖偵測、查詢改寫及角色化回覆生成處理學生住宿查詢。",
+        "每年入學期間服務約 6,000 名新生。",
+        "合作夥伴 CloudMile 執行了南大生成式 AI 升級計畫。"
+      ]
+    },
+    "technologies": [
+      "Dialogflow CX",
+      "Gemini",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "NTU Singapore saves 14 days of admin work monthly with GenAI bot — IT Brief Asia",
+        "url": "https://itbrief.asia/story/ntu-singapore-saves-14-days-of-admin-work-monthly-with-genai-bot"
+      },
+      {
+        "title": "Nanyang Technological University, Singapore Case Study | Google Cloud",
+        "url": "https://cloud.google.com/customers/ntu"
+      }
+    ]
+  },
+  {
+    "id": "public-sector-nonprofits-customer-new-york-state-department-of-motor-vehicles",
+    "industry": "public-sector-nonprofits",
+    "agentType": "customer",
+    "company": "New York State Department of Motor Vehicles",
+    "isNew": false,
+    "summary": {
+      "en": "New York State DMV is using AI to enhance driver service efficiency and public accessibility across its operations.",
+      "zh": "紐約州 DMV 運用 AI 提升駕駛服務效率與公眾可及性。"
+    },
+    "overview": {
+      "en": "The New York State Department of Motor Vehicles is transforming its service experience through generative AI in collaboration with Google Cloud. AI solutions enable residents to perform self-service tasks such as license renewal and appointment booking, detect fraudulent applications, and support older adults. Dialogflow CX prebuilt agents handle common DMV transactions, improving efficiency and accessibility for the public.",
+      "zh": "紐約州機動車輛局與 Google Cloud 合作，透過生成式 AI 改造服務體驗。AI 方案讓居民能自助辦理駕照續期和預約等事務，偵測欺詐申請，並為老年人提供支援。Dialogflow CX 預建智能助理處理常見 DMV 業務，提升效率與公眾可及性。"
+    },
+    "highlights": {
+      "en": [
+        "AI enables online license renewal and appointment booking via Dialogflow CX prebuilt agents.",
+        "AI is used to detect fraudulent driver's license applications, improving security.",
+        "Initiative includes support for older adults navigating DMV digital services.",
+        "Part of a broader NY state effort documented in Google Cloud's public sector transformation case studies.",
+        "AI Governance Committee established internally to oversee AI use and policies."
+      ],
+      "zh": [
+        "透過 Dialogflow CX 預建助理實現線上駕照續期和預約。",
+        "AI 用於偵測欺詐性駕照申請，提升安全性。",
+        "計畫涵蓋協助老年人使用 DMV 數位服務。",
+        "為紐約州更廣泛 AI 轉型計畫的一部分，Google Cloud 公共部門案例研究有所記錄。",
+        "內部成立 AI 治理委員會，監督 AI 使用及相關政策。"
+      ]
+    },
+    "technologies": [
+      "Dialogflow CX",
+      "Gemini",
+      "Vertex AI",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Generative AI in NY Public Sector: Success Stories & Strategies | Google Cloud Blog",
+        "url": "https://cloud.google.com/blog/topics/public-sector/transforming-how-new-york-protects-and-serves-its-community"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "public-sector-nonprofits-customer-pepperdine-university",
+    "industry": "public-sector-nonprofits",
+    "agentType": "customer",
+    "company": "Pepperdine University",
+    "isNew": false,
+    "summary": {
+      "en": "Pepperdine University uses Gemini in Google Meet to deliver real-time translated captions and meeting notes for its multilingual community.",
+      "zh": "Pepperdine University 透過 Google Meet 中的 Gemini 為多語言師生提供即時翻譯字幕與會議筆記。"
+    },
+    "overview": {
+      "en": "Pepperdine University, whose students and faculty speak many languages, has adopted Gemini in Google Meet to enable real-time translated captioning and AI-generated meeting notes. This empowers multilingual participants to follow lectures, meetings, and discussions in their preferred language, improving inclusivity and academic engagement across the university community.",
+      "zh": "Pepperdine University 的學生與教職人員使用多種語言，因此採用 Google Meet 中的 Gemini，提供即時翻譯字幕與 AI 生成會議筆記。這使多語言參與者能以自己偏好的語言跟進課程、會議和討論，提升整個大學社群的包容性與學術參與度。"
+    },
+    "highlights": {
+      "en": [
+        "Gemini in Google Meet provides real-time translated captions across 4,600+ language pairs.",
+        "AI-generated notes allow multilingual students and faculty to review meeting content post-session.",
+        "Improves educational equity and inclusion for international students and non-native English speakers.",
+        "Part of Pepperdine's broader adoption of Google Workspace with Gemini for Education."
+      ],
+      "zh": [
+        "Google Meet 中的 Gemini 提供跨越 4,600 多種語言組合的即時翻譯字幕。",
+        "AI 生成會議筆記讓多語言學生和教職人員可在課後複習內容。",
+        "提升國際學生及非英語母語者的教育公平性與融合度。",
+        "為 Pepperdine 更廣泛採用 Google Workspace 與 Gemini for Education 的一部分。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Google Meet",
+      "Google Workspace",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Use translated captions in Google Meet | Google Meet Help",
+        "url": "https://support.google.com/meet/answer/10964115"
+      }
+    ]
+  },
+  {
+    "id": "public-sector-nonprofits-customer-recife-city-hall",
+    "industry": "public-sector-nonprofits",
+    "agentType": "customer",
+    "company": "Recife City Hall",
+    "isNew": true,
+    "summary": {
+      "en": "Recife City Hall's Citizen 360 project uses Google Cloud AI to personalize citizen services and streamline health regulation.",
+      "zh": "累西腓市政府的 Citizen 360 計畫以 Google Cloud AI 個人化市民服務，並加速衛生監管流程。"
+    },
+    "overview": {
+      "en": "Recife City Hall is implementing its Citizen 360 project as part of its broader AI Strategy using Google Cloud technology. The initiative personalizes services across digital channels, applies the 'zero click' concept to proactively serve citizens before requests are made, and leverages AI to improve management challenges such as health area regulation. The underlying platform, Conecta Cidadão, uses BigQuery, Cloud Storage, and Cloud Functions to deliver proactive services like vaccination alerts.",
+      "zh": "累西腓市政府正以 Google Cloud 技術推動「Citizen 360」計畫，作為其 AI 戰略的核心部分。此計畫在數位渠道提供個人化服務、採用「零點擊」概念在市民提出需求前主動服務，並以 AI 改善管理挑戰（如衛生監管流程）。底層平台 Conecta Cidadão 使用 BigQuery、Cloud Storage 及 Cloud Functions，提供疫苗接種提醒等主動服務。"
+    },
+    "highlights": {
+      "en": [
+        "Citizen 360 project personalizes services across digital channels using a 'zero click' proactive service model.",
+        "AI applied to health area regulation to bring greater agility and efficiency to the municipal health network.",
+        "Platform proactively delivers services (e.g., vaccination alerts) before citizens make requests.",
+        "Underlying tech stack includes BigQuery, Cloud Storage, and Cloud Functions for Big Data and event-driven triggers.",
+        "Part of an official municipal AI Strategy adopted at the city government level."
+      ],
+      "zh": [
+        "Citizen 360 計畫在數位渠道採用「零點擊」主動服務模式，提供個人化服務。",
+        "AI 應用於衛生監管流程，提升市立衛生網絡的敏捷性與效率。",
+        "平台在市民提出需求前主動提供服務（如疫苗接種提醒）。",
+        "底層技術堆疊包含 BigQuery、Cloud Storage 及 Cloud Functions，支援大數據與事件驅動觸發。",
+        "為市政府層級官方 AI 戰略的一部分。"
+      ]
+    },
+    "technologies": [
+      "BigQuery",
+      "Cloud Storage",
+      "Cloud Functions",
+      "Google Cloud",
+      "Vertex AI"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Prefeitura do Recife Case Study | Google Cloud",
+        "url": "https://cloud.google.com/customers/prefeitura-do-recife"
+      }
+    ]
+  },
+  {
+    "id": "public-sector-nonprofits-customer-rio-de-janeiro-city-data-office",
+    "industry": "public-sector-nonprofits",
+    "agentType": "customer",
+    "company": "Rio De Janeiro City Data Office",
+    "isNew": false,
+    "summary": {
+      "en": "Rio de Janeiro's 1746 citizen service chatbot, powered by Dialogflow, reduced average response time from 30 to 5 minutes.",
+      "zh": "里約熱內盧市 1746 市民服務聊天機器人以 Dialogflow 驅動，將平均回應時間從 30 分鐘縮短至 5 分鐘。"
+    },
+    "overview": {
+      "en": "Rio de Janeiro City Data Office powers the 1746 citizen service chatbot using Dialogflow, handling urban maintenance requests and municipal inquiries. The conversational AI manages over 30,000 monthly conversations, dramatically reducing citizen response time from 30 minutes to 5 minutes. The chatbot helps residents report issues, make inquiries, and navigate municipal services around the clock.",
+      "zh": "里約熱內盧市數據辦公室以 Dialogflow 驅動 1746 市民服務聊天機器人，處理城市維護請求和市政查詢。對話式 AI 每月處理逾 3 萬次對話，將市民平均回應時間從 30 分鐘大幅縮短至 5 分鐘，讓居民可全天候回報問題、查詢資訊並使用市政服務。"
+    },
+    "highlights": {
+      "en": [
+        "Reduced citizen response time from 30 minutes to 5 minutes—an 83% improvement.",
+        "Handles over 30,000 monthly conversations covering urban maintenance and municipal inquiries.",
+        "Available 24/7, allowing residents to report and track urban issues around the clock.",
+        "Powered by Google Cloud Dialogflow, integrated with Rio de Janeiro's 1746 municipal service line."
+      ],
+      "zh": [
+        "將市民回應時間從 30 分鐘縮短至 5 分鐘，效率提升 83%。",
+        "每月處理逾 3 萬次對話，涵蓋城市維護與市政查詢。",
+        "全天候可用，讓居民隨時回報並追蹤城市問題。",
+        "以 Google Cloud Dialogflow 驅動，整合里約熱內盧 1746 市政服務專線。"
+      ]
+    },
+    "technologies": [
+      "Dialogflow",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "public-sector-nonprofits-customer-savvy",
+    "industry": "public-sector-nonprofits",
+    "agentType": "customer",
+    "company": "Savvy",
+    "isNew": false,
+    "summary": {
+      "en": "Savvy uses Gemini to automatically generate personalized flashcards, quizzes, and instant grading feedback from students' study materials.",
+      "zh": "Savvy 以 Gemini 從學習材料自動生成個人化閃卡、測驗並提供即時評分回饋。"
+    },
+    "overview": {
+      "en": "Savvy is an AI-powered learning platform that automatically generates flashcards and quizzes from PDFs, notes, videos, and podcasts. As students answer questions, Gemini dynamically grades their responses and provides instant, personalized feedback. The platform adapts to each student's performance, enabling a personalized and active learning experience across diverse study materials.",
+      "zh": "Savvy 是一個 AI 學習平台，能自動從 PDF、筆記、影片和 Podcast 生成閃卡和測驗。學生作答時，Gemini 動態評分並提供即時個人化回饋。平台根據每位學生的表現自動調整，實現跨多元學習材料的個人化主動學習體驗。"
+    },
+    "highlights": {
+      "en": [
+        "Automatically converts PDFs, notes, videos, and podcasts into flashcards and quizzes.",
+        "Gemini provides dynamic, instant grading and personalized feedback as students answer.",
+        "Supports active recall and spaced repetition learning principles.",
+        "Accessible study tool for students across multiple formats of content."
+      ],
+      "zh": [
+        "自動將 PDF、筆記、影片和 Podcast 轉換為閃卡和測驗。",
+        "Gemini 在學生作答時提供動態即時評分與個人化回饋。",
+        "支援主動回憶和間隔重複學習原則。",
+        "可存取多種內容格式，為學生提供便捷的學習工具。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Vertex AI",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "public-sector-nonprofits-customer-senai",
+    "industry": "public-sector-nonprofits",
+    "agentType": "customer",
+    "company": "SENAI",
+    "isNew": false,
+    "summary": {
+      "en": "Brazil's SENAI uses Gemini 2.0 Flash, Speech-to-Text, and BigQuery to assess workforce language proficiency and connect workers to training opportunities.",
+      "zh": "巴西 SENAI 運用 Gemini 2.0 Flash、Speech-to-Text 和 BigQuery 評估勞動力語言能力，並將工作者與培訓機會連結。"
+    },
+    "overview": {
+      "en": "SENAI (Serviço Nacional de Aprendizagem Industrial), Brazil's national industrial training service, built a language proficiency testing platform using Gemini 2.0 Flash, Speech-to-Text, BigQuery, and Looker Studio. The platform assesses reading comprehension, logical reasoning, practical problem-solving, and speech fluency. Results help individuals identify skill gaps and connect with appropriate training programs and employment opportunities, supporting workforce readiness at national scale.",
+      "zh": "巴西全國工業訓練局（SENAI）以 Gemini 2.0 Flash、Speech-to-Text、BigQuery 和 Looker Studio 建立語言能力測試平台。平台評估閱讀理解、邏輯推理、實務問題解決及口語流暢度，協助個人找出技能落差並連結適合的培訓課程和就業機會，在全國規模支持勞動力準備度。"
+    },
+    "highlights": {
+      "en": [
+        "Assesses four key areas: reading comprehension, logical reasoning, practical problem-solving, and speech fluency.",
+        "Gemini 2.0 Flash processes multi-modal assessments including spoken responses via Speech-to-Text.",
+        "BigQuery and Looker Studio power analytics dashboards for workforce skill gap analysis.",
+        "Supports workforce readiness at national scale for Brazil's industrial training ecosystem.",
+        "Helps individuals identify skill gaps and connect to appropriate training and employment."
+      ],
+      "zh": [
+        "評估四個關鍵領域：閱讀理解、邏輯推理、實務問題解決和口語流暢度。",
+        "Gemini 2.0 Flash 透過 Speech-to-Text 處理包含口語回應的多模態評估。",
+        "BigQuery 和 Looker Studio 支援勞動力技能差距分析的分析儀表板。",
+        "在全國規模為巴西工業培訓生態系統支持勞動力準備度。",
+        "協助個人找出技能落差，並連結至合適的培訓和就業機會。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Speech-to-Text",
+      "BigQuery",
+      "Looker Studio",
+      "Vertex AI",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "public-sector-nonprofits-customer-state-of-nevada",
+    "industry": "public-sector-nonprofits",
+    "agentType": "customer",
+    "company": "State of Nevada",
+    "isNew": false,
+    "summary": {
+      "en": "Nevada's DETR uses Google Vertex AI to speed up unemployment claim appeal reviews, reducing processing from hours to minutes.",
+      "zh": "內華達州 DETR 使用 Google Vertex AI 加速失業金申訴審查，將處理時間從數小時縮短至數分鐘。"
+    },
+    "overview": {
+      "en": "The State of Nevada's Department of Employment, Training, and Rehabilitation (DETR) contracted Google for a $1.38 million Vertex AI Studio deployment to process unemployment benefit appeal transcripts. The AI generates case recommendations by analyzing appeal transcripts and comparing them to previous rulings. A hearing can receive an AI recommendation in approximately 5 minutes, compared to 10 minutes to several hours without AI, with a required 90% accuracy threshold for state approval.",
+      "zh": "內華達州就業、培訓和復健局（DETR）與 Google 簽訂約 138 萬美元合約，部署 Vertex AI Studio 處理失業補助申訴記錄。AI 透過分析申訴記錄並與過往裁決比對，生成案件建議。聽證案件可在約 5 分鐘內獲得 AI 建議，而非原來的 10 分鐘至數小時，且需達到 90% 準確率才獲州政府批准使用。"
+    },
+    "highlights": {
+      "en": [
+        "AI generates appeal recommendations in approximately 5 minutes vs. 10 minutes to several hours without AI.",
+        "Nevada's DETR paid Google $1,383,838 for the Vertex AI Studio implementation.",
+        "Total project cost is $2.6 million; state required a 90% accuracy success rate before deployment.",
+        "System analyzes transcripts of unemployment hearing appeals and compares to previous case rulings.",
+        "Addresses a significant backlog of unemployment appeal cases statewide."
+      ],
+      "zh": [
+        "AI 在約 5 分鐘內生成申訴建議，而不使用 AI 時需 10 分鐘至數小時。",
+        "DETR 為 Vertex AI Studio 實施支付 Google 約 138 萬美元。",
+        "計畫總費用 260 萬美元；州政府要求部署前達到 90% 準確率。",
+        "系統分析失業聽證申訴記錄並與過往案件裁決進行比對。",
+        "解決全州大量積壓的失業申訴案件。"
+      ]
+    },
+    "technologies": [
+      "Vertex AI",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Nevada will use Google AI to process a backlog of unemployment cases — Engadget",
+        "url": "https://www.engadget.com/ai/nevada-will-use-google-ai-to-process-a-backlog-of-unemployment-cases-202718427.html"
+      },
+      {
+        "title": "Nevada turns to AI to speed up unemployment appeals — Route Fifty",
+        "url": "https://www.route-fifty.com/artificial-intelligence/2025/05/nevada-turns-ai-speed-unemployment-appeals/404987/"
+      }
+    ]
+  },
+  {
+    "id": "public-sector-nonprofits-customer-studyhall-ai",
+    "industry": "public-sector-nonprofits",
+    "agentType": "customer",
+    "company": "Studyhall AI",
+    "isNew": false,
+    "summary": {
+      "en": "Studyhall AI, a Google Cloud UK Growth Accelerator graduate, built a Gemini-powered mobile app to coach students on reading, writing, and exam prep.",
+      "zh": "Studyhall AI 是 Google Cloud 英國成長加速器的畢業企業，以 Gemini 開發行動應用程式，輔導學生閱讀、寫作及考試準備。"
+    },
+    "overview": {
+      "en": "Studyhall AI is an AI research platform that graduated from Google Cloud's UK Growth Accelerator program. The company built a mobile application using Gemini models to provide personalized coaching for students in reading comprehension, writing skills, and exam preparation. The app aims to make high-quality academic coaching accessible to a broader student population.",
+      "zh": "Studyhall AI 是一個 AI 研究平台，已從 Google Cloud 英國成長加速器計畫畢業。該公司以 Gemini 模型開發行動應用程式，為學生提供閱讀理解、寫作技能和考試準備的個人化輔導，旨在讓更多學生獲得高品質學術輔導。"
+    },
+    "highlights": {
+      "en": [
+        "Graduated from Google Cloud's UK Growth Accelerator program, validating its AI-first approach.",
+        "Uses Gemini models to provide personalized coaching across reading, writing, and exam preparation.",
+        "Mobile-first design makes academic coaching more accessible to students.",
+        "Focuses on AI-powered research and study assistance for the student demographic."
+      ],
+      "zh": [
+        "從 Google Cloud 英國成長加速器計畫畢業，驗證其 AI 優先策略。",
+        "運用 Gemini 模型在閱讀、寫作和考試準備各方面提供個人化輔導。",
+        "行動裝置優先設計讓更多學生能獲得學術輔導。",
+        "專注為學生群體提供 AI 驅動的研究和學習輔助。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Vertex AI",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "public-sector-nonprofits-customer-sullivan-county-new-york",
+    "industry": "public-sector-nonprofits",
+    "agentType": "customer",
+    "company": "Sullivan County, New York",
+    "isNew": false,
+    "summary": {
+      "en": "Sullivan County, NY deployed a Vertex AI-powered constituent chatbot named Saige in under three months, cutting DMV call volume by 56%.",
+      "zh": "紐約州沙利文縣在不到三個月內部署 Vertex AI 驅動的市民聊天機器人 Saige，使 DMV 來電量減少 56%。"
+    },
+    "overview": {
+      "en": "Sullivan County, New York—one of the state's smallest counties—became one of the first jurisdictions to deploy Vertex AI Agent Builder to power its constituent chatbot, Saige. Launched in under three months with minimal staff, the bot dynamically answers questions about County Clerk and Treasurer offices by scraping official websites without requiring manual updates. Available 24/7, Saige extends service hours to nights and weekends and has been scaled across 40+ county offices.",
+      "zh": "紐約州沙利文縣是全州最小的縣之一，卻成為最早部署 Vertex AI Agent Builder 驅動市民聊天機器人 Saige 的機構之一。以最少人員在不到三個月內上線，機器人透過抓取官方網站動態回答縣書記和財務官辦公室的問題，無需手動更新。Saige 全天候提供服務，延伸服務至夜間和週末，並已擴展至逾 40 個縣辦公室。"
+    },
+    "highlights": {
+      "en": [
+        "DMV call volume reduced by more than 56% in four months compared to the same period the prior year.",
+        "Deployed in under three months with minimal staff using Vertex AI Agent Builder.",
+        "Chatbot scaled to 40+ county offices, providing 24/7 service including nights and weekends.",
+        "Self-updating: dynamically scrapes website content to stay current without manual intervention.",
+        "Highlighted at Google AI conferences as a model for small-government AI adoption."
+      ],
+      "zh": [
+        "與去年同期相比，四個月內 DMV 來電量減少逾 56%。",
+        "以最少人員使用 Vertex AI Agent Builder 在不到三個月內完成部署。",
+        "聊天機器人擴展至逾 40 個縣辦公室，提供包含夜間和週末的全天候服務。",
+        "自我更新：動態抓取網站內容保持最新，無需人工干預。",
+        "在 Google AI 會議上被列為小型政府採用 AI 的典範案例。"
+      ]
+    },
+    "technologies": [
+      "Vertex AI",
+      "Google Cloud",
+      "Vertex AI Agent Builder"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "40+ offices have implemented a Vertex AI-powered chatbot | Google Cloud Blog",
+        "url": "https://cloud.google.com/blog/topics/public-sector/sullivan-county-debuts-generative-ai-chatbot-saige-to-answer-constituent-faqs"
+      },
+      {
+        "title": "Sullivan County — Google AI for Public Sector",
+        "url": "https://www.publicsector.google/ai/sullivan-county-using-virtual-agents-to-serve-more-citizens-faster-at-any-hour-of-the-day/"
+      }
+    ]
+  },
+  {
+    "id": "public-sector-nonprofits-customer-tabiya",
+    "industry": "public-sector-nonprofits",
+    "agentType": "customer",
+    "company": "Tabiya",
+    "isNew": false,
+    "summary": {
+      "en": "Tabiya's Compass is an AI conversational tool that helps young job seekers identify skills from informal work and match them to employment opportunities.",
+      "zh": "Tabiya 的 Compass 是 AI 對話工具，協助年輕求職者從非正式工作中發掘技能，並與就業機會配對。"
+    },
+    "overview": {
+      "en": "Tabiya, backed by Google.org and deployed entirely on Google Cloud Platform, built Compass—an open-source AI skills discovery tool launched at the Google.org Impact Summit. Compass holds natural conversations with young job seekers, drawing out skills from paid jobs, informal work, care work, and personal projects, then maps those skills to relevant occupations using a localized skills taxonomy. The platform partners with government employment services, NGOs, and job platforms.",
+      "zh": "Tabiya 獲得 Google.org 支持，完全部署於 Google Cloud Platform 上，打造開源 AI 技能發現工具 Compass，並在 Google.org 影響力高峰會上發布。Compass 與年輕求職者進行自然對話，從正式工作、非正式工作、照護工作和個人專案中發掘技能，再以在地化技能分類法將技能對應至相關職業。平台與政府就業服務機構、NGO 及求職平台合作。"
+    },
+    "highlights": {
+      "en": [
+        "Open-source AI skills discovery tool launched at the Google.org Impact Summit with Google.org support.",
+        "Recognizes skills from all work types including informal, unpaid, and care work—often overlooked by traditional resumes.",
+        "Entire application deployed on Google Cloud Platform for high availability and scalability.",
+        "Skills taxonomy based on European ESCO classification, localized for diverse markets including Kenyan youth.",
+        "Partners with government employment services, NGOs, and job platforms to create tangible career pathways."
+      ],
+      "zh": [
+        "開源 AI 技能發現工具，在 Google.org 影響力高峰會上在 Google.org 支持下發布。",
+        "辨識所有工作類型的技能，包括非正式、無償及照護工作，這些往往被傳統履歷忽視。",
+        "整個應用程式部署於 Google Cloud Platform，確保高可用性和可擴展性。",
+        "技能分類法基於歐洲 ESCO 分類，並針對包括肯亞青年在內的多元市場在地化。",
+        "與政府就業服務機構、NGO 及求職平台合作，創造實質職涯路徑。"
+      ]
+    },
+    "technologies": [
+      "Google Cloud",
+      "Vertex AI",
+      "Gemini"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Tabiya | Open-Source Solutions for Economic Opportunity",
+        "url": "https://www.tabiya.org/"
+      },
+      {
+        "title": "Exploring Compass: An AI Conversational Agent for Personalized Skill Discovery — Tabiya",
+        "url": "https://tabiya.org/blog/exploring-compass-tech/"
+      }
+    ]
+  },
+  {
+    "id": "public-sector-nonprofits-customer-the-qatari-ministry-of-labour",
+    "industry": "public-sector-nonprofits",
+    "agentType": "customer",
+    "company": "The Qatari Ministry of Labour",
+    "isNew": false,
+    "summary": {
+      "en": "Qatar's Ministry of Labour launched Ouqoul, an AI platform connecting expatriate graduates with private sector jobs and streamlining contract authentication.",
+      "zh": "卡達勞工部推出 Ouqoul 平台，以 AI 將外籍大學畢業生與私部門職位配對，並簡化合約認證流程。"
+    },
+    "overview": {
+      "en": "The Qatari Ministry of Labour, in collaboration with Google Cloud and Mannai InfoTech, launched Ouqoul—an AI-powered employment platform designed to connect expatriate university graduates with private sector job opportunities in Qatar. The platform integrates AI-driven candidate matching, resume generation, career guidance, and skills assessment with ministry services for contract authentication and work permit issuance. Ouqoul is part of Qatar's strategy to build a knowledge-based economy.",
+      "zh": "卡達勞工部與 Google Cloud 及 Mannai InfoTech 合作，推出 Ouqoul——一個以 AI 驅動的就業平台，旨在將卡達的外籍大學畢業生與私部門職位機會連結。平台整合 AI 候選人配對、履歷生成、職涯指導和技能評估，以及勞工部的合約認證和工作許可簽發服務。Ouqoul 是卡達打造知識型經濟戰略的一部分。"
+    },
+    "highlights": {
+      "en": [
+        "AI-driven matching system aligns expatriate graduate skills with private sector job requirements.",
+        "Platform covers all employment stages: resume creation, job search, interviews, and contract signing.",
+        "Connected to the Labour Market Information System, providing universities with in-demand skills data.",
+        "Three interfaces serve expatriate graduates, Qatari graduates, and private sector companies.",
+        "Integrated with Ministry services for contract authentication and work permit issuance."
+      ],
+      "zh": [
+        "AI 配對系統將外籍畢業生的技能與私部門職位要求對齊。",
+        "平台涵蓋所有求職階段：履歷製作、職位搜尋、面試和合約簽署。",
+        "連接勞動市場資訊系統，為大學提供市場需求技能數據。",
+        "三個介面分別服務外籍畢業生、卡達本地畢業生和私部門企業。",
+        "整合勞工部的合約認證和工作許可簽發服務。"
+      ]
+    },
+    "technologies": [
+      "Vertex AI",
+      "Gemini",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Ministry of Labour announces employment platform 'Ouqoul' to provide AI-powered services | The Peninsula Qatar",
+        "url": "https://thepeninsulaqatar.com/article/05/08/2024/ministry-of-labour-announces-employment-platform-ouqoul-to-provide-ai-powered-services"
+      },
+      {
+        "title": "Ouqoul: Enhancing Employment Services in Qatar",
+        "url": "https://qawl.com/?p=1808&lang=en"
+      }
+    ]
+  },
+  {
+    "id": "public-sector-nonprofits-customer-university-of-hawaii",
+    "industry": "public-sector-nonprofits",
+    "agentType": "customer",
+    "company": "University of Hawaii",
+    "isNew": false,
+    "summary": {
+      "en": "University of Hawaii uses Vertex AI, BigQuery, and Gemini to build Hawaii Career Pathways, aligning students' academic profiles with in-state job opportunities.",
+      "zh": "夏威夷大學以 Vertex AI、BigQuery 和 Gemini 建立 Hawaii Career Pathways 平台，將學生學術檔案與夏威夷州就業機會對齊。"
+    },
+    "overview": {
+      "en": "The University of Hawaii System partnered with Google Public Sector to develop the Hawaii Career Pathways platform using Vertex AI and BigQuery to analyze labor market data. The platform evaluates students' qualifications, skills, and interests to create personalized profiles. Gemini provides individualized guidance to align students' academic paths with career opportunities in Hawaii, addressing the state's 'brain drain' challenge by encouraging graduates to remain in the state.",
+      "zh": "夏威夷大學系統與 Google Public Sector 合作，以 Vertex AI 和 BigQuery 分析勞動市場數據，開發 Hawaii Career Pathways 平台。平台評估學生的資歷、技能和興趣，建立個人化檔案。Gemini 提供個別化指導，協助學生的學術路徑與夏威夷州的就業機會對齊，解決該州「人才外流」問題，鼓勵畢業生留在夏威夷。"
+    },
+    "highlights": {
+      "en": [
+        "Uses Vertex AI and BigQuery to analyze vast labor market datasets and create personalized student profiles.",
+        "Gemini provides individualized career guidance, aligning academic paths with Hawaii job opportunities.",
+        "Addresses Hawaii's 'brain drain' challenge by helping graduates find entry-level local careers.",
+        "Part of a broader UH-Google partnership including Google AI Essentials courses for students and staff."
+      ],
+      "zh": [
+        "以 Vertex AI 和 BigQuery 分析大量勞動市場數據，建立學生個人化職業檔案。",
+        "Gemini 提供個別化職涯指導，協助學術路徑與夏威夷就業機會對齊。",
+        "解決夏威夷「人才外流」挑戰，協助畢業生在本地找到初階職位。",
+        "為 UH 與 Google 更廣泛合作的一部分，包括為學生和教職人員提供 Google AI Essentials 課程。"
+      ]
+    },
+    "technologies": [
+      "Vertex AI",
+      "BigQuery",
+      "Gemini",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "The University of Hawaii is helping the state retain top talent with Google AI | Google Cloud Blog",
+        "url": "https://cloud.google.com/blog/topics/public-sector/the-university-of-hawaii-is-helping-the-state-retain-top-talent-with-google-ai/"
+      },
+      {
+        "title": "UH teams with Google to help students stay, thrive, build careers in Hawaiʻi | University of Hawaiʻi System News",
+        "url": "https://www.hawaii.edu/news/2025/08/13/uh-teams-with-google/"
+      }
+    ]
+  },
+  {
+    "id": "public-sector-nonprofits-customer-university-of-hawaii-2",
+    "industry": "public-sector-nonprofits",
+    "agentType": "customer",
+    "company": "University of Hawaii",
+    "isNew": false,
+    "summary": {
+      "en": "University of Hawaii uses Google Translate to provide career guidance in Pacific Islander native languages including Hawaiian, Māori, and Samoan.",
+      "zh": "夏威夷大學以 Google Translate 以夏威夷語、毛利語、薩摩亞語等太平洋島民母語提供職涯指導。"
+    },
+    "overview": {
+      "en": "The University of Hawaii System extended its AI-powered Hawaii Career Pathways platform with Google Translate to communicate with Pacific Islander students in their native languages—including Hawaiian, Māori, Samoan, Tongan, Cook Islands Māori, Cantonese, and Marshallese. This multilingual capability makes career guidance and university communications more accessible to the diverse student population across the Pacific region.",
+      "zh": "夏威夷大學系統以 Google Translate 擴展其 AI 驅動的 Hawaii Career Pathways 平台，以太平洋島民學生的母語溝通——包括夏威夷語、毛利語、薩摩亞語、東加語、庫克群島毛利語、廣東話和馬紹爾語。這項多語言能力讓太平洋地區多元學生群體更易獲得職涯指導和大學溝通服務。"
+    },
+    "highlights": {
+      "en": [
+        "Supports Pacific Islander native languages including Hawaiian, Māori, Samoan, Tongan, Cook Islands Māori, Cantonese, and Marshallese.",
+        "Google Translate integration makes career guidance accessible to non-English-speaking Pacific Islander students.",
+        "Addresses the linguistic diversity of Hawaii's student population, among the most diverse in the U.S.",
+        "Part of the same UH-Google AI partnership supporting Hawaii Career Pathways."
+      ],
+      "zh": [
+        "支援太平洋島民語言，包括夏威夷語、毛利語、薩摩亞語、東加語、庫克群島毛利語、廣東話和馬紹爾語。",
+        "Google Translate 整合讓非英語母語的太平洋島民學生更易獲得職涯指導。",
+        "照顧夏威夷學生群體的語言多元性，為全美最多元的大學之一。",
+        "為 UH 與 Google 同一 AI 合作計畫的一部分，支援 Hawaii Career Pathways。"
+      ]
+    },
+    "technologies": [
+      "Google Translate",
+      "Vertex AI",
+      "BigQuery",
+      "Gemini",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "The University of Hawaii is helping the state retain top talent with Google AI | Google Cloud Blog",
+        "url": "https://cloud.google.com/blog/topics/public-sector/the-university-of-hawaii-is-helping-the-state-retain-top-talent-with-google-ai/"
+      },
+      {
+        "title": "University of Hawaii, Google Offer AI-Powered Career Guidance — GovTech",
+        "url": "https://www.govtech.com/education/higher-ed/university-of-hawaii-google-offer-ai-powered-career-guidance"
+      }
+    ]
+  },
+  {
+    "id": "public-sector-nonprofits-customer-var-department",
+    "industry": "public-sector-nonprofits",
+    "agentType": "customer",
+    "company": "Var department",
+    "isNew": false,
+    "summary": {
+      "en": "The Var department in southern France is building a team of AI experts with Google Cloud to make government more responsive and citizen-centric.",
+      "zh": "法國南部 Var 省以 Google Cloud 組建 AI 專家團隊，推動政府更有回應力、以市民為中心。"
+    },
+    "overview": {
+      "en": "The Var department in southern France has established a dedicated team of AI experts to build AI solutions across its public service operations using Google Cloud. The initiative is part of a broader effort to make local government more responsive, efficient, and citizen-centric by applying AI to improve internal workflows and service delivery across the department's administrative functions.",
+      "zh": "法國南部 Var 省以 Google Cloud 建立一支專門的 AI 專家團隊，在公共服務作業中開發 AI 解決方案。此舉是更廣泛努力的一部分，旨在透過將 AI 應用於改善內部工作流程和省行政職能的服務交付，使地方政府更具回應力、更高效且以市民為中心。"
+    },
+    "highlights": {
+      "en": [
+        "Established a dedicated internal AI expert team to build custom public sector solutions.",
+        "Uses Google Cloud AI tools to improve responsiveness, efficiency, and citizen-centric service delivery.",
+        "One of the early examples of a French regional government department formally investing in AI capacity.",
+        "Featured as a model for local government AI transformation by Google Cloud."
+      ],
+      "zh": [
+        "成立專屬內部 AI 專家團隊，開發客製化公共部門解決方案。",
+        "以 Google Cloud AI 工具提升回應力、效率和以市民為中心的服務交付。",
+        "法國地方政府正式投入 AI 建設能力的早期典範之一。",
+        "被 Google Cloud 列為地方政府 AI 轉型的示範案例。"
+      ]
+    },
+    "technologies": [
+      "Google Cloud",
+      "Vertex AI",
+      "Gemini"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "The Department of Var Uses AI to Reinvent Services — YouTube",
+        "url": "https://www.youtube.com/watch?v=Pzgf_Qx1lGY"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "public-sector-nonprofits-customer-west-sussex-county-council",
+    "industry": "public-sector-nonprofits",
+    "agentType": "customer",
+    "company": "West Sussex County Council",
+    "isNew": false,
+    "summary": {
+      "en": "West Sussex County Council's Dialogflow chatbot helps 890,000 residents quickly assess eligibility for adult social care services.",
+      "zh": "西蘇塞克斯郡議會以 Dialogflow 聊天機器人，協助 89 萬名居民快速評估成人社會照護服務資格。"
+    },
+    "overview": {
+      "en": "West Sussex County Council, serving 890,000 residents in the UK, uses Dialogflow to power an online chatbot that engages residents in real-time conversations to determine their eligibility for adult social care services and benefits. The conversational AI helps residents quickly understand their qualification status, reducing pressure on the Customer Service Center by filtering the 5% of inquiries that actually qualify for services. A generative AI agent also assists social care staff with policy and legislation queries.",
+      "zh": "服務英國 89 萬名居民的西蘇塞克斯郡議會，使用 Dialogflow 驅動線上聊天機器人，透過即時對話幫助居民確認成人社會照護服務的資格。對話式 AI 協助居民快速了解資格狀態，透過篩選真正符合資格的 5% 查詢，減輕客服中心的壓力。生成式 AI 助理亦協助社會照護人員查詢政策和法律文件。"
+    },
+    "highlights": {
+      "en": [
+        "Serves 890,000 residents across West Sussex with AI-powered social care eligibility screening.",
+        "Filters the 5% of inquiries that qualify for adult social care, reducing Customer Service Center load.",
+        "Real-time conversational AI engages residents with personalized eligibility questions.",
+        "Separate GenAI agent helps social care staff quickly access policy guides and legislation.",
+        "Google Cloud case study documented at cloud.google.com/customers/westsussexcounty."
+      ],
+      "zh": [
+        "以 AI 驅動的社會照護資格篩查服務西蘇塞克斯郡 89 萬名居民。",
+        "篩選符合成人社會照護資格的 5% 查詢，減輕客服中心負擔。",
+        "即時對話式 AI 以個人化資格問題與居民互動。",
+        "獨立的生成式 AI 助理協助社會照護人員快速查詢政策指引和法律文件。",
+        "Google Cloud 案例研究已記錄於 cloud.google.com/customers/westsussexcounty。"
+      ]
+    },
+    "technologies": [
+      "Dialogflow",
+      "Gemini",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "West Sussex County case study | Google Cloud",
+        "url": "https://cloud.google.com/customers/westsussexcounty"
+      }
+    ]
+  }
+]

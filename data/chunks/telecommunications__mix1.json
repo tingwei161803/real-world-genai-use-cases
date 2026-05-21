@@ -1,0 +1,1102 @@
+[
+  {
+    "id": "telecommunications-employee-nomad-esim",
+    "industry": "telecommunications",
+    "agentType": "employee",
+    "company": "Nomad eSIM",
+    "isNew": false,
+    "summary": {
+      "en": "Nomad eSIM uses Gemini to draft SOPs and sales documents, achieving a 15% increase in sales close rate.",
+      "zh": "Nomad eSIM 使用 Gemini 加速起草標準程序與文件，銷售成交率提升 15%，營運團隊節省 10% 時間。"
+    },
+    "overview": {
+      "en": "Nomad eSIM, a LotusFlare brand serving international travelers in 200+ destinations, deployed Gemini in Google Workspace to help employees rapidly draft standard operating procedures, sales documents, and internal communications. The AI accelerates content creation across Gmail, Docs, Sheets, Slides, and Meet, freeing the operations team from repetitive writing tasks.",
+      "zh": "Nomad eSIM 是 LotusFlare 旗下品牌，服務全球 200 多個目的地的旅行者。該公司在 Google Workspace 中導入 Gemini，協助員工快速起草標準作業程序（SOP）、銷售文件及內部溝通內容，涵蓋 Gmail、Docs、Sheets、Slides 和 Meet，有效減少重複性寫作工作。"
+    },
+    "highlights": {
+      "en": [
+        "15% increase in sales close rate attributed to AI-assisted document preparation.",
+        "10% of Operations team time saved in drafting standard operating procedures.",
+        "Gemini deployed across Google Workspace tools including Gmail, Docs, Sheets, Slides, and Meet.",
+        "Serves travelers in 200+ destinations globally as a LotusFlare brand."
+      ],
+      "zh": [
+        "借助 AI 輔助文件準備，銷售成交率提升 15%。",
+        "運營團隊起草標準作業程序的時間節省 10%。",
+        "Gemini 部署於 Gmail、Docs、Sheets、Slides 和 Meet 等 Google Workspace 工具。",
+        "作為 LotusFlare 品牌，服務全球 200 多個目的地的旅行者。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Google Workspace"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Nomad eSIM by LotusFlare — Google Workspace success story",
+        "url": "https://workspace.google.com/customers/success-stories/lotusflare/"
+      }
+    ]
+  },
+  {
+    "id": "telecommunications-employee-telus",
+    "industry": "telecommunications",
+    "agentType": "employee",
+    "company": "TELUS",
+    "isNew": false,
+    "summary": {
+      "en": "TELUS built Fuel iX on Vertex AI, delivering $90M+ in benefits and 500K+ hours saved across 57,000 employees.",
+      "zh": "TELUS 在 Vertex AI 上打造 Fuel iX 平台，為 57,000 多名員工創造逾 9,000 萬美元效益及節省 50 萬小時以上。"
+    },
+    "overview": {
+      "en": "TELUS built Fuel iX, a proprietary generative AI platform on Vertex AI, giving 57,000+ team members access to 40+ AI models including Anthropic's Claude and Gemini. The platform has enabled the creation of 13,000+ custom AI solutions across the enterprise, with engineering teams now shipping code 30% faster. Fuel iX runs 90% of AI model traffic through Vertex AI and has expanded beyond TELUS to serve external organizations.",
+      "zh": "TELUS 在 Vertex AI 上自建了名為 Fuel iX 的生成式 AI 平台，讓 57,000 多名員工可存取 40 多種 AI 模型，包括 Anthropic Claude 和 Gemini。該平台已催生逾 13,000 個自訂 AI 解決方案，工程團隊程式碼交付速度提升 30%。Fuel iX 有 90% 的 AI 流量通過 Vertex AI 處理，並已擴展至企業以外的外部組織。"
+    },
+    "highlights": {
+      "en": [
+        "Over $90 million in cumulative benefits delivered by 47 large-scale gen AI products.",
+        "500,000+ hours in time savings achieved across the organization.",
+        "Engineering teams shipping code 30% faster using AI assistance.",
+        "57,000+ employees actively using gen AI; 13,000+ custom AI solutions in production.",
+        "90% of AI model traffic routed through Vertex AI, supporting 40+ models from multiple vendors."
+      ],
+      "zh": [
+        "47 項大規模 gen AI 產品累計創造逾 9,000 萬美元效益。",
+        "全組織節省超過 50 萬小時。",
+        "工程團隊程式碼交付速度提升 30%。",
+        "57,000 多名員工積極使用 gen AI；逾 13,000 個自訂 AI 解決方案已投入生產。",
+        "90% 的 AI 模型流量通過 Vertex AI 路由，支援來自多個供應商的 40 多種模型。"
+      ]
+    },
+    "technologies": [
+      "Vertex AI",
+      "Gemini",
+      "Anthropic Claude"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "TELUS case study — Google Cloud",
+        "url": "https://cloud.google.com/customers/telusai"
+      },
+      {
+        "title": "TELUS Digital's Fuel iX™ — Newsroom",
+        "url": "https://www.telusdigital.com/about/newsroom/telus-digital-puts-power-of-fuelix-in-hands-of-70-thousand-team-members"
+      }
+    ]
+  },
+  {
+    "id": "telecommunications-employee-tim-brasil",
+    "industry": "telecommunications",
+    "agentType": "employee",
+    "company": "TIM Brasil",
+    "isNew": false,
+    "summary": {
+      "en": "TIM Brasil uses Google Cloud gen AI to transcribe, classify, and summarize customer service calls in real time.",
+      "zh": "TIM Brasil 利用 Google Cloud 生成式 AI 即時轉錄、分類並摘要客服通話，提升服務品質與員工效率。"
+    },
+    "overview": {
+      "en": "TIM Brasil, a leading Brazilian telecom operator, uses Google Cloud's gen AI capabilities to transcribe audio from customer service calls and then automatically classify, summarize, and qualify each customer's demands with increasing precision. The solution assists live agents during calls and provides team feedback on best practices, creating a continuous improvement loop for customer service quality.",
+      "zh": "TIM Brasil 是巴西領先的電信業者，運用 Google Cloud 生成式 AI 能力對客服電話進行即時音訊轉錄，並自動分類、摘要和評估客戶需求，精準度持續提升。該解決方案在通話期間輔助真人客服，並為團隊提供最佳實踐反饋，形成客服品質的持續改善循環。"
+    },
+    "highlights": {
+      "en": [
+        "Real-time audio transcription of customer service calls using Google Cloud gen AI.",
+        "Automatic classification, summarization, and qualification of customer demands.",
+        "AI-assisted agents receive real-time coaching and next-best-action suggestions.",
+        "Continuous team feedback loop supports best practice sharing and service improvement."
+      ],
+      "zh": [
+        "利用 Google Cloud 生成式 AI 對客服電話進行即時音訊轉錄。",
+        "自動分類、摘要並評估客戶需求。",
+        "AI 輔助客服人員接收即時輔導與最佳行動建議。",
+        "持續的團隊反饋機制支持最佳實踐分享與服務改善。"
+      ]
+    },
+    "technologies": [
+      "Google Cloud",
+      "Gemini",
+      "Contact Center AI",
+      "Agent Assist"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "TIM (Telecom Italia) Case Study — Google Cloud",
+        "url": "https://cloud.google.com/customers/tim"
+      }
+    ]
+  },
+  {
+    "id": "telecommunications-employee-verizon",
+    "industry": "telecommunications",
+    "agentType": "employee",
+    "company": "Verizon",
+    "isNew": false,
+    "summary": {
+      "en": "Verizon uses AI-powered enterprise search to help 28,000 frontline staff in network operations and customer care find answers faster.",
+      "zh": "Verizon 運用 AI 企業搜尋功能，協助 28,000 名前線員工在網路運營與客戶服務中更快速地找到所需資訊。"
+    },
+    "overview": {
+      "en": "Verizon, the largest U.S. wireless carrier, deployed AI-powered enterprise search tools to help teams in network operations and customer experience access information faster without manually searching through extensive knowledge bases. The tool provides 28,000 Verizon retail and customer care representatives with real-time, context-aware answers to customer inquiries, achieving a 95% answerability rate for customer questions.",
+      "zh": "美國最大無線電信商 Verizon 部署了 AI 驅動的企業搜尋工具，協助網路運營與客戶體驗團隊快速存取資訊，無需手動翻查龐大的知識庫。該工具為 28,000 名零售與客服代表提供即時、具上下文感知的客戶查詢答案，客戶問題可解答率達 95%。"
+    },
+    "highlights": {
+      "en": [
+        "AI-powered search deployed to 28,000 Verizon retail and customer care representatives.",
+        "95% answerability rate for customer inquiries achieved.",
+        "Eliminates the need to manually search through extensive knowledge bases in real time.",
+        "Improves customer experience and operational efficiency across network and care teams."
+      ],
+      "zh": [
+        "AI 搜尋工具部署給 28,000 名零售與客服代表。",
+        "客戶查詢可解答率達 95%。",
+        "消除了即時手動翻查龐大知識庫的需要。",
+        "提升網路和客服團隊的客戶體驗與營運效率。"
+      ]
+    },
+    "technologies": [
+      "Vertex AI",
+      "Gemini",
+      "Customer Engagement Suite",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Google Cloud and Verizon Drive Customer Experience Improvements — PR Newswire",
+        "url": "https://www.prnewswire.com/news-releases/google-cloud-and-verizon-drive-customer-experience-improvements-for-verizon-customers-with-gemini-integration-302424246.html"
+      }
+    ]
+  },
+  {
+    "id": "telecommunications-employee-verizon-2",
+    "industry": "telecommunications",
+    "agentType": "employee",
+    "company": "Verizon",
+    "isNew": false,
+    "summary": {
+      "en": "Verizon uses Gemini in Google Workspace to draft emails and documents; 82% of users report positive daily impact.",
+      "zh": "Verizon 使用 Google Workspace 的 Gemini 起草電子郵件與文件，82% 的用戶表示對日常工作有正面影響。"
+    },
+    "overview": {
+      "en": "Verizon deployed Gemini in Google Workspace to enable employees to create, refine, and summarize emails and lengthy documents, and identify action items from email chains. An internal user survey found that 82% of respondents feel Gemini makes a positive impact on their day-to-day operations, while 74% reported that using Gemini saves them time on routine tasks.",
+      "zh": "Verizon 在 Google Workspace 中部署 Gemini，讓員工能夠創建、修改和摘要電子郵件及長篇文件，並從郵件鏈中識別行動事項。內部用戶調查顯示，82% 的受訪者表示 Gemini 對其日常運營有正面影響，74% 表示使用 Gemini 節省了他們在例行任務上的時間。"
+    },
+    "highlights": {
+      "en": [
+        "82% of surveyed users report Gemini makes a positive impact on day-to-day operations.",
+        "74% of users say Gemini saves them time on routine tasks.",
+        "Capabilities include drafting, refining, and summarizing emails and long documents.",
+        "Automatic identification of action items from email chains improves workflow efficiency."
+      ],
+      "zh": [
+        "82% 的受訪用戶表示 Gemini 對日常運營有正面影響。",
+        "74% 的用戶表示 Gemini 節省了例行任務時間。",
+        "功能涵蓋起草、修改和摘要電子郵件及長篇文件。",
+        "自動從郵件鏈識別行動事項，提升工作流程效率。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Google Workspace"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Google Cloud and Verizon Drive Customer Experience Improvements — PR Newswire",
+        "url": "https://www.prnewswire.com/news-releases/google-cloud-and-verizon-drive-customer-experience-improvements-for-verizon-customers-with-gemini-integration-302424246.html"
+      }
+    ]
+  },
+  {
+    "id": "telecommunications-employee-virgin-media-o2",
+    "industry": "telecommunications",
+    "agentType": "employee",
+    "company": "Virgin Media O2",
+    "isNew": true,
+    "summary": {
+      "en": "Virgin Media O2 uses AI-powered Knowledge Catalog to activate 20,000+ data assets for global product teams.",
+      "zh": "Virgin Media O2 運用 AI 知識目錄盤活逾 20,000 個數據資產，賦能全球產品團隊。"
+    },
+    "overview": {
+      "en": "Virgin Media O2 (VMO2) had over 20,000 data assets distributed across a federated architecture, many of which were untapped. The company deployed an AI-powered Smart Metadata solution using Dataplex Universal Catalog and BigQuery Data Insights, which automatically generates rich, contextual metadata by analyzing schemas, data profiles, and relationships. This enables global product teams to discover, govern, and leverage data assets at scale.",
+      "zh": "Virgin Media O2（VMO2）在分散式架構中擁有逾 20,000 個數據資產，其中許多從未被充分利用。公司透過 Dataplex Universal Catalog 和 BigQuery Data Insights 部署了 AI 驅動的 Smart Metadata 解決方案，透過分析結構描述、數據剖析和關聯性，自動生成豐富的上下文元數據，讓全球產品團隊得以大規模發現、治理及使用數據資產。"
+    },
+    "highlights": {
+      "en": [
+        "Over 20,000 data assets activated through AI-generated metadata in Dataplex Universal Catalog.",
+        "AI automatically generates descriptions by analyzing schema, data profiles, and relationships.",
+        "Data contracts framework ensures published datasets are reliable, documented, and compliance-ready.",
+        "Global product teams empowered to discover and use data assets independently."
+      ],
+      "zh": [
+        "透過 Dataplex Universal Catalog 的 AI 生成元數據，盤活逾 20,000 個數據資產。",
+        "AI 透過分析結構描述、數據剖析及關聯性，自動生成資料描述。",
+        "數據合約框架確保已發布的數據集可靠、有文件記錄且符合合規要求。",
+        "全球產品團隊可自行探索並使用數據資產。"
+      ]
+    },
+    "technologies": [
+      "Dataplex Universal Catalog",
+      "BigQuery",
+      "Google Cloud",
+      "Gemini"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "VMO2 uses data contracts to build scalable AI and data products — Google Cloud Blog",
+        "url": "https://cloud.google.com/blog/products/data-analytics/vmo2-uses-data-contracts-to-build-scalable-ai-and-data-products"
+      },
+      {
+        "title": "Virgin Media O2 Case Study — Google Cloud",
+        "url": "https://cloud.google.com/customers/virgin-media-o2-data-platform-migration"
+      }
+    ]
+  },
+  {
+    "id": "telecommunications-employee-vodafone",
+    "industry": "telecommunications",
+    "agentType": "employee",
+    "company": "Vodafone",
+    "isNew": false,
+    "summary": {
+      "en": "Vodafone uses Vertex AI to search and analyze commercial terms across 10,000+ contracts with 800+ operators.",
+      "zh": "Vodafone 利用 Vertex AI 搜尋並分析與逾 800 家電信商簽訂的 10,000 多份合約中的商業條款。"
+    },
+    "overview": {
+      "en": "Vodafone deployed Vertex AI to help its network development teams rapidly search and understand specific commercial terms and conditions across more than 10,000 contracts with more than 800 communications operators. The AI solution extracts key clauses and provides valuable insights for contract template generation, drastically reducing the manual effort required to manage vast amounts of contractual data across Vodafone's European and African operations.",
+      "zh": "Vodafone 部署 Vertex AI，協助網路開發團隊快速搜尋並理解與逾 800 家電信商簽訂的 10,000 多份合約中的特定商業條款。AI 解決方案能擷取關鍵條款並提供合約範本生成所需的重要見解，大幅降低管理龐大合約數據所需的人工作業量。"
+    },
+    "highlights": {
+      "en": [
+        "Vertex AI analyzes over 10,000 contracts with more than 800 communications operators.",
+        "Extracts key clauses and generates insights for contract template creation.",
+        "Reduces manual effort for network development teams managing contractual data.",
+        "Part of Vodafone's broader $1 billion, 10-year strategic partnership with Google Cloud."
+      ],
+      "zh": [
+        "Vertex AI 分析與逾 800 家電信商簽訂的 10,000 多份合約。",
+        "擷取關鍵條款並為合約範本創建提供見解。",
+        "降低網路開發團隊管理合約數據的人工作業量。",
+        "此為 Vodafone 與 Google Cloud 總值 10 億美元、為期 10 年戰略合作夥伴關係的一部分。"
+      ]
+    },
+    "technologies": [
+      "Vertex AI",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Vodafone expands Google partnership for Vertex AI — IT Pro",
+        "url": "https://www.itpro.com/business/digital-transformation/vodafone-expands-google-partnership-for-vertex-ai"
+      },
+      {
+        "title": "Vodafone and Google Deepen Strategic Partnership — PR Newswire",
+        "url": "https://www.prnewswire.com/news-releases/vodafone-and-google-deepen-strategic-partnership-with-ten-year-billion-dollar-deal-including-cloud-cybersecurity-and-devices-across-europe-and-africa-302269570.html"
+      }
+    ]
+  },
+  {
+    "id": "telecommunications-employee-vodafone-2",
+    "industry": "telecommunications",
+    "agentType": "employee",
+    "company": "Vodafone",
+    "isNew": false,
+    "summary": {
+      "en": "Vodafone and Quantexa built a 360-degree customer view on Google Cloud to deliver actionable decision intelligence.",
+      "zh": "Vodafone 與 Quantexa 在 Google Cloud 上打造 360 度客戶視圖，提供可行的決策智慧。"
+    },
+    "overview": {
+      "en": "Vodafone worked with Quantexa to build a Decision Intelligence platform on Google Cloud, providing a unified 360-degree view of each customer. The solution combines Vodafone's data with Quantexa's AI-driven decision intelligence capabilities to surface clear customer insights that enable improved service experiences and more informed business actions across Vodafone's operations.",
+      "zh": "Vodafone 與 Quantexa 合作，在 Google Cloud 上打造決策智慧平台，提供每位客戶的統一 360 度視圖。該解決方案將 Vodafone 的數據與 Quantexa 的 AI 驅動決策智慧能力相結合，呈現清晰的客戶洞察，進而改善服務體驗並在 Vodafone 整體業務中支援更明智的商業決策。"
+    },
+    "highlights": {
+      "en": [
+        "360-degree customer view built on Google Cloud using Quantexa's Decision Intelligence platform.",
+        "Surfaces clear, actionable customer insights for improved service experiences.",
+        "Combines Vodafone's internal data with AI-driven intelligence from Quantexa.",
+        "Supports more informed business decisions across Vodafone's operations."
+      ],
+      "zh": [
+        "基於 Google Cloud，使用 Quantexa Decision Intelligence 平台建立 360 度客戶視圖。",
+        "呈現清晰可行的客戶洞察，改善服務體驗。",
+        "結合 Vodafone 內部數據與 Quantexa 的 AI 驅動智慧。",
+        "支援 Vodafone 全業務更明智的商業決策。"
+      ]
+    },
+    "technologies": [
+      "Google Cloud",
+      "Vertex AI",
+      "BigQuery"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "How Vodafone is using gen AI to enhance network lifecycle — Google Cloud Blog",
+        "url": "https://cloud.google.com/blog/topics/telecommunications/vodafone-gen-ai-enhances-network-lifecycle"
+      }
+    ]
+  },
+  {
+    "id": "telecommunications-customer-banglalink",
+    "industry": "telecommunications",
+    "agentType": "customer",
+    "company": "Banglalink",
+    "isNew": false,
+    "summary": {
+      "en": "Banglalink's Gemini-powered REN chatbot autonomously handles 95% of Ryze customer interactions in English, Bengali, and Banglish.",
+      "zh": "Banglalink 的 Gemini 驅動聊天機器人 REN 自主處理 Ryze 品牌 95% 的客戶互動，支援英語、孟加拉語和「Banglish」。"
+    },
+    "overview": {
+      "en": "Banglalink, a leading Bangladeshi telecom operator, launched REN, a Gemini-powered generative AI chatbot for its Ryze digital brand, to provide fully digital customer service to millions of young users. The chatbot handles balance inquiries, package purchases, bill payments, and SIM services in English, Bengali, and 'Banglish' (Bengali written in Roman script). Built in partnership with Google and powered by Riafy Technologies, REN is the first AI-powered chat engine in Bangladesh's telecom sector.",
+      "zh": "孟加拉領先電信商 Banglalink 為其 Ryze 數位品牌推出由 Gemini 驅動的 REN 聊天機器人，為數百萬年輕用戶提供全數位化客戶服務。REN 支援英語、孟加拉語和「Banglish」（羅馬字拼寫的孟加拉語），處理餘額查詢、套餐購買、帳單支付及 SIM 卡服務，是孟加拉電信業首個 AI 聊天引擎。"
+    },
+    "highlights": {
+      "en": [
+        "95% of Ryze customer interactions managed autonomously by the REN chatbot.",
+        "Only 4% of interactions require human agent intervention.",
+        "Supports three languages: English, Bengali, and Banglish (Bengali in Roman script).",
+        "First AI-powered chat engine launched in Bangladesh's telecom industry.",
+        "Built on Google Gemini with Riafy Technologies as the Google Cloud partner."
+      ],
+      "zh": [
+        "REN 聊天機器人自主處理 95% 的 Ryze 客戶互動。",
+        "僅 4% 的互動需要人工客服介入。",
+        "支援三種語言：英語、孟加拉語及 Banglish（羅馬字母孟加拉語）。",
+        "孟加拉電信業首個 AI 聊天引擎。",
+        "基於 Google Gemini 構建，Riafy Technologies 為 Google Cloud 合作夥伴。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Google Cloud",
+      "Vertex AI"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Banglalink case study — Google Cloud",
+        "url": "https://cloud.google.com/customers/banglalink"
+      },
+      {
+        "title": "Banglalink launches telecom industry's first AI-powered chat engine — The Daily Star",
+        "url": "https://www.thedailystar.net/business/organisation-news/press-releases/news/banglalink-launches-telecom-industrys-first-ai-powered-chat-engine-3795311"
+      }
+    ]
+  },
+  {
+    "id": "telecommunications-customer-bell-canada",
+    "industry": "telecommunications",
+    "agentType": "customer",
+    "company": "Bell Canada",
+    "isNew": false,
+    "summary": {
+      "en": "Bell Canada deployed AI-powered contact center solutions with Agent Assist, contributing $20M in customer operations savings.",
+      "zh": "Bell Canada 部署 AI 驅動的聯絡中心解決方案並引入 Agent Assist，為客戶運營節省 2,000 萬美元。"
+    },
+    "overview": {
+      "en": "Bell Canada built customizable Google Cloud-powered contact center solutions for its business customers, offering AI agents to handle callers and an Agent Assist tool that provides real-time suggestions and sentiment analysis to human agents. The platform, deployed at world-first scale for a contact center of this size, has contributed $20 million in savings across Bell's customer operations. Bell is also reselling these solutions to Canadian businesses through its Google Cloud Contact Center AI partnership.",
+      "zh": "Bell Canada 為其企業客戶打造可自訂的 Google Cloud 驅動聯絡中心解決方案，提供 AI 客服代理接聽來電，並透過 Agent Assist 工具為人工客服提供即時建議和情緒分析。該平台以全球首例的規模部署於如此大型的聯絡中心，已為 Bell 的客戶運營節省 2,000 萬美元，同時也透過 Google Cloud CCAI 合作關係向加拿大企業轉售這些解決方案。"
+    },
+    "highlights": {
+      "en": [
+        "$20 million in savings contributed across Bell Canada's customer operations from AI.",
+        "AI virtual agents handle inbound callers; Agent Assist supports human agents in real time.",
+        "Agent Assist provides step-by-step recommendations and sentiment analysis during calls.",
+        "First fully AI-powered contact center solution for Canadian enterprise customers at this scale.",
+        "Bell is also reselling CCAI solutions to Canadian businesses as part of the Google Cloud partnership."
+      ],
+      "zh": [
+        "AI 技術為 Bell Canada 客戶運營節省 2,000 萬美元。",
+        "AI 虛擬代理處理呼入電話；Agent Assist 即時支援人工客服。",
+        "Agent Assist 在通話期間提供逐步建議和情緒分析。",
+        "加拿大企業客戶中首個以如此規模部署的全 AI 驅動聯絡中心解決方案。",
+        "Bell 亦透過 Google Cloud 合作關係向加拿大企業轉售 CCAI 解決方案。"
+      ]
+    },
+    "technologies": [
+      "Contact Center AI",
+      "Agent Assist",
+      "Google Cloud",
+      "Gemini"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Bell Canada partners with Google Cloud to power AI-driven contact centre revolution — Bell Canada",
+        "url": "https://explore.business.bell.ca/news-and-events/bell-canada-partners-google-cloud-power-ai-driven-contact-centre-revolution-canadian-businesses"
+      },
+      {
+        "title": "Bell Canada partners with Google Cloud — PR Newswire",
+        "url": "https://www.prnewswire.com/news-releases/bell-canada-partners-with-google-cloud-to-power-their-ai-driven-contact-centre-revolution-for-canadian-businesses-302111580.html"
+      }
+    ]
+  },
+  {
+    "id": "telecommunications-customer-deutsche-telekom",
+    "industry": "telecommunications",
+    "agentType": "customer",
+    "company": "Deutsche Telekom",
+    "isNew": true,
+    "summary": {
+      "en": "Deutsche Telekom built MINDR, a multi-agentic AI system with Google Gemini that reduces major network event management from hours to ~1 minute.",
+      "zh": "Deutsche Telekom 聯合 Google 打造多代理 AI 系統 MINDR，將重大網路事件管理時間從數小時縮短至約 1 分鐘。"
+    },
+    "overview": {
+      "en": "Deutsche Telekom, in partnership with Google Cloud, developed MINDR (Multi-Agentic Intelligent Network Diagnostics & Remediation), a multi-agentic AI system built on Google's Gemini models and Vertex AI. MINDR shifts network operations from reactive troubleshooting to predictive, service-driven automation, correlating signals end-to-end across RAN, transport, and core domains to detect, diagnose, and resolve issues before they impact customers — reducing the time to manage major events from hours to approximately one minute.",
+      "zh": "Deutsche Telekom 與 Google Cloud 合作開發了 MINDR（多代理智慧網路診斷與修復）系統，基於 Google Gemini 模型和 Vertex AI 構建。MINDR 將網路運營從被動故障排除轉變為預測性、服務導向的自動化，跨 RAN、傳輸和核心網域端到端關聯訊號，在問題影響客戶前進行偵測、診斷和修復，將重大事件管理時間從數小時縮短至約 1 分鐘。"
+    },
+    "highlights": {
+      "en": [
+        "Reduces time to manage major network events from hours to approximately one minute.",
+        "MINDR correlates signals across RAN, transport, and core network domains end-to-end.",
+        "Uses Agent-to-Agent (A2A) protocol for multi-agent coordination.",
+        "Shifts network operations from reactive troubleshooting to predictive automation.",
+        "Built on Google Gemini models via Vertex AI as part of Deutsche Telekom's AI-Native Telco strategy."
+      ],
+      "zh": [
+        "將重大網路事件管理時間從數小時縮短至約 1 分鐘。",
+        "MINDR 跨 RAN、傳輸和核心網域端到端關聯訊號。",
+        "採用 Agent-to-Agent（A2A）協議進行多代理協調。",
+        "將網路運營從被動故障排除轉變為預測性自動化。",
+        "基於 Vertex AI 上的 Google Gemini 模型構建，是 Deutsche Telekom AI-Native Telco 戰略的一部分。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Vertex AI",
+      "Google Cloud",
+      "Multi-agent AI"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "DT and Google Cloud develop multi-agentic AI system — Telecoms.com",
+        "url": "https://www.telecoms.com/ai/dt-and-google-cloud-develop-multi-agentic-ai-system"
+      },
+      {
+        "title": "Deutsche Telekom Deepens Strategic Partnership with Google Cloud",
+        "url": "https://www.telekom.com/en/media/media-information/archive/strategic-partnership-with-google-cloud-1090376"
+      }
+    ]
+  },
+  {
+    "id": "telecommunications-customer-lg-u",
+    "industry": "telecommunications",
+    "agentType": "customer",
+    "company": "LG U+",
+    "isNew": true,
+    "summary": {
+      "en": "LG U+ integrated Gemini into its ixi-O phone agent to deliver actionable AI with real-time intent understanding and plans for international expansion.",
+      "zh": "LG U+ 將 Gemini 整合至 ixi-O 電話 AI 助理，提供即時意圖理解能力，並計劃拓展國際市場。"
+    },
+    "overview": {
+      "en": "LG U+, the South Korean mobile network operator, integrated Gemini into its ixi-O AI phone agent to enable more actionable AI that understands user intent and responds accordingly in real time. The company also uses the Gemini Enterprise Agent Platform to add features that recommend responses during calls. LG U+ aims to expand ixi-O internationally, targeting $300 million in revenue by 2028, with ongoing negotiations with telecom operators in Southeast Asia.",
+      "zh": "韓國行動網路電信商 LG U+ 將 Gemini 整合至 ixi-O AI 電話助理，實現即時理解用戶意圖並作出相應回應的 AI 能力。公司亦使用 Gemini Enterprise Agent Platform 新增通話期間的回應推薦功能。LG U+ 計劃在國際市場拓展 ixi-O，目標在 2028 年前達成 3 億美元收益，目前正與東南亞電信商進行洽談。"
+    },
+    "highlights": {
+      "en": [
+        "Gemini integrated into ixi-O for real-time user intent understanding and response during calls.",
+        "Gemini Enterprise Agent Platform adds in-call response recommendation features.",
+        "International expansion target of $300 million in revenue by 2028.",
+        "Active partnership negotiations with Southeast Asian telecom operators.",
+        "Ultra-low-latency streaming AI engine interprets user intent without interrupting conversation flow."
+      ],
+      "zh": [
+        "Gemini 整合至 ixi-O，實現通話期間的即時用戶意圖理解與回應。",
+        "Gemini Enterprise Agent Platform 新增通話中回應推薦功能。",
+        "國際擴張目標：2028 年前達成 3 億美元收益。",
+        "積極與東南亞電信商洽談合作。",
+        "超低延遲串流 AI 引擎在不打斷對話流程的情況下理解用戶意圖。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Gemini Enterprise Agent Platform",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "LG Uplus accelerates global expansion with Google — The Korea Herald",
+        "url": "https://www.koreaherald.com/article/10435170"
+      },
+      {
+        "title": "LG Uplus unveils ixi-O AI call assistant powered by Google — The Korea Herald",
+        "url": "https://www.koreaherald.com/article/10615501"
+      }
+    ]
+  },
+  {
+    "id": "telecommunications-customer-liberty-global",
+    "industry": "telecommunications",
+    "agentType": "customer",
+    "company": "Liberty Global",
+    "isNew": true,
+    "summary": {
+      "en": "Liberty Global is integrating Gemini into Horizon TV and care channels across ~80M connections via a five-year Google Cloud AI partnership.",
+      "zh": "Liberty Global 透過五年 Google Cloud AI 合作協議，將 Gemini 整合至 Horizon TV 及客服渠道，覆蓋約 8,000 萬個連接。"
+    },
+    "overview": {
+      "en": "Liberty Global, a European telecom company with approximately 80 million connections across brands including Virgin Media O2, Telenet, VodafoneZiggo, and Sunrise, announced a five-year strategic AI partnership with Google Cloud in February 2026. The company is integrating Gemini models into its Horizon TV platform to make content search and discovery smarter and more conversational, while also extending AI into care channels to improve responsiveness and first-contact resolution. The partnership also covers autonomous network operations and data sovereignty.",
+      "zh": "Liberty Global 是歐洲電信公司，旗下品牌包括 Virgin Media O2、Telenet、VodafoneZiggo 和 Sunrise，在整個歐洲的連接數約達 8,000 萬個。2026 年 2 月，該公司宣布與 Google Cloud 簽署五年戰略 AI 合作協議，將 Gemini 模型整合至 Horizon TV 平台，使內容搜尋與發現更智慧、更具對話性，同時將 AI 延伸至客服渠道，提升響應速度和首次聯絡解決率。合作內容亦涵蓋自主網路運營和數據主權。"
+    },
+    "highlights": {
+      "en": [
+        "Gemini models integrated into Horizon TV to enable smart, conversational content search and discovery.",
+        "AI extended into customer care channels to improve responsiveness and first-contact resolution.",
+        "Five-year strategic AI partnership with Google Cloud announced February 2026.",
+        "Covers approximately 80 million connections across Virgin Media O2, Telenet, VodafoneZiggo, and Sunrise.",
+        "Partnership also includes autonomous network operations and data sovereignty solutions."
+      ],
+      "zh": [
+        "Gemini 模型整合至 Horizon TV，實現智慧對話式內容搜尋與發現。",
+        "AI 延伸至客戶服務渠道，提升響應速度和首次聯絡解決率。",
+        "2026 年 2 月宣布與 Google Cloud 簽署五年戰略 AI 合作協議。",
+        "覆蓋 Virgin Media O2、Telenet、VodafoneZiggo 和 Sunrise 約 8,000 萬個連接。",
+        "合作內容亦包括自主網路運營和數據主權解決方案。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Google Cloud",
+      "Vertex AI"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Liberty Global and Google Cloud Announce Five-Year Strategic AI Partnership",
+        "url": "https://www.libertyglobal.com/liberty-global-google-cloud/"
+      },
+      {
+        "title": "Liberty Global and Google Cloud Announce Five-Year Strategic AI Partnership — Business Wire",
+        "url": "https://www.businesswire.com/news/home/20260202724028/en/Liberty-Global-and-Google-Cloud-Announce-Five-Year-Strategic-AI-Partnership"
+      }
+    ]
+  },
+  {
+    "id": "telecommunications-customer-nomad-esim",
+    "industry": "telecommunications",
+    "agentType": "customer",
+    "company": "Nomad eSIM",
+    "isNew": false,
+    "summary": {
+      "en": "Nomad eSIM uses Gemini in Google Workspace to help support agents respond to trouble tickets faster, boosting customer satisfaction.",
+      "zh": "Nomad eSIM 在 Google Workspace 中使用 Gemini，協助支援人員更快回應問題工單，提升客戶滿意度。"
+    },
+    "overview": {
+      "en": "Nomad eSIM, a LotusFlare brand serving international travelers in 200+ destinations, uses Gemini in Google Workspace to enable customer support agents to respond to trouble tickets more efficiently. The AI assistant provides real-time suggestions and helps agents across Gmail, Docs, and Meet, resulting in faster support response times and increased customer satisfaction.",
+      "zh": "Nomad eSIM 是 LotusFlare 旗下品牌，服務全球 200 多個目的地的旅行者。該公司在 Google Workspace 中使用 Gemini，協助客戶支援人員更有效率地回應問題工單。AI 助理在 Gmail、Docs 和 Meet 中為客服提供即時建議，帶來更快的支援響應時間及更高的客戶滿意度。"
+    },
+    "highlights": {
+      "en": [
+        "Gemini in Google Workspace helps customer support agents respond to trouble tickets more efficiently.",
+        "Faster support response times lead to improved customer satisfaction scores.",
+        "AI provides real-time assistance across Gmail, Docs, Sheets, Slides, and Meet.",
+        "Serves international travelers in 200+ destinations globally."
+      ],
+      "zh": [
+        "Google Workspace 中的 Gemini 幫助客服人員更有效率地回應問題工單。",
+        "更快的支援響應時間帶來更高的客戶滿意度評分。",
+        "AI 在 Gmail、Docs、Sheets、Slides 和 Meet 中提供即時協助。",
+        "服務全球 200 多個目的地的國際旅行者。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Google Workspace"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Nomad eSIM by LotusFlare — Google Workspace success story",
+        "url": "https://workspace.google.com/customers/success-stories/lotusflare/"
+      }
+    ]
+  },
+  {
+    "id": "telecommunications-customer-telecom-italia",
+    "industry": "telecommunications",
+    "agentType": "customer",
+    "company": "Telecom Italia",
+    "isNew": false,
+    "summary": {
+      "en": "Telecom Italia (TIM) implemented a Google-powered voice agent for customer calls, increasing efficiency by 20%.",
+      "zh": "Telecom Italia（TIM）導入 Google 驅動語音客服代理處理客戶來電，效率提升 20%。"
+    },
+    "overview": {
+      "en": "Telecom Italia (TIM), Italy and Brazil's leading ICT group, implemented a Google-powered voice agent to address a large volume of customer calls. The AI voice agent handles customer inquiries automatically, reducing the load on human agents and increasing overall call center efficiency by 20%. TIM has been a Google Cloud Premier Partner since their strategic partnership announced in March 2020.",
+      "zh": "Telecom Italia（TIM）是義大利和巴西的領先 ICT 集團，導入 Google 驅動的語音代理處理大量客戶來電。AI 語音代理自動處理客戶查詢，減輕人工客服負擔，整體聯絡中心效率提升 20%。TIM 自 2020 年 3 月宣布戰略合作後，一直是 Google Cloud 的高級合作夥伴。"
+    },
+    "highlights": {
+      "en": [
+        "Google-powered voice agent deployed to handle inbound customer calls automatically.",
+        "20% increase in contact center efficiency achieved.",
+        "Reduces human agent workload by deflecting routine customer inquiries.",
+        "TIM has been a Google Cloud Premier Partner since March 2020."
+      ],
+      "zh": [
+        "部署 Google 驅動語音代理自動處理呼入客戶電話。",
+        "聯絡中心效率提升 20%。",
+        "透過轉移例行客戶查詢，降低人工客服工作量。",
+        "TIM 自 2020 年 3 月起成為 Google Cloud 高級合作夥伴。"
+      ]
+    },
+    "technologies": [
+      "Contact Center AI",
+      "Google Cloud",
+      "Gemini"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "TIM (Telecom Italia) Case Study — Google Cloud",
+        "url": "https://cloud.google.com/customers/tim"
+      }
+    ]
+  },
+  {
+    "id": "telecommunications-data-bt-group",
+    "industry": "telecommunications",
+    "agentType": "data",
+    "company": "BT Group",
+    "isNew": false,
+    "summary": {
+      "en": "BT Group uses Google Cloud AI to democratize data access across the enterprise for enhanced customer experience and security.",
+      "zh": "BT Group 利用 Google Cloud AI 在全企業推動數據民主化，提升客戶體驗與安全性。"
+    },
+    "overview": {
+      "en": "BT Group selected Google Cloud as its strategic partner for a group-wide data and AI transformation, using a suite of products including cloud infrastructure, ML/AI, data analytics, and security. The company built a data mesh architecture with a unified data fabric to democratize data access in a safe, controlled way. BT's EE virtual assistant now handles up to 60,000 customer conversations per week, with automation success rates on several customer journeys approaching 50%.",
+      "zh": "BT Group 選擇 Google Cloud 作為全集團數據與 AI 轉型的戰略合作夥伴，使用包括雲端基礎架構、ML/AI、數據分析和安全在內的一套產品。公司建立了採用統一數據織物的數據網格架構，以安全、受控的方式推動數據民主化。BT 的 EE 虛擬助手現每週處理多達 60,000 次客戶對話，部分客戶旅程的自動化成功率接近 50%。"
+    },
+    "highlights": {
+      "en": [
+        "EE virtual assistant handles up to 60,000 customer conversations per week.",
+        "Automation success rates on several customer journeys approaching 50%.",
+        "Data mesh architecture with unified data fabric enables safe, controlled data democratization.",
+        "Partnership covers cloud infrastructure, ML/AI, data analytics, API management, and security.",
+        "BT and Google Cloud also partnered on cybersecurity innovation and managed security operations."
+      ],
+      "zh": [
+        "EE 虛擬助手每週處理多達 60,000 次客戶對話。",
+        "部分客戶旅程的自動化成功率接近 50%。",
+        "採用統一數據織物的數據網格架構實現安全、受控的數據民主化。",
+        "合作範疇涵蓋雲端基礎架構、ML/AI、數據分析、API 管理和安全。",
+        "BT 與 Google Cloud 亦合作進行網路安全創新及受管安全運營。"
+      ]
+    },
+    "technologies": [
+      "Google Cloud",
+      "BigQuery",
+      "Vertex AI",
+      "Google Security Operations"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "BT Selects Google Cloud as Strategic Partner — PR Newswire",
+        "url": "https://www.prnewswire.com/news-releases/bt-selects-google-cloud-as-strategic-partner-for-group-wide-data-and-ai-transformation-301499827.html"
+      },
+      {
+        "title": "BT Group leans on AI to transform customer service experience — BT Newsroom",
+        "url": "https://newsroom.bt.com/bt-group-leans-on-ai-to-transform-customer-service-experience/"
+      }
+    ]
+  },
+  {
+    "id": "telecommunications-data-cox-2m",
+    "industry": "telecommunications",
+    "agentType": "data",
+    "company": "Cox 2M",
+    "isNew": false,
+    "summary": {
+      "en": "Cox 2M reduced time to insights by 88% for non-technical users using Gemini and ThoughtSpot natural-language analytics.",
+      "zh": "Cox 2M 利用 Gemini 和 ThoughtSpot 自然語言分析，將非技術用戶的洞察獲取時間縮短 88%。"
+    },
+    "overview": {
+      "en": "Cox 2M, the commercial IoT division of Cox Communications, manages massive data volumes including 1.5 million-plus IoT device messages per hour and over 13 billion new rows of data per year. By layering ThoughtSpot's natural-language analytics on top of their Google Cloud data infrastructure, business teams can now query analytics conversationally with Gemini. This reduced the time to actionable insights by 88% — from over five hours of ad-hoc request handling per week to significantly less.",
+      "zh": "Cox 2M 是 Cox Communications 的商業 IoT 部門，管理龐大的數據量，包括每小時逾 150 萬條 IoT 裝置訊息和每年逾 130 億行新數據。透過在 Google Cloud 數據基礎架構上疊加 ThoughtSpot 自然語言分析，業務團隊現可用 Gemini 以對話方式查詢分析數據。這將洞察獲取時間縮短了 88%——從每週逾 5 小時的臨時請求處理大幅減少。"
+    },
+    "highlights": {
+      "en": [
+        "88% reduction in time to actionable insights for non-technical business users.",
+        "Ad-hoc data request handling reduced from over 5 hours per week to significantly less.",
+        "Natural-language querying via ThoughtSpot powered by Gemini on Google Cloud.",
+        "Handles 1.5M+ IoT device messages per hour and 13B+ new data rows per year.",
+        "ThoughtSpot integrates with Google Gemini for AI-powered analytics."
+      ],
+      "zh": [
+        "非技術業務用戶的洞察獲取時間縮短 88%。",
+        "臨時數據請求處理時間從每週逾 5 小時大幅減少。",
+        "透過 Google Cloud 上的 Gemini 驅動 ThoughtSpot 進行自然語言查詢。",
+        "每小時處理逾 150 萬條 IoT 裝置訊息，每年超過 130 億行新數據。",
+        "ThoughtSpot 與 Google Gemini 整合，提供 AI 驅動的分析能力。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Google Cloud",
+      "BigQuery",
+      "ThoughtSpot"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Cox 2M case study — Google Cloud",
+        "url": "https://cloud.google.com/customers/cox2m"
+      },
+      {
+        "title": "Cox 2M scraps legacy analytics tool for 8x improvement in time to insights — ThoughtSpot",
+        "url": "https://www.thoughtspot.com/resources/case-study/cox-2m"
+      }
+    ]
+  },
+  {
+    "id": "telecommunications-data-orange",
+    "industry": "telecommunications",
+    "agentType": "data",
+    "company": "Orange",
+    "isNew": false,
+    "summary": {
+      "en": "Orange deploys Google Distributed Cloud across 26 countries to run sensitive AI workloads locally and improve network performance.",
+      "zh": "Orange 在 26 個國家部署 Google Distributed Cloud，在本地運行敏感 AI 工作負載並提升網路性能。"
+    },
+    "overview": {
+      "en": "Orange, operating in 26 countries where local data sovereignty is required, deployed Google Distributed Cloud (GDC) on-premise at its data centers to run AI workloads and sensitive network data locally within each country. The solution enables Orange to use gen AI for network performance optimization, automated reporting and classification of over one petabyte of data per day, super-responsive translation capabilities, and improved customer experiences. One AI pilot was taken to production in just four weeks.",
+      "zh": "Orange 在 26 個國家運營，各地均有數據主權要求，因此在各國數據中心部署了 Google Distributed Cloud（GDC）內部部署版本，在本地運行 AI 工作負載和敏感網路數據。該解決方案讓 Orange 能夠使用 gen AI 進行網路性能優化、每日逾 1 拍字節數據的自動化報告與分類、超低延遲翻譯能力，以及改善客戶體驗。其中一個 AI 試驗專案在僅四週內投入生產。"
+    },
+    "highlights": {
+      "en": [
+        "Google Distributed Cloud deployed across 26 countries for sovereign AI workloads.",
+        "AI processes over one petabyte of network data per day for reporting and classification.",
+        "One AI pilot taken from concept to production in just four weeks.",
+        "Super-responsive translation capabilities delivered via local AI models.",
+        "Improved customer lifetime value through AI-powered personalized recommendations."
+      ],
+      "zh": [
+        "Google Distributed Cloud 部署至 26 個國家，用於主權 AI 工作負載。",
+        "AI 每日處理逾 1 拍字節的網路數據進行報告與分類。",
+        "一個 AI 試驗專案在僅四週內從概念投入生產。",
+        "透過本地 AI 模型提供超低延遲翻譯能力。",
+        "透過 AI 驅動的個性化推薦提升客戶終身價值。"
+      ]
+    },
+    "technologies": [
+      "Google Distributed Cloud",
+      "Google Cloud",
+      "Vertex AI",
+      "Gemini"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Orange expands partnership with Google Cloud — Orange Newsroom",
+        "url": "https://newsroom.orange.com/orange-expands-partnership-with-google-cloud-to-use-ai-and-genai-across-workstreams-and-geographies-with-new-solutions-closer-to-operations/"
+      },
+      {
+        "title": "Orange to deploy Google Distributed Cloud on-prem for AI workloads — DCD",
+        "url": "https://www.datacenterdynamics.com/en/news/orange-to-deploy-google-distributed-cloud-on-prem-for-ai-workloads/"
+      }
+    ]
+  },
+  {
+    "id": "telecommunications-data-vodafone",
+    "industry": "telecommunications",
+    "agentType": "data",
+    "company": "Vodafone",
+    "isNew": true,
+    "summary": {
+      "en": "Vodafone deploys Gemini Enterprise agents to proactively resolve network outages and optimize infrastructure, saving millions annually.",
+      "zh": "Vodafone 部署 Gemini Enterprise 代理，主動解決網路中斷並優化基礎架構，每年節省數百萬美元。"
+    },
+    "overview": {
+      "en": "Vodafone is deploying Gemini Enterprise agents to proactively detect and resolve network outages and optimize infrastructure at scale, unifying data on BigQuery to build a more resilient global network. The AI agents leverage network data insights to diagnose issues, predict potential outages, and assist with configuration tasks. A March 2024 hackathon involving 120+ network engineers produced 13 AI demo use cases, accelerating the pipeline of network automation initiatives. The initiative saves millions every year.",
+      "zh": "Vodafone 部署 Gemini Enterprise 代理，主動偵測並解決網路中斷、大規模優化基礎架構，並在 BigQuery 上統一數據以建立更具韌性的全球網路。AI 代理利用網路數據洞察診斷問題、預測潛在中斷，並協助完成配置任務。2024 年 3 月舉辦的黑客馬拉松吸引逾 120 名網路工程師參與，產生 13 個 AI 示範用例，加速了網路自動化計劃的推進。此舉每年節省數百萬美元。"
+    },
+    "highlights": {
+      "en": [
+        "Gemini Enterprise agents proactively resolve network outages and optimize infrastructure.",
+        "Data unified on BigQuery to build a more resilient global network.",
+        "Saves millions of dollars every year in network operations costs.",
+        "March 2024 hackathon with 120+ engineers generated 13 AI use cases for network automation.",
+        "AI diagnoses issues, predicts outages, and assists with network configuration."
+      ],
+      "zh": [
+        "Gemini Enterprise 代理主動解決網路中斷並優化基礎架構。",
+        "在 BigQuery 上統一數據，建立更具韌性的全球網路。",
+        "每年為網路運營節省數百萬美元。",
+        "2024 年 3 月吸引逾 120 名工程師參與的黑客馬拉松產生 13 個網路自動化 AI 用例。",
+        "AI 診斷問題、預測中斷並協助網路配置。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Gemini Enterprise",
+      "BigQuery",
+      "Vertex AI",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "How Vodafone is using gen AI to enhance network lifecycle — Google Cloud Blog",
+        "url": "https://cloud.google.com/blog/topics/telecommunications/vodafone-gen-ai-enhances-network-lifecycle"
+      }
+    ]
+  },
+  {
+    "id": "telecommunications-security-vertiv",
+    "industry": "telecommunications",
+    "agentType": "security",
+    "company": "Vertiv",
+    "isNew": false,
+    "summary": {
+      "en": "Vertiv detects 3x more cyber events and closes investigations 50% faster using Google Security Operations.",
+      "zh": "Vertiv 使用 Google Security Operations，偵測到的網路事件數量提升 3 倍，調查結案速度加快 50%。"
+    },
+    "overview": {
+      "en": "Vertiv, a global provider of critical digital infrastructure and continuity solutions, deployed the AI-powered Google Security Operations platform (formerly Chronicle) to modernize its security operations center. The platform enables Vertiv to log approximately 22 times more data than its legacy SIEM, detect three times the number of cyber events, and close security investigations in half the time. According to Vertiv's CISO Mike Orosz, the platform is more purpose-built, intuitive, and significantly faster than their previous solution.",
+      "zh": "Vertiv 是全球關鍵數位基礎架構和連續性解決方案供應商，部署了 AI 驅動的 Google Security Operations 平台（前身為 Chronicle）以現代化其安全運營中心。該平台讓 Vertiv 能夠記錄約 22 倍於舊版 SIEM 的數據量，偵測到的網路事件數量提升 3 倍，並在一半的時間內完成安全調查。Vertiv 的 CISO Mike Orosz 表示，該平台比其之前的解決方案更具針對性、更直觀且速度更快。"
+    },
+    "highlights": {
+      "en": [
+        "3x more cyber events detected compared to the legacy SIEM.",
+        "Security investigations closed 50% faster (in half the time).",
+        "Logging approximately 22x more security data than the previous solution.",
+        "Platform described as more purpose-built, intuitive, and faster by Vertiv's CISO.",
+        "AI-powered threat intelligence eliminates the need for manual contextual enrichment."
+      ],
+      "zh": [
+        "偵測到的網路事件數量比舊版 SIEM 多 3 倍。",
+        "安全調查結案速度加快 50%（縮短一半時間）。",
+        "安全數據記錄量約為之前解決方案的 22 倍。",
+        "Vertiv CISO 描述該平台更具針對性、更直觀且速度更快。",
+        "AI 驅動的威脅情報消除了手動上下文豐富化的需要。"
+      ]
+    },
+    "technologies": [
+      "Google Security Operations",
+      "Google Cloud",
+      "Chronicle"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Google Security Operations — Google Cloud",
+        "url": "https://cloud.google.com/security/products/security-operations"
+      }
+    ]
+  },
+  {
+    "id": "telecommunications-security-vodafone",
+    "industry": "telecommunications",
+    "agentType": "security",
+    "company": "Vodafone",
+    "isNew": false,
+    "summary": {
+      "en": "Vodafone built a Vertex AI-based AI security governance layer on Google Cloud serving 50,000+ internal customers.",
+      "zh": "Vodafone 在 Google Cloud 上建立基於 Vertex AI 的 AI 安全治理層，服務逾 50,000 名內部客戶。"
+    },
+    "overview": {
+      "en": "Vodafone used Vertex AI, open-source tools, and Google Cloud's security foundation to establish a robust, data-driven AI security governance layer. This framework defines requirements for internal AI application development including risk assessment, designing for transparency, avoiding bias, and providing appropriate human oversight. The governance system serves more than 50,000 internal customers and is guided by Vodafone's Group AI Framework and a global responsible AI committee.",
+      "zh": "Vodafone 使用 Vertex AI、開源工具和 Google Cloud 的安全基礎，建立了健全的數據驅動 AI 安全治理層。該框架為內部 AI 應用開發定義了要求，包括風險評估、透明度設計、避免偏見和提供適當的人工監督。治理系統服務逾 50,000 名內部客戶，並由 Vodafone 集團 AI 框架和全球負責任 AI 委員會指導。"
+    },
+    "highlights": {
+      "en": [
+        "AI security governance layer serves more than 50,000 internal customers.",
+        "Framework includes risk assessment, transparency by design, bias avoidance, and human oversight.",
+        "Guided by a global responsible AI committee that agrees policies and mitigates threats.",
+        "Limits access to public AI applications to reduce risks of data misuse.",
+        "Part of Vodafone's broader $1 billion, 10-year strategic partnership with Google Cloud."
+      ],
+      "zh": [
+        "AI 安全治理層服務逾 50,000 名內部客戶。",
+        "框架包含風險評估、透明度設計、偏見避免和人工監督。",
+        "由全球負責任 AI 委員會指導，負責制定政策和緩解威脅。",
+        "限制對公共 AI 應用的存取以降低數據濫用風險。",
+        "此為 Vodafone 與 Google Cloud 總值 10 億美元、為期 10 年戰略合作夥伴關係的一部分。"
+      ]
+    },
+    "technologies": [
+      "Vertex AI",
+      "Google Cloud",
+      "Google Security Operations"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Vodafone implements Pan-European ethical AI policy and controls — Vodafone",
+        "url": "https://www.vodafone.com/news/newsroom/technology/pan-european-ethical-ai-policy-controls"
+      },
+      {
+        "title": "Pioneering GenOps: Vodafone's AI Platform on Google Cloud — Datatonic",
+        "url": "https://datatonic.com/case-studies/genops-vodafone-google-cloud/"
+      }
+    ]
+  },
+  {
+    "id": "telecommunications-security-vodafone-business",
+    "industry": "telecommunications",
+    "agentType": "security",
+    "company": "Vodafone Business",
+    "isNew": true,
+    "summary": {
+      "en": "Vodafone Business is launching a Google Security Operations-enabled MDR service and Gemini-powered AI Concierge for SMBs.",
+      "zh": "Vodafone Business 正推出由 Google Security Operations 驅動的 MDR 服務及 Gemini 驅動的 AI Concierge，服務中小企業。"
+    },
+    "overview": {
+      "en": "Vodafone Business, in partnership with Google Cloud, is launching two new solutions for small and medium-sized businesses. The first is a managed detection and response (MDR) service enabled by Google Security Operations that brings AI-driven threat intelligence to protect customers from increasingly frequent and sophisticated cyber threats. The second is an AI Concierge built on Gemini models and the Gemini Enterprise Agent Platform — a multi-modal, autonomous AI agent that can interact via voice and data to answer inquiries and book appointments. Both services debut in Germany and Greece in 2026.",
+      "zh": "Vodafone Business 與 Google Cloud 合作，正為中小企業推出兩項新解決方案。其一是由 Google Security Operations 驅動的受管偵測與響應（MDR）服務，帶來 AI 驅動的威脅情報，保護客戶免受日益頻繁和複雜的網路威脅。其二是基於 Gemini 模型和 Gemini Enterprise Agent Platform 構建的 AI Concierge——一個多模態自主 AI 代理，可透過語音和數據與客戶互動、回答查詢並預約服務。兩項服務均將於 2026 年在德國和希臘首先推出。"
+    },
+    "highlights": {
+      "en": [
+        "MDR service enabled by Google Security Operations delivers AI-driven threat detection for SMBs.",
+        "AI Concierge built on Gemini models operates autonomously via voice and data interactions.",
+        "Services debut in Germany and Greece in 2026, with European expansion planned.",
+        "AI Concierge leverages Vodafone's low-latency connectivity for natural conversation.",
+        "Part of the $1 billion strategic partnership between Vodafone and Google Cloud."
+      ],
+      "zh": [
+        "由 Google Security Operations 驅動的 MDR 服務為中小企業提供 AI 驅動的威脅偵測。",
+        "基於 Gemini 模型構建的 AI Concierge 透過語音和數據互動自主運作。",
+        "服務於 2026 年在德國和希臘首發，計劃進一步在歐洲擴展。",
+        "AI Concierge 利用 Vodafone 的低延遲連接能力實現自然對話。",
+        "此為 Vodafone 與 Google Cloud 之間 10 億美元戰略合作夥伴關係的一部分。"
+      ]
+    },
+    "technologies": [
+      "Google Security Operations",
+      "Gemini",
+      "Gemini Enterprise Agent Platform",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Vodafone Business launches new AI and cybersecurity solutions — Vodafone",
+        "url": "https://www.vodafone.com/news/newsroom/technology/vodafone-business-launches-new-ai-and-cybersecurity-solutions-in-partnership-with-google-cloud"
+      },
+      {
+        "title": "Vodafone Business partners with Google Cloud for AI concierge and MDR services — TelecomTV",
+        "url": "https://www.telecomtv.com/content/ai/vodafone-business-partners-with-google-cloud-for-ai-concierge-and-mdr-services-55347/"
+      }
+    ]
+  },
+  {
+    "id": "telecommunications-code-nokia",
+    "industry": "telecommunications",
+    "agentType": "code",
+    "company": "Nokia",
+    "isNew": false,
+    "summary": {
+      "en": "Nokia uses Vertex AI and Gemini 1.5 Pro to help developers create 5G applications faster on its Network as Code platform.",
+      "zh": "Nokia 利用 Vertex AI 和 Gemini 1.5 Pro，協助開發者在 Network as Code 平台上更快速開發 5G 應用程式。"
+    },
+    "overview": {
+      "en": "Nokia expanded its collaboration with Google Cloud to run its Network as Code platform on Google Cloud, leveraging Vertex AI and Gemini 1.5 Pro to enrich developers' experience with generative AI capabilities. The platform provides developers with SDKs, network API documentation, sandboxes for simulation, and AI coding assistance agents. Nokia and Google Cloud are targeting vertical use cases starting with healthcare to improve telehealth experiences, and have signed agreements with 13 network operators and ecosystem partners globally.",
+      "zh": "Nokia 擴展了與 Google Cloud 的合作，在 Google Cloud 上運行 Network as Code 平台，利用 Vertex AI 和 Gemini 1.5 Pro 以生成式 AI 能力豐富開發者體驗。該平台為開發者提供 SDK、網路 API 文件、用於模擬的沙箱以及 AI 程式設計輔助代理。Nokia 和 Google Cloud 從醫療保健領域開始瞄準垂直用例，以改善遠距醫療體驗，並已與全球 13 家網路電信商和生態系統夥伴簽署合作協議。"
+    },
+    "highlights": {
+      "en": [
+        "Network as Code platform runs on Google Cloud with Vertex AI and Gemini 1.5 Pro.",
+        "Developers gain access to SDKs, API documentation, simulation sandboxes, and AI coding assistants.",
+        "Healthcare vertical targeted first, improving telehealth application development.",
+        "13 network operator and ecosystem partner agreements signed globally since September 2023 launch.",
+        "Collaboration targets enabling developers in Google Cloud's developer community to build 5G apps faster."
+      ],
+      "zh": [
+        "Network as Code 平台在 Google Cloud 上運行，搭載 Vertex AI 和 Gemini 1.5 Pro。",
+        "開發者可存取 SDK、API 文件、模擬沙箱和 AI 程式設計助手。",
+        "優先聚焦醫療保健垂直領域，改善遠距醫療應用開發。",
+        "自 2023 年 9 月推出以來，已與全球 13 家網路電信商和生態系統夥伴簽署合作協議。",
+        "目標是協助 Google Cloud 開發者社群的開發者更快速構建 5G 應用程式。"
+      ]
+    },
+    "technologies": [
+      "Vertex AI",
+      "Gemini",
+      "Google Cloud",
+      "Network as Code"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Nokia and Google Cloud collaborate to help developers create 5G applications faster — Nokia Newsroom",
+        "url": "https://www.nokia.com/newsroom/nokia-and-google-cloud-collaborate-to-help-developers-worldwide-create-5g-applications-faster-with-telco-apis/"
+      }
+    ]
+  }
+]

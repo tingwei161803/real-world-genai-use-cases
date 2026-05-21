@@ -1,0 +1,1575 @@
+[
+  {
+    "id": "retail-employee-3-farm-daughters",
+    "industry": "retail",
+    "agentType": "employee",
+    "company": "3 Farm Daughters",
+    "isNew": false,
+    "summary": {
+      "en": "3 Farm Daughters uses Gemini in Google Docs to write social media posts, balancing family life with business.",
+      "zh": "3 Farm Daughters 藉助 Google Docs 中的 Gemini 撰寫社群媒體貼文，讓三位姊妹共同創辦人得以兼顧家庭與事業。"
+    },
+    "overview": {
+      "en": "3 Farm Daughters is a family-owned pasta company co-founded by three sisters. The company uses Gemini in Google Docs to draft and refine social media posts, making content creation faster and less time-consuming. This allows the co-founders to balance the demands of running a growing food business with family responsibilities.",
+      "zh": "3 Farm Daughters 是一家由三姊妹共同創辦的家族義大利麵公司。她們利用 Google Docs 內建的 Gemini 撰寫並潤飾社群媒體貼文，大幅縮短內容創作所需時間，讓創辦人能在經營成長中的食品事業與家庭生活之間取得平衡。"
+    },
+    "highlights": {
+      "en": [
+        "Uses Gemini in Google Docs to write and refine social media content for a family-owned pasta brand.",
+        "Enables three sister co-founders to manage business communications more efficiently.",
+        "Reduces time spent on content creation, freeing up capacity for family and other business tasks."
+      ],
+      "zh": [
+        "利用 Google Docs 中的 Gemini 為家族義大利麵品牌撰寫並優化社群媒體內容。",
+        "協助三位姊妹創辦人更有效率地處理商業溝通事務。",
+        "縮短內容創作所需時間，讓她們有餘力兼顧家庭與其他業務。"
+      ]
+    },
+    "technologies": ["Gemini", "Google Docs", "Google Workspace"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "retail-employee-7-eleven-vietnam",
+    "industry": "retail",
+    "agentType": "employee",
+    "company": "7-Eleven Vietnam",
+    "isNew": false,
+    "summary": {
+      "en": "7-Eleven Vietnam built an AI IT support chatbot with Vertex AI, cutting issue-resolution time by 50%.",
+      "zh": "7-Eleven Vietnam 使用 Vertex AI 打造內部 IT 支援聊天機器人，將問題解決時間縮短 50%。"
+    },
+    "overview": {
+      "en": "7-Eleven Vietnam, operating 140 stores across the country, partnered with Google Cloud partner Cloud Ace to build an internal IT support chatbot using Vertex AI Agent Builder and Gemini 1.5 Pro. The chatbot integrates with the company's official app and Zalo chat channel, enabling store employees to resolve common technical issues independently without escalating to the IT team.",
+      "zh": "7-Eleven Vietnam 在全國經營 140 家門市，與 Google Cloud 合作夥伴 Cloud Ace 合作，使用 Vertex AI Agent Builder 與 Gemini 1.5 Pro 建構內部 IT 支援聊天機器人。該機器人整合公司官方 App 與 Zalo 聊天頻道，讓門市員工能自行解決常見技術問題，無需升級至 IT 團隊處理。"
+    },
+    "highlights": {
+      "en": [
+        "Reduced IT issue-resolution time by 50% after deploying the AI chatbot.",
+        "Deployed across 140 stores, integrating with the official app and Zalo messaging platform.",
+        "Built on Vertex AI Agent Builder and Gemini 1.5 Pro with structured Q&A and natural-language capabilities.",
+        "Lightened IT team workload, allowing staff to focus on more complex tasks."
+      ],
+      "zh": [
+        "部署 AI 聊天機器人後，IT 問題解決時間縮短 50%。",
+        "覆蓋全國 140 家門市，與官方 App 及 Zalo 訊息平台整合。",
+        "基於 Vertex AI Agent Builder 與 Gemini 1.5 Pro 構建，具備結構化問答與自然語言理解能力。",
+        "減輕 IT 團隊工作負擔，讓員工得以專注處理更複雜的任務。"
+      ]
+    },
+    "technologies": ["Vertex AI", "Vertex AI Agent Builder", "Gemini"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "7-Eleven Vietnam case study | Google Cloud",
+        "url": "https://cloud.google.com/customers/711-vietnam"
+      },
+      {
+        "title": "7-Eleven Vietnam uses AI chatbot to reduce IT issues — Cloud Ace",
+        "url": "https://cloud-ace.vn/en/case-study/7-eleven-toi-uu-hoa-quy-trinh-it-voi-he-thong-google-ai-chatbot/"
+      }
+    ]
+  },
+  {
+    "id": "retail-employee-arpalus",
+    "industry": "retail",
+    "agentType": "employee",
+    "company": "Arpalus",
+    "isNew": false,
+    "summary": {
+      "en": "Arpalus integrates Google Cloud gen AI into its shelf-analysis app, converting images to 3D models for accurate product recognition.",
+      "zh": "Arpalus 將 Google Cloud 生成式 AI 整合至貨架分析應用程式，將影像轉換為 3D 模型，提升商品辨識精準度。"
+    },
+    "overview": {
+      "en": "Arpalus developed a retail shelf-analysis application powered by patented computer vision and augmented reality technology. The app analyzes physical shelves in real time and notifies store employees about recommended actions to improve shelf presentation and compliance. By integrating Google Cloud's generative AI capabilities, Arpalus expanded its vision features to convert shelf images into 3D models, enabling more powerful and accurate product recognition.",
+      "zh": "Arpalus 開發了一款以專利電腦視覺與擴增實境技術為核心的零售貨架分析應用程式，能即時分析實體貨架並通知門市員工執行改善貨架陳設與合規性的建議動作。透過整合 Google Cloud 的生成式 AI 功能，Arpalus 將其視覺能力延伸至影像轉 3D 模型，大幅提升商品辨識的精準度與效能。"
+    },
+    "highlights": {
+      "en": [
+        "Integrated Google Cloud gen AI to expand computer vision capabilities for shelf analysis.",
+        "Converts shelf images into 3D models for more accurate product recognition.",
+        "Provides real-time shelf recommendations to store employees via patented AR technology.",
+        "Combines computer vision, AR, and generative AI in a single retail operations platform."
+      ],
+      "zh": [
+        "整合 Google Cloud 生成式 AI，擴展貨架分析的電腦視覺能力。",
+        "將貨架影像轉換為 3D 模型，提升商品辨識精準度。",
+        "透過專利 AR 技術即時向門市員工提供貨架改善建議。",
+        "在單一零售營運平台中結合電腦視覺、AR 與生成式 AI。"
+      ]
+    },
+    "technologies": ["Google Cloud", "Vertex AI", "Computer Vision"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "retail-employee-atlas",
+    "industry": "retail",
+    "agentType": "employee",
+    "company": "Atlas",
+    "isNew": false,
+    "summary": {
+      "en": "Atlas, a restaurant OS in Singapore, uses AI to boost operational efficiency, drive sales, and surface customer insights for F&B brands.",
+      "zh": "Atlas 是新加坡餐廳作業系統，利用 AI 提升營運效率、帶動銷售並為餐飲品牌挖掘顧客洞察。"
+    },
+    "overview": {
+      "en": "Atlas is an operating system designed specifically for food and beverage brands across Singapore. Leveraging Google Cloud AI capabilities, Atlas helps restaurant operators improve operational efficiency, optimize sales performance, and surface actionable customer insights. The platform consolidates data and AI-driven analytics to support better decision-making across the food and beverage sector.",
+      "zh": "Atlas 是專為新加坡餐飲品牌設計的作業系統，透過 Google Cloud AI 功能協助餐廳業者提升營運效率、優化銷售表現，並挖掘可操作的顧客洞察。該平台整合資料與 AI 驅動分析，支援餐飲業更明智的決策。"
+    },
+    "highlights": {
+      "en": [
+        "Uses AI to improve operational efficiency for food and beverage brands in Singapore.",
+        "Surfaces customer insights to help F&B operators make data-driven decisions.",
+        "Drives sales performance through AI-powered analytics and recommendations."
+      ],
+      "zh": [
+        "利用 AI 提升新加坡餐飲品牌的營運效率。",
+        "挖掘顧客洞察，協助餐飲業者做出資料驅動的決策。",
+        "透過 AI 分析與建議推動銷售績效成長。"
+      ]
+    },
+    "technologies": ["Google Cloud", "Vertex AI"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "retail-employee-authentic-brands-group",
+    "industry": "retail",
+    "agentType": "employee",
+    "company": "Authentic Brands Group",
+    "isNew": true,
+    "summary": {
+      "en": "Authentic Brands Group launched the 'Authentic Intelligence' platform with 15+ AI agents powered by Google Cloud, used by 80%+ of employees.",
+      "zh": "Authentic Brands Group 推出搭載 15+ 個 AI Agent 的「Authentic Intelligence」平台，超過 80% 員工每週使用。"
+    },
+    "overview": {
+      "en": "Authentic Brands Group — owner of more than 50 iconic brands including Juicy Couture, Reebok, and SHAQ — launched the 'Authentic Intelligence' platform at NRF 2026. Built on Google Cloud's Vertex AI, the platform integrates advanced media models such as Imagen 3 for photorealistic imagery and Veo 3.1 for cinematic video. More than 15 specialized AI agents support key functions including brand management, licensing, legal review, and business development.",
+      "zh": "Authentic Brands Group 擁有逾 50 個知名品牌（包括 Juicy Couture、Reebok 及 SHAQ），於 NRF 2026 發布「Authentic Intelligence」平台。平台以 Google Cloud Vertex AI 為核心，整合 Imagen 3 高擬真影像模型及 Veo 3.1 電影級影片模型等先進媒體模型，並部署逾 15 個專屬 AI Agent，支援品牌管理、授權、法務審查及業務開發等核心功能。"
+    },
+    "highlights": {
+      "en": [
+        "Over 80% of Authentic employees use the Authentic Intelligence platform weekly.",
+        "Launched 15+ specialized AI agents spanning marketing, legal, finance, and business development.",
+        "Integrates Imagen 3 (photorealistic imagery) and Veo 3.1 (cinematic video) from Google Cloud.",
+        "Reebok ad creative enhanced by Authentic Intelligence delivered up to 60% higher ROAS compared to traditional imagery in early testing.",
+        "Platform built on Vertex AI, announced at NRF 2026 in January 2026."
+      ],
+      "zh": [
+        "逾 80% 的 Authentic 員工每週使用 Authentic Intelligence 平台。",
+        "推出 15 個以上橫跨行銷、法務、財務及業務開發的專屬 AI Agent。",
+        "整合 Google Cloud 的 Imagen 3（高擬真影像）與 Veo 3.1（電影級影片）模型。",
+        "初期測試中，Reebok 廣告素材經 Authentic Intelligence 強化後，廣告支出回報（ROAS）比傳統產品影像高出最多 60%。",
+        "平台建立於 Vertex AI 之上，於 2026 年 1 月 NRF 大展上正式發布。"
+      ]
+    },
+    "technologies": ["Vertex AI", "Gemini", "Imagen 3", "Veo 3.1", "Google Cloud"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Authentic Brands Group Taps Google Cloud and Gemini to Power the Future of Brand Building with AI",
+        "url": "https://www.googlecloudpresscorner.com/2026-01-11-Authentic-Brands-Group-Taps-Google-Cloud-and-Gemini-to-Power-the-Future-of-Brand-Building-with-AI"
+      },
+      {
+        "title": "Authentic Brands Group Taps Google Cloud and Gemini — PR Newswire",
+        "url": "https://www.prnewswire.com/news-releases/authentic-brands-group-taps-google-cloud-and-gemini-to-power-the-future-of-brand-building-with-ai-302657869.html"
+      }
+    ]
+  },
+  {
+    "id": "retail-employee-best-buy",
+    "industry": "retail",
+    "agentType": "employee",
+    "company": "Best Buy",
+    "isNew": false,
+    "summary": {
+      "en": "Best Buy uses Contact Center AI to generate real-time call summaries, reducing average call time by 30–90 seconds.",
+      "zh": "Best Buy 使用 Contact Center AI 即時生成通話摘要，平均通話時間縮短 30 至 90 秒。"
+    },
+    "overview": {
+      "en": "Best Buy partnered with Google Cloud and Accenture to deploy Contact Center AI, enabling live agents to receive real-time conversation summaries. This allows agents to focus entirely on understanding and supporting customers rather than taking manual notes. The result is a measurable reduction in call handle time and post-call work, with both customers and agents reporting improved satisfaction.",
+      "zh": "Best Buy 與 Google Cloud 及 Accenture 合作部署 Contact Center AI，讓客服人員能即時獲取通話摘要，得以將全部精力集中在理解並支援顧客，無需手動記錄。此舉帶來通話處理時間與通話後作業的顯著縮短，顧客與客服人員的滿意度均有提升。"
+    },
+    "highlights": {
+      "en": [
+        "Deployed Contact Center AI with Google Cloud and Accenture to generate real-time call summaries.",
+        "Reduced average call time and after-call work by 30 to 90 seconds.",
+        "Both customers and agents reported improved satisfaction scores.",
+        "Generative AI-powered virtual assistant also planned to help customers troubleshoot issues and manage subscriptions."
+      ],
+      "zh": [
+        "聯合 Google Cloud 及 Accenture 部署 Contact Center AI，即時生成通話摘要。",
+        "平均通話時間及通話後作業縮短 30 至 90 秒。",
+        "顧客與客服人員均回報滿意度提升。",
+        "計劃推出生成式 AI 虛擬助理，協助顧客排除故障及管理訂閱服務。"
+      ]
+    },
+    "technologies": ["Contact Center AI", "Gemini", "Vertex AI", "Google Cloud"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "How Best Buy is using generative AI to create better customer support experiences",
+        "url": "https://corporate.bestbuy.com/2024/generative-ai-customer-support/"
+      },
+      {
+        "title": "Best Buy, Google Cloud and Accenture Partner to Create a Better Customer Support Experience with Generative AI",
+        "url": "https://newsroom.accenture.com/news/2024/best-buy-google-cloud-and-accenture-partner-to-create-a-better-customer-support-experience-with-generative-ai"
+      }
+    ]
+  },
+  {
+    "id": "retail-employee-blk-bold",
+    "industry": "retail",
+    "agentType": "employee",
+    "company": "BLK & Bold",
+    "isNew": false,
+    "summary": {
+      "en": "BLK & Bold, a premium coffee company, uses Gemini in Google Sheets to streamline budgeting and data management.",
+      "zh": "精品咖啡品牌 BLK & Bold 使用 Google Sheets 中的 Gemini 簡化預算編製與資料管理流程。"
+    },
+    "overview": {
+      "en": "BLK & Bold is a premium coffee company that uses Gemini in Google Sheets to simplify and accelerate the budgeting process. By asking Gemini to help create tables and import data, the team reduces the manual effort involved in financial planning and analysis. This allows employees to spend less time on tedious spreadsheet tasks and more time on strategic business priorities.",
+      "zh": "BLK & Bold 是一家精品咖啡公司，透過在 Google Sheets 中使用 Gemini 來簡化並加速預算編製流程。員工可請 Gemini 協助建立表格與匯入資料，大幅減少財務規劃與分析中的手動作業，將更多時間投入策略性業務重點。"
+    },
+    "highlights": {
+      "en": [
+        "Uses Gemini in Google Sheets to create budgeting tables and import financial data automatically.",
+        "Reduces time spent on tedious manual spreadsheet tasks for a growing coffee brand.",
+        "Enables the team to focus on strategic priorities rather than data entry."
+      ],
+      "zh": [
+        "使用 Google Sheets 中的 Gemini 自動建立預算表格並匯入財務資料。",
+        "為成長中的咖啡品牌減少繁瑣的手動試算表作業。",
+        "讓團隊得以專注在策略重點，而非資料輸入。"
+      ]
+    },
+    "technologies": ["Gemini", "Google Sheets", "Google Workspace"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "retail-employee-buysell-technologies",
+    "industry": "retail",
+    "agentType": "employee",
+    "company": "BuySell Technologies",
+    "isNew": false,
+    "summary": {
+      "en": "BuySell Technologies uses Vertex AI image recognition to help appraisers identify and value luxury goods and antiques.",
+      "zh": "BuySell Technologies 運用 Vertex AI 影像辨識技術，協助鑑定師識別及估值奢侈品與古董。"
+    },
+    "overview": {
+      "en": "BuySell Technologies operates Japan's leading resale business for luxury goods, antiques, and precious metals. The company uses Vertex AI for image recognition of product photos, enabling appraisers to quickly and accurately identify items and determine their value. This AI-powered approach improves appraisal efficiency and consistency across thousands of diverse product categories.",
+      "zh": "BuySell Technologies 經營日本領先的奢侈品、古董及貴金屬二手交易業務。公司利用 Vertex AI 對商品照片進行影像辨識，協助鑑定師快速準確地識別物品並評估其價值，提升數千種多元商品類別的鑑定效率與一致性。"
+    },
+    "highlights": {
+      "en": [
+        "Applies Vertex AI image recognition to product photos for automated item identification.",
+        "Assists appraisers in identifying and valuing luxury goods, antiques, and precious metals.",
+        "Covers Japan's leading resale market with AI-powered appraisal support.",
+        "Combines ML-based image search with generative AI for broad AI adoption across the business."
+      ],
+      "zh": [
+        "對商品照片應用 Vertex AI 影像辨識，自動識別物品類型。",
+        "協助鑑定師識別及估值奢侈品、古董與貴金屬。",
+        "以 AI 鑑定支援覆蓋日本領先的二手交易市場。",
+        "結合機器學習影像搜尋與生成式 AI，推動全公司 AI 應用普及。"
+      ]
+    },
+    "technologies": ["Vertex AI", "Google Cloud"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "BuySell Technologies Google Cloud strategy blog (Japanese)",
+        "url": "https://cloud.google.com/blog/ja/topics/customers/buysell-aiming-to-become-an-infrastructure-for-the-reuse-industry"
+      }
+    ]
+  },
+  {
+    "id": "retail-employee-buysell-technologies-2",
+    "industry": "retail",
+    "agentType": "employee",
+    "company": "BuySell Technologies",
+    "isNew": false,
+    "summary": {
+      "en": "BuySell Technologies deploys a Gemini-powered RAG system 'BuySell Buddy' to let appraisers query product knowledge conversationally.",
+      "zh": "BuySell Technologies 部署 Gemini 驅動的 RAG 系統「BuySell Buddy」，讓鑑定師以對話方式查詢商品知識。"
+    },
+    "overview": {
+      "en": "In addition to image recognition, BuySell Technologies is deploying Gemini models in an internal RAG (Retrieval-Augmented Generation) system called 'BuySell Buddy.' The system allows appraisers to ask natural-language questions — such as 'What should I be careful about when handling old coins?' — and retrieve relevant information from extensive company documents. This empowers appraisers with instant access to institutional knowledge during the appraisal process.",
+      "zh": "除影像辨識外，BuySell Technologies 正在部署以 Gemini 模型為核心的內部 RAG（檢索增強生成）系統「BuySell Buddy」。該系統允許鑑定師以自然語言提問（例如「處理舊硬幣時需注意什麼？」），並從大量公司文件中擷取相關資訊，讓鑑定師在鑑定過程中即時取得企業知識。"
+    },
+    "highlights": {
+      "en": [
+        "Building an internal RAG system called 'BuySell Buddy' powered by Gemini models.",
+        "Enables appraisers to query extensive company documents through conversational natural-language questions.",
+        "Supports knowledge retrieval for diverse product categories including antiques, precious metals, and luxury goods.",
+        "Complements the existing Vertex AI image recognition system to create a comprehensive AI-assisted appraisal workflow."
+      ],
+      "zh": [
+        "以 Gemini 模型打造名為「BuySell Buddy」的內部 RAG 系統。",
+        "讓鑑定師能透過自然語言對話查詢大量公司文件。",
+        "支援古董、貴金屬、奢侈品等多元商品類別的知識擷取。",
+        "與現有 Vertex AI 影像辨識系統互補，建構全面的 AI 輔助鑑定工作流程。"
+      ]
+    },
+    "technologies": ["Gemini", "Vertex AI", "RAG", "Google Cloud"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "BuySell Technologies Google Cloud strategy blog (Japanese)",
+        "url": "https://cloud.google.com/blog/ja/topics/customers/buysell-aiming-to-become-an-infrastructure-for-the-reuse-industry"
+      }
+    ]
+  },
+  {
+    "id": "retail-employee-camanchaca",
+    "industry": "retail",
+    "agentType": "employee",
+    "company": "Camanchaca",
+    "isNew": false,
+    "summary": {
+      "en": "Chilean seafood company Camanchaca built a virtual customer service assistant 'Elon' in just six weeks using Google Cloud AI.",
+      "zh": "智利海鮮公司 Camanchaca 僅花六週時間，以 Google Cloud AI 打造虛擬客服助理「Elon」。"
+    },
+    "overview": {
+      "en": "Camanchaca, a leading Chilean seafood company, developed a virtual assistant named Elon in just six weeks to provide more efficient customer service through digital channels. By leveraging Google Cloud AI capabilities, Camanchaca rapidly deployed a conversational agent that enhances customer interactions and streamlines service delivery across its digital touchpoints.",
+      "zh": "智利知名海鮮公司 Camanchaca 僅花六週時間開發出名為 Elon 的虛擬助理，透過數位管道提供更高效的客戶服務。藉助 Google Cloud AI 能力，Camanchaca 迅速部署對話式客服，強化顧客互動並簡化其數位接觸點的服務流程。"
+    },
+    "highlights": {
+      "en": [
+        "Built a virtual customer service assistant named 'Elon' in only six weeks.",
+        "Deployed on digital channels to provide more efficient and responsive customer interactions.",
+        "Leveraged Google Cloud AI to accelerate development and deployment timelines."
+      ],
+      "zh": [
+        "僅花六週時間打造名為「Elon」的虛擬客服助理。",
+        "部署於數位管道，提供更有效率且即時的顧客互動服務。",
+        "藉助 Google Cloud AI 加速開發與部署時程。"
+      ]
+    },
+    "technologies": ["Google Cloud", "Vertex AI", "Gemini"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "retail-employee-cattlemen-at-morgan-ranch",
+    "industry": "retail",
+    "agentType": "employee",
+    "company": "Cattlemen at Morgan Ranch",
+    "isNew": false,
+    "summary": {
+      "en": "Cattlemen at Morgan Ranch uses Gemini in Gmail to draft lengthy business emails in minutes, saving time for their Wagyu beef operations.",
+      "zh": "Cattlemen at Morgan Ranch 使用 Gmail 中的 Gemini 在數分鐘內起草冗長的商業郵件，節省 Wagyu 牛肉業務的時間。"
+    },
+    "overview": {
+      "en": "Cattlemen at Morgan Ranch is a worldwide Wagyu beef supplier that uses Gemini in Gmail to dramatically reduce the time spent writing business emails. What previously took considerable time can now be completed in just minutes, enabling the team to handle supplier and customer communications more efficiently and spend more time on ranching operations.",
+      "zh": "Cattlemen at Morgan Ranch 是一家全球 Wagyu 牛肉供應商，透過在 Gmail 中使用 Gemini，大幅縮短撰寫商業郵件所需時間。過去費時的工作現在只需數分鐘即可完成，讓團隊能更有效率地處理供應商與客戶往來，並將更多時間投入牧場營運。"
+    },
+    "highlights": {
+      "en": [
+        "Uses Gemini in Gmail to reduce lengthy email writing to just minutes.",
+        "Enables more efficient supplier and customer communications for a global Wagyu beef supplier.",
+        "Frees up team time to focus on core ranching and business operations."
+      ],
+      "zh": [
+        "使用 Gmail 中的 Gemini 將冗長郵件撰寫時間壓縮至數分鐘。",
+        "為全球 Wagyu 牛肉供應商帶來更有效率的供應商與客戶溝通。",
+        "釋放團隊時間，專注於核心牧場與業務營運。"
+      ]
+    },
+    "technologies": ["Gemini", "Gmail", "Google Workspace"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "retail-employee-compass",
+    "industry": "retail",
+    "agentType": "employee",
+    "company": "Compass",
+    "isNew": false,
+    "summary": {
+      "en": "Compass, the largest US real estate brokerage, powers 40,000 agents nationwide with Google Workspace embedded in daily operations.",
+      "zh": "美國最大不動產仲介 Compass 以深度嵌入日常營運的 Google Workspace 賦能全美近 4 萬名房仲。"
+    },
+    "overview": {
+      "en": "Compass is the largest real estate brokerage in the United States by sales volume, supporting nearly 40,000 agents through an end-to-end technology platform. Google Workspace tools including Google Docs, Gmail, and Google Meet are deeply integrated into daily operations, enabling seamless information sharing, collaboration, and communication across employees and agents nationwide.",
+      "zh": "Compass 以銷售額計為全美最大不動產仲介，透過端對端科技平台支援近 40,000 名房仲。Google Docs、Gmail、Google Meet 等 Google Workspace 工具深度融入日常營運，實現全美員工與房仲之間的無縫資訊共享、協作與溝通。"
+    },
+    "highlights": {
+      "en": [
+        "Powers nearly 40,000 agents nationwide with an end-to-end technology platform.",
+        "Google Workspace tools (Docs, Gmail, Meet) are deeply embedded in daily real estate operations.",
+        "Enables seamless information sharing and collaboration across employees and agents at scale."
+      ],
+      "zh": [
+        "透過端對端科技平台賦能全美近 40,000 名房仲。",
+        "Google Docs、Gmail、Meet 等工具深度嵌入日常不動產營運流程。",
+        "在大規模環境下實現員工與房仲之間的無縫資訊共享與協作。"
+      ]
+    },
+    "technologies": ["Google Workspace", "Google Docs", "Gmail", "Google Meet"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "retail-employee-custard-stand-chili",
+    "industry": "retail",
+    "agentType": "employee",
+    "company": "Custard Stand Chili",
+    "isNew": false,
+    "summary": {
+      "en": "Custard Stand Chili co-founder uses Gemini in Gmail to craft retailer communications and expand their family hot dog chili nationwide.",
+      "zh": "Custard Stand Chili 共同創辦人使用 Gmail 中的 Gemini 優化零售商溝通郵件，助力全國拓展業務。"
+    },
+    "overview": {
+      "en": "Custard Stand Chili co-founder Angie Cowger uses Gemini in Gmail to refine her emails, helping communicate effectively with retailers and distribute her family's hot dog chili recipe across the United States. The AI-assisted writing tool helps ensure professional, clear communications that support the growth of this small family food business.",
+      "zh": "Custard Stand Chili 共同創辦人 Angie Cowger 使用 Gmail 中的 Gemini 潤飾郵件，協助她與零售商進行有效溝通，並推動家傳熱狗辣醬在全美各地的銷售拓展。AI 輔助寫作工具確保溝通專業清晰，支持這家小型家族食品企業的成長。"
+    },
+    "highlights": {
+      "en": [
+        "Co-founder uses Gemini in Gmail to refine and polish retailer communications.",
+        "Supports nationwide distribution of a family hot dog chili product through effective email outreach.",
+        "Demonstrates AI-assisted communication tools helping small food businesses scale."
+      ],
+      "zh": [
+        "共同創辦人使用 Gmail 中的 Gemini 優化零售商溝通郵件。",
+        "透過有效的郵件拓展支持家傳熱狗辣醬在全美的銷售布局。",
+        "展現 AI 輔助溝通工具如何幫助小型食品企業規模化發展。"
+      ]
+    },
+    "technologies": ["Gemini", "Gmail", "Google Workspace"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "retail-employee-deeli-ai",
+    "industry": "retail",
+    "agentType": "employee",
+    "company": "Deeli AI",
+    "isNew": false,
+    "summary": {
+      "en": "Deeli AI helps companies evaluate emerging technologies for investment decisions, built on GCE, Cloud Run, Dataflow, and Vertex AI Model Garden.",
+      "zh": "Deeli AI 協助企業探索與評估新興技術以支援投資決策，建構於 GCE、Cloud Run、Dataflow 及 Vertex AI Model Garden 之上。"
+    },
+    "overview": {
+      "en": "Deeli AI is an AI-powered platform that helps companies discover and evaluate emerging technologies to make informed investment decisions. The platform is built on a range of Google Cloud services including Google Compute Engine, Cloud Run, and Dataflow for data processing, and uses models from the Vertex AI Model Garden to power its AI-driven technology assessment capabilities.",
+      "zh": "Deeli AI 是一個 AI 驅動的平台，協助企業探索及評估新興技術，以做出有據可查的投資決策。該平台建構於 Google Compute Engine、Cloud Run、Dataflow 等多項 Google Cloud 服務之上，並使用 Vertex AI Model Garden 的模型驅動其 AI 技術評估能力。"
+    },
+    "highlights": {
+      "en": [
+        "Provides AI-powered technology discovery and investment evaluation for enterprises.",
+        "Built on GCE, Cloud Run, and Dataflow for scalable data processing.",
+        "Leverages Vertex AI Model Garden for AI-driven technology assessment.",
+        "Enables companies to make informed decisions about emerging technology investments."
+      ],
+      "zh": [
+        "為企業提供 AI 驅動的技術探索與投資評估服務。",
+        "建構於 GCE、Cloud Run 及 Dataflow 之上，支援可擴展資料處理。",
+        "利用 Vertex AI Model Garden 驅動 AI 技術評估能力。",
+        "協助企業針對新興技術投資做出有據可查的決策。"
+      ]
+    },
+    "technologies": ["Vertex AI", "Vertex AI Model Garden", "Google Compute Engine", "Cloud Run", "Dataflow"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "retail-employee-etsy",
+    "industry": "retail",
+    "agentType": "employee",
+    "company": "Etsy",
+    "isNew": false,
+    "summary": {
+      "en": "Etsy's customer support team uses Gemini in Sheets to analyze feedback in minutes instead of hours, quickly identifying trends.",
+      "zh": "Etsy 客服團隊使用 Google Sheets 中的 Gemini，將顧客意見分析時間從數小時縮短至數分鐘。"
+    },
+    "overview": {
+      "en": "Etsy's customer support team leverages Gemini in Google Sheets to dramatically reduce the time required to analyze large volumes of customer feedback. What previously took hours can now be completed in minutes, enabling the team to quickly surface trends in customer interactions, identify issues, and take action to improve the overall customer experience on the marketplace.",
+      "zh": "Etsy 客服團隊利用 Google Sheets 中的 Gemini，大幅縮短分析大量顧客意見所需的時間。原本耗時數小時的工作現在數分鐘即可完成，讓團隊能迅速掌握顧客互動趨勢、識別問題，並採取行動提升市集的整體顧客體驗。"
+    },
+    "highlights": {
+      "en": [
+        "Reduced customer feedback analysis time from hours to minutes using Gemini in Sheets.",
+        "Enables customer support team to quickly identify trends and areas for improvement.",
+        "Improves responsiveness and quality of customer interactions across the Etsy marketplace."
+      ],
+      "zh": [
+        "使用 Google Sheets 中的 Gemini，將顧客意見分析時間從數小時縮短至數分鐘。",
+        "讓客服團隊能快速識別趨勢與改善方向。",
+        "提升 Etsy 市集顧客互動的回應速度與品質。"
+      ]
+    },
+    "technologies": ["Gemini", "Google Sheets", "Google Workspace"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "retail-employee-fairprice",
+    "industry": "retail",
+    "agentType": "employee",
+    "company": "FairPrice",
+    "isNew": false,
+    "summary": {
+      "en": "FairPrice, Singapore's largest food retailer, builds an organization-wide AI research and task assistant platform with Google Agentspace for 12,000+ staff.",
+      "zh": "新加坡最大食品零售商 FairPrice 以 Google Agentspace 為逾 12,000 名員工建構全組織 AI 研究與任務助理平台。"
+    },
+    "overview": {
+      "en": "FairPrice Group, Singapore's largest food retailer with over 12,000 staff, is deploying Google Agentspace to build an organization-wide AI platform. The platform provides a seamless research assistant that searches across documents, internal systems, and third-party applications, plus a natural-language task assistant. The goal is to improve knowledge discovery, reduce manual effort, and streamline processes to improve customer experience and operational efficiency.",
+      "zh": "擁有逾 12,000 名員工的新加坡最大食品零售商 FairPrice 正部署 Google Agentspace，打造全組織 AI 平台。該平台提供可跨文件、內部系統及第三方應用程式搜尋的無縫研究助理，以及自然語言任務助理，旨在改善知識探索、減少手動作業並簡化流程，進而提升顧客體驗與營運效率。"
+    },
+    "highlights": {
+      "en": [
+        "Building an organization-wide AI platform with Google Agentspace for 12,000+ employees.",
+        "Provides a unified research assistant spanning documents, internal systems, and third-party applications.",
+        "Includes a natural-language task assistant to reduce manual effort and streamline workflows.",
+        "Also deployed Imagen 4 and Veo 3 on Vertex AI for marketing creative, reducing ad creation time by 10x and costs by 100x."
+      ],
+      "zh": [
+        "以 Google Agentspace 為逾 12,000 名員工建構全組織 AI 平台。",
+        "提供涵蓋文件、內部系統及第三方應用程式的統一研究助理。",
+        "包含自然語言任務助理，減少手動作業並簡化工作流程。",
+        "在 Vertex AI 上部署 Imagen 4 及 Veo 3 用於行銷創意，廣告製作時間縮短 10 倍、成本降低 100 倍。"
+      ]
+    },
+    "technologies": ["Google Agentspace", "Vertex AI", "Gemini", "Imagen 4", "Veo 3", "Google Workspace"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "FairPrice Group, Singapore's Largest Retailer, Deepens AI Collaboration with Google Cloud",
+        "url": "https://www.googlecloudpresscorner.com/2025-08-27-FairPrice-Group,-Singapores-Largest-Retailer,-Deepens-AI-Collaboration-with-Google-Cloud,-Brings-New-Agentic-Applications-to-its-Store-of-Tomorrow-and-Workforce"
+      },
+      {
+        "title": "FairPrice taps Google Cloud to build agentic AI workforce | Computer Weekly",
+        "url": "https://www.computerweekly.com/news/366629911/FairPrice-taps-Google-Cloud-to-build-agentic-AI-workforce"
+      }
+    ]
+  },
+  {
+    "id": "retail-employee-grupo-dia",
+    "industry": "retail",
+    "agentType": "employee",
+    "company": "Grupo Dia",
+    "isNew": false,
+    "summary": {
+      "en": "Spanish supermarket chain Grupo Dia uses Gemini in Google Workspace to compare proposals and conduct market research while keeping data private.",
+      "zh": "西班牙連鎖超市 Grupo Dia 使用 Google Workspace 中的 Gemini 比較提案、進行市場研究，同時確保資料安全。"
+    },
+    "overview": {
+      "en": "Grupo Dia, a Spanish multinational supermarket chain founded in 1979, uses Gemini in Google Workspace to streamline competitive analysis and market research. Teams can compare complex proposals and surface competitive insights more quickly, helping the business stay ahead of the competition. A key consideration is that company data is never used to train external AI models, ensuring data privacy and security.",
+      "zh": "創立於 1979 年的西班牙跨國連鎖超市 Grupo Dia 使用 Google Workspace 中的 Gemini 簡化競爭分析與市場調查。各團隊能更快速比較複雜提案並挖掘競爭洞察，協助企業保持競爭優勢。公司資料不會用於訓練外部 AI 模型，確保資料隱私與安全性，是採用的重要前提。"
+    },
+    "highlights": {
+      "en": [
+        "Uses Gemini in Google Workspace to compare complex proposals and conduct market research.",
+        "Saves time, reduces costs, and boosts team productivity across the organization.",
+        "Ensures company data is never used to train external AI models, preserving data privacy."
+      ],
+      "zh": [
+        "使用 Google Workspace 中的 Gemini 比較複雜提案並進行市場研究。",
+        "節省時間、降低成本並提升全組織生產力。",
+        "確保公司資料不用於訓練外部 AI 模型，保護資料隱私。"
+      ]
+    },
+    "technologies": ["Gemini", "Google Workspace"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "retail-employee-grupo-nutresa",
+    "industry": "retail",
+    "agentType": "employee",
+    "company": "Grupo Nutresa",
+    "isNew": false,
+    "summary": {
+      "en": "Grupo Nutresa, a Latin American processed food leader, uses Gemini for Google Workspace to streamline processes and boost productivity.",
+      "zh": "拉丁美洲加工食品龍頭 Grupo Nutresa 使用 Gemini for Google Workspace 簡化流程並提升生產力。"
+    },
+    "overview": {
+      "en": "Grupo Nutresa is a leader in processed foods across Colombia and Latin America. The company is deploying Gemini for Google Workspace to streamline internal processes, optimize decision-making, and increase employee productivity, driving overall innovation across the organization.",
+      "zh": "Grupo Nutresa 是哥倫比亞及拉丁美洲的加工食品領導品牌，正在部署 Gemini for Google Workspace 以簡化內部流程、優化決策並提升員工生產力，推動全組織整體創新。"
+    },
+    "highlights": {
+      "en": [
+        "Deploying Gemini for Google Workspace to streamline internal business processes.",
+        "Uses AI to optimize decision-making across the organization.",
+        "Aims to increase productivity and drive innovation in the Latin American food sector."
+      ],
+      "zh": [
+        "部署 Gemini for Google Workspace 以簡化內部業務流程。",
+        "利用 AI 優化全組織決策。",
+        "致力於提升生產力並推動拉丁美洲食品業的創新。"
+      ]
+    },
+    "technologies": ["Gemini", "Google Workspace"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "retail-employee-home-depot",
+    "industry": "retail",
+    "agentType": "employee",
+    "company": "Home Depot",
+    "isNew": false,
+    "summary": {
+      "en": "Home Depot's Sidekick app uses Google Cloud vision models to help store associates manage inventory and prioritize shelf-stocking actions.",
+      "zh": "Home Depot 的 Sidekick 應用程式以 Google Cloud 視覺模型協助門市員工管理庫存並優先處理補貨任務。"
+    },
+    "overview": {
+      "en": "Home Depot built an internal application called Sidekick, deployed on ruggedized mobile devices used by store associates. Associates use their devices to photograph store shelves, and the computer vision system analyzes the images to detect out-of-stock products and assess real-time inventory levels. Powered by Google Cloud's Vertex AI, Sidekick helps associates prioritize which restocking actions to take, improving product availability and operational efficiency.",
+      "zh": "Home Depot 開發了名為 Sidekick 的內部應用程式，部署於門市員工使用的加固型行動裝置上。員工使用裝置拍攝貨架，電腦視覺系統分析影像以偵測缺貨商品並評估即時庫存水位。以 Google Cloud Vertex AI 為動力，Sidekick 協助員工優先處理補貨任務，提升商品可得性與營運效率。"
+    },
+    "highlights": {
+      "en": [
+        "Sidekick app deployed on ruggedized mobile devices (hdPhones) for store associates.",
+        "Uses Google Cloud computer vision on Vertex AI to detect out-of-stock products from shelf photos.",
+        "Prioritizes in-store restocking tasks based on real-time inventory analysis.",
+        "Long-term Google Cloud partnership since 2015 spanning computer vision, ML, and generative AI."
+      ],
+      "zh": [
+        "Sidekick 應用程式部署於門市員工使用的加固型行動裝置（hdPhones）。",
+        "使用 Vertex AI 上的 Google Cloud 電腦視覺技術，從貨架照片偵測缺貨商品。",
+        "根據即時庫存分析，優先排序門市補貨任務。",
+        "自 2015 年起與 Google Cloud 建立長期合作關係，涵蓋電腦視覺、機器學習與生成式 AI。"
+      ]
+    },
+    "technologies": ["Vertex AI", "Computer Vision", "Google Cloud"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "The Home Depot and Google Cloud Launch Agentic AI Tools",
+        "url": "https://corporate.homedepot.com/news/partnerships/home-depot-and-google-cloud-launch-agentic-ai-tools-help-customers-and-associates"
+      },
+      {
+        "title": "AI in Retail: The Home Depot's Success with Google Cloud",
+        "url": "https://supplychain360.io/enhancing-retail-operations-ai-case-study-home-depot-google-cloud/"
+      }
+    ]
+  },
+  {
+    "id": "retail-employee-john-lewis-partners",
+    "industry": "retail",
+    "agentType": "employee",
+    "company": "John Lewis & Partners",
+    "isNew": false,
+    "summary": {
+      "en": "John Lewis & Partners uses Gemini in Google Workspace to automate tasks, summarize documents and meetings, and free up employees for deeper work.",
+      "zh": "John Lewis & Partners 使用 Google Workspace 中的 Gemini 自動化日常任務、摘要文件與會議，讓員工投入更深度的工作。"
+    },
+    "overview": {
+      "en": "John Lewis & Partners, the employee co-owned British retail group, uses Gemini in Google Workspace to automate everyday tasks, summarize long documents and meetings, and quickly locate information. Through a pilot program, Partners (employees) rapidly adopted the AI tools to free up time for deeper, more focused work — a particularly meaningful benefit at a company where employees share ownership of the business.",
+      "zh": "員工共同持股的英國零售集團 John Lewis & Partners 使用 Google Workspace 中的 Gemini 自動化日常任務、摘要冗長文件與會議，並快速查找資訊。透過試點計畫，合夥人（員工）迅速採用 AI 工具，釋放時間從事更深入、更專注的工作——這對於員工共享企業所有權的公司而言格外有意義。"
+    },
+    "highlights": {
+      "en": [
+        "Deployed Gemini in Google Workspace to automate everyday tasks and summarize documents and meetings.",
+        "Pilot program led to rapid employee adoption of AI tools across the organization.",
+        "Frees up employee time for deeper, more focused work — particularly valuable in a co-owned business."
+      ],
+      "zh": [
+        "部署 Google Workspace 中的 Gemini，自動化日常任務並摘要文件與會議。",
+        "試點計畫促使員工在全組織內迅速採用 AI 工具。",
+        "釋放員工時間從事更深入、更專注的工作——在共同持股企業中尤具價值。"
+      ]
+    },
+    "technologies": ["Gemini", "Google Workspace"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "John Lewis Empowers Partners with Google Workspace and Gemini — YouTube",
+        "url": "https://www.youtube.com/watch?v=MYCFlkqpom4"
+      }
+    ]
+  },
+  {
+    "id": "retail-employee-just-salad",
+    "industry": "retail",
+    "agentType": "employee",
+    "company": "Just Salad",
+    "isNew": false,
+    "summary": {
+      "en": "Just Salad uses Gemini for Google Workspace to summarize emails and meetings, enabling employees to focus on product development and customer service.",
+      "zh": "Just Salad 使用 Gemini for Google Workspace 摘要郵件與會議，讓員工得以專注於產品開發與客戶服務。"
+    },
+    "overview": {
+      "en": "Just Salad, a fast-casual restaurant chain, leverages Gemini for Google Workspace to streamline internal communications and enhance team efficiency. By summarizing emails and meetings automatically, employees save time on administrative tasks and can redirect their energy toward product development, customer service, and activities that drive the company's growth.",
+      "zh": "快速休閒餐廳連鎖品牌 Just Salad 利用 Gemini for Google Workspace 簡化內部溝通、提升團隊效率。透過自動摘要郵件與會議，員工得以節省行政事務時間，將精力轉向產品開發、客戶服務及推動公司成長的活動。"
+    },
+    "highlights": {
+      "en": [
+        "Uses Gemini for Google Workspace to automatically summarize emails and meeting content.",
+        "Reduces administrative overhead, allowing employees to focus on strategic work.",
+        "Supports product development and customer service quality through improved operational efficiency."
+      ],
+      "zh": [
+        "使用 Gemini for Google Workspace 自動摘要郵件與會議內容。",
+        "減少行政工作負擔，讓員工得以專注於策略性工作。",
+        "透過提升營運效率，支援產品開發與客戶服務品質。"
+      ]
+    },
+    "technologies": ["Gemini", "Google Workspace"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "retail-employee-mcdonald-s",
+    "industry": "retail",
+    "agentType": "employee",
+    "company": "McDonald's",
+    "isNew": false,
+    "summary": {
+      "en": "McDonald's partners with Google Cloud to deploy AI and edge technology across thousands of restaurants, enhancing employee and customer experiences.",
+      "zh": "McDonald's 與 Google Cloud 合作，在全球數千家門市部署 AI 與邊緣技術，提升員工與顧客體驗。"
+    },
+    "overview": {
+      "en": "McDonald's signed a multi-year strategic partnership with Google Cloud to leverage data, AI, and edge technologies across its thousands of restaurants worldwide. The partnership includes deploying Google Distributed Cloud hardware at restaurant locations to run cloud-based and on-premises AI workloads. This infrastructure enables faster innovation deployment, improved employee operations, and better customer experiences including hotter, fresher food and smarter kiosk interactions.",
+      "zh": "McDonald's 與 Google Cloud 簽署多年策略合作協議，在全球數千家門市運用資料、AI 與邊緣技術。合作內容包括在門市部署 Google Distributed Cloud 硬體，以執行雲端與本地 AI 工作負載。此基礎設施能加速創新部署、改善員工運作效率，並帶來更佳顧客體驗，包括更熱、更新鮮的食物以及更智慧的自助服務機互動。"
+    },
+    "highlights": {
+      "en": [
+        "Deploying Google Distributed Cloud hardware at thousands of restaurants globally for edge AI.",
+        "Enables faster roll-out of innovations, reducing operational complexity for restaurant crew.",
+        "Improves customer engagement through AI-enhanced mobile app and self-service kiosk features.",
+        "Uses AI for equipment performance analysis to reduce business disruptions."
+      ],
+      "zh": [
+        "在全球數千家門市部署 Google Distributed Cloud 硬體，支援邊緣 AI。",
+        "加速創新推出速度，降低餐廳員工的營運複雜度。",
+        "透過 AI 增強的行動應用程式與自助點餐機功能提升顧客互動體驗。",
+        "利用 AI 分析設備性能，減少業務中斷。"
+      ]
+    },
+    "technologies": ["Google Distributed Cloud", "Vertex AI", "Google Cloud"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "McDonald's and Google Cloud Announce Strategic Partnership",
+        "url": "https://corporate.mcdonalds.com/corpmcd/our-stories/article/mcd-google-cloud-announce-partnership.html"
+      },
+      {
+        "title": "McDonald's teams up with Google Cloud for AI and edge use cases",
+        "url": "https://www.cloudcomputing-news.net/news/mcdonalds-teams-up-with-google-cloud-for-ai-and-edge-use-cases/"
+      }
+    ]
+  },
+  {
+    "id": "retail-employee-mercari",
+    "industry": "retail",
+    "agentType": "employee",
+    "company": "Mercari",
+    "isNew": false,
+    "summary": {
+      "en": "Mercari overhauled its contact center with Google AI, projecting 500% ROI and at least 20% reduction in customer service rep workload.",
+      "zh": "Mercari 以 Google AI 全面翻新客服中心，預計實現 500% ROI 並減少至少 20% 的客服人員工作量。"
+    },
+    "overview": {
+      "en": "Mercari, Japan's largest online marketplace, is transforming its contact center with Google AI as part of an 'AI-Driven CS' strategy. The initiative, built using Google Cloud's Customer Engagement Suite, aims to resolve customer problems within five minutes through AI-powered automation and chat-based workflows. The system retrieves customer data from various microservices and resolves issues autonomously, escalating only complex cases to human operators.",
+      "zh": "日本最大二手交易平台 Mercari 以 Google AI 為核心全面轉型客服中心，推進「AI-Driven CS」策略。此計畫以 Google Cloud 客戶互動套件為基礎，透過 AI 自動化與聊天式工作流程，目標在五分鐘內解決顧客問題。系統可從各微服務擷取顧客資料並自主解決問題，僅將複雜案例升級至人工客服處理。"
+    },
+    "highlights": {
+      "en": [
+        "Projected 500% ROI from the AI-driven contact center transformation.",
+        "Aims to reduce customer service representative workload by at least 20%.",
+        "Transitioned to a chat-based system for AI-driven customer problem resolution within 5 minutes.",
+        "System auto-resolves issues from microservices data, escalating only complex cases to humans."
+      ],
+      "zh": [
+        "AI 驅動的客服中心轉型預計帶來 500% ROI。",
+        "目標將客服人員工作量減少至少 20%。",
+        "轉型為聊天式系統，AI 驅動在 5 分鐘內解決顧客問題。",
+        "系統從微服務資料自主解決問題，僅將複雜案例升級至人工處理。"
+      ]
+    },
+    "technologies": ["Google Cloud", "Vertex AI", "Contact Center AI", "Gemini"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Mercari boosts CS with Google AI, sees 500% ROI — LinkedIn",
+        "url": "https://www.linkedin.com/posts/google-cloud_japans-largest-online-marketplace-mercari-activity-7388212816698044416-rvtS"
+      },
+      {
+        "title": "Mercari case study | Google Cloud",
+        "url": "https://cloud.google.com/customers/mercari-data"
+      }
+    ]
+  },
+  {
+    "id": "retail-employee-miinto",
+    "industry": "retail",
+    "agentType": "employee",
+    "company": "Miinto",
+    "isNew": false,
+    "summary": {
+      "en": "Miinto uses Vertex AI Vision to merge duplicate product listings, achieving 40% efficiency gains and 20% higher conversion rates.",
+      "zh": "Miinto 使用 Vertex AI Vision 合併重複商品清單，效率提升 40%，轉換率提高 20%。"
+    },
+    "overview": {
+      "en": "Miinto, an online fashion marketplace, uses Vertex AI Vision (specifically Vision AI product search) to automatically detect and merge duplicate product listings created when multiple sellers upload the same item. The system uses pretrained image embeddings to identify similar products with high accuracy. Previously, the data perfection team manually searched for duplicates, creating a workflow bottleneck.",
+      "zh": "線上時尚市集 Miinto 使用 Vertex AI Vision（尤其是 Vision AI 商品搜尋功能）自動偵測並合併多個賣家上架同款商品時所產生的重複清單。系統以預訓練影像嵌入高精準度識別相似商品，解決了過去資料完善團隊需手動搜尋重複項目所造成的工作流程瓶頸。"
+    },
+    "highlights": {
+      "en": [
+        "Achieved a 40% increase in efficiency for the product arrival creation process.",
+        "Improved conversion rates by up to 20% by merging duplicate product listings.",
+        "Vision AI returns the correct duplicate in the top 5 results 100% of the time in testing.",
+        "The top result matches the duplicate 98% of the time, with matching completed in under 1 second."
+      ],
+      "zh": [
+        "商品到貨建立流程效率提升 40%。",
+        "合併重複商品清單後，轉換率提升最多 20%。",
+        "測試中 Vision AI 在前 5 個結果中找到正確重複商品的準確率達 100%。",
+        "第一個結果與重複商品匹配的準確率達 98%，匹配時間不到 1 秒。"
+      ]
+    },
+    "technologies": ["Vertex AI", "Vision AI", "Google Cloud"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Improved customer experiences with Google Cloud Vertex AI Vision | Google Cloud Blog",
+        "url": "https://cloud.google.com/blog/products/ai-machine-learning/improved-customer-experiences-with-google-cloud-vertex-ai-vision"
+      }
+    ]
+  },
+  {
+    "id": "retail-employee-momentum-climbing-gym",
+    "industry": "retail",
+    "agentType": "employee",
+    "company": "Momentum Climbing Gym",
+    "isNew": false,
+    "summary": {
+      "en": "Momentum Climbing Gym uses Gemini in Google Meet to summarize team meetings, keeping their nationwide staff aligned.",
+      "zh": "Momentum Climbing Gym 使用 Google Meet 中的 Gemini 摘要團隊會議，讓全國員工保持同步。"
+    },
+    "overview": {
+      "en": "Momentum Climbing Gym uses Gemini in Google Meet to automatically summarize conversations and meetings with team members across their nationwide locations. This keeps all staff informed and aligned without requiring everyone to attend every meeting in full, improving operational coordination across distributed gym locations.",
+      "zh": "Momentum Climbing Gym 使用 Google Meet 中的 Gemini 自動摘要全國各地點的團隊對話與會議，確保所有員工在不需全程出席每場會議的情況下保持資訊同步，提升分散式健身房地點間的營運協調。"
+    },
+    "highlights": {
+      "en": [
+        "Uses Gemini in Google Meet to generate automatic meeting summaries for nationwide teams.",
+        "Keeps geographically distributed staff aligned without requiring full meeting attendance.",
+        "Improves operational coordination across multiple climbing gym locations."
+      ],
+      "zh": [
+        "使用 Google Meet 中的 Gemini 為全國性團隊自動生成會議摘要。",
+        "讓地理分散的員工無需全程出席即可保持資訊對齊。",
+        "提升多個攀岩健身房地點間的營運協調。"
+      ]
+    },
+    "technologies": ["Gemini", "Google Meet", "Google Workspace"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "retail-employee-mood-fabrics",
+    "industry": "retail",
+    "agentType": "employee",
+    "company": "Mood Fabrics",
+    "isNew": false,
+    "summary": {
+      "en": "Mood Fabrics uses Gemini in Gmail to compare vendor proposals, ensuring no detail is missed while managing 600+ global vendor relationships.",
+      "zh": "Mood Fabrics 使用 Gmail 中的 Gemini 比較供應商提案，確保管理逾 600 個全球供應商關係時不遺漏任何細節。"
+    },
+    "overview": {
+      "en": "Mood Fabrics, a leading fabric supplier, manages relationships with over 600 vendors worldwide. The company uses Gemini in Gmail to compare vendor proposals quickly and thoroughly, ensuring that no critical details are missed in the evaluation process. This AI-assisted approach improves the quality and speed of vendor management decisions at scale.",
+      "zh": "領先布料供應商 Mood Fabrics 管理全球逾 600 個供應商關係，利用 Gmail 中的 Gemini 快速且全面地比較供應商提案，確保評估過程中不遺漏任何關鍵細節。這種 AI 輔助方式提升了大規模供應商管理決策的品質與速度。"
+    },
+    "highlights": {
+      "en": [
+        "Uses Gemini in Gmail to compare vendor proposals across 600+ global vendor relationships.",
+        "Ensures thorough, detail-oriented evaluation of supplier communications at scale.",
+        "Improves the speed and quality of vendor management decision-making."
+      ],
+      "zh": [
+        "使用 Gmail 中的 Gemini 比較逾 600 個全球供應商的提案。",
+        "確保大規模供應商溝通的全面性與細節導向評估。",
+        "提升供應商管理決策的速度與品質。"
+      ]
+    },
+    "technologies": ["Gemini", "Gmail", "Google Workspace"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "retail-employee-natura",
+    "industry": "retail",
+    "agentType": "employee",
+    "company": "Natura",
+    "isNew": true,
+    "summary": {
+      "en": "Brazilian cosmetics company Natura uses Gemini for Google Workspace to improve employee collaboration and productivity.",
+      "zh": "巴西美妝公司 Natura 使用 Gemini for Google Workspace 提升員工協作與生產力。"
+    },
+    "overview": {
+      "en": "Natura, the Brazilian cosmetics company, is deploying Gemini for Google Workspace across its organization to improve employee collaboration and productivity. The initiative supports Natura's broader digital transformation strategy, helping employees work more effectively and communicate more clearly across the company's global operations.",
+      "zh": "巴西美妝公司 Natura 正在全組織部署 Gemini for Google Workspace，以提升員工協作與生產力。此舉支持 Natura 更廣泛的數位轉型策略，協助員工在全球業務中更有效地工作並進行清晰溝通。"
+    },
+    "highlights": {
+      "en": [
+        "Deploying Gemini for Google Workspace to enhance employee collaboration.",
+        "Supports Natura's broader digital transformation strategy.",
+        "Aims to improve productivity across a globally distributed workforce."
+      ],
+      "zh": [
+        "部署 Gemini for Google Workspace 以提升員工協作能力。",
+        "支持 Natura 更廣泛的數位轉型策略。",
+        "致力於提升全球分散式員工的生產力。"
+      ]
+    },
+    "technologies": ["Gemini", "Google Workspace"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Natura's new collaboration approach | Google Workspace Blog",
+        "url": "https://workspace.google.com/blog/customer-stories/how-natura-used-google-workspace-new-collaboration-approach"
+      }
+    ]
+  },
+  {
+    "id": "retail-employee-natura-2",
+    "industry": "retail",
+    "agentType": "employee",
+    "company": "Natura",
+    "isNew": false,
+    "summary": {
+      "en": "Natura reinvented its meeting culture with Gemini for Google Workspace, making collaboration more efficient.",
+      "zh": "Natura 以 Gemini for Google Workspace 重塑會議文化，讓協作更有效率。"
+    },
+    "overview": {
+      "en": "Natura, a Brazilian cosmetics and personal care brand, has reinvented its approach to meetings using Gemini for Google Workspace. By leveraging AI-powered meeting tools, the company has made collaboration across its global teams more efficient, reducing time spent in unproductive meetings and enabling employees to better utilize time for strategic and creative work.",
+      "zh": "巴西美妝暨個人護理品牌 Natura 以 Gemini for Google Workspace 重新打造其會議方式。透過運用 AI 驅動的會議工具，公司提升全球團隊協作效率，減少在低效會議中耗費的時間，讓員工得以更充分地投入策略性與創意性工作。"
+    },
+    "highlights": {
+      "en": [
+        "Reinvented the company's approach to meetings using Gemini for Google Workspace.",
+        "Reduced time spent in unproductive meetings through AI-powered meeting tools.",
+        "Improved collaboration efficiency across Natura's global teams."
+      ],
+      "zh": [
+        "以 Gemini for Google Workspace 重塑公司的會議方式。",
+        "透過 AI 驅動的會議工具，減少低效會議所耗費的時間。",
+        "提升 Natura 全球團隊的協作效率。"
+      ]
+    },
+    "technologies": ["Gemini", "Google Workspace"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Natura's new collaboration approach | Google Workspace Blog",
+        "url": "https://workspace.google.com/blog/customer-stories/how-natura-used-google-workspace-new-collaboration-approach"
+      }
+    ]
+  },
+  {
+    "id": "retail-employee-natura-3",
+    "industry": "retail",
+    "agentType": "employee",
+    "company": "Natura",
+    "isNew": false,
+    "summary": {
+      "en": "Natura migrated 20,000 employees to Google Workspace and eliminated 17+ hours of manual work per week with AppSheet.",
+      "zh": "Natura 將 2 萬名員工遷移至 Google Workspace，並以 AppSheet 每週消除逾 17 小時的手動作業。"
+    },
+    "overview": {
+      "en": "Natura, a Brazilian cosmetics company, migrated 20,000 employees across more than 10 countries to Google Workspace and was among the first companies to pilot the Gemini side panel. The finance team used AppSheet to build an automated workflow for monthly financial close processes, eliminating over 17 hours of manual work per week. With 78% of collaborators using Gemini every day, Natura has deeply embedded AI into its daily operations.",
+      "zh": "巴西美妝公司 Natura 將逾 10 個國家的 20,000 名員工遷移至 Google Workspace，並成為最早試用 Gemini 側邊欄的公司之一。財務團隊使用 AppSheet 為月度財務結帳流程建立自動化工作流程，每週消除逾 17 小時的手動作業。78% 的協作者每天使用 Gemini，Natura 已將 AI 深度嵌入日常營運。"
+    },
+    "highlights": {
+      "en": [
+        "Migrated 20,000 employees across 10+ countries to Google Workspace.",
+        "One of the first companies to pilot the Gemini side panel.",
+        "Eliminated 17+ hours of manual work per week in the finance team using AppSheet automation.",
+        "78% of collaborators use Gemini daily, reflecting deep organizational AI adoption."
+      ],
+      "zh": [
+        "將逾 10 個國家的 20,000 名員工遷移至 Google Workspace。",
+        "成為最早試用 Gemini 側邊欄的公司之一。",
+        "透過 AppSheet 自動化，財務團隊每週消除逾 17 小時的手動作業。",
+        "78% 的協作者每天使用 Gemini，體現深度的全組織 AI 採用。"
+      ]
+    },
+    "technologies": ["Gemini", "Google Workspace", "AppSheet"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Natura Customer Success Story — Google Workspace",
+        "url": "https://workspace.google.com/customers/naturabrasil/"
+      },
+      {
+        "title": "Natura's new collaboration approach | Google Workspace Blog",
+        "url": "https://workspace.google.com/blog/customer-stories/how-natura-used-google-workspace-new-collaboration-approach"
+      }
+    ]
+  },
+  {
+    "id": "retail-employee-nuts-com",
+    "industry": "retail",
+    "agentType": "employee",
+    "company": "Nuts.com",
+    "isNew": false,
+    "summary": {
+      "en": "Nuts.com uses Gemini live translation in Google Meet to communicate with global suppliers and source premium nuts.",
+      "zh": "Nuts.com 使用 Google Meet 中 Gemini 的即時翻譯功能與全球供應商溝通，採購優質堅果。"
+    },
+    "overview": {
+      "en": "Nuts.com, a family-owned specialty food retailer established in 1929, uses the live translation feature of Gemini in Google Meet to communicate seamlessly with suppliers worldwide. This capability breaks down language barriers in supplier negotiations and sourcing conversations, enabling the company to maintain the high-quality sourcing standards it has upheld for nearly a century.",
+      "zh": "創立於 1929 年的家族特色食品零售商 Nuts.com 使用 Google Meet 中 Gemini 的即時翻譯功能，與全球供應商無縫溝通。此功能消除供應商談判與採購對話中的語言障礙，讓公司得以維持近百年來堅守的高品質採購標準。"
+    },
+    "highlights": {
+      "en": [
+        "Uses Gemini live translation in Google Meet for real-time multilingual supplier communications.",
+        "Breaks down language barriers to maintain high-quality global sourcing since 1929.",
+        "Enables seamless supplier negotiations without the need for human translators."
+      ],
+      "zh": [
+        "使用 Google Meet 中的 Gemini 即時翻譯功能，進行即時多語言供應商溝通。",
+        "消除語言障礙，維持自 1929 年以來的高品質全球採購標準。",
+        "無需人工翻譯即可進行無縫的供應商談判。"
+      ]
+    },
+    "technologies": ["Gemini", "Google Meet", "Google Workspace"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "retail-employee-ocado-retail",
+    "industry": "retail",
+    "agentType": "employee",
+    "company": "Ocado Retail",
+    "isNew": false,
+    "summary": {
+      "en": "Ocado Retail, the UK's largest online-only grocer, uses Gemini in Google Workspace to automate notetaking and empower users to streamline workflows without IT.",
+      "zh": "英國最大純網路超市 Ocado Retail 使用 Google Workspace 中的 Gemini 自動記錄筆記，讓使用者無需 IT 介入即可簡化工作流程。"
+    },
+    "overview": {
+      "en": "Ocado Retail, the UK's largest online-only grocery supermarket, uses Gemini in Google Workspace to automate meeting notetaking and summarization, and to customize workflows. A key benefit is that users can automate mundane and repetitive tasks independently, without waiting for IT projects, significantly reducing operational friction and accelerating internal process improvements.",
+      "zh": "英國最大純網路超市 Ocado Retail 使用 Google Workspace 中的 Gemini 自動化會議記錄與摘要，並客製化工作流程。重要優勢在於使用者可自主自動化繁瑣重複的任務，無需等待 IT 專案，大幅減少營運阻力並加速內部流程改善。"
+    },
+    "highlights": {
+      "en": [
+        "Automates meeting notetaking and summarization using Gemini in Google Workspace.",
+        "Empowers users to automate repetitive tasks independently, without IT project dependencies.",
+        "Customizes workflows to reduce operational friction across the online grocery business."
+      ],
+      "zh": [
+        "使用 Google Workspace 中的 Gemini 自動化會議記錄與摘要。",
+        "賦能使用者自主自動化重複性任務，無需依賴 IT 專案。",
+        "客製化工作流程，減少線上超市業務的營運阻力。"
+      ]
+    },
+    "technologies": ["Gemini", "Google Workspace"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "retail-employee-oogiebear",
+    "industry": "retail",
+    "agentType": "employee",
+    "company": "oogiebear",
+    "isNew": false,
+    "summary": {
+      "en": "oogiebear co-founder uses Gemini in Gmail to quickly handle customer and vendor communications while juggling CEO duties and parenting.",
+      "zh": "oogiebear 共同創辦人使用 Gmail 中的 Gemini 快速處理顧客與供應商溝通，同時兼顧 CEO 職責與育兒。"
+    },
+    "overview": {
+      "en": "oogiebear, a business specializing in baby breathing care products, is co-founded by Dr. Nina Farzin, who uses Gemini in Gmail to quickly compose and respond to messages from customers and vendors. This AI-assisted approach helps Dr. Farzin manage the dual demands of running the company as CEO while also being a mother of three children, making business communications faster and less demanding.",
+      "zh": "嬰幼兒呼吸護理產品品牌 oogiebear 的共同創辦人 Dr. Nina Farzin 使用 Gmail 中的 Gemini 快速撰寫並回覆顧客與供應商的訊息。這種 AI 輔助方式協助她同時應對身為 CEO 經營公司與照顧三個孩子的雙重需求，讓商業溝通更快速、更省力。"
+    },
+    "highlights": {
+      "en": [
+        "Uses Gemini in Gmail to quickly draft and respond to customer and vendor messages.",
+        "Helps the CEO manage dual demands of running a business and raising three children.",
+        "Demonstrates AI tools enabling small business founders to operate more efficiently."
+      ],
+      "zh": [
+        "使用 Gmail 中的 Gemini 快速起草並回覆顧客與供應商訊息。",
+        "協助 CEO 同時應對經營企業與照顧三個孩子的雙重需求。",
+        "展現 AI 工具如何協助小型企業創辦人更有效率地運作。"
+      ]
+    },
+    "technologies": ["Gemini", "Gmail", "Google Workspace"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "retail-employee-schwarz-group",
+    "industry": "retail",
+    "agentType": "employee",
+    "company": "Schwarz Group",
+    "isNew": false,
+    "summary": {
+      "en": "Europe's largest retailer Schwarz Group (Lidl, Kaufland) partners with Google to deploy sovereign Google Workspace for 575,000 employees via STACKIT.",
+      "zh": "歐洲最大零售商 Schwarz Group（含 Lidl、Kaufland）與 Google 合作，透過 STACKIT 為 57.5 萬名員工部署主權版 Google Workspace。"
+    },
+    "overview": {
+      "en": "Schwarz Group, Europe's largest retailer owning Lidl and Kaufland with 575,000 employees, signed a partnership with Google in November 2024 to deploy Google Workspace with client-side encryption. Schwarz Digits' cloud platform STACKIT hosts the Google Workspace data within the EU, ensuring full data sovereignty. Company data is encrypted such that even Google cannot access it, addressing European regulatory requirements.",
+      "zh": "旗下擁有 Lidl 與 Kaufland、員工達 57.5 萬人的歐洲最大零售商 Schwarz Group，於 2024 年 11 月與 Google 簽署合作協議，部署具備用戶端加密的 Google Workspace。Schwarz Digits 旗下的雲端平台 STACKIT 將 Google Workspace 資料存儲於歐盟境內，確保完全的資料主權——即便 Google 本身也無法存取相關資料，符合歐洲監管要求。"
+    },
+    "highlights": {
+      "en": [
+        "Transitioning 575,000 employees to Google Workspace with full data sovereignty.",
+        "STACKIT cloud platform hosts data within the EU with client-side encryption inaccessible even to Google.",
+        "Partnership announced November 2024 to enhance workplace productivity and data security.",
+        "Addresses European data sovereignty requirements for the retail sector."
+      ],
+      "zh": [
+        "將 57.5 萬名員工遷移至具完整資料主權的 Google Workspace。",
+        "STACKIT 雲端平台將資料存儲於歐盟境內，採用連 Google 都無法存取的用戶端加密。",
+        "2024 年 11 月宣布合作，以強化工作效率與資料安全。",
+        "滿足零售業的歐洲資料主權要求。"
+      ]
+    },
+    "technologies": ["Google Workspace", "Google Cloud"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Companies of Schwarz Group and Google to Sign Partnership",
+        "url": "https://www.googlecloudpresscorner.com/2024-11-14-Companies-of-Schwarz-Group-and-Google-to-Sign-Partnership-to-Jointly-Deliver-Sovereign,-Secure-Workplace-Productivity-Solutions-for-Germany-and-Europe"
+      },
+      {
+        "title": "EU's largest retailer and Google serve 'sovereign' Workspace",
+        "url": "https://www.thestack.technology/europes-largest-retailer-teams-up-with-google-to-serve-sovereign-self-hosted-drive-and-gmail/"
+      }
+    ]
+  },
+  {
+    "id": "retail-employee-sports-basement",
+    "industry": "retail",
+    "agentType": "employee",
+    "company": "Sports Basement",
+    "isNew": false,
+    "summary": {
+      "en": "Sports Basement's customer service team uses Gemini in Google Workspace to cut email-writing time by 30–35%, boosting response speed and satisfaction.",
+      "zh": "Sports Basement 客服團隊使用 Google Workspace 中的 Gemini，將撰寫郵件時間縮短 30 至 35%，提升回應速度與滿意度。"
+    },
+    "overview": {
+      "en": "Sports Basement's customer service team adopted Gemini in Google Workspace, specifically using the AI-assisted 'Help me write' feature in Gmail to draft customer responses more quickly. This resulted in a 30–35% reduction in time spent writing emails, leading to faster response times, higher employee satisfaction, and improved quality of customer interactions.",
+      "zh": "Sports Basement 客服團隊採用 Google Workspace 中的 Gemini，尤其是 Gmail 中的 AI 輔助「幫我撰寫」功能，更快速地起草顧客回覆。此舉使撰寫郵件所需時間縮短 30 至 35%，帶來更快的回應速度、更高的員工滿意度及更優質的顧客互動。"
+    },
+    "highlights": {
+      "en": [
+        "Reduced email writing time by 30–35% using Gemini in Google Workspace.",
+        "Resulted in faster customer response times and higher team morale.",
+        "Improved the quality of customer interactions across the sports retail business."
+      ],
+      "zh": [
+        "使用 Google Workspace 中的 Gemini，將撰寫郵件時間縮短 30 至 35%。",
+        "帶來更快的顧客回應速度與更高的團隊士氣。",
+        "提升運動零售業顧客互動的整體品質。"
+      ]
+    },
+    "technologies": ["Gemini", "Google Workspace", "Gmail"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "retail-employee-swarovski",
+    "industry": "retail",
+    "agentType": "employee",
+    "company": "Swarovski",
+    "isNew": false,
+    "summary": {
+      "en": "Swarovski migrated 1,000+ data objects to BigQuery and launched the Génie gen AI portal on Vertex AI for 1,000+ employees, achieving 17% higher email open rates.",
+      "zh": "Swarovski 將逾 1,000 個資料物件遷移至 BigQuery，並在 Vertex AI 上推出供逾千名員工使用的 Génie 生成式 AI 入口網站，郵件開信率提升 17%。"
+    },
+    "overview": {
+      "en": "Swarovski, the 130-year-old luxury brand operating across 140+ markets, modernized its data foundation by migrating over 1,000 data objects from 30+ sources to a BigQuery-based Data Lakehouse. The company then launched Génie, a generative AI portal powered by Vertex AI and Gemini, used by over 1,000 employees for contract review, content translation (20+ languages), creative asset generation, and campaign planning. AI personalization delivered measurable marketing results, and campaign localization was accelerated dramatically.",
+      "zh": "跨越 140 個市場、擁有 130 年歷史的奢侈品牌 Swarovski，將逾 30 個來源的 1,000 多個資料物件遷移至以 BigQuery 為核心的資料湖倉，現代化其資料基礎。隨後推出以 Vertex AI 及 Gemini 驅動的生成式 AI 入口網站 Génie，供逾千名員工用於合約審查、內容翻譯（超過 20 種語言）、創意資產生成及行銷活動規劃。AI 個人化帶來可量化的行銷成果，行銷活動在地化速度大幅提升。"
+    },
+    "highlights": {
+      "en": [
+        "Migrated 1,000+ data objects from 30+ sources to a BigQuery Data Lakehouse.",
+        "Génie gen AI portal on Vertex AI used by 1,000+ employees for creative and business tasks.",
+        "Achieved 17% higher email open rates and 7% higher click-through rates through AI personalization.",
+        "Accelerated campaign localization by 10x using generative AI."
+      ],
+      "zh": [
+        "將逾 30 個來源的 1,000 多個資料物件遷移至 BigQuery 資料湖倉。",
+        "Vertex AI 上的 Génie 生成式 AI 入口網站供逾千名員工用於創意與業務任務。",
+        "透過 AI 個人化，電子郵件開信率提升 17%、點閱率提升 7%。",
+        "以生成式 AI 將行銷活動在地化速度加快 10 倍。"
+      ]
+    },
+    "technologies": ["BigQuery", "Vertex AI", "Gemini", "Google Cloud"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Swarovski case study | Google Cloud",
+        "url": "https://cloud.google.com/customers/swarovski"
+      }
+    ]
+  },
+  {
+    "id": "retail-employee-trace-one",
+    "industry": "retail",
+    "agentType": "employee",
+    "company": "Trace One",
+    "isNew": false,
+    "summary": {
+      "en": "Trace One uses Vertex AI to automatically extract information from complex product documents, creating up-to-date summaries for retail and CPG customers.",
+      "zh": "Trace One 利用 Vertex AI 自動從複雜商品文件中擷取資訊，為零售與消費品客戶生成最新摘要。"
+    },
+    "overview": {
+      "en": "Trace One is a global product lifecycle management (PLM) provider for retail and consumer packaged goods companies. The company uses Vertex AI to automatically extract information from complex documents such as datasheets, product specifications, and regulatory filings to create up-to-date product summaries and data sheets. This covers various industry and regulatory standards, reducing manual data entry and improving accuracy for their retail and CPG customers.",
+      "zh": "Trace One 是零售與消費品公司的全球商品生命週期管理（PLM）供應商，使用 Vertex AI 從技術規格書、商品規格及法規文件等複雜文件中自動擷取資訊，生成最新的商品摘要與資料表，涵蓋各種業界與監管標準，為零售及消費品客戶減少手動資料輸入並提升準確性。"
+    },
+    "highlights": {
+      "en": [
+        "Automates extraction of information from complex datasheets and regulatory documents using Vertex AI.",
+        "Creates up-to-date product summaries and data sheets covering multiple industry standards.",
+        "Reduces manual data entry and improves accuracy for retail and CPG lifecycle management.",
+        "Explores additional AI use cases including product recipe optimization and formulation suggestions."
+      ],
+      "zh": [
+        "利用 Vertex AI 自動從複雜技術規格書與法規文件中擷取資訊。",
+        "生成涵蓋多種業界標準的最新商品摘要與資料表。",
+        "減少零售及消費品生命週期管理中的手動資料輸入並提升準確性。",
+        "探索其他 AI 應用場景，包括商品配方優化與調配建議。"
+      ]
+    },
+    "technologies": ["Vertex AI", "Google Cloud"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Trace One Case Study | Google Cloud",
+        "url": "https://cloud.google.com/customers/traceone"
+      }
+    ]
+  },
+  {
+    "id": "retail-employee-trial-company",
+    "industry": "retail",
+    "agentType": "employee",
+    "company": "TRIAL Company",
+    "isNew": false,
+    "summary": {
+      "en": "TRIAL Company migrated 300+ supercenters' legacy systems to Google Cloud in under an hour, avoiding a full day of projected downtime.",
+      "zh": "TRIAL Company 在不到一小時內完成逾 300 家超市傳統系統的 Google Cloud 遷移，避免了預計長達一整天的服務中斷。"
+    },
+    "overview": {
+      "en": "TRIAL Company, a Japanese retailer operating over 300 supercenters, migrated legacy on-premises systems to Google Cloud using Hybrid Subnets and Migrate to Virtual Machines without changing IP addresses. This approach avoided a projected full day of downtime. The cutover was completed in under an hour, improving infrastructure stability and establishing a foundation for future cloud-native modernization.",
+      "zh": "經營逾 300 家超市的日本零售商 TRIAL Company，使用 Hybrid Subnets 及 Migrate to Virtual Machines 在不更改 IP 位址的情況下，將傳統本地系統遷移至 Google Cloud。此方案避免了預計長達一整天的服務中斷，整個切換過程在不到一小時內完成，提升基礎設施穩定性並奠定未來雲端原生現代化的基礎。"
+    },
+    "highlights": {
+      "en": [
+        "Migrated legacy on-premises systems for 300+ supercenters to Google Cloud in under an hour.",
+        "Avoided a projected full day of downtime by not changing IP addresses during migration.",
+        "Used Hybrid Subnets and Migrate to Virtual Machines for seamless cutover.",
+        "Established a foundation for future cloud-native modernization of retail operations."
+      ],
+      "zh": [
+        "在不到一小時內完成逾 300 家超市傳統本地系統的 Google Cloud 遷移。",
+        "遷移過程中不更改 IP 位址，避免了預計長達一整天的服務中斷。",
+        "使用 Hybrid Subnets 及 Migrate to Virtual Machines 實現無縫切換。",
+        "為零售營運的未來雲端原生現代化奠定基礎。"
+      ]
+    },
+    "technologies": ["Google Cloud", "Hybrid Subnets", "Migrate to Virtual Machines"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "retail-employee-victoria-s-secret",
+    "industry": "retail",
+    "agentType": "employee",
+    "company": "Victoria's Secret",
+    "isNew": false,
+    "summary": {
+      "en": "Victoria's Secret is testing AI agents to help in-store associates access product availability, inventory, and fitting tips for better customer recommendations.",
+      "zh": "Victoria's Secret 正在測試 AI Agent，協助門市員工查詢商品庫存、規格及穿搭建議，以提供更個人化的顧客推薦。"
+    },
+    "overview": {
+      "en": "Victoria's Secret is testing AI-powered agents to support its in-store associates in providing better, more tailored customer service. The agents help associates quickly find information about product availability, inventory levels, and fitting and sizing tips, enabling more personalized recommendations for customers. The initiative is part of a broader strategic partnership with Google Cloud announced in January 2024.",
+      "zh": "Victoria's Secret 正在測試 AI Agent，協助門市員工提供更精準、更個性化的顧客服務。Agent 協助員工快速查詢商品可得性、庫存水位及穿搭建議，從而向顧客提供更個人化的推薦。此計畫是 2024 年 1 月宣布的 Google Cloud 策略合作夥伴關係的一部分。"
+    },
+    "highlights": {
+      "en": [
+        "Testing AI agents to give in-store associates instant access to product availability and inventory data.",
+        "Agents provide fitting and sizing tips to enable more personalized customer recommendations.",
+        "Part of a multi-year strategic partnership with Google Cloud announced in January 2024.",
+        "Aims to create more personalized and inclusive shopping experiences globally."
+      ],
+      "zh": [
+        "測試 AI Agent，讓門市員工即時存取商品可得性與庫存資料。",
+        "Agent 提供穿搭與尺寸建議，實現更個人化的顧客推薦。",
+        "屬於 2024 年 1 月宣布的 Google Cloud 多年策略合作夥伴關係的一部分。",
+        "旨在於全球範圍內打造更個人化且更具包容性的購物體驗。"
+      ]
+    },
+    "technologies": ["Vertex AI", "Gemini", "Google Cloud"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Victoria's Secret & Co. to Create New AI-Powered Shopping Experiences with Google Cloud",
+        "url": "https://www.victoriassecretandco.com/news-releases/news-release-details/victorias-secret-co-create-new-ai-powered-shopping-experiences"
+      }
+    ]
+  },
+  {
+    "id": "retail-employee-wayfair",
+    "industry": "retail",
+    "agentType": "employee",
+    "company": "Wayfair",
+    "isNew": false,
+    "summary": {
+      "en": "Wayfair uses Gemini in Google Workspace as a thought partner for data analysis, content creation, and email writing across daily workflows.",
+      "zh": "Wayfair 使用 Google Workspace 中的 Gemini 作為資料分析、內容創作與郵件撰寫的思考夥伴，融入日常工作流程。"
+    },
+    "overview": {
+      "en": "Wayfair, one of the largest online home retailers, has integrated Gemini in Google Workspace applications directly into employee daily workflows. The AI serves as a thought partner for data analysis, content creation, and email writing, enabling even employees without technical expertise to benefit from enhanced creativity and productivity. The tool integrates natively into apps employees already use every day.",
+      "zh": "美國最大線上家居零售商之一 Wayfair 已將 Google Workspace 中的 Gemini 直接整合至員工日常工作流程。AI 扮演資料分析、內容創作與郵件撰寫的思考夥伴，讓即使沒有技術背景的員工也能受益於強化的創意與生產力，工具原生整合至員工每天使用的應用程式中。"
+    },
+    "highlights": {
+      "en": [
+        "Integrated Gemini in Google Workspace into daily workflows for data analysis, content creation, and email writing.",
+        "Enables employees without technical expertise to leverage AI for enhanced creativity and productivity.",
+        "AI tools integrate natively into existing Google Workspace apps, reducing adoption friction."
+      ],
+      "zh": [
+        "將 Google Workspace 中的 Gemini 整合至資料分析、內容創作與郵件撰寫的日常工作流程。",
+        "讓無技術背景的員工也能透過 AI 提升創意與生產力。",
+        "AI 工具原生整合至現有 Google Workspace 應用程式，降低採用阻力。"
+      ]
+    },
+    "technologies": ["Gemini", "Google Workspace"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "retail-employee-woolworths",
+    "industry": "retail",
+    "agentType": "employee",
+    "company": "Woolworths",
+    "isNew": false,
+    "summary": {
+      "en": "Woolworths Australia uses 'Help me write' across Google Workspace to boost communication confidence for 10,000+ administrative employees.",
+      "zh": "澳洲 Woolworths 在 Google Workspace 全面推廣「幫我撰寫」功能，提升逾萬名行政員工的溝通自信。"
+    },
+    "overview": {
+      "en": "Woolworths, Australia's leading retailer, has deployed the 'Help me write' feature across Google Workspace products for more than 10,000 administrative employees. The AI writing assistance boosts employee confidence in their written communications, helping team members draft clearer and more professional messages. This broad rollout reflects a commitment to making AI tools accessible to employees across all functions.",
+      "zh": "澳洲零售龍頭 Woolworths 已在逾 10,000 名行政員工中全面推廣 Google Workspace 產品中的「幫我撰寫」功能，AI 寫作輔助提升員工書面溝通的自信，協助團隊成員起草更清晰、更專業的訊息。此大規模推廣體現了讓所有職能員工皆能使用 AI 工具的承諾。"
+    },
+    "highlights": {
+      "en": [
+        "Deployed 'Help me write' across Google Workspace for 10,000+ administrative employees.",
+        "Boosts employee confidence in written communications across the organization.",
+        "Reflects broad organizational commitment to AI accessibility for all employee functions."
+      ],
+      "zh": [
+        "在逾 10,000 名行政員工中全面推廣 Google Workspace 的「幫我撰寫」功能。",
+        "提升全組織員工書面溝通的自信。",
+        "體現全組織讓所有職能員工皆可使用 AI 工具的承諾。"
+      ]
+    },
+    "technologies": ["Gemini", "Google Workspace"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Woolworths Customer Success Story — Google Workspace",
+        "url": "https://workspace.google.com/intl/en_au/customers/woolworths/"
+      },
+      {
+        "title": "How retail businesses are using Gemini generative AI models",
+        "url": "https://blog.google/products/google-cloud/gemini-retail/"
+      }
+    ]
+  },
+  {
+    "id": "retail-employee-woolworths-2",
+    "industry": "retail",
+    "agentType": "employee",
+    "company": "Woolworths",
+    "isNew": false,
+    "summary": {
+      "en": "Woolworths also uses Gemini to create next-generation promotions and help customer service reps summarize all previous customer interactions in real time.",
+      "zh": "Woolworths 也使用 Gemini 創建新一代促銷活動，並協助客服人員即時摘要所有歷史顧客互動記錄。"
+    },
+    "overview": {
+      "en": "In addition to writing assistance, Woolworths uses Gemini to generate next-generation promotional content and to provide real-time summarization of customer interaction histories for customer service representatives. This allows service agents to quickly understand a customer's full context before responding, improving the quality and personalization of customer support.",
+      "zh": "除寫作輔助外，Woolworths 還使用 Gemini 生成新一代促銷內容，並為客服人員提供顧客互動歷史的即時摘要。這讓客服人員在回應前能迅速掌握顧客的完整背景，提升顧客支援的品質與個人化程度。"
+    },
+    "highlights": {
+      "en": [
+        "Uses Gemini to create next-generation promotional content for the retail business.",
+        "Provides real-time summarization of all previous customer interactions to customer service reps.",
+        "Improves quality and personalization of customer support through instant context awareness."
+      ],
+      "zh": [
+        "使用 Gemini 為零售業務創建新一代促銷內容。",
+        "為客服人員提供所有歷史顧客互動記錄的即時摘要。",
+        "透過即時情境感知提升顧客支援的品質與個人化程度。"
+      ]
+    },
+    "technologies": ["Gemini", "Google Workspace", "Google Cloud"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Woolworths Customer Success Story — Google Workspace",
+        "url": "https://workspace.google.com/intl/en_au/customers/woolworths/"
+      }
+    ]
+  }
+]

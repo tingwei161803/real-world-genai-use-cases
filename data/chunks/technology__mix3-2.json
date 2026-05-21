@@ -1,0 +1,523 @@
+[
+  {
+    "id": "technology-customer-intentai",
+    "industry": "technology",
+    "agentType": "customer",
+    "company": "IntentAI",
+    "isNew": false,
+    "summary": {
+      "en": "IntentAI uses Google Cloud to power 200,000+ healthcare appointments annually with AI agents handling 77% of chats.",
+      "zh": "IntentAI 使用 Google Cloud 每年處理逾 20 萬次醫療預約，AI 代理處理 77% 的客戶對話。"
+    },
+    "overview": {
+      "en": "IntentAI is a Singapore-based SaaS company that develops human-like Enterprise AI Agents for the financial services and healthcare sectors. Built on Google Cloud, IntentAI's platform powers over 200,000 healthcare appointments annually, with SATA CommHealth in Singapore being a prominent client. The company's AI Agent handles 77% of incoming customer chats autonomously and has doubled call center agent productivity.",
+      "zh": "IntentAI 是一家新加坡 SaaS 公司，專為金融服務與醫療保健行業開發擬人化企業 AI 代理。其平台建構於 Google Cloud 之上，每年為 SATA CommHealth 等客戶處理逾 20 萬次醫療預約。AI 代理可自主處理 77% 的客戶聊天請求，並將客服中心人員的工作效率提升了 2 倍。"
+    },
+    "highlights": {
+      "en": [
+        "Powers over 200,000 healthcare appointments annually in Singapore through AI agents built on Google Cloud.",
+        "AI Agent autonomously handles 77% of all incoming customer chats, reducing human workload.",
+        "Call center agent productivity increased by 2x after deployment.",
+        "Google Cloud was chosen for ease of use, rapid development, comprehensive product suite, and cost-effectiveness at scale."
+      ],
+      "zh": [
+        "透過建構於 Google Cloud 的 AI 代理，每年在新加坡處理逾 20 萬次醫療預約。",
+        "AI 代理自主處理所有進線客戶聊天的 77%，大幅降低人力需求。",
+        "部署後客服中心人員工作效率提升 2 倍。",
+        "Google Cloud 因易用性、快速開發能力、完整產品套件及規模化成本效益而獲選為平台基礎。"
+      ]
+    },
+    "technologies": [
+      "Google Cloud",
+      "Vertex AI",
+      "Enterprise AI Agents"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "IntentAI case study | Google Cloud",
+        "url": "https://cloud.google.com/customers/intentai"
+      }
+    ]
+  },
+  {
+    "id": "technology-customer-inworld",
+    "industry": "technology",
+    "agentType": "customer",
+    "company": "Inworld",
+    "isNew": false,
+    "summary": {
+      "en": "Inworld uses Gemini to create AI-driven characters for personalized experiences, supporting millions of concurrent users with millisecond latency.",
+      "zh": "Inworld 使用 Gemini 打造 AI 驅動角色，以毫秒級延遲支援數百萬並行使用者的個人化體驗。"
+    },
+    "overview": {
+      "en": "Inworld is a platform for creating AI-driven characters used in applications such as virtual tutors, in-app guides, and virtual emcees for live-stream events. By integrating Gemini models through Google Cloud, Inworld delivers personalized and engaging online experiences with strict requirements for quality, latency, and cost-control. The company's infrastructure is designed to support millions of concurrent users with millisecond-level latencies.",
+      "zh": "Inworld 是一個 AI 角色創建平台，應用場景涵蓋虛擬家教、應用程式內引導員及直播活動虛擬主持人。透過整合 Google Cloud 上的 Gemini 模型，Inworld 在嚴格的品質、延遲與成本管控要求下，提供個人化的沉浸式體驗。其基礎架構設計支援數百萬個並行使用者，延遲僅達毫秒級別。"
+    },
+    "highlights": {
+      "en": [
+        "Uses Gemini models as a top choice for meeting strict quality, latency, and cost-control requirements.",
+        "Infrastructure supports millions of concurrent users at millisecond-level latencies, available to all developers.",
+        "AI characters appear as personalized language tutors, virtual emcees for live-stream events, and in-app guides.",
+        "High-performance C++ graph engine orchestrates LLMs, STT, TTS, memory, and tools in a single pipeline."
+      ],
+      "zh": [
+        "選用 Gemini 模型以滿足嚴格的品質、延遲與成本管控需求。",
+        "基礎架構支援數百萬個並行使用者，延遲達毫秒級別，所有開發者均可使用。",
+        "AI 角色可作為個人化語言家教、直播活動虛擬主持人及應用程式內引導員。",
+        "高效能 C++ 圖引擎在單一管線中協調 LLM、語音辨識、語音合成、記憶體與工具。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Google Cloud",
+      "Vertex AI"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Inworld case study | Google Cloud",
+        "url": "https://cloud.google.com/customers/inworld"
+      },
+      {
+        "title": "The new AI infrastructure for scaling games, media, and characters | Inworld Blog",
+        "url": "https://inworld.ai/blog/new-ai-infrastructure-scaling-games-media-characters"
+      }
+    ]
+  },
+  {
+    "id": "technology-customer-kata-ai",
+    "industry": "technology",
+    "agentType": "customer",
+    "company": "Kata.ai",
+    "isNew": false,
+    "summary": {
+      "en": "Kata.ai uses Google Cloud LLMs to add hyper-personalization to its Indonesian conversational AI chatbots, improving cost efficiency by 40%.",
+      "zh": "Kata.ai 使用 Google Cloud 大型語言模型為印尼對話式 AI 聊天機器人加入超個人化功能，將成本效率提升 40%。"
+    },
+    "overview": {
+      "en": "Kata.ai is an Indonesian Conversational AI company focused on enhancing human-machine collaboration through multilingual voice, chat, and digital avatar solutions. The company leverages Google Cloud's LLMs and generative AI to enhance its chatbots with hyper-personalization for customer interactions across banks and businesses in Indonesia and beyond. This adoption has improved cost efficiency by 40%.",
+      "zh": "Kata.ai 是印尼對話式 AI 公司，專注於透過多語言語音、聊天與數位化身解決方案強化人機協作。該公司運用 Google Cloud 的大型語言模型與生成式 AI，為印尼及海外銀行與企業的聊天機器人加入超個人化客戶互動功能，並將成本效率提升了 40%。"
+    },
+    "highlights": {
+      "en": [
+        "Leverages Google Cloud LLMs and generative AI to add hyper-personalization to customer-facing chatbots.",
+        "Achieved 40% improvement in cost efficiency through AI-enhanced operations.",
+        "Serves banks and businesses across Indonesia and beyond with multilingual voice, chat, and digital avatar solutions.",
+        "Evolved from a personal assistant app into a leading B2B conversational AI platform."
+      ],
+      "zh": [
+        "運用 Google Cloud 大型語言模型與生成式 AI，為面向客戶的聊天機器人加入超個人化功能。",
+        "透過 AI 強化運營，成本效率提升 40%。",
+        "以多語言語音、聊天與數位化身解決方案服務印尼及海外的銀行與企業。",
+        "從個人助理應用程式成長為領先的 B2B 對話式 AI 平台。"
+      ]
+    },
+    "technologies": [
+      "Google Cloud",
+      "LLM (Large Language Models)",
+      "Vertex AI"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Kata.ai case study | Google Cloud",
+        "url": "https://cloud.google.com/customers/kata-ai-genai"
+      }
+    ]
+  },
+  {
+    "id": "technology-customer-livex",
+    "industry": "technology",
+    "agentType": "customer",
+    "company": "LiveX",
+    "isNew": false,
+    "summary": {
+      "en": "LiveX uses Google Kubernetes Engine Autopilot and NVIDIA GPUs to cut total cost of ownership by 50% and deliver 85% customer support cost savings.",
+      "zh": "LiveX 使用 Google Kubernetes Engine Autopilot 與 NVIDIA GPU，將擁有成本降低 50%，並為客戶實現 85% 的客服成本節省。"
+    },
+    "overview": {
+      "en": "LiveX is a customer service AI agents platform that runs its AI workloads on Google Kubernetes Engine (GKE) Autopilot paired with NVIDIA A100 GPUs and NVIDIA NIM inference microservices. This infrastructure delivers a 50% reduction in total cost of ownership, 66% lower operational costs, and 25% faster time-to-market. One client achieved an 85% reduction in customer support costs, and the Amazfit project achieved a 6.1x acceleration in AI response generation speed.",
+      "zh": "LiveX 是客服 AI 代理平台，其 AI 工作負載運行於 Google Kubernetes Engine (GKE) Autopilot，搭配 NVIDIA A100 GPU 與 NVIDIA NIM 推論微服務。此基礎架構實現擁有成本降低 50%、營運成本降低 66%、上市時間縮短 25%。其中一個客戶實現客服成本降低 85%，Amazfit 專案的 AI 回應生成速度提升 6.1 倍。"
+    },
+    "highlights": {
+      "en": [
+        "Achieved over 50% reduction in total cost of ownership (TCO) using GKE Autopilot.",
+        "Operational costs reduced by 66%, and time-to-market improved by 25%.",
+        "One client (Amazfit) saw an 85% reduction in customer support costs.",
+        "Achieved 6.1x acceleration in AI response generation speed for Amazfit using NVIDIA A100 80GB GPUs and NVIDIA NIM.",
+        "Improved lead conversion by 5x and reduced product returns by approximately 15% for clients."
+      ],
+      "zh": [
+        "使用 GKE Autopilot，擁有總成本 (TCO) 降低逾 50%。",
+        "營運成本降低 66%，上市時間縮短 25%。",
+        "某客戶 (Amazfit) 客服成本降低 85%。",
+        "使用 NVIDIA A100 80GB GPU 與 NVIDIA NIM，Amazfit 的 AI 回應生成速度提升 6.1 倍。",
+        "幫助客戶將潛在客戶轉換率提升 5 倍，並將退貨率降低約 15%。"
+      ]
+    },
+    "technologies": [
+      "Google Kubernetes Engine (GKE) Autopilot",
+      "NVIDIA GPU",
+      "Google Cloud",
+      "NVIDIA NIM"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Livex AI build AI agents on GKE infrastructure | Google Cloud Blog",
+        "url": "https://cloud.google.com/blog/products/containers-kubernetes/livex-ai-build-ai-agents-on-gke-infrastructure"
+      },
+      {
+        "title": "LiveX AI case study | Google Cloud",
+        "url": "https://cloud.google.com/customers/livex-ai"
+      }
+    ]
+  },
+  {
+    "id": "technology-customer-mogul-sg",
+    "industry": "technology",
+    "agentType": "customer",
+    "company": "MOGUL.sg",
+    "isNew": false,
+    "summary": {
+      "en": "MOGUL.sg launched MAIA, Singapore's first AI property agent on WhatsApp, using Vertex AI and Gemini, reducing response times by 5–10 seconds.",
+      "zh": "MOGUL.sg 推出新加坡首個 WhatsApp AI 房產代理 MAIA，使用 Vertex AI 與 Gemini，將回應時間縮短 5–10 秒。"
+    },
+    "overview": {
+      "en": "MOGUL.sg, a Singapore real estate portal, launched MAIA in February 2025 as Singapore's first AI-powered virtual property agent. Built on Vertex AI, Gemini, and Google Maps API, MAIA enables automated property searches across over 100,000 active listings and schedules viewing appointments via WhatsApp. The solution reduced user query response time by 5–10 seconds, making interactions feel near-instantaneous, and is free for homebuyers.",
+      "zh": "新加坡房地產入口網站 MOGUL.sg 於 2025 年 2 月推出 MAIA，這是新加坡首個 AI 虛擬房產代理。MAIA 建構於 Vertex AI、Gemini 與 Google Maps API 之上，可在逾 10 萬筆有效房源中自動搜尋，並透過 WhatsApp 安排看房預約。該方案將使用者查詢回應時間縮短 5–10 秒，讓互動體驗趨近即時，且對購屋者完全免費。"
+    },
+    "highlights": {
+      "en": [
+        "Launched February 5, 2025 as Singapore's first AI-powered virtual property agent accessible via WhatsApp.",
+        "Scans over 100,000 active property listings across major platforms to match buyer criteria instantly.",
+        "Reduced user query response time by 5–10 seconds, making interactions feel instant.",
+        "MAIA autonomously creates WhatsApp chats with sellers to schedule viewings on behalf of buyers.",
+        "Free for homebuyers; sellers pay only a 0.2% referral fee upon successful sale, vs. 1% traditional commission."
+      ],
+      "zh": [
+        "2025 年 2 月 5 日推出，是新加坡首個可透過 WhatsApp 使用的 AI 虛擬房產代理。",
+        "即時掃描各大平台逾 10 萬筆有效房源，精準匹配買家條件。",
+        "使用者查詢回應時間縮短 5–10 秒，互動體驗趨近即時。",
+        "MAIA 可自主代替買家建立 WhatsApp 對話並與賣家安排看房。",
+        "購屋者免費使用；賣方成交後僅支付 0.2% 推薦費，遠低於傳統 1% 佣金。"
+      ]
+    },
+    "technologies": [
+      "Vertex AI",
+      "Gemini",
+      "Google Maps API",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "MOGUL.sg launches MAIA — Singapore's first virtual property agent built using Google Cloud AI",
+        "url": "https://www.prnewswire.com/apac/news-releases/mogulsg-launches-maia---singapores-first-virtual-property-agent-built-using-google-cloud-ai-that-puts-the-power-of-ai-into-the-homebuyers-hands-for-free-302368221.html"
+      }
+    ]
+  },
+  {
+    "id": "technology-customer-moveo-ai",
+    "industry": "technology",
+    "agentType": "customer",
+    "company": "Moveo.AI",
+    "isNew": false,
+    "summary": {
+      "en": "Moveo.AI uses Vertex AI to train custom LLMs for CX agents, delivering 5x ROI and helping clients increase revenue and reduce churn.",
+      "zh": "Moveo.AI 使用 Vertex AI 訓練客製化大型語言模型，打造客戶體驗代理，為客戶帶來 5 倍 ROI 並降低客戶流失率。"
+    },
+    "overview": {
+      "en": "Moveo.AI is a CX automation company that uses Vertex AI to train and deploy custom AI models for customer experience agents. The company trained more than 150 model versions in just six months using Vertex AI, with each version adding new languages, data, and tasks. Its AI agents drive business outcomes including increased revenue, reduced customer churn, and improved collections for enterprise clients including Alpha Bank and National Bank of Greece.",
+      "zh": "Moveo.AI 是一家客戶體驗自動化公司，使用 Vertex AI 訓練並部署客製化 AI 模型以打造客戶體驗代理。該公司在六個月內使用 Vertex AI 訓練了逾 150 個模型版本，每個版本均增加新語言、資料與任務。其 AI 代理為 Alpha Bank、希臘國家銀行等企業客戶帶來營收增長、客戶流失率降低與催收效率提升等業務成果。"
+    },
+    "highlights": {
+      "en": [
+        "Trained over 150 model versions in six months using Vertex AI, with each new version adding languages, data, and tasks.",
+        "AI agents have driven 5x ROI and 80% improved collections for clients.",
+        "Helps clients identify at-risk customers and reduce churn through personalized AI-driven interventions.",
+        "Growing 20% quarter-over-quarter with partnerships including Alpha Bank, National Bank of Greece, Google, and Mastercard.",
+        "Vertex AI was chosen for its speed, access to compute resources, and global footprint."
+      ],
+      "zh": [
+        "六個月內使用 Vertex AI 訓練逾 150 個模型版本，每個版本均擴充語言、資料與任務。",
+        "AI 代理為客戶帶來 5 倍 ROI 與 80% 的催收效率提升。",
+        "透過個人化 AI 介入，幫助客戶識別高流失風險客群並有效留存。",
+        "與 Alpha Bank、希臘國家銀行、Google、Mastercard 等建立合作，季度環比增長 20%。",
+        "選擇 Vertex AI 的原因在於其速度、運算資源取得便利性及全球佈局。"
+      ]
+    },
+    "technologies": [
+      "Vertex AI",
+      "Google Cloud",
+      "LLM (Large Language Models)"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Moveo.AI case study | Google Cloud",
+        "url": "https://cloud.google.com/customers/moveoai"
+      }
+    ]
+  },
+  {
+    "id": "technology-customer-owl-ai",
+    "industry": "technology",
+    "agentType": "customer",
+    "company": "Owl.AI",
+    "isNew": false,
+    "summary": {
+      "en": "Owl.AI uses Gemini and Google Cloud to deliver real-time AI judging and scoring for professional sports leagues, eliminating bias in officiating.",
+      "zh": "Owl.AI 使用 Gemini 與 Google Cloud，為職業運動聯賽提供即時 AI 裁判與評分，消除執法偏見。"
+    },
+    "overview": {
+      "en": "Owl.AI is a sports technology company that delivers AI-powered judging, scoring, and refereeing solutions to professional sports leagues. Built on Google Cloud's Vertex AI and a custom model leveraging Gemini's reasoning capabilities, the platform analyzes real-time video footage of athletic performances to provide objective scoring. It is currently deployed by the X Games and Major League Pickleball, offering the world's first unbiased AI officiating on live television.",
+      "zh": "Owl.AI 是一家運動科技公司，為職業運動聯賽提供 AI 驅動的裁判、評分與執法解決方案。平台建構於 Google Cloud 的 Vertex AI 上，並使用以 Gemini 推理能力微調的客製化模型，即時分析運動表現影片以提供客觀評分。目前已由 X Games 與美國職業匹克球聯盟 (MLP) 部署，實現全球首個在直播電視上使用的無偏見 AI 裁判系統。"
+    },
+    "highlights": {
+      "en": [
+        "Delivers the world's first unbiased AI officiating deployed on live television, used by X Games and Major League Pickleball.",
+        "Built on Google Cloud Vertex AI with a custom model using Gemini's reasoning capabilities to analyze real-time video.",
+        "Can serve as referee, judge, scorer, individual athlete coach, and color commentator in nearly any language.",
+        "Raised $11 million in seed funding led by S32 with participation from Menlo Ventures and Susa Ventures.",
+        "Former Google Cloud Head of AI, Josh Gwyther, serves as CEO."
+      ],
+      "zh": [
+        "實現全球首個在直播電視上部署的無偏見 AI 裁判，已由 X Games 與美國職業匹克球聯盟採用。",
+        "建構於 Google Cloud Vertex AI，使用以 Gemini 推理能力微調的客製化模型進行即時影片分析。",
+        "可擔任裁判、評審、計分員、個人運動員教練，並以近乎任何語言提供賽事解說。",
+        "獲 S32 領投、Menlo Ventures 與 Susa Ventures 參投的 1,100 萬美元種子輪融資。",
+        "前 Google Cloud AI 負責人 Josh Gwyther 擔任執行長。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Vertex AI",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Emerging Sports Firm The Owl AI Raises $11M Seed Round, Taps Google Vet Josh Gwyther As CEO | Deadline",
+        "url": "https://deadline.com/2025/06/emerging-sports-firm-the-owl-ai-raises-11m-seed-round-google-josh-gwythe-ceo-1236442279/"
+      },
+      {
+        "title": "Google's ex-Head of AI becomes CEO of Owl AI | Fast Company",
+        "url": "https://www.fastcompany.com/91358202/googles-ex-head-of-ai-becomes-ceo-of-owl-ai-a-sports-judging-company-perfected-at-the-x-games"
+      }
+    ]
+  },
+  {
+    "id": "technology-customer-pareto-technology-and-marketing",
+    "industry": "technology",
+    "agentType": "customer",
+    "company": "Pareto Technology and Marketing",
+    "isNew": true,
+    "summary": {
+      "en": "Pareto's Tess AI platform integrates Google models to boost sales conversion from 0.94% to over 7% for its 2.5 million users worldwide.",
+      "zh": "Pareto 的 Tess AI 平台整合 Google 模型，將銷售轉換率從 0.94% 提升至逾 7%，服務全球 250 萬使用者。"
+    },
+    "overview": {
+      "en": "Pareto Technology and Marketing developed Tess AI, an AI agent platform that integrates Google models alongside 200+ leading AI models to optimize processes for enterprises. The platform serves over 2.5 million users worldwide and has delivered significant efficiency gains, raising the company's sales conversion rate from 0.94% to more than 7%. Ranked 6th Best AI Software globally by G2, Tess AI enables businesses to automate complex workflows with autonomous agents.",
+      "zh": "Pareto Technology and Marketing 開發了 Tess AI 這個 AI 代理平台，整合 Google 模型與逾 200 個主流 AI 模型，為企業優化業務流程。平台服務全球逾 250 萬使用者，帶來顯著效率提升，並將銷售轉換率從 0.94% 提升至逾 7%。Tess AI 在 G2 全球最佳 AI 軟體排名第 6，讓企業能以自主代理自動化複雜工作流程。"
+    },
+    "highlights": {
+      "en": [
+        "Sales conversion rate raised from 0.94% to more than 7% through AI agent-driven process optimization.",
+        "Serves over 2.5 million users worldwide on the Tess AI platform.",
+        "Integrates Google models alongside 200+ leading AI models in one secure platform.",
+        "Ranked 6th Best AI Software globally by G2 in 2024.",
+        "Enables autonomous AI agents to plan, execute, and deliver complex workflows."
+      ],
+      "zh": [
+        "透過 AI 代理驅動的流程優化，銷售轉換率從 0.94% 提升至逾 7%。",
+        "Tess AI 平台在全球服務逾 250 萬使用者。",
+        "在單一安全平台中整合 Google 模型與逾 200 個主流 AI 模型。",
+        "2024 年在 G2 全球最佳 AI 軟體排名第 6。",
+        "讓自主 AI 代理得以規劃、執行並完成複雜工作流程。"
+      ]
+    },
+    "technologies": [
+      "Google Cloud",
+      "Gemini",
+      "AI Agents"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Tess AI: the World's Largest AIs in One Place | Pareto Blog",
+        "url": "https://blog.pareto.io/en/tess-ai/"
+      }
+    ]
+  },
+  {
+    "id": "technology-customer-personal-ai",
+    "industry": "technology",
+    "agentType": "customer",
+    "company": "Personal AI",
+    "isNew": false,
+    "summary": {
+      "en": "Personal AI offers a personal language model trained solely on an individual's own data, enabling a private, interactive messaging experience.",
+      "zh": "Personal AI 提供僅以個人資料訓練的個人語言模型，打造私密且互動式的訊息傳遞體驗。",
+      "needsReview": true
+    },
+    "overview": {
+      "en": "Personal AI offers a \"personal language model\" built exclusively from an individual's or brand's own data—their facts, opinions, and history—giving them full ownership and control over how their AI behaves. The platform integrates with data sources including Google Drive, Microsoft OneDrive, and Dropbox, creating a responsive messaging experience that enhances productivity and deepens relationships. It supports text, images, audio, video links, slide decks, and spreadsheets as training inputs.",
+      "zh": "Personal AI 提供專屬於個人或品牌自有資料（包含事實、觀點與歷史紀錄）訓練而成的「個人語言模型」，讓使用者完全擁有並掌控其 AI 的行為模式。平台可與 Google Drive、Microsoft OneDrive、Dropbox 等資料來源整合，打造提升生產力、深化人際關係的互動式訊息傳遞體驗，支援文字、圖片、音訊、影片連結、簡報與試算表等多種訓練輸入格式。"
+    },
+    "highlights": {
+      "en": [
+        "Builds a personal language model trained exclusively on the user's own data, ensuring complete data ownership.",
+        "Integrates with Google Drive, Microsoft OneDrive, and Dropbox to automatically ingest new files.",
+        "Supports multiple data types: text, images, audio, video links, slide decks, and spreadsheets.",
+        "Creates a responsive, interactive messaging experience to help people be more productive and deepen relationships."
+      ],
+      "zh": [
+        "建構僅以使用者自有資料訓練的個人語言模型，確保完整的資料所有權。",
+        "可與 Google Drive、Microsoft OneDrive 及 Dropbox 整合，自動導入新檔案。",
+        "支援多種資料類型：文字、圖片、音訊、影片連結、簡報與試算表。",
+        "打造互動式訊息傳遞體驗，協助使用者提升生產力並深化人際關係。"
+      ]
+    },
+    "technologies": [
+      "Google Cloud",
+      "Personal Language Model"
+    ],
+    "needsReview": true,
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Train your AI language model with Personal AI | Zapier Blog",
+        "url": "https://zapier.com/blog/personal-ai/"
+      }
+    ]
+  },
+  {
+    "id": "technology-customer-plateer",
+    "industry": "technology",
+    "agentType": "customer",
+    "company": "Plateer",
+    "isNew": false,
+    "summary": {
+      "en": "Plateer built Groobee using Vertex AI and Gemini Flash to enable natural language ecommerce product search at less than half the cost of alternative AI models.",
+      "zh": "Plateer 使用 Vertex AI 與 Gemini Flash 為其電商行銷解決方案 Groobee 打造自然語言商品搜尋，成本不到替代方案的一半。"
+    },
+    "overview": {
+      "en": "Plateer is a Korea-based company that built Groobee, an AI-based ecommerce marketing solution, using Vertex AI and Gemini Flash. The solution enables natural language product search that understands complex queries such as \"things I need for my five-year-old daughter's birthday party.\" Gemini Flash was selected after benchmarking multiple models and delivered faster response speeds, better search results, and cost less than half of alternative AI models. All AI processes run within Vertex AI, enhancing performance further.",
+      "zh": "Plateer 是韓國公司，使用 Vertex AI 與 Gemini Flash 建構電商行銷解決方案 Groobee。該方案支援自然語言商品搜尋，能理解「五歲女兒生日派對需要的東西」等複雜查詢。在對多個模型進行基準測試後，選用 Gemini Flash，其回應速度更快、搜尋結果更優、成本不到替代 AI 模型的一半，且所有 AI 流程均在 Vertex AI 內部執行，效能更為突出。"
+    },
+    "highlights": {
+      "en": [
+        "Gemini Flash delivers faster response speeds and better search results than other large language models benchmarked.",
+        "Costs less than half of alternative AI models, providing significant cost savings.",
+        "Enables natural language product search that understands complex, intent-based queries.",
+        "All generative AI search processes run within Vertex AI, maximizing performance and integration.",
+        "Published a Generative AI Search White Paper based on its implementation experience."
+      ],
+      "zh": [
+        "在基準測試中，Gemini Flash 的回應速度與搜尋結果均優於其他大型語言模型。",
+        "成本不到替代 AI 模型的一半，帶來顯著的成本節省。",
+        "支援能理解複雜意圖查詢的自然語言商品搜尋功能。",
+        "所有生成式 AI 搜尋流程均在 Vertex AI 內部執行，效能與整合度最優。",
+        "根據實作經驗發布了《生成式 AI 搜尋白皮書》。"
+      ]
+    },
+    "technologies": [
+      "Vertex AI",
+      "Gemini Flash",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Plateer case study | Google Cloud",
+        "url": "https://cloud.google.com/customers/plateer"
+      },
+      {
+        "title": "PLATEER Groobee Publishes 'Generative AI Search White Paper'",
+        "url": "https://www.plateer.com/en/board/news/view/PLATEER-Groobee-Publishs-Generative-AI-Search-Whit"
+      }
+    ]
+  },
+  {
+    "id": "technology-customer-quanscient",
+    "industry": "technology",
+    "agentType": "customer",
+    "company": "Quanscient",
+    "isNew": false,
+    "summary": {
+      "en": "Quanscient built a Gemini Flash-powered chatbot that answers natural language questions about its multiphysics simulation platform using text and image documentation.",
+      "zh": "Quanscient 建構了由 Gemini Flash 驅動的聊天機器人，透過文字與圖片文件回答關於其多物理場模擬平台的自然語言問題。"
+    },
+    "overview": {
+      "en": "Quanscient is a Finnish cloud-based multiphysics simulation platform that built a customer support chatbot using Gemini Flash. The chatbot enables users to ask natural language questions about how to design simulations by searching through both text and images in the platform's documentation. This lowers the barrier to entry for new users and reduces the workload on the customer support team. Quanscient uses Google Cloud solutions and Gemini through Vertex AI for all its LLM applications.",
+      "zh": "Quanscient 是芬蘭雲端多物理場模擬平台，使用 Gemini Flash 建構了客服聊天機器人。使用者可透過自然語言詢問模擬設計相關問題，聊天機器人會搜尋平台文件中的文字與圖片後給出回答。這降低了新使用者的入門門檻，並減輕客服團隊的工作負擔。Quanscient 透過 Vertex AI 使用 Google Cloud 解決方案與 Gemini 作為其所有大型語言模型應用的基礎。"
+    },
+    "highlights": {
+      "en": [
+        "Built a Gemini Flash-powered chatbot that searches both text and images in documentation to answer simulation design questions.",
+        "Lowers the barrier to entry for new users of the complex multiphysics simulation platform.",
+        "Reduces workload on the customer support team by enabling self-service for common queries.",
+        "Uses Google Cloud and Gemini through Vertex AI as the foundation for all LLM applications.",
+        "Secured €5.2M in funding to advance quantum-powered engineering simulation."
+      ],
+      "zh": [
+        "建構由 Gemini Flash 驅動的聊天機器人，可同時搜尋文件中的文字與圖片，回答模擬設計問題。",
+        "降低使用者進入複雜多物理場模擬平台的門檻。",
+        "讓使用者自助解決常見問題，減輕客服團隊的工作負擔。",
+        "透過 Vertex AI 使用 Google Cloud 與 Gemini 作為所有大型語言模型應用的基礎。",
+        "獲得 520 萬歐元融資，用於推進量子驅動工程模擬技術。"
+      ]
+    },
+    "technologies": [
+      "Gemini Flash",
+      "Vertex AI",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Quanscient case study | Google Cloud",
+        "url": "https://cloud.google.com/customers/quanscient"
+      },
+      {
+        "title": "How AI is shaping the future of simulations at Quanscient",
+        "url": "https://quanscient.com/blog/how-ai-is-shaping-the-future-of-simulations-at-quanscient"
+      }
+    ]
+  }
+]

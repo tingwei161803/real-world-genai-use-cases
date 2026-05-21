@@ -1,0 +1,1974 @@
+[
+  {
+    "id": "healthcare-life-sciences-data-amigo-tech",
+    "industry": "healthcare-life-sciences",
+    "agentType": "data",
+    "company": "Amigo Tech",
+    "isNew": false,
+    "summary": {
+      "en": "Amigo Tech built an AI platform automating medical workflows for clinics and practices.",
+      "zh": "Amigo Tech 推出 Amigo Intelligence 平台，以 Google AI 技術自動化診所醫療流程、降低成本並提升效率。"
+    },
+    "overview": {
+      "en": "Amigo Tech launched Amigo Intelligence, a platform based on Google AI technologies that automates medical processes for clinics and practices. The solution includes anamnesis automation, advanced exam analysis, and a medical AI chatbot, transforming healthcare management and reducing operational costs.",
+      "zh": "Amigo Tech 推出基於 Google AI 技術的 Amigo Intelligence 平台，自動化診所與醫療機構的醫療流程。解決方案涵蓋病史採集自動化、進階檢查分析及醫療 AI 聊天機器人，全面改造醫療管理方式並降低運營成本。"
+    },
+    "highlights": {
+      "en": [
+        "Automated anamnesis (patient history collection) to reduce physician administrative burden.",
+        "Advanced AI-powered exam analysis integrated into clinical workflows.",
+        "Medical AI chatbot supports patient and practitioner interactions.",
+        "Platform reduces costs and improves efficiency for clinics and practices."
+      ],
+      "zh": [
+        "自動化病史採集，減輕醫師行政負擔。",
+        "將進階 AI 驅動的檢查分析整合進臨床工作流程。",
+        "醫療 AI 聊天機器人支援患者與醫療人員互動。",
+        "平台降低診所與醫療機構的成本並提升效率。"
+      ]
+    },
+    "technologies": [
+      "Google AI",
+      "Vertex AI"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "healthcare-life-sciences-data-apollo-hospitals",
+    "industry": "healthcare-life-sciences",
+    "agentType": "data",
+    "company": "Apollo Hospitals",
+    "isNew": false,
+    "summary": {
+      "en": "Apollo Hospitals partnered with Google Health for AI-based TB and breast cancer screening, reaching 3 million screenings.",
+      "zh": "Apollo Hospitals 與 Google Health 合作，透過 AI 建立肺結核及乳癌篩檢模型，在短短數年內擴展至 300 萬次篩檢。"
+    },
+    "overview": {
+      "en": "Apollo Hospitals in India partnered with Google Health to build AI screening models for tuberculosis and breast cancer. Facing a critical shortage of radiologists, the collaboration deployed AI to help a limited pool of specialists cover far more patients at risk, scaling to 3 million screenings within a few years.",
+      "zh": "印度 Apollo Hospitals 與 Google Health 合作，建立針對肺結核及乳癌的 AI 篩檢模型。面對放射科醫師嚴重短缺的困境，此合作讓有限的專科醫師得以覆蓋更多高風險患者，數年內擴展至 300 萬次篩檢。"
+    },
+    "highlights": {
+      "en": [
+        "Scaled AI-assisted screenings to 3 million within a matter of years across India.",
+        "AI models assist radiologists in interpreting chest X-rays for TB detection and mammograms for breast cancer.",
+        "Addresses critical radiologist shortage to extend specialist-level care to underserved populations.",
+        "Partnership helps India tackle tuberculosis, which causes over 1.3 million deaths globally per year."
+      ],
+      "zh": [
+        "數年內在印度全境擴展至 300 萬次 AI 輔助篩檢。",
+        "AI 模型協助放射科醫師判讀胸部 X 光片（肺結核）及乳房攝影（乳癌）。",
+        "解決放射科醫師嚴重短缺問題，將專科水準的照護延伸至醫療資源不足地區。",
+        "此合作協助印度對抗肺結核——每年全球逾 130 萬人死於此疾病。"
+      ]
+    },
+    "technologies": [
+      "Google Health AI",
+      "Medical Imaging AI"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "How AI supports early disease detection in India — Google Public Policy",
+        "url": "https://publicpolicy.google/resources/apollo_radiology_case_study/"
+      },
+      {
+        "title": "Apollo Radiology — Google collaborates with Apollo to bring AI-powered early disease screening to India",
+        "url": "https://www.apolloradiologyintl.com/news/google-collaborates-with-apollo-to-bring-ai-powered-early-disease-screening-to-india"
+      }
+    ]
+  },
+  {
+    "id": "healthcare-life-sciences-data-arc-innovation",
+    "industry": "healthcare-life-sciences",
+    "agentType": "data",
+    "company": "ARC Innovation",
+    "isNew": false,
+    "summary": {
+      "en": "ARC Innovation at Sheba Medical Center uses Looker Studio and BigQuery ML to improve ovarian cancer treatment decisions.",
+      "zh": "ARC Innovation 在 Sheba 醫療中心運用 Looker Studio 與 BigQuery ML，優化卵巢癌治療的臨床決策。"
+    },
+    "overview": {
+      "en": "ARC Innovation at Sheba Medical Center in Israel is using Google Cloud AI tools, including Looker Studio and BigQuery ML, to create healthcare solutions that improve critical clinical decisions during the treatment of ovarian cancer. The platform helps clinicians derive actionable insights from complex patient data.",
+      "zh": "以色列 Sheba 醫療中心旗下的 ARC Innovation，運用 Google Cloud 的 Looker Studio 與 BigQuery ML 等 AI 工具，建立改善卵巢癌治療關鍵臨床決策的醫療解決方案，協助臨床醫師從複雜的患者資料中提取可操作的洞察。"
+    },
+    "highlights": {
+      "en": [
+        "Deployed Looker Studio and BigQuery ML to support ovarian cancer treatment decisions.",
+        "Creates data-driven clinical decision support at one of the world's leading medical centers.",
+        "Transforms complex oncology patient data into actionable clinical insights."
+      ],
+      "zh": [
+        "部署 Looker Studio 與 BigQuery ML 支援卵巢癌治療決策。",
+        "在全球頂尖醫療中心建立數據驅動的臨床決策支援系統。",
+        "將複雜的腫瘤患者資料轉化為可操作的臨床洞察。"
+      ]
+    },
+    "technologies": [
+      "Looker Studio",
+      "BigQuery ML",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "healthcare-life-sciences-data-atropos-health",
+    "industry": "healthcare-life-sciences",
+    "agentType": "data",
+    "company": "Atropos Health",
+    "isNew": false,
+    "summary": {
+      "en": "Atropos Health optimized its GENEVA OS for Google Cloud's Healthcare Data Engine and BigQuery to generate real-world clinical evidence.",
+      "zh": "Atropos Health 將 GENEVA OS 優化整合至 Google Cloud Healthcare Data Engine 與 BigQuery，快速安全地將醫療資料轉化為臨床實證。"
+    },
+    "overview": {
+      "en": "Atropos Health, a healthcare data analytics company, optimized its GENEVA OS to work with Google Cloud's Healthcare Data Engine (HDE) and BigQuery. This enables healthcare customers to efficiently and securely convert their data into valuable clinical insights and real-world evidence. Upon installation, customers can ask clinical questions and receive observational study-grade evidence within 48 hours.",
+      "zh": "醫療資料分析公司 Atropos Health 將其 GENEVA OS 優化整合至 Google Cloud 的 Healthcare Data Engine（HDE）與 BigQuery。這使醫療客戶能夠高效、安全地將資料轉化為寶貴的臨床洞察與真實世界實證，安裝後即可在 48 小時內獲得觀察性研究等級的臨床問題解答。"
+    },
+    "highlights": {
+      "en": [
+        "GENEVA OS integrates with Google Cloud Healthcare Data Engine APIs and BigQuery for secure data analysis.",
+        "Customers can receive observational publication-grade clinical evidence within 48 hours of asking a question.",
+        "Alexandria library provides access to tens of thousands of existing studies available from day one.",
+        "Available through Google Cloud Marketplace for streamlined enterprise access."
+      ],
+      "zh": [
+        "GENEVA OS 整合 Google Cloud Healthcare Data Engine API 與 BigQuery，實現安全資料分析。",
+        "客戶可在 48 小時內獲得達觀察性發表等級的臨床實證。",
+        "Alexandria 資料庫從第一天起即提供數萬份現有研究。",
+        "可透過 Google Cloud Marketplace 取得，簡化企業存取流程。"
+      ]
+    },
+    "technologies": [
+      "Healthcare Data Engine",
+      "BigQuery",
+      "Google Cloud Marketplace"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Atropos Health Leverages Google Cloud to Generate Actionable Clinical Evidence",
+        "url": "https://www.atroposhealth.com/atropos-health-leverages-google-cloud/"
+      },
+      {
+        "title": "Atropos Health and Google Cloud Integrates to Turbocharge Real-World Evidence Generation",
+        "url": "https://hitconsultant.net/2024/01/30/atropos-health-google-cloud-partnership/"
+      }
+    ]
+  },
+  {
+    "id": "healthcare-life-sciences-data-auransa",
+    "industry": "healthcare-life-sciences",
+    "agentType": "data",
+    "company": "Auransa",
+    "isNew": false,
+    "summary": {
+      "en": "Auransa, a clinical-stage biopharma, built a proprietary AI platform to discover a differentiated pipeline of novel drugs.",
+      "zh": "臨床階段生物製藥公司 Auransa 建立專有 AI 平台，開發差異化的新藥研發管線。"
+    },
+    "overview": {
+      "en": "Auransa, an emerging clinical-stage biopharma company, has created a proprietary AI platform to derive a differentiated pipeline of novel drugs. The platform leverages computational approaches to identify new therapeutic candidates across multiple disease areas.",
+      "zh": "新興臨床階段生物製藥公司 Auransa 建立了專有 AI 平台，以開發差異化的新藥研發管線。該平台運用計算方法，在多個疾病領域識別新的治療候選藥物。"
+    },
+    "highlights": {
+      "en": [
+        "Proprietary AI platform enables computational drug discovery across multiple therapeutic areas.",
+        "Differentiated pipeline of novel drug candidates derived from AI-driven analysis.",
+        "Clinical-stage company applying AI to accelerate progression from discovery to trials."
+      ],
+      "zh": [
+        "專有 AI 平台支援跨多個治療領域的計算藥物研發。",
+        "透過 AI 驅動分析開發差異化的新型候選藥物管線。",
+        "臨床階段公司運用 AI 加速從研發到試驗的進程。"
+      ]
+    },
+    "technologies": [
+      "Google Cloud",
+      "Vertex AI"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "healthcare-life-sciences-data-autoscience",
+    "industry": "healthcare-life-sciences",
+    "agentType": "data",
+    "company": "Autoscience",
+    "isNew": false,
+    "summary": {
+      "en": "Autoscience builds AI agents for scientific research using Google Cloud infrastructure via the Google for Startups program.",
+      "zh": "Autoscience 透過 Google for Startups Cloud Program 使用 Google Cloud 基礎架構，打造輔助科學研究的 AI 代理。"
+    },
+    "overview": {
+      "en": "Autoscience is a startup building AI agents designed to aid in scientific research. The company leverages Google Cloud infrastructure and resources through the Google for Startups Cloud Program as it develops and markets its AI-powered research tools.",
+      "zh": "Autoscience 是一家打造 AI 代理以輔助科學研究的新創公司。該公司透過 Google for Startups Cloud Program 使用 Google Cloud 基礎架構與資源，開發並推廣其 AI 驅動的研究工具。"
+    },
+    "highlights": {
+      "en": [
+        "Builds AI agents specifically tailored to assist scientific research workflows.",
+        "Leverages Google for Startups Cloud Program for infrastructure and resources.",
+        "Developing and commercializing AI-powered tools for the research market."
+      ],
+      "zh": [
+        "打造專為科學研究工作流程設計的 AI 代理。",
+        "透過 Google for Startups Cloud Program 取得基礎架構與資源支援。",
+        "開發並商業化 AI 驅動的研究市場工具。"
+      ]
+    },
+    "technologies": [
+      "Google Cloud",
+      "Google for Startups Cloud Program"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "healthcare-life-sciences-data-bayer",
+    "industry": "healthcare-life-sciences",
+    "agentType": "data",
+    "company": "Bayer",
+    "isNew": false,
+    "summary": {
+      "en": "Bayer built a gen AI data agent in BigQuery combining Google Search trends to predict flu outbreaks in real time.",
+      "zh": "Bayer 在 BigQuery 中建立生成式 AI 資料代理，結合 Google 搜尋趨勢預測即時流感疫情。"
+    },
+    "overview": {
+      "en": "Bayer built a data agent that uses generative AI in BigQuery to predict flu outbreaks. The agent combines Google Search trends with internal data to deliver real-time, location-specific healthcare planning insights. This approach allows Bayer to proactively respond to seasonal health demand shifts across markets.",
+      "zh": "Bayer 在 BigQuery 中建立資料代理，運用生成式 AI 預測流感疫情。該代理結合 Google 搜尋趨勢與內部資料，提供即時的地區特定醫療規劃洞察，讓 Bayer 能夠主動應對各市場的季節性健康需求變化。"
+    },
+    "highlights": {
+      "en": [
+        "Gen AI data agent built in BigQuery combines Search trends with internal data for flu outbreak prediction.",
+        "Delivers real-time, location-specific insights for healthcare planning.",
+        "Marketing campaigns optimized using predictive model achieved 85% increase in click-through rates year-on-year.",
+        "Cost per click reduced by 33% compared to the previous year through AI-driven demand forecasting."
+      ],
+      "zh": [
+        "在 BigQuery 建立的生成式 AI 資料代理，結合搜尋趨勢與內部資料預測流感疫情。",
+        "提供即時的地區特定醫療規劃洞察。",
+        "採用預測模型優化的行銷活動點擊率年增 85%。",
+        "透過 AI 驅動的需求預測，每次點擊成本較前一年降低 33%。"
+      ]
+    },
+    "technologies": [
+      "BigQuery",
+      "Google Cloud",
+      "Generative AI"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "How Bayer predicted flu trends using machine learning — Google Think",
+        "url": "https://business.google.com/us/think/ai-excellence/search-trends-demand-predictions-bayer/"
+      }
+    ]
+  },
+  {
+    "id": "healthcare-life-sciences-data-bayer-2",
+    "industry": "healthcare-life-sciences",
+    "agentType": "data",
+    "company": "Bayer",
+    "isNew": false,
+    "summary": {
+      "en": "Bayer and Google Cloud collaborated to apply TPUs to accelerate quantum chemistry calculations for early drug discovery.",
+      "zh": "Bayer 與 Google Cloud 合作，運用 TPU 加速量子化學計算，推進早期藥物研發。"
+    },
+    "overview": {
+      "en": "Bayer and Google Cloud announced a collaboration to drive early drug discovery by applying AI-specialized Tensor Processing Units (TPUs) to accelerate and scale Bayer's quantum chemistry calculations. The collaboration aims to demonstrate fully quantum mechanical modeling of protein-ligand interactions, enabling more accurate in silico identification of novel drug candidates.",
+      "zh": "Bayer 與 Google Cloud 宣布合作，運用 AI 專用張量處理器（TPU）加速並擴展 Bayer 的量子化學計算，以推進早期藥物研發。此合作旨在實現蛋白質-配體相互作用的全量子力學建模，使新型候選藥物的電腦模擬識別更加精準。"
+    },
+    "highlights": {
+      "en": [
+        "Google Cloud TPUs applied to accelerate Bayer's quantum chemistry calculations for drug discovery.",
+        "Goal of achieving fully in silico quantum mechanical modeling of protein-ligand binding.",
+        "Density functional theory (DFT) calculations run at scale to evaluate drug candidates more accurately.",
+        "Collaboration announced January 2023 to determine scientific and economic viability of large-scale DFT for drug discovery."
+      ],
+      "zh": [
+        "運用 Google Cloud TPU 加速 Bayer 用於藥物研發的量子化學計算。",
+        "目標是實現蛋白質-配體結合的全電腦模擬量子力學建模。",
+        "大規模運行密度泛函理論（DFT）計算，更精準評估候選藥物。",
+        "2023 年 1 月宣布合作，以確定大規模 DFT 用於藥物研發的科學與經濟可行性。"
+      ]
+    },
+    "technologies": [
+      "Cloud TPU",
+      "Google Cloud",
+      "Compute Engine"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Bayer to Accelerate Drug Discovery with Google Cloud's High-Performance Compute Power",
+        "url": "https://www.bayer.com/media/en-us/bayer-to-accelerate-drug-discovery-with-google-clouds-high-performance-compute-power/"
+      }
+    ]
+  },
+  {
+    "id": "healthcare-life-sciences-data-beep-sa-de",
+    "industry": "healthcare-life-sciences",
+    "agentType": "data",
+    "company": "Beep Saúde",
+    "isNew": false,
+    "summary": {
+      "en": "Beep Saúde, Brazil's largest home health company, uses AI routing with Google Maps to manage 50,000+ monthly home visits.",
+      "zh": "巴西最大居家醫療公司 Beep Saúde 結合 Google Maps 與 AI 動態路線規劃，每月管理逾 5 萬次上門服務。"
+    },
+    "overview": {
+      "en": "Beep Saúde, the largest home health company in Brazil, implemented an AI-powered last-mile dynamic routing system with Google Maps Platform to optimize operations and manage a 10% cancellation volume. The company also uses AI to speed up processing of medical orders, reduce costs, and support expansion plans. The system handles more than 50,000 home visits per month.",
+      "zh": "巴西最大居家醫療公司 Beep Saúde 導入結合 Google Maps Platform 的 AI 驅動最後一哩動態路線規劃系統，優化營運並管理 10% 的取消率。公司還運用 AI 加速醫療訂單處理、降低成本，並支持在巴西的擴張計畫。系統每月處理逾 5 萬次上門服務。"
+    },
+    "highlights": {
+      "en": [
+        "AI-powered Route Optimization via Google Maps Platform handles 50,000+ home visits per month.",
+        "Dynamic routing adapts in real time to cancellations, reschedules, and last-minute bookings.",
+        "Routes consider traffic conditions, procedure duration, and nurse shift limits.",
+        "Target of scaling to 250,000 monthly home visits supported by AI logistics infrastructure."
+      ],
+      "zh": [
+        "透過 Google Maps Platform 的 AI 路線優化，每月處理逾 5 萬次上門服務。",
+        "動態路線即時應對取消、改期和臨時預約。",
+        "路線規劃考量交通狀況、操作程序時長及護士班次限制。",
+        "以 AI 物流基礎架構支援每月 25 萬次上門服務的擴張目標。"
+      ]
+    },
+    "technologies": [
+      "Google Maps Platform",
+      "Route Optimization AI",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "How Beep Saúde expands home healthcare in Brazil with Google Maps Platform",
+        "url": "https://mapsplatform.google.com/resources/blog/how-beep-saude-expands-home-healthcare-in-brazil-with-google-maps-platform/"
+      },
+      {
+        "title": "Beep Saúde case study | Google Cloud",
+        "url": "https://cloud.google.com/customers/beep-saude"
+      }
+    ]
+  },
+  {
+    "id": "healthcare-life-sciences-data-bliss-health",
+    "industry": "healthcare-life-sciences",
+    "agentType": "data",
+    "company": "Bliss Health",
+    "isNew": false,
+    "summary": {
+      "en": "Bliss Health cut insurance broker query response time from 4 hours to seconds using Dialogflow and Gemini Pro on Google Cloud.",
+      "zh": "Bliss Health 透過 Google Cloud 上的 Dialogflow 與 Gemini Pro，將保險經紀人查詢回應時間從 4 小時縮短至秒級。"
+    },
+    "overview": {
+      "en": "Bliss Health is transforming the insurance market with a digital channel for brokers, integrated with Google Cloud technologies including Dialogflow and Gemini Pro. The solution has reduced its service-level agreement for transactional queries from four hours to seconds, improved operational efficiency, eliminated bureaucracy, and accelerated business closure.",
+      "zh": "Bliss Health 透過整合 Google Cloud、Dialogflow 及 Gemini Pro 的數位經紀人渠道，正在變革保險市場。此方案將交易查詢的服務等級協議從 4 小時縮短至秒級，提升運營效率、消除繁文縟節，並加快成交速度。"
+    },
+    "highlights": {
+      "en": [
+        "Service-level agreement for transactional queries reduced from 4 hours to seconds with Dialogflow and Gemini Pro.",
+        "Digital broker channel eliminates manual bureaucracy in insurance processes.",
+        "Improved operational efficiency accelerates business closure for insurance brokers.",
+        "Platform integrates Google Cloud, Dialogflow, and Gemini Pro for intelligent automation."
+      ],
+      "zh": [
+        "借助 Dialogflow 與 Gemini Pro，交易查詢的服務等級協議從 4 小時縮短至秒級。",
+        "數位經紀人渠道消除保險流程中的人工繁文縟節。",
+        "提升的運營效率加快保險經紀人的業務成交速度。",
+        "平台整合 Google Cloud、Dialogflow 與 Gemini Pro 實現智慧自動化。"
+      ]
+    },
+    "technologies": [
+      "Dialogflow",
+      "Gemini",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "healthcare-life-sciences-data-cerebraai",
+    "industry": "healthcare-life-sciences",
+    "agentType": "data",
+    "company": "CerebraAI",
+    "isNew": false,
+    "summary": {
+      "en": "CerebraAI fine-tunes MedGemma on CT scans for early stroke and cancer detection using Gemini's few-shot capabilities.",
+      "zh": "CerebraAI 對 CT 影像微調 MedGemma，結合 Gemini 小樣本泛化能力，用於早期中風與癌症偵測。"
+    },
+    "overview": {
+      "en": "CerebraAI develops AI software for analyzing non-contrast CT (NCCT) scans, with a focus on early stroke and cancer detection. The company fine-tunes MedGemma on NCCT images and leverages Gemini's few-shot generalization capabilities to rapidly adapt the model for various diagnostic tasks, enabling efficient deployment across multiple clinical use cases.",
+      "zh": "CerebraAI 開發用於分析非增強 CT（NCCT）掃描的 AI 軟體，專注於早期中風與癌症偵測。公司在 NCCT 影像上微調 MedGemma，並利用 Gemini 的小樣本泛化能力快速適應各種診斷任務，實現跨多個臨床應用場景的高效部署。"
+    },
+    "highlights": {
+      "en": [
+        "Fine-tunes MedGemma on non-contrast CT (NCCT) images for early stroke and cancer detection.",
+        "Leverages Gemini few-shot generalization to rapidly adapt the model for new diagnostic tasks.",
+        "Enables general radiologists to perform specialist-level CT interpretation.",
+        "Efficient model adaptation reduces development time for deploying new clinical AI applications."
+      ],
+      "zh": [
+        "在非增強 CT（NCCT）影像上微調 MedGemma，用於早期中風與癌症偵測。",
+        "利用 Gemini 小樣本泛化能力快速適應新診斷任務。",
+        "讓一般放射科醫師達到專科醫師水準的 CT 判讀能力。",
+        "高效的模型適應縮短了新臨床 AI 應用的部署開發時間。"
+      ]
+    },
+    "technologies": [
+      "MedGemma",
+      "Gemini",
+      "Vertex AI"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "healthcare-life-sciences-data-chopo-grupo-proa",
+    "industry": "healthcare-life-sciences",
+    "agentType": "data",
+    "company": "Chopo/Grupo Proa",
+    "isNew": false,
+    "summary": {
+      "en": "Mexican diagnostics company Chopo uses gen AI to integrate patient and physician data, reducing acquisition costs and increasing sales.",
+      "zh": "墨西哥醫療診斷公司 Chopo 運用生成式 AI 整合患者與醫師資料，降低客戶獲取成本並提升銷售額。"
+    },
+    "overview": {
+      "en": "Chopo/Grupo Proa, a Mexican medical diagnostics company, leverages generative AI to integrate patient and physician data, obtaining a complete view that optimizes decision-making. This initiative has enabled a considerable reduction in acquisition costs and an increase in sales, transforming how the company manages its clinical and commercial operations.",
+      "zh": "墨西哥醫療診斷公司 Chopo/Grupo Proa 運用生成式 AI 整合患者與醫師資料，獲得優化決策的全面視圖。此舉大幅降低了客戶獲取成本並提升銷售額，改變了公司管理臨床與商業運營的方式。"
+    },
+    "highlights": {
+      "en": [
+        "Gen AI integrates patient and physician data for a comprehensive view of clinical and commercial operations.",
+        "Considerable reduction in customer acquisition costs achieved through AI-driven insights.",
+        "Increased sales driven by AI-optimized decision-making and targeted engagement.",
+        "Transforms diagnostic data into strategic business value."
+      ],
+      "zh": [
+        "生成式 AI 整合患者與醫師資料，提供臨床與商業運營的全面視圖。",
+        "透過 AI 洞察大幅降低客戶獲取成本。",
+        "AI 優化決策與精準互動帶動銷售額提升。",
+        "將診斷資料轉化為策略性商業價值。"
+      ]
+    },
+    "technologies": [
+      "Generative AI",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "healthcare-life-sciences-data-colombian-national-cancer-institute",
+    "industry": "healthcare-life-sciences",
+    "agentType": "data",
+    "company": "Colombian National Cancer Institute",
+    "isNew": true,
+    "summary": {
+      "en": "Colombia's National Cancer Institute uses AI to personalize chemotherapy follow-up, anticipate complications, and automate processes.",
+      "zh": "哥倫比亞國家癌症研究所運用 AI 個人化化療追蹤、預測併發症並自動化流程，改善患者覆蓋率並降低醫療費用。"
+    },
+    "overview": {
+      "en": "The Colombian National Cancer Institute uses AI to personalize the follow-up of chemotherapy patients, anticipate potential complications before they become critical, and automate administrative processes. This has improved follow-up coverage for patients and reduced personal expenses associated with care.",
+      "zh": "哥倫比亞國家癌症研究所運用 AI 個人化化療患者的追蹤流程、在併發症惡化前預先識別風險，並自動化行政流程。這改善了患者隨訪覆蓋率，並降低了與照護相關的個人費用。"
+    },
+    "highlights": {
+      "en": [
+        "AI personalizes chemotherapy patient follow-up to improve coverage and outcomes.",
+        "Predictive models anticipate complications before they become critical.",
+        "Automation of administrative processes reduces burden on clinical staff.",
+        "Reduced personal expenses for patients through more efficient care delivery."
+      ],
+      "zh": [
+        "AI 個人化化療患者追蹤，提升覆蓋率與治療成效。",
+        "預測模型在併發症惡化前提前識別風險。",
+        "行政流程自動化減輕臨床人員負擔。",
+        "透過更高效的照護服務降低患者個人醫療費用。"
+      ]
+    },
+    "technologies": [
+      "Google Cloud",
+      "Vertex AI",
+      "Generative AI"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "healthcare-life-sciences-data-congruence-therapeutics",
+    "industry": "healthcare-life-sciences",
+    "agentType": "data",
+    "company": "Congruence Therapeutics",
+    "isNew": false,
+    "summary": {
+      "en": "Congruence Therapeutics uses its Revenir platform to discover novel allosteric pockets in proteins for small molecule drug development.",
+      "zh": "Congruence Therapeutics 運用 Revenir 平台識別蛋白質中新型變構口袋，用於小分子藥物開發。"
+    },
+    "overview": {
+      "en": "Congruence Therapeutics, a computationally driven biotechnology company, uses its proprietary Revenir platform to build a pipeline of small molecule correctors. The platform identifies novel allosteric and cryptic pockets in proteins to rescue aberrant protein function, targeting diseases that have historically been difficult to treat.",
+      "zh": "計算驅動的生物技術公司 Congruence Therapeutics 運用其專有 Revenir 平台建立小分子矯正劑研發管線。該平台識別蛋白質中新型的變構位點和隱匿口袋，以修復異常蛋白質功能，針對歷來難以治療的疾病。"
+    },
+    "highlights": {
+      "en": [
+        "Revenir platform identifies novel allosteric and cryptic pockets in proteins computationally.",
+        "Targets proteins with aberrant function to enable small molecule corrector drug development.",
+        "Computationally driven approach accelerates discovery of hard-to-drug protein targets.",
+        "Builds a differentiated pipeline of small molecule therapeutics."
+      ],
+      "zh": [
+        "Revenir 平台透過計算識別蛋白質中新型的變構位點和隱匿口袋。",
+        "針對功能異常的蛋白質，推動小分子矯正劑藥物開發。",
+        "計算驅動方法加速難以成藥蛋白質靶點的發現。",
+        "建立差異化的小分子治療藥物管線。"
+      ]
+    },
+    "technologies": [
+      "Google Cloud",
+      "Vertex AI"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "healthcare-life-sciences-data-dasa",
+    "industry": "healthcare-life-sciences",
+    "agentType": "data",
+    "company": "Dasa",
+    "isNew": true,
+    "summary": {
+      "en": "Brazilian healthcare giant Dasa migrated 1.74 million studies and 687.7 million images to Google Cloud, generating R$6.4 million in annual savings.",
+      "zh": "巴西醫療巨頭 Dasa 將 174 萬份研究及 6.877 億張影像遷移至 Google Cloud，每年節省 640 萬巴西雷亞爾。"
+    },
+    "overview": {
+      "en": "Dasa, a Brazilian healthcare company, partnered with Google Cloud to modernize its medical imaging infrastructure, migrating 1.74 million studies and 687.7 million images into a centralized cloud system. The project generated R$6.4 million in annual savings, gave doctors access to complete exam histories, and created a foundation for training AI models to support clinical research.",
+      "zh": "巴西醫療公司 Dasa 與 Google Cloud 合作，現代化其醫療影像基礎架構，將 174 萬份研究及 6.877 億張影像遷移至集中式雲端系統。此專案每年節省 640 萬巴西雷亞爾，讓醫師能存取完整的檢查歷史記錄，並為訓練 AI 模型以支援臨床研究奠定基礎。"
+    },
+    "highlights": {
+      "en": [
+        "Migrated 1.74 million medical studies and 687.7 million images to a centralized Google Cloud system.",
+        "Generated R$6.4 million in annual savings from the infrastructure modernization.",
+        "Physicians gained access to complete patient exam history across the network.",
+        "Centralized data creates foundation for AI model training to support clinical research."
+      ],
+      "zh": [
+        "將 174 萬份醫療研究及 6.877 億張影像遷移至 Google Cloud 集中式系統。",
+        "基礎架構現代化每年節省 640 萬巴西雷亞爾。",
+        "醫師可存取網絡中完整的患者檢查歷史記錄。",
+        "集中化資料為訓練 AI 模型以支援臨床研究奠定基礎。"
+      ]
+    },
+    "technologies": [
+      "Google Cloud",
+      "Medical Imaging",
+      "Cloud Storage",
+      "Vertex AI"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Dasa Case Study | Google Cloud",
+        "url": "https://cloud.google.com/customers/dasa"
+      }
+    ]
+  },
+  {
+    "id": "healthcare-life-sciences-data-dnastack",
+    "industry": "healthcare-life-sciences",
+    "agentType": "data",
+    "company": "DNAstack",
+    "isNew": false,
+    "summary": {
+      "en": "DNAstack leverages Google Cloud to accelerate genomics research and discovery in personalized medicine.",
+      "zh": "DNAstack 借助 Google Cloud 的可擴展基礎架構與進階分析工具，加速基因組學研究與個人化醫療探索。"
+    },
+    "overview": {
+      "en": "DNAstack, a leading genomics data management and analysis platform, leverages Google Cloud's scalable infrastructure and advanced analytics tools to accelerate research and discovery in personalized medicine. Built on Google Genomics, the platform is compliant with GA4GH standards and powers global federated networks to accelerate collaborative discoveries.",
+      "zh": "基因組學資料管理與分析平台領導者 DNAstack，借助 Google Cloud 的可擴展基礎架構與進階分析工具，加速個人化醫療的研究與探索。該平台建立在 Google Genomics 之上，符合 GA4GH 標準，並驅動全球聯邦網絡以加速協作研究發現。"
+    },
+    "highlights": {
+      "en": [
+        "First commercial platform built on Google Genomics, compliant with GA4GH open standards.",
+        "Powers global federated research networks in infectious disease, neuroscience, and beyond.",
+        "Used in cancer, autism, and rare disease research workflows worldwide.",
+        "Enables secure sharing and analysis of genomics datasets across institutions."
+      ],
+      "zh": [
+        "第一個基於 Google Genomics 建立的商業平台，符合 GA4GH 開放標準。",
+        "驅動傳染病、神經科學等領域的全球聯邦研究網絡。",
+        "在全球癌症、自閉症及罕見疾病研究工作流程中得到應用。",
+        "支援機構間基因組學資料的安全共享與分析。"
+      ]
+    },
+    "technologies": [
+      "Google Cloud",
+      "Google Genomics",
+      "BigQuery"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "DNAstack Launched for Google Cloud Genomics",
+        "url": "https://dnastack.com/press-releases/dnastack-launched-for-google-cloud-genomics/"
+      }
+    ]
+  },
+  {
+    "id": "healthcare-life-sciences-data-elanco",
+    "industry": "healthcare-life-sciences",
+    "agentType": "data",
+    "company": "Elanco",
+    "isNew": false,
+    "summary": {
+      "en": "Animal health leader Elanco deployed a Vertex AI and Gemini gen AI framework across Pharmacovigilance, Orders, and Clinical Insights, achieving $1.9M ROI.",
+      "zh": "動物健康領導者 Elanco 在藥物警戒、訂單及臨床洞察等業務中部署 Vertex AI 與 Gemini 生成式 AI 框架，實現 190 萬美元投資回報。"
+    },
+    "overview": {
+      "en": "Elanco, a world leader in animal health, has implemented a gen AI framework supporting critical business processes including Pharmacovigilance, Customer Orders, and Clinical Insights. The framework, powered by Vertex AI and Gemini, has resulted in an estimated ROI of $1.9 million since launching. The system processes tens of thousands of pharmacovigilance cases per year across multiple languages.",
+      "zh": "全球動物健康領導者 Elanco 已實施生成式 AI 框架，支援藥物警戒、客戶訂單及臨床洞察等關鍵業務流程。由 Vertex AI 與 Gemini 驅動的框架自上線以來已實現估計 190 萬美元的投資回報。系統每年處理數萬個多語言藥物警戒案例。"
+    },
+    "highlights": {
+      "en": [
+        "Gen AI framework powered by Vertex AI and Gemini covers Pharmacovigilance, Orders, and Clinical Insights.",
+        "Estimated ROI of $1.9 million since launch.",
+        "Processes tens of thousands of pharmacovigilance cases per year across multiple languages.",
+        "Replaced a previous SaaS solution that could only process English-language cases."
+      ],
+      "zh": [
+        "由 Vertex AI 與 Gemini 驅動的生成式 AI 框架涵蓋藥物警戒、訂單及臨床洞察。",
+        "自上線以來預計實現 190 萬美元投資回報。",
+        "每年處理數萬個多語言藥物警戒案例。",
+        "取代了之前只能處理英文案例的 SaaS 解決方案。"
+      ]
+    },
+    "technologies": [
+      "Vertex AI",
+      "Gemini",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Elanco Case Study | Google Cloud",
+        "url": "https://cloud.google.com/customers/elanco"
+      }
+    ]
+  },
+  {
+    "id": "healthcare-life-sciences-data-evogene",
+    "industry": "healthcare-life-sciences",
+    "agentType": "data",
+    "company": "Evogene",
+    "isNew": false,
+    "summary": {
+      "en": "Evogene uses Vertex AI to process 40 billion molecules and develop a small-molecule foundation model that dramatically accelerates drug discovery.",
+      "zh": "Evogene 運用 Vertex AI 處理 400 億個分子，開發小分子基礎模型，大幅加速藥物研發時程。"
+    },
+    "overview": {
+      "en": "Evogene uses Google Cloud and Vertex AI to replace the costly 'spray and pray' approach to molecular discovery with their computational ChemPass AI platform. They now process 40 billion molecules versus previous millions, while using Vertex AI to develop a cutting-edge small-molecule foundation model that dramatically accelerates drug discovery timelines.",
+      "zh": "Evogene 運用 Google Cloud 與 Vertex AI，以其計算平台 ChemPass AI 取代昂貴的「廣撒網」分子篩選方式。他們現在可處理 400 億個分子（而非以前的數百萬個），同時利用 Vertex AI 開發前沿小分子基礎模型，大幅縮短藥物研發時程。"
+    },
+    "highlights": {
+      "en": [
+        "Platform scales from millions to 40 billion molecules processed using Google Cloud and Vertex AI.",
+        "Developing a small-molecule foundation model on Vertex AI trained on ~40 billion molecular structures.",
+        "Collaboration with Google Cloud to pioneer generative AI for novel small molecule de novo design announced October 2024.",
+        "Accelerates drug, crop protection, and industrial biotechnology discovery timelines."
+      ],
+      "zh": [
+        "利用 Google Cloud 與 Vertex AI，平台處理分子數量從數百萬擴展至 400 億個。",
+        "在 Vertex AI 上開發以約 400 億個分子結構訓練的小分子基礎模型。",
+        "2024 年 10 月宣布與 Google Cloud 合作，開創生成式 AI 用於全新小分子從頭設計。",
+        "加速藥物、農作物保護及工業生物技術的研發時程。"
+      ]
+    },
+    "technologies": [
+      "Vertex AI",
+      "Google Cloud",
+      "Compute Engine",
+      "Cloud Storage"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Evogene Announces Collaboration with Google Cloud to Pioneer Generative AI Foundation Model for Novel Small Molecule Design",
+        "url": "https://evogene.com/press_release/evogene-announces-collaboration-with-google-cloud-to-pioneer-generative-ai-foundation-model-for-novel-small-molecule-design/"
+      },
+      {
+        "title": "Evogene case study | Google Cloud",
+        "url": "https://cloud.google.com/customers/evogene"
+      }
+    ]
+  },
+  {
+    "id": "healthcare-life-sciences-data-fairtility",
+    "industry": "healthcare-life-sciences",
+    "agentType": "data",
+    "company": "Fairtility",
+    "isNew": false,
+    "summary": {
+      "en": "Fairtility uses Google Cloud AI to analyze embryo images and identify the highest-potential embryos for IVF implantation success.",
+      "zh": "Fairtility 運用 Google Cloud AI 分析胚胎影像，識別最具成功著床潛力的胚胎，提升試管嬰兒成功率。"
+    },
+    "overview": {
+      "en": "Fairtility uses Google Cloud's AI and machine learning capabilities to enhance IVF outcomes worldwide. The CHLOE EQ platform analyzes embryo images and related data to identify embryos with the highest potential for successful implantation. The AI model achieves 96% accuracy for blastocyst prediction and 73% for implantation prediction, outperforming human assessment.",
+      "zh": "Fairtility 運用 Google Cloud 的 AI 與機器學習能力，在全球提升試管嬰兒（IVF）成效。CHLOE EQ 平台分析胚胎影像及相關資料，識別最具成功著床潛力的胚胎。AI 模型囊胚預測準確率達 96%，著床預測準確率達 73%，優於人工評估。"
+    },
+    "highlights": {
+      "en": [
+        "AI achieves 96% accuracy for blastocyst prediction and 73% for implantation prediction.",
+        "Outperforms human embryologist assessment and existing FDA-approved classification systems.",
+        "Provides accurate prediction as early as 30 hours post-fertilization.",
+        "Automates embryo stage annotation and connects with electronic medical records to cut administrative workload."
+      ],
+      "zh": [
+        "AI 囊胚預測準確率達 96%，著床預測準確率達 73%。",
+        "優於人工胚胎學家評估及現有 FDA 核准的分類系統。",
+        "最早可在受精後 30 小時提供準確預測。",
+        "自動化胚胎分期標註並與電子病歷連接，減少行政工作量。"
+      ]
+    },
+    "technologies": [
+      "Google Cloud",
+      "Machine Learning",
+      "Vertex AI"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Fairtility's AI-Trained Embryo Labeling Improves Embryo Classification and Selection Success Rates for IVF",
+        "url": "https://www.prnewswire.com/news-releases/comprehensive-study-finds-fairtilitys-ai-trained-embryo-labeling-improves-embryo-classification-and-selection-success-rates-for-in-vitro-fertilization-301516576.html"
+      }
+    ]
+  },
+  {
+    "id": "healthcare-life-sciences-data-febrafar",
+    "industry": "healthcare-life-sciences",
+    "agentType": "data",
+    "company": "Febrafar",
+    "isNew": true,
+    "summary": {
+      "en": "Febrafar uses Cloud Vision API and Gemini to automate image verification for 18,000+ pharmacy stores with 97% accuracy.",
+      "zh": "Febrafar 運用 Cloud Vision API 與 Gemini 自動驗證逾 1.8 萬家藥局門市的行銷圖片，準確率達 97%。"
+    },
+    "overview": {
+      "en": "Febrafar, the Brazilian Federation of Associative and Independent Pharmacy Chains, used Cloud Vision API and Gemini to automate image verification for marketing campaigns. The organization now automatically reviews product images submitted by more than 18,000 stores with 97% accuracy, dramatically reducing manual review time.",
+      "zh": "巴西獨立連鎖藥局聯合會 Febrafar 運用 Cloud Vision API 與 Gemini 自動化行銷活動的圖片驗證流程。該組織現在能以 97% 的準確率自動審查逾 1.8 萬家門市提交的產品圖片，大幅減少人工審查時間。"
+    },
+    "highlights": {
+      "en": [
+        "Automated image verification for marketing campaigns across 18,000+ pharmacy stores.",
+        "97% accuracy in reviewing product images submitted by member stores.",
+        "Cloud Vision API and Gemini replace manual image review processes.",
+        "Significant reduction in time and labor required for marketing campaign compliance."
+      ],
+      "zh": [
+        "自動化逾 1.8 萬家藥局門市行銷活動的圖片驗證流程。",
+        "審查成員門市提交產品圖片的準確率達 97%。",
+        "Cloud Vision API 與 Gemini 取代人工圖片審查流程。",
+        "大幅減少行銷活動合規所需的時間與人力。"
+      ]
+    },
+    "technologies": [
+      "Cloud Vision API",
+      "Gemini",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "healthcare-life-sciences-data-genbio-ai",
+    "industry": "healthcare-life-sciences",
+    "agentType": "data",
+    "company": "GenBio AI",
+    "isNew": false,
+    "summary": {
+      "en": "GenBio AI uses Google Cloud to power six specialized AI models for digital organism simulators that address challenges in medicine and biology.",
+      "zh": "GenBio AI 運用 Google Cloud 驅動六個專業 AI 模型，開發模擬生物程序的數位有機體模擬器，解決醫學與生物學難題。"
+    },
+    "overview": {
+      "en": "GenBio AI, a computational biology company, uses Google Cloud to power six specialized AI models in developing AI-driven digital organism simulators. These models simulate biological programming to address critical challenges in medicine and biology, enabling the company to model complex biological systems at scale.",
+      "zh": "計算生物學公司 GenBio AI 運用 Google Cloud 驅動六個專業 AI 模型，開發 AI 驅動的數位有機體模擬器。這些模型模擬生物程序，以解決醫學與生物學的關鍵挑戰，使公司能夠大規模建模複雜生物系統。"
+    },
+    "highlights": {
+      "en": [
+        "Six specialized AI models powered by Google Cloud for biological simulation.",
+        "Digital organism simulators model biological programming at scale.",
+        "Addresses critical unsolved challenges in medicine and biology.",
+        "Computational biology approach accelerates understanding of complex biological systems."
+      ],
+      "zh": [
+        "由 Google Cloud 驅動的六個專業 AI 模型用於生物模擬。",
+        "數位有機體模擬器大規模建模生物程序。",
+        "解決醫學與生物學的關鍵未解難題。",
+        "計算生物學方法加速對複雜生物系統的理解。"
+      ]
+    },
+    "technologies": [
+      "Google Cloud",
+      "Vertex AI"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "healthcare-life-sciences-data-ginkgo-bioworks",
+    "industry": "healthcare-life-sciences",
+    "agentType": "data",
+    "company": "Ginkgo Bioworks",
+    "isNew": false,
+    "summary": {
+      "en": "Ginkgo Bioworks and Google Cloud formed a 5-year AI partnership to build next-gen platforms for biological engineering and biosecurity using Vertex AI.",
+      "zh": "Ginkgo Bioworks 與 Google Cloud 簽訂 5 年 AI 合作協議，以 Vertex AI 為核心打造生物工程與生物安全的新一代平台。"
+    },
+    "overview": {
+      "en": "Ginkgo Bioworks and Google Cloud announced a five-year strategic partnership to build a next-generation AI platform for biological engineering and biosecurity. Ginkgo will develop new large language models running on Vertex AI across genomics, protein function, and synthetic biology, helping customers accelerate innovation in drug discovery, agriculture, and biosecurity. Ginkgo has designated Google Cloud as its primary cloud provider.",
+      "zh": "Ginkgo Bioworks 與 Google Cloud 宣布建立五年戰略合作夥伴關係，共同打造生物工程與生物安全的新一代 AI 平台。Ginkgo 將在 Vertex AI 上開發跨基因組學、蛋白質功能及合成生物學領域的新型大型語言模型，協助客戶加速藥物研發、農業及生物安全領域的創新。Ginkgo 已將 Google Cloud 指定為其主要雲端服務商。"
+    },
+    "highlights": {
+      "en": [
+        "Five-year strategic cloud and AI partnership with Google Cloud as primary cloud provider.",
+        "Developing LLMs on Vertex AI for genomics, protein function, and synthetic biology.",
+        "Enables drug discovery, agriculture, industrial manufacturing, and biosecurity applications.",
+        "Google Cloud funding supports milestone achievement over the first three years."
+      ],
+      "zh": [
+        "五年戰略雲端與 AI 合作，Google Cloud 為主要雲端服務商。",
+        "在 Vertex AI 上開發基因組學、蛋白質功能及合成生物學 LLM。",
+        "支援藥物研發、農業、工業製造及生物安全應用。",
+        "Google Cloud 資金支持前三年的里程碑達成。"
+      ]
+    },
+    "technologies": [
+      "Vertex AI",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Ginkgo Bioworks and Google Cloud Partner to Build Next Generation AI Platform for Biological Engineering and Biosecurity",
+        "url": "https://www.prnewswire.com/news-releases/ginkgo-bioworks-and-google-cloud-partner-to-build-next-generation-ai-platform-for-biological-engineering-and-biosecurity-301912283.html"
+      }
+    ]
+  },
+  {
+    "id": "healthcare-life-sciences-data-gleamer",
+    "industry": "healthcare-life-sciences",
+    "agentType": "data",
+    "company": "Gleamer",
+    "isNew": false,
+    "summary": {
+      "en": "Gleamer, deployed in 2,500+ institutions, uses Med-PaLM and Gemini on Vertex AI to process 35M+ exams annually with 30% better lesion detection.",
+      "zh": "Gleamer 部署於逾 2,500 家機構，在 Vertex AI 上使用 Med-PaLM 與 Gemini 每年處理逾 3,500 萬份檢查，病灶偵測改善 30%。"
+    },
+    "overview": {
+      "en": "Gleamer, a French AI radiology company deployed in over 2,500 healthcare institutions across 45 countries, uses Med-PaLM and Gemini on Vertex AI to automate radiological report generation. The platform processes over 35 million exams annually and demonstrates a 30% improvement in lesion detection, allowing general radiologists to reach specialist-level performance.",
+      "zh": "法國 AI 放射學公司 Gleamer 部署於 45 個國家逾 2,500 家醫療機構，在 Vertex AI 上使用 Med-PaLM 與 Gemini 自動生成放射學報告。平台每年處理逾 3,500 萬份檢查，病灶偵測改善 30%，讓一般放射科醫師達到專科醫師水準。"
+    },
+    "highlights": {
+      "en": [
+        "Deployed in 2,500+ healthcare institutions across 45 countries.",
+        "Processes over 35 million exams annually on Google Cloud.",
+        "30% improvement in lesion detection validated by over 30 scientific publications.",
+        "Med-PaLM and Gemini on Vertex AI automate radiological report drafting.",
+        "Enables general radiologists to achieve specialist-level diagnostic performance."
+      ],
+      "zh": [
+        "部署於 45 個國家逾 2,500 家醫療機構。",
+        "在 Google Cloud 上每年處理逾 3,500 萬份檢查。",
+        "病灶偵測改善 30%，已通過逾 30 篇科學論文驗證。",
+        "Vertex AI 上的 Med-PaLM 與 Gemini 自動起草放射學報告。",
+        "讓一般放射科醫師達到專科醫師水準的診斷表現。"
+      ]
+    },
+    "technologies": [
+      "Med-PaLM",
+      "Gemini",
+      "Vertex AI",
+      "BigQuery",
+      "Google Kubernetes Engine"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Gleamer case study | Google Cloud",
+        "url": "https://cloud.google.com/customers/gleamer"
+      }
+    ]
+  },
+  {
+    "id": "healthcare-life-sciences-data-hospital-de-amor",
+    "industry": "healthcare-life-sciences",
+    "agentType": "data",
+    "company": "Hospital de Amor",
+    "isNew": true,
+    "summary": {
+      "en": "Hospital de Amor uses Google Cloud AI to automate X-ray analysis for early lung cancer detection, reviewing 30,000+ images in its initial phase.",
+      "zh": "Hospital de Amor 運用 Google Cloud AI 自動化 X 光影像分析，用於早期肺癌偵測，初期已分析逾 3 萬張影像。"
+    },
+    "overview": {
+      "en": "Hospital de Amor is using Google Cloud AI to improve early lung cancer detection by automating X-ray image analysis and speeding up diagnoses. In its initial phase, the project analyzed more than 30,000 images and identified 68 cases that required deeper investigation, significantly improving early detection capabilities.",
+      "zh": "Hospital de Amor 運用 Google Cloud AI 自動化 X 光影像分析，提升早期肺癌偵測能力並加快診斷速度。在初始階段，專案已分析逾 3 萬張影像，識別出 68 個需要深入調查的病例，大幅提升早期偵測能力。"
+    },
+    "highlights": {
+      "en": [
+        "Analyzed more than 30,000 X-ray images in the initial project phase.",
+        "Identified 68 cases requiring deeper investigation for potential lung cancer.",
+        "Automates X-ray image analysis to speed up early lung cancer diagnoses.",
+        "Google Cloud AI infrastructure supports screening at scale for underserved populations."
+      ],
+      "zh": [
+        "初始階段已分析逾 3 萬張 X 光影像。",
+        "識別出 68 個需要深入調查的潛在肺癌病例。",
+        "自動化 X 光影像分析加快早期肺癌診斷速度。",
+        "Google Cloud AI 基礎架構支援大規模篩查服務不足的人群。"
+      ]
+    },
+    "technologies": [
+      "Google Cloud",
+      "Medical Imaging AI",
+      "Vertex AI"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "healthcare-life-sciences-data-immunai",
+    "industry": "healthcare-life-sciences",
+    "agentType": "data",
+    "company": "Immunai",
+    "isNew": false,
+    "summary": {
+      "en": "Immunai trains immune system models on its AMICA database of hundreds of millions of cells using Google Cloud GPUs, serving 30+ biopharma partners.",
+      "zh": "Immunai 使用 Google Cloud GPU 在包含數億細胞的 AMICA 資料庫上訓練免疫系統模型，服務逾 30 家生物製藥合作夥伴。"
+    },
+    "overview": {
+      "en": "Immunai tackles drug development's decade-long timeline with AMICA, the world's largest immune-focused single-cell database containing hundreds of millions of cells. Using Google Cloud GPU clusters, they train models that transform complex immune mechanisms into actionable recommendations for 30+ biopharmaceutical partners, helping match the right drugs to the right patients.",
+      "zh": "Immunai 以 AMICA——全球最大免疫聚焦單細胞資料庫（包含數億細胞）——應對藥物研發長達十年的開發時程。利用 Google Cloud GPU 叢集訓練模型，將複雜的免疫機制轉化為可操作建議，服務逾 30 家生物製藥合作夥伴，協助將正確的藥物與合適的患者匹配。"
+    },
+    "highlights": {
+      "en": [
+        "AMICA is the world's largest immune-focused harmonized single-cell database with data from ~10,000 patients and 800+ cell types.",
+        "Google Cloud GPU clusters power model training on complex multiomic immune cell data.",
+        "Serves 30+ biopharmaceutical partners with actionable immune system recommendations.",
+        "Platform supports target discovery, preclinical evaluation, and clinical trial optimization."
+      ],
+      "zh": [
+        "AMICA 是全球最大免疫聚焦單細胞資料庫，包含約 1 萬名患者及逾 800 種細胞類型的資料。",
+        "Google Cloud GPU 叢集支援複雜多組學免疫細胞資料的模型訓練。",
+        "服務逾 30 家生物製藥合作夥伴，提供可操作的免疫系統建議。",
+        "平台支援靶點發現、臨床前評估及臨床試驗優化。"
+      ]
+    },
+    "technologies": [
+      "Google Cloud",
+      "Cloud GPU",
+      "Machine Learning"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Improving drug development with a vast map of the immune system | MIT News",
+        "url": "https://news.mit.edu/2024/immunai-improving-drug-development-with-immune-system-map-0411"
+      }
+    ]
+  },
+  {
+    "id": "healthcare-life-sciences-data-insilica",
+    "industry": "healthcare-life-sciences",
+    "agentType": "data",
+    "company": "Insilica",
+    "isNew": true,
+    "summary": {
+      "en": "Insilica uses Gemini Enterprise Agent Platform to process millions of regulatory documents into a unified agentic risk assessment platform.",
+      "zh": "Insilica 運用 Gemini Enterprise Agent Platform 處理數百萬份監管文件，構建統一的代理式風險評估平台。"
+    },
+    "overview": {
+      "en": "Insilica uses the Gemini Enterprise Agent Platform to process millions of regulatory documents and thousands of databases into a unified, agentic risk assessment platform. The platform enables automated analysis of complex regulatory landscapes for life sciences compliance and risk management.",
+      "zh": "Insilica 運用 Gemini Enterprise Agent Platform 處理數百萬份監管文件和數千個資料庫，構建統一的代理式風險評估平台，實現生命科學合規與風險管理的複雜監管自動化分析。"
+    },
+    "highlights": {
+      "en": [
+        "Processes millions of regulatory documents and thousands of databases using Gemini Enterprise Agent Platform.",
+        "Unified agentic risk assessment platform for life sciences regulatory compliance.",
+        "Automates complex analysis across vast regulatory landscapes.",
+        "Enables faster and more comprehensive risk identification for pharma and biotech."
+      ],
+      "zh": [
+        "運用 Gemini Enterprise Agent Platform 處理數百萬份監管文件和數千個資料庫。",
+        "為生命科學監管合規打造統一的代理式風險評估平台。",
+        "自動化分析廣泛的監管環境。",
+        "為製藥與生物科技企業提供更快速、更全面的風險識別能力。"
+      ]
+    },
+    "technologies": [
+      "Gemini Enterprise Agent Platform",
+      "Gemini",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "healthcare-life-sciences-data-mayo-clinic",
+    "industry": "healthcare-life-sciences",
+    "agentType": "data",
+    "company": "Mayo Clinic",
+    "isNew": false,
+    "summary": {
+      "en": "Mayo Clinic gives thousands of researchers access to 50 petabytes of clinical data through Vertex AI Search across multiple languages.",
+      "zh": "Mayo Clinic 透過 Vertex AI Search 讓數千名研究人員跨語言存取 50 PB 的臨床資料，大幅加速資訊檢索。"
+    },
+    "overview": {
+      "en": "Mayo Clinic has given thousands of its scientific researchers access to 50 petabytes of clinical data through Vertex AI Search, accelerating information retrieval across multiple languages. The partnership with Google Cloud also includes AI models trained to detect lung nodules, brain bleeds, and tumors in CT and MRI scans, supporting large-scale research on secure HIPAA-compliant cloud infrastructure.",
+      "zh": "Mayo Clinic 透過 Vertex AI Search 讓數千名科研人員跨語言存取 50 PB 的臨床資料，大幅加速資訊檢索。與 Google Cloud 的合作還包括訓練用於偵測 CT 及 MRI 掃描中肺結節、腦出血及腫瘤的 AI 模型，並在符合 HIPAA 規範的安全雲端基礎架構上支援大規模研究。"
+    },
+    "highlights": {
+      "en": [
+        "50 petabytes of clinical data made searchable for thousands of researchers via Vertex AI Search.",
+        "Multilingual information retrieval accelerates cross-disciplinary research.",
+        "AI models trained to detect lung nodules, brain bleeds, and tumors in CT and MRI scans.",
+        "Enterprise Search in Generative AI App Builder improves clinical workflow efficiency."
+      ],
+      "zh": [
+        "50 PB 臨床資料透過 Vertex AI Search 供數千名研究人員搜索。",
+        "多語言資訊檢索加速跨學科研究。",
+        "訓練 AI 模型偵測 CT 及 MRI 掃描中的肺結節、腦出血及腫瘤。",
+        "生成式 AI App Builder 中的企業搜索功能提升臨床工作流程效率。"
+      ]
+    },
+    "technologies": [
+      "Vertex AI Search",
+      "Google Cloud",
+      "Generative AI App Builder"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Google Cloud Collaborates with Mayo Clinic to Transform Healthcare with Generative AI",
+        "url": "https://www.prnewswire.com/news-releases/google-cloud-collaborates-with-mayo-clinic-to-transform-healthcare-with-generative-ai-301844437.html"
+      },
+      {
+        "title": "Mayo Clinic and Google Cloud partner on generative AI to power enterprise search",
+        "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/mayo-clinic-google-cloud-partner-generative-ai-power-enterprise-search"
+      }
+    ]
+  },
+  {
+    "id": "healthcare-life-sciences-data-mendel",
+    "industry": "healthcare-life-sciences",
+    "agentType": "data",
+    "company": "Mendel",
+    "isNew": false,
+    "summary": {
+      "en": "Mendel built a clinical AI system that consolidates fragmented medical data into holistic patient journey knowledge bases to boost clinical trial recruitment.",
+      "zh": "Mendel 建立臨床 AI 系統，將分散的醫療資料整合為完整的患者旅程知識庫，提升新療法及臨床試驗的患者招募效率。"
+    },
+    "overview": {
+      "en": "Mendel has built a clinical AI system designed to consolidate the longstanding silos in medical data into a knowledge base of holistic patient journeys. The platform boosts patient recruitment for new therapies and clinical trials by making patient data searchable and actionable. In oncology trials, Mendel's AI identified 24-50% more potentially eligible patients compared to standard practice.",
+      "zh": "Mendel 建立了臨床 AI 系統，旨在將長期割裂的醫療資料孤島整合為全面患者旅程知識庫。平台透過讓患者資料可搜索且可操作，提升新療法及臨床試驗的患者招募效率。在腫瘤試驗中，Mendel 的 AI 比標準方法多識別出 24-50% 的潛在符合條件患者。"
+    },
+    "highlights": {
+      "en": [
+        "Consolidates fragmented medical data silos into holistic patient journey knowledge bases.",
+        "AI identified 24-50% more potentially eligible patients for oncology clinical trials vs. standard practice.",
+        "Eligibility screening takes minutes rather than hours with AI-assisted chart review.",
+        "Supports structured and unstructured data abstraction, de-identification, and clinical trial matching."
+      ],
+      "zh": [
+        "將分散的醫療資料孤島整合為全面患者旅程知識庫。",
+        "AI 在腫瘤臨床試驗中比標準方法多識別出 24-50% 的潛在符合條件患者。",
+        "AI 輔助病歷審查將資格篩查從數小時縮短至數分鐘。",
+        "支援結構化與非結構化資料摘取、去識別化及臨床試驗匹配。"
+      ]
+    },
+    "technologies": [
+      "Google Cloud",
+      "Vertex AI",
+      "Generative AI"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Mendel Health Positions AI Platform for Clinical Trial Matching, Personalized Medicine",
+        "url": "https://www.genomeweb.com/informatics/mendel-health-positions-ai-platform-clinical-trial-matching-personalized-medicine"
+      }
+    ]
+  },
+  {
+    "id": "healthcare-life-sciences-data-menten-ai",
+    "industry": "healthcare-life-sciences",
+    "agentType": "data",
+    "company": "Menten AI",
+    "isNew": false,
+    "summary": {
+      "en": "Menten AI uses Google Cloud HPC and ML to accelerate peptide therapeutics design and optimization.",
+      "zh": "Menten AI 運用 Google Cloud 高效能運算與機器學習，加速胜肽治療藥物的設計與優化。"
+    },
+    "overview": {
+      "en": "Menten AI, a biotechnology company, uses Google Cloud's high-performance compute and machine learning capabilities to accelerate the development of peptide therapeutics. The platform allows the company to rapidly design and optimize novel drug candidates, shortening the typically lengthy peptide drug development cycle.",
+      "zh": "生物技術公司 Menten AI 運用 Google Cloud 的高效能運算與機器學習能力，加速胜肽治療藥物的開發。平台使公司能夠快速設計和優化新型候選藥物，縮短通常耗時漫長的胜肽藥物開發週期。"
+    },
+    "highlights": {
+      "en": [
+        "Google Cloud HPC enables rapid computational design of peptide drug candidates.",
+        "Machine learning accelerates optimization of novel therapeutic peptides.",
+        "Shortens the development cycle from initial design to optimized drug candidate.",
+        "Computational approach reduces reliance on costly wet-lab experimentation."
+      ],
+      "zh": [
+        "Google Cloud 高效能運算支援胜肽候選藥物的快速計算設計。",
+        "機器學習加速新型治療胜肽的優化。",
+        "縮短從初始設計到優化候選藥物的開發週期。",
+        "計算方法減少對昂貴濕實驗室實驗的依賴。"
+      ]
+    },
+    "technologies": [
+      "Google Cloud",
+      "Cloud GPU",
+      "Machine Learning",
+      "Compute Engine"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "healthcare-life-sciences-data-moonwalk-bio",
+    "industry": "healthcare-life-sciences",
+    "agentType": "data",
+    "company": "Moonwalk Bio",
+    "isNew": false,
+    "summary": {
+      "en": "Moonwalk Bio uses epigenetics and AI to pioneer obesity and cardiometabolic disease medicines by mapping causal gene-disease relationships.",
+      "zh": "Moonwalk Bio 結合表觀遺傳學與 AI，透過繪製基因與疾病通路的因果關係，開創肥胖症及心臟代謝疾病新藥。"
+    },
+    "overview": {
+      "en": "Moonwalk Bio, a preclinical-stage biotechnology company, leverages epigenetic biology and AI to pioneer new medicines for obesity and cardiometabolic disease. Their platform determines the causal relationships between genes and disease pathways for therapeutic targeting, using computational approaches to identify novel drug targets in traditionally difficult-to-treat conditions.",
+      "zh": "臨床前階段生物技術公司 Moonwalk Bio 結合表觀遺傳學生物學與 AI，開創肥胖症及心臟代謝疾病的新藥研發。其平台確定基因與疾病通路之間的因果關係以定義治療靶點，並運用計算方法在傳統難治病症中識別新型藥物靶點。"
+    },
+    "highlights": {
+      "en": [
+        "Leverages epigenetic biology and AI to identify causal gene-disease relationships for drug targeting.",
+        "Focuses on obesity and cardiometabolic diseases — major unmet medical needs.",
+        "Preclinical platform uses computational analysis to select the most promising therapeutic targets.",
+        "AI-driven approach could accelerate early-stage drug discovery for metabolic disease."
+      ],
+      "zh": [
+        "結合表觀遺傳學生物學與 AI，識別用於藥物靶點的基因-疾病因果關係。",
+        "專注於肥胖症及心臟代謝疾病——重大未滿足醫療需求。",
+        "臨床前平台運用計算分析選取最具潛力的治療靶點。",
+        "AI 驅動方法可加速代謝疾病的早期藥物研發。"
+      ]
+    },
+    "technologies": [
+      "Google Cloud",
+      "Vertex AI",
+      "Machine Learning"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "healthcare-life-sciences-data-neomed",
+    "industry": "healthcare-life-sciences",
+    "agentType": "data",
+    "company": "Neomed",
+    "isNew": false,
+    "summary": {
+      "en": "Neomed's AI reduces ECG report turnaround to ~2 minutes, helping clinics and hospitals manage cardiovascular diagnostic data.",
+      "zh": "巴西醫療新創 Neomed 以 AI 將心電圖報告出具時間縮短至約 2 分鐘，協助診所與醫院管理心血管診斷資料。"
+    },
+    "overview": {
+      "en": "Neomed, a Brazilian healthcare startup, specializes in the diagnosis of cardiovascular diseases, assisting clinics and hospitals with the management of data and reports of graphical exams. Its AI-based solution reduces the time for electrocardiogram (ECG) reports to approximately two minutes, dramatically accelerating cardiovascular care workflows.",
+      "zh": "巴西醫療新創 Neomed 專精於心血管疾病診斷，協助診所與醫院管理圖形檢查的資料與報告。其 AI 解決方案將心電圖（ECG）報告出具時間縮短至約 2 分鐘，大幅加速心血管照護工作流程。"
+    },
+    "highlights": {
+      "en": [
+        "AI reduces ECG report turnaround time to approximately 2 minutes.",
+        "Assists clinics and hospitals in managing cardiovascular diagnostic data and reports.",
+        "Accelerates cardiovascular care workflows for faster clinical decision-making.",
+        "Brazilian startup addressing a critical diagnostic bottleneck in cardiology."
+      ],
+      "zh": [
+        "AI 將心電圖報告出具時間縮短至約 2 分鐘。",
+        "協助診所與醫院管理心血管診斷資料與報告。",
+        "加速心血管照護工作流程，支援更快速的臨床決策。",
+        "巴西新創公司解決心臟科關鍵診斷瓶頸。"
+      ]
+    },
+    "technologies": [
+      "Google Cloud",
+      "AI",
+      "Machine Learning"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "healthcare-life-sciences-data-nextnet",
+    "industry": "healthcare-life-sciences",
+    "agentType": "data",
+    "company": "Nextnet",
+    "isNew": false,
+    "summary": {
+      "en": "Nextnet uses Gemini and Vertex AI to uncover novel insights from biomedical data and identify hidden relationships in scientific literature for life sciences research.",
+      "zh": "Nextnet 運用 Gemini 與 Vertex AI 從生物醫學資料挖掘新洞察，並識別科學文獻中的隱藏關聯，服務生命科學研究。"
+    },
+    "overview": {
+      "en": "Nextnet uses Gemini and Vertex AI to uncover novel insights and knowledge for life sciences and pharmaceutical research. The platform enables researchers to analyze biomedical data at scale and identify hidden relationships buried in scientific literature, accelerating hypothesis generation and drug discovery.",
+      "zh": "Nextnet 運用 Gemini 與 Vertex AI 為生命科學及製藥研究挖掘新知識與洞察。平台使研究人員能夠大規模分析生物醫學資料，識別科學文獻中隱藏的關聯，加速假設生成與藥物研發。"
+    },
+    "highlights": {
+      "en": [
+        "Gemini and Vertex AI power large-scale analysis of biomedical data for life sciences research.",
+        "Identifies hidden relationships and connections buried in scientific literature.",
+        "Accelerates hypothesis generation and knowledge discovery for pharmaceutical researchers.",
+        "Bridges data analysis and literature mining into a unified research intelligence platform."
+      ],
+      "zh": [
+        "Gemini 與 Vertex AI 支援生命科學研究的大規模生物醫學資料分析。",
+        "識別科學文獻中隱藏的關聯與連結。",
+        "加速製藥研究人員的假設生成與知識發現。",
+        "將資料分析與文獻挖掘整合為統一的研究智能平台。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Vertex AI",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "healthcare-life-sciences-data-orda-s",
+    "industry": "healthcare-life-sciences",
+    "agentType": "data",
+    "company": "Ordaōs",
+    "isNew": false,
+    "summary": {
+      "en": "Ordaōs uses Google Kubernetes Engine to scale AI analysis of millions of protein structures for drug discovery with greater flexibility.",
+      "zh": "Ordaōs 運用 Google Kubernetes Engine 靈活擴展數百萬個蛋白質結構的 AI 分析，加速藥物研發。"
+    },
+    "overview": {
+      "en": "Ordaōs, an AI-driven drug discovery leader, relies on cloud computing to design, process, and analyze data for millions of protein structures. The company uses Google Kubernetes Engine to achieve increased flexibility and easier scalability, enabling them to take on new, larger AI projects in protein-based drug discovery.",
+      "zh": "AI 驅動的藥物研發領導者 Ordaōs 依賴雲端運算設計、處理和分析數百萬個蛋白質結構的資料。公司運用 Google Kubernetes Engine 實現更高的靈活性與更便捷的可擴展性，能夠承接更大型的蛋白質藥物研發 AI 專案。"
+    },
+    "highlights": {
+      "en": [
+        "Google Kubernetes Engine provides flexibility and scalability for large-scale protein structure analysis.",
+        "Designs, processes, and analyzes data for millions of protein structures computationally.",
+        "Enables AI-driven drug discovery at scales previously not feasible.",
+        "Increased scalability supports expansion into new, larger AI research projects."
+      ],
+      "zh": [
+        "Google Kubernetes Engine 提供大規模蛋白質結構分析的靈活性與可擴展性。",
+        "計算設計、處理和分析數百萬個蛋白質結構的資料。",
+        "支援以前無法實現的規模 AI 驅動藥物研發。",
+        "增強的可擴展性支持擴展至更大型的 AI 研究專案。"
+      ]
+    },
+    "technologies": [
+      "Google Kubernetes Engine",
+      "Google Cloud",
+      "Compute Engine"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "healthcare-life-sciences-data-probrain",
+    "industry": "healthcare-life-sciences",
+    "agentType": "data",
+    "company": "Probrain",
+    "isNew": false,
+    "summary": {
+      "en": "Probrain's cloud-based gen AI solution reduced its service costs by ~89% and end-consumer prices by ~50% for personalized auditory training.",
+      "zh": "Probrain 透過雲端生成式 AI 方案將服務成本降低約 89%，消費者價格降低約 50%，提供個人化聽覺刺激訓練。"
+    },
+    "overview": {
+      "en": "Probrain offers personalized auditory stimulation training. By implementing cloud-based generative AI solutions, the company modernized its services and reduced costs by approximately 89%. For end consumers, this resulted in savings of almost 50%, making personalized auditory training more accessible.",
+      "zh": "Probrain 提供個人化聽覺刺激訓練。透過導入雲端生成式 AI 方案，公司將服務現代化，成本降低約 89%。對最終消費者而言，費用節省近 50%，使個人化聽覺訓練更易獲取。"
+    },
+    "highlights": {
+      "en": [
+        "Cloud-based gen AI implementation reduced service costs by approximately 89%.",
+        "End consumers benefit from approximately 50% cost savings.",
+        "Modernized personalized auditory stimulation training with AI.",
+        "Demonstrates significant cost efficiency gains from cloud AI adoption in digital health."
+      ],
+      "zh": [
+        "雲端生成式 AI 實施將服務成本降低約 89%。",
+        "最終消費者受益於約 50% 的費用節省。",
+        "以 AI 現代化個人化聽覺刺激訓練。",
+        "展示數位健康領域採用雲端 AI 的顯著成本效益提升。"
+      ]
+    },
+    "technologies": [
+      "Google Cloud",
+      "Generative AI"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "healthcare-life-sciences-data-proximal-health",
+    "industry": "healthcare-life-sciences",
+    "agentType": "data",
+    "company": "Proximal Health",
+    "isNew": true,
+    "summary": {
+      "en": "Proximal Health uses DocAI to automate insurance claims adjudication.",
+      "zh": "Proximal Health 運用 DocAI 自動化保險理賠裁決流程。"
+    },
+    "overview": {
+      "en": "Proximal Health utilizes Google Cloud's DocAI to automate the insurance claims adjudication process. By applying document AI to claims processing, the company reduces manual review burden and accelerates reimbursement timelines for healthcare providers.",
+      "zh": "Proximal Health 運用 Google Cloud 的 DocAI 自動化保險理賠裁決流程。透過將文件 AI 應用於理賠處理，公司減輕人工審查負擔，加快醫療提供者的報銷時程。"
+    },
+    "highlights": {
+      "en": [
+        "DocAI automates insurance claims adjudication to replace manual review.",
+        "Reduces processing time and administrative burden for healthcare claims.",
+        "Accelerates reimbursement timelines for healthcare providers.",
+        "Document AI applied to a critical healthcare revenue cycle workflow."
+      ],
+      "zh": [
+        "DocAI 自動化保險理賠裁決，取代人工審查。",
+        "減少醫療保險理賠的處理時間和行政負擔。",
+        "加快醫療提供者的報銷時程。",
+        "文件 AI 應用於關鍵的醫療收入週期工作流程。"
+      ]
+    },
+    "technologies": [
+      "DocAI",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "healthcare-life-sciences-data-recursion",
+    "industry": "healthcare-life-sciences",
+    "agentType": "data",
+    "company": "Recursion",
+    "isNew": true,
+    "summary": {
+      "en": "Recursion built its OS on Google Cloud Storage, BigQuery, and Cloud TPUs to process 65 petabytes of data and run 2.2M experiments per week, cutting inference costs by 50%.",
+      "zh": "Recursion 在 Google Cloud Storage、BigQuery 及 Cloud TPU 上構建作業系統，每週處理 65 PB 資料並執行 220 萬次實驗，模型推理成本降低 50%。"
+    },
+    "overview": {
+      "en": "Recursion is a leading biotech company partnering with Google Cloud to build the Recursion OS on Cloud Storage, BigQuery, and Cloud TPUs. The platform processes more than 65 petabytes of data, runs up to 2.2 million experiments a week, and has already pushed some target discovery programs to preclinical studies in just 18 months while cutting the cost of model inference by as much as 50%.",
+      "zh": "藥物研發領先生物科技公司 Recursion 與 Google Cloud 合作，在 Cloud Storage、BigQuery 及 Cloud TPU 上構建 Recursion OS。平台處理超過 65 PB 資料，每週最多執行 220 萬次實驗，部分靶點發現計畫已在短短 18 個月內推進至臨床前研究，同時模型推理成本降低最多 50%。"
+    },
+    "highlights": {
+      "en": [
+        "Recursion OS processes 65+ petabytes of data on Google Cloud Storage and BigQuery.",
+        "Runs up to 2.2 million drug discovery experiments per week.",
+        "Some target discovery programs advanced to preclinical studies in just 18 months.",
+        "Model inference cost cut by up to 50% using Cloud TPUs."
+      ],
+      "zh": [
+        "Recursion OS 在 Google Cloud Storage 與 BigQuery 上處理逾 65 PB 資料。",
+        "每週最多執行 220 萬次藥物研發實驗。",
+        "部分靶點發現計畫在短短 18 個月內推進至臨床前研究。",
+        "利用 Cloud TPU 將模型推理成本降低最多 50%。"
+      ]
+    },
+    "technologies": [
+      "Cloud Storage",
+      "BigQuery",
+      "Cloud TPU",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Recursion and Google Cloud Announce Expansion of Partnership to Support Drug Discovery",
+        "url": "https://ir.recursion.com/news-releases/news-release-details/recursion-and-google-cloud-announce-expansion-partnership"
+      },
+      {
+        "title": "Recursion Pharmaceuticals accelerates drug discovery with Google Cloud",
+        "url": "https://cloud.google.com/blog/topics/customers/recursion-pharmaceuticals-accelerates-drug-discovery-with-google-cloud"
+      }
+    ]
+  },
+  {
+    "id": "healthcare-life-sciences-data-red-interclinica",
+    "industry": "healthcare-life-sciences",
+    "agentType": "data",
+    "company": "Red Interclinica",
+    "isNew": false,
+    "summary": {
+      "en": "Chilean hospital network Red Interclinica uses AI-driven data insights to improve clinical decisions and make care more accessible while reducing costs.",
+      "zh": "智利醫院網絡 Red Interclinica 運用 AI 資料洞察改善臨床決策、提升醫療可及性並降低成本。"
+    },
+    "overview": {
+      "en": "Red Interclinica, the Chilean hospital network, uses AI to make better decisions through data transformed into insights. The platform makes medical care more accessible for patients while reducing operational costs and generating more value for the organization.",
+      "zh": "智利醫院網絡 Red Interclinica 透過將資料轉化為洞察，運用 AI 做出更好的決策。平台在降低運營成本、為組織創造更多價值的同時，也讓患者更易獲得醫療照護。"
+    },
+    "highlights": {
+      "en": [
+        "AI transforms complex hospital data into actionable clinical and operational insights.",
+        "Improved accessibility of medical care for patients across the Chilean network.",
+        "Reduced operational costs through AI-driven data analysis and decision support.",
+        "Generates measurable organizational value from data modernization."
+      ],
+      "zh": [
+        "AI 將複雜的醫院資料轉化為可操作的臨床與運營洞察。",
+        "提升智利網絡中患者的醫療可及性。",
+        "透過 AI 驅動的資料分析和決策支援降低運營成本。",
+        "從資料現代化中創造可衡量的組織價值。"
+      ]
+    },
+    "technologies": [
+      "Google Cloud",
+      "AI",
+      "BigQuery"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "healthcare-life-sciences-data-rezo",
+    "industry": "healthcare-life-sciences",
+    "agentType": "data",
+    "company": "Rezo",
+    "isNew": true,
+    "summary": {
+      "en": "Rezo Therapeutics uses Gemini models, GPUs, TPUs, and Gemini Enterprise Agent Platform to generate hundreds of thousands of protein complexes in weeks, cutting target discovery time in half.",
+      "zh": "Rezo Therapeutics 運用 Gemini 模型、GPU、TPU 及 Gemini Enterprise Agent Platform，在數週內生成數十萬個蛋白質複合物，將靶點發現時間縮短一半。"
+    },
+    "overview": {
+      "en": "Rezo Therapeutics is a Google Cloud-native oncology company that uses AI to map protein-protein interactions — the complex biological networks that drive cancer — in pursuit of small-molecule drugs for 'undruggable' targets. By leveraging Gemini models, GPUs, TPUs, and Gemini Enterprise Agent Platform, Rezo can generate hundreds of thousands of structurally resolved protein complexes in just weeks, cutting target discovery time in half.",
+      "zh": "Rezo Therapeutics 是一家 Google Cloud 原生腫瘤學公司，運用 AI 繪製驅動癌症的複雜蛋白質-蛋白質相互作用網絡，追求針對「難以成藥」靶點的小分子藥物。借助 Gemini 模型、GPU、TPU 及 Gemini Enterprise Agent Platform，Rezo 能夠在短短數週內生成數十萬個結構解析的蛋白質複合物，將靶點發現時間縮短一半。"
+    },
+    "highlights": {
+      "en": [
+        "Generates hundreds of thousands of structurally resolved protein complexes in weeks.",
+        "Target discovery time cut in half compared to conventional approaches.",
+        "Targets historically 'undruggable' proteins through protein-protein interaction mapping.",
+        "Uses Gemini models, GPUs, TPUs, and Gemini Enterprise Agent Platform on Google Cloud."
+      ],
+      "zh": [
+        "數週內生成數十萬個結構解析的蛋白質複合物。",
+        "與傳統方法相比，靶點發現時間縮短一半。",
+        "透過蛋白質-蛋白質相互作用繪製，針對歷來「難以成藥」的蛋白質。",
+        "在 Google Cloud 上使用 Gemini 模型、GPU、TPU 及 Gemini Enterprise Agent Platform。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Cloud GPU",
+      "Cloud TPU",
+      "Gemini Enterprise Agent Platform",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "healthcare-life-sciences-data-sandboxaq",
+    "industry": "healthcare-life-sciences",
+    "agentType": "data",
+    "company": "SandboxAQ",
+    "isNew": false,
+    "summary": {
+      "en": "SandboxAQ runs a new AI drug discovery simulation platform on Google Cloud, expanding its usage for pharmaceutical research.",
+      "zh": "SandboxAQ 在 Google Cloud 上運行新型 AI 藥物研發模擬平台，擴展其在製藥研究領域的應用。"
+    },
+    "overview": {
+      "en": "SandboxAQ is expanding its usage of Google Cloud and running a new AI drug discovery simulation platform on Google Cloud. The platform applies advanced simulation capabilities to accelerate the identification of drug candidates in pharmaceutical research.",
+      "zh": "SandboxAQ 正在擴展其 Google Cloud 的使用範圍，並在 Google Cloud 上運行新型 AI 藥物研發模擬平台。平台應用先進的模擬能力，加速製藥研究中候選藥物的識別。"
+    },
+    "highlights": {
+      "en": [
+        "New AI drug discovery simulation platform deployed on Google Cloud.",
+        "Expanding cloud usage to support pharmaceutical simulation workloads.",
+        "Applies quantum-inspired and AI simulation methods to accelerate drug identification.",
+        "Google Cloud infrastructure supports high-performance computational chemistry."
+      ],
+      "zh": [
+        "在 Google Cloud 上部署新型 AI 藥物研發模擬平台。",
+        "擴展雲端使用範圍以支援製藥模擬工作負載。",
+        "應用量子啟發與 AI 模擬方法加速藥物識別。",
+        "Google Cloud 基礎架構支援高效能計算化學。"
+      ]
+    },
+    "technologies": [
+      "Google Cloud",
+      "Compute Engine",
+      "AI Simulation"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "healthcare-life-sciences-data-schr-dinger",
+    "industry": "healthcare-life-sciences",
+    "agentType": "data",
+    "company": "Schrödinger",
+    "isNew": true,
+    "summary": {
+      "en": "Schrödinger migrated to Google Cloud, completing complex drug discovery calculations in hours instead of weeks and screening billions of compounds in a single weekend.",
+      "zh": "Schrödinger 遷移至 Google Cloud 後，複雜藥物研發計算從數週縮短至數小時，單一週末即可篩選數十億化合物。"
+    },
+    "overview": {
+      "en": "Schrödinger, a pioneer in physics-based computational modeling, migrated its platform to Google Cloud, harnessing Compute Engine, Cloud GPUs, and BigQuery on demand. Complex calculations that previously took weeks can now be completed in hours, enabling researchers to explore billions of possible compounds in a single weekend and potentially shortening multi-year drug discovery programs to months.",
+      "zh": "物理學計算建模先驅 Schrödinger 將其平台遷移至 Google Cloud，按需使用 Compute Engine、Cloud GPU 及 BigQuery。以往需數週完成的複雜計算現在可在數小時內完成，使研究人員能在單一週末內探索數十億種可能化合物，並有望將歷時多年的藥物研發計畫縮短至數月。"
+    },
+    "highlights": {
+      "en": [
+        "Complex drug discovery calculations now completed in hours instead of weeks on Google Cloud.",
+        "Researchers can explore billions of possible compounds in a single weekend.",
+        "Potential to shorten multi-year drug discovery programs to months.",
+        "BigQuery enables near-instantaneous analysis of molecular properties."
+      ],
+      "zh": [
+        "在 Google Cloud 上，複雜藥物研發計算從數週縮短至數小時。",
+        "研究人員可在單一週末內探索數十億種可能化合物。",
+        "有望將歷時多年的藥物研發計畫縮短至數月。",
+        "BigQuery 支援近乎即時的分子性質分析。"
+      ]
+    },
+    "technologies": [
+      "Compute Engine",
+      "Cloud GPU",
+      "BigQuery",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Schrödinger Taps Google Cloud's High-Performance Compute Solution to Bolster Its Drug Discovery Efforts",
+        "url": "https://ir.schrodinger.com/press-releases/news-details/2020/Schrdinger-Taps-Google-Clouds-High-Performance-Compute-HPC-Solution-to-Bolster-Its-Drug-Discovery-Efforts-03-02-2020/default.aspx"
+      }
+    ]
+  },
+  {
+    "id": "healthcare-life-sciences-data-sully-ai",
+    "industry": "healthcare-life-sciences",
+    "agentType": "data",
+    "company": "Sully.ai",
+    "isNew": false,
+    "summary": {
+      "en": "Sully.ai built an app store of healthcare AI agents that handles administrative tasks so clinicians can focus on patients.",
+      "zh": "Sully.ai 為醫療專業人員打造 AI 代理應用商店，處理行政事務，讓臨床醫師能專注於患者照護。"
+    },
+    "overview": {
+      "en": "Sully.ai, a healthcare AI company, has built an app store for AI agents designed specifically for healthcare professionals. The platform provides support to clinicians on administrative tasks — such as documentation, scheduling, and communications — so they can dedicate more time to direct patient care.",
+      "zh": "醫療 AI 公司 Sully.ai 為醫療專業人員打造了專屬 AI 代理應用商店。平台為臨床醫師提供行政事務支援，包括文件記錄、排程及溝通，讓他們能將更多時間投入直接患者照護。"
+    },
+    "highlights": {
+      "en": [
+        "App store model for healthcare-specific AI agents supports diverse clinical and administrative workflows.",
+        "Automates administrative tasks to free clinician time for patient care.",
+        "Modular agent architecture allows healthcare providers to deploy specific AI capabilities as needed.",
+        "Addresses clinician burnout by reducing non-clinical administrative burden."
+      ],
+      "zh": [
+        "醫療專屬 AI 代理應用商店模式支援多樣化的臨床與行政工作流程。",
+        "自動化行政事務，釋放臨床醫師的患者照護時間。",
+        "模組化代理架構使醫療提供者能按需部署特定 AI 能力。",
+        "透過減少非臨床行政負擔緩解臨床醫師倦怠。"
+      ]
+    },
+    "technologies": [
+      "Google Cloud",
+      "Vertex AI",
+      "Generative AI"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "healthcare-life-sciences-data-superluminal-medicines",
+    "industry": "healthcare-life-sciences",
+    "agentType": "data",
+    "company": "Superluminal Medicines",
+    "isNew": false,
+    "summary": {
+      "en": "Superluminal Medicines uses Google Cloud to analyze multiple protein structures and build dynamic protein models for more precise drug design.",
+      "zh": "Superluminal Medicines 運用 Google Cloud 分析多個蛋白質結構並建立動態蛋白質模型，以設計更精準的藥物干預。"
+    },
+    "overview": {
+      "en": "Superluminal Medicines uses Google Cloud's computing power to analyze multiple protein structures and integrate them into dynamic protein models for drug discovery. This approach allows for a more accurate representation of protein behavior and the design of more precise drug interventions, going beyond static protein structures.",
+      "zh": "Superluminal Medicines 運用 Google Cloud 的運算能力分析多個蛋白質結構，並將其整合為藥物研發用的動態蛋白質模型。這種方法能更準確地呈現蛋白質行為，設計更精準的藥物干預，超越了靜態蛋白質結構的局限。"
+    },
+    "highlights": {
+      "en": [
+        "Analyzes multiple protein structures simultaneously to build dynamic protein models.",
+        "Dynamic models provide more accurate representation of protein behavior than static structures.",
+        "Enables design of more precise drug interventions targeting protein dynamics.",
+        "Google Cloud compute power supports the high complexity of multi-structure protein analysis."
+      ],
+      "zh": [
+        "同時分析多個蛋白質結構以建立動態蛋白質模型。",
+        "動態模型比靜態結構更準確地呈現蛋白質行為。",
+        "支援針對蛋白質動態設計更精準的藥物干預。",
+        "Google Cloud 運算能力支援高複雜度的多結構蛋白質分析。"
+      ]
+    },
+    "technologies": [
+      "Google Cloud",
+      "Compute Engine",
+      "Cloud GPU"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "healthcare-life-sciences-data-the-national-institutes-of-health",
+    "industry": "healthcare-life-sciences",
+    "agentType": "data",
+    "company": "The National Institutes of Health",
+    "isNew": false,
+    "summary": {
+      "en": "NIH's STRIDES initiative gives 2,500+ research institutions access to Google Cloud compute, storage, and AI/ML services to accelerate biomedical discovery.",
+      "zh": "NIH 的 STRIDES 計畫讓逾 2,500 家研究機構存取 Google Cloud 的運算、存儲及 AI/ML 服務，加速生物醫學研究發現。"
+    },
+    "overview": {
+      "en": "The National Institutes of Health (NIH) uses Google Cloud as part of its STRIDES initiative — the Science and Technology Research Infrastructure for Discovery, Experimentation, and Sustainability. The initiative provides NIH researchers and 2,500+ funded institutions with easy access to high-value NIH datasets, compute resources, data storage and analytics, and cutting-edge AI and ML capabilities to accelerate biomedical research.",
+      "zh": "美國國立衛生研究院（NIH）透過 STRIDES 計畫（科學與技術研究基礎設施，用於發現、實驗與永續）使用 Google Cloud。此計畫為 NIH 研究人員及逾 2,500 家受資助機構提供便捷存取高價值 NIH 資料集、運算資源、資料存儲與分析，以及尖端 AI 與 ML 能力，以加速生物醫學研究。"
+    },
+    "highlights": {
+      "en": [
+        "STRIDES initiative launched with Google Cloud partnership in July 2018.",
+        "Provides 2,500+ academic institutions access to NIH datasets and Google Cloud services.",
+        "Over 425 research programs and projects have leveraged cloud resources through STRIDES.",
+        "Supports AI/ML for medical image analysis, disease prediction, population health analytics, and more."
+      ],
+      "zh": [
+        "STRIDES 計畫於 2018 年 7 月與 Google Cloud 合作啟動。",
+        "為逾 2,500 家學術機構提供 NIH 資料集與 Google Cloud 服務存取。",
+        "逾 425 個研究計畫透過 STRIDES 使用了雲端資源。",
+        "支援醫學影像分析、疾病預測、人群健康分析等 AI/ML 應用。"
+      ]
+    },
+    "technologies": [
+      "Google Cloud",
+      "Compute Engine",
+      "Cloud Storage",
+      "BigQuery",
+      "Vertex AI"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "NIH STRIDES Initiative — About STRIDES",
+        "url": "https://cloud.nih.gov/about-strides/"
+      },
+      {
+        "title": "NIH makes STRIDES to accelerate discoveries in the cloud",
+        "url": "https://www.nih.gov/news-events/news-releases/nih-makes-strides-accelerate-discoveries-cloud"
+      }
+    ]
+  },
+  {
+    "id": "healthcare-life-sciences-data-triplebar",
+    "industry": "healthcare-life-sciences",
+    "agentType": "data",
+    "company": "Triplebar",
+    "isNew": false,
+    "summary": {
+      "en": "Triplebar tests billions of cellular mutations simultaneously using proprietary miniaturization to build genome-scale AI models for therapeutics.",
+      "zh": "Triplebar 利用專有微型化技術同時測試數十億個細胞突變，建立基因組規模 AI 模型以開發治療藥物。"
+    },
+    "overview": {
+      "en": "Triplebar, a biotechnology company, is building a genome-scale AI model for therapeutic production. Using a proprietary miniaturization process, they can test billions of cellular mutations at once, creating large datasets to train generative AI and inform new treatments.",
+      "zh": "生物技術公司 Triplebar 正在為治療藥物生產建立基因組規模 AI 模型。利用專有微型化流程，他們能夠同時測試數十億個細胞突變，創建大型資料集來訓練生成式 AI 並指導新療法的研發。"
+    },
+    "highlights": {
+      "en": [
+        "Proprietary miniaturization process enables simultaneous testing of billions of cellular mutations.",
+        "Large-scale mutation testing generates datasets to train genome-scale generative AI models.",
+        "AI models trained on massive cellular datasets inform development of new therapeutic interventions.",
+        "Genome-scale approach enables comprehensive coverage of potential therapeutic targets."
+      ],
+      "zh": [
+        "專有微型化流程支援同時測試數十億個細胞突變。",
+        "大規模突變測試生成訓練基因組規模生成式 AI 模型的資料集。",
+        "基於海量細胞資料集訓練的 AI 模型指導新治療干預方案的研發。",
+        "基因組規模方法全面覆蓋潛在治療靶點。"
+      ]
+    },
+    "technologies": [
+      "Google Cloud",
+      "Generative AI",
+      "Vertex AI"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "healthcare-life-sciences-data-via-scientific",
+    "industry": "healthcare-life-sciences",
+    "agentType": "data",
+    "company": "Via Scientific",
+    "isNew": false,
+    "summary": {
+      "en": "Via Scientific's Via Foundry platform uses Gemini and Vertex AI to transform complex biological data into actionable drug discovery insights.",
+      "zh": "Via Scientific 的 Via Foundry 平台運用 Gemini 與 Vertex AI，將複雜生物資料轉化為可操作的藥物研發洞察。"
+    },
+    "overview": {
+      "en": "Via Scientific, a bioinformatics company, partners with Google Cloud to deliver Via Foundry, an enterprise-grade platform that uses Gemini and Vertex AI to make the drug discovery process more efficient. The platform transforms complex biological data into actionable insights that can accelerate discoveries in drug development.",
+      "zh": "生物資訊學公司 Via Scientific 與 Google Cloud 合作推出企業級平台 Via Foundry，運用 Gemini 與 Vertex AI 提升藥物研發效率。平台將複雜的生物資料轉化為可加速藥物開發發現的可操作洞察。"
+    },
+    "highlights": {
+      "en": [
+        "Via Foundry is an enterprise-grade bioinformatics platform powered by Gemini and Vertex AI.",
+        "Transforms complex biological data into actionable drug discovery insights.",
+        "Partners with Google Cloud to deliver scalable, enterprise-ready bioinformatics capabilities.",
+        "Accelerates discoveries across the drug development pipeline."
+      ],
+      "zh": [
+        "Via Foundry 是由 Gemini 與 Vertex AI 驅動的企業級生物資訊學平台。",
+        "將複雜的生物資料轉化為可操作的藥物研發洞察。",
+        "與 Google Cloud 合作提供可擴展、企業就緒的生物資訊學能力。",
+        "加速整個藥物開發管線的研究發現。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Vertex AI",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "healthcare-life-sciences-data-virgo-surgical",
+    "industry": "healthcare-life-sciences",
+    "agentType": "data",
+    "company": "Virgo Surgical",
+    "isNew": false,
+    "summary": {
+      "en": "Virgo Surgical stores 1.75 PB of endoscopy video on Google Cloud and used it to create EndoDINO, an AI foundation model for endoscopy.",
+      "zh": "Virgo Surgical 在 Google Cloud 儲存 1.75 PB 的內視鏡影片，並以此資料建立內視鏡 AI 基礎模型 EndoDINO。"
+    },
+    "overview": {
+      "en": "Virgo Surgical, a medical video solutions provider, uses Google Cloud Storage and Google Kubernetes Engine to host and process over 1.75 petabytes of endoscopy video data. This massive dataset has been used to create EndoDINO, an AI foundation model for endoscopy that achieves high performance across medical imaging applications, representing the largest dataset of its kind.",
+      "zh": "醫療影像解決方案提供商 Virgo Surgical 使用 Google Cloud Storage 與 Google Kubernetes Engine 儲存並處理逾 1.75 PB 的內視鏡影片資料。這一龐大資料集已用於創建內視鏡 AI 基礎模型 EndoDINO，在醫療影像應用中達到高水準表現，是同類資料集中規模最大的。"
+    },
+    "highlights": {
+      "en": [
+        "Stores 1.75+ petabytes of endoscopy video in Google Cloud Storage.",
+        "Google Kubernetes Engine enables flexible scaling of video ingestion and processing.",
+        "EndoDINO foundation model trained on 130,037 de-identified endoscopy videos with 3.5 billion frames.",
+        "AI foundation model achieves state-of-the-art performance across endoscopy benchmarks."
+      ],
+      "zh": [
+        "在 Google Cloud Storage 中儲存逾 1.75 PB 的內視鏡影片。",
+        "Google Kubernetes Engine 支援影片擷取與處理的靈活擴展。",
+        "EndoDINO 基礎模型在 13 萬份去識別化內視鏡影片（35 億幀）上訓練。",
+        "AI 基礎模型在內視鏡基準測試中達到最先進的表現。"
+      ]
+    },
+    "technologies": [
+      "Cloud Storage",
+      "Google Kubernetes Engine",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Virgo Launches EndoML: A Revolutionary AI Platform Powered by the EndoDINO Foundation Model",
+        "url": "https://virgosvs.com/news/virgo-launches-endoml-a-revolutionary-ai-platform-powered-by-the-endodino-foundation-model/"
+      },
+      {
+        "title": "EndoDINO: A Foundation Model for GI Endoscopy",
+        "url": "https://arxiv.org/html/2501.05488v1"
+      }
+    ]
+  }
+]

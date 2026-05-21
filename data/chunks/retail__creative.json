@@ -1,0 +1,1254 @@
+[
+  {
+    "id": "retail-creative-adore-me",
+    "industry": "retail",
+    "agentType": "creative",
+    "company": "Adore Me",
+    "isNew": false,
+    "summary": {
+      "en": "Adore Me cut product description writing from 30–40 hours to under one hour per month using Gemini for Google Workspace.",
+      "zh": "Adore Me 運用 Gemini for Google Workspace，將每月撰寫商品描述的工時從 30–40 小時壓縮至不到一小時。"
+    },
+    "overview": {
+      "en": "Adore Me's marketing copywriters previously spent 30–40 hours per month crafting differentiated product descriptions for hundreds of new releases — a tedious but essential task for the lingerie retailer. By adopting Gemini in Google Docs and building a structured prompt library, the team reduced that effort to roughly 30 minutes, freeing writers to focus on higher-value creative work.",
+      "zh": "Adore Me 的行銷文案團隊每月需花費 30–40 小時為數百款新品撰寫差異化商品描述。導入 Gemini for Google Workspace 並建立結構化的提示詞庫後，該工作縮短至約 30 分鐘，讓文案人員得以專注於更高價值的創意任務。"
+    },
+    "highlights": {
+      "en": [
+        "Product description writing time reduced from 30–40 hours per month to approximately 30 minutes.",
+        "Team built a shared prompt library in Gemini to ensure consistent brand voice across hundreds of SKUs.",
+        "Human review loop maintained to ensure quality and brand alignment.",
+        "Initiative identified by asking employees: 'What is the most soul-sucking part of your job?'"
+      ],
+      "zh": [
+        "商品描述撰寫時間從每月 30–40 小時縮短至約 30 分鐘。",
+        "團隊在 Gemini 建立共用提示詞庫，確保數百個 SKU 的品牌語調一致。",
+        "保留人工審核流程以確保品質與品牌契合度。",
+        "此改善項目源自詢問員工「工作中最令人疲憊的部分是什麼」。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Google Workspace",
+      "Gemini in Docs"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Adore Me Customer Success Story - Google Workspace",
+        "url": "https://workspace.google.com/customers/adore-me/"
+      },
+      {
+        "title": "How three customers are transforming work with Gemini for Google Workspace",
+        "url": "https://workspace.google.com/blog/customer-stories/how-customers-use-gemini-google-workspace-focus-what-they-do-best"
+      }
+    ]
+  },
+  {
+    "id": "retail-creative-belk-ecommerce",
+    "industry": "retail",
+    "agentType": "creative",
+    "company": "Belk ECommerce",
+    "isNew": false,
+    "summary": {
+      "en": "Belk ECommerce uses gen AI to automate product description writing, replacing a slow manual process for the digital retailer.",
+      "zh": "Belk ECommerce 運用生成式 AI 自動化撰寫商品描述，取代耗時的人工流程。"
+    },
+    "overview": {
+      "en": "Belk ECommerce, the digital arm of the U.S. department store chain Belk, adopted generative AI to craft better product descriptions at scale. Writing accurate, compelling descriptions for thousands of SKUs was previously a time-consuming manual task; gen AI now accelerates this process while maintaining quality for digital retail shoppers.",
+      "zh": "Belk ECommerce 是美國百貨連鎖 Belk 的數位部門，導入生成式 AI 以大規模撰寫優質商品描述。過去為數千個 SKU 手動撰寫準確且吸引人的描述非常耗時，生成式 AI 現在在保持品質的同時大幅加快了這個流程。"
+    },
+    "highlights": {
+      "en": [
+        "Replaced manual, time-consuming product description writing with gen AI for digital commerce.",
+        "Enables scalable content creation across a large SKU catalogue typical of department store retail.",
+        "Helps digital retailers maintain fresh, accurate listing copy without proportional headcount increases."
+      ],
+      "zh": [
+        "以生成式 AI 取代數位商務中耗時的人工商品描述撰寫。",
+        "實現跨大型 SKU 目錄的可擴展內容創作，符合百貨零售的規模需求。",
+        "幫助數位零售商在不增加人員的情況下維持清新、準確的商品描述。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Vertex AI",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "retail-creative-bison-coolers",
+    "industry": "retail",
+    "agentType": "creative",
+    "company": "Bison Coolers",
+    "isNew": false,
+    "summary": {
+      "en": "Bison Coolers' 12-person team uses Gemini in Docs to write product descriptions and keep their small business thriving.",
+      "zh": "Bison Coolers 的 12 人小團隊運用 Gemini in Docs 撰寫商品描述，讓小型企業持續蓬勃發展。"
+    },
+    "overview": {
+      "en": "Bison Coolers, a small business known for handcrafted American-made coolers, leverages Gemini in Google Docs to help its compact 12-person team punch above its weight. By using AI to draft product descriptions, the team can maintain a professional e-commerce presence and strong brand storytelling without dedicating significant manual resources to copywriting.",
+      "zh": "Bison Coolers 是一家以美國手工製冷卻器聞名的小企業，利用 Gemini in Docs 讓 12 人的小團隊發揮超越規模的競爭力。透過 AI 起草商品描述，團隊無需投入大量人力撰寫文案，即可維持專業的電商形象與有力的品牌故事。"
+    },
+    "highlights": {
+      "en": [
+        "Small 12-person team uses Gemini in Docs to compete effectively in e-commerce copywriting.",
+        "AI-assisted product descriptions enable the team to focus on core business operations.",
+        "Demonstrates gen AI as a force multiplier for small and medium-sized businesses."
+      ],
+      "zh": [
+        "12 人小團隊利用 Gemini in Docs 在電商文案撰寫上有效競爭。",
+        "AI 輔助商品描述讓團隊得以專注於核心業務。",
+        "展示了生成式 AI 作為中小企業力量倍增器的潛力。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Google Workspace",
+      "Gemini in Docs"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ]
+  },
+  {
+    "id": "retail-creative-carrefour",
+    "industry": "retail",
+    "agentType": "creative",
+    "company": "Carrefour",
+    "isNew": false,
+    "summary": {
+      "en": "Carrefour built its Marketing Studio on Vertex AI in five weeks, enabling ultra-personalized social-media campaigns in a few clicks.",
+      "zh": "Carrefour 在五週內以 Vertex AI 建立 Marketing Studio，讓行銷人員只需幾次點擊即可製作高度個人化的社群廣告活動。"
+    },
+    "overview": {
+      "en": "Carrefour, Europe's largest retailer, partnered with Google Cloud to deploy Carrefour Marketing Studio in just five weeks using Vertex AI. The solution streamlines the creation of dynamic, personalized campaigns across social networks such as Twitter, Instagram, LinkedIn, and Facebook. Marketers specify campaign objectives, target audience demographics, channels, and formats, and the AI generates on-brand creative content — delivering advertising customers actually care about.",
+      "zh": "歐洲最大零售商 Carrefour 與 Google Cloud 合作，在短短五週內以 Vertex AI 部署 Carrefour Marketing Studio。該解決方案簡化了跨 Twitter、Instagram、LinkedIn 及 Facebook 等社群平台的動態個人化廣告活動製作。行銷人員只需指定活動目標、目標受眾、渠道與格式，AI 即可生成符合品牌調性的創意內容。"
+    },
+    "highlights": {
+      "en": [
+        "Deployed Carrefour Marketing Studio in just five weeks using Vertex AI.",
+        "Marketers can build ultra-personalized campaigns in a few clicks, targeting specific demographics.",
+        "Supports multiple social channels and formats including Twitter, Instagram, LinkedIn, and Facebook.",
+        "Enables delivery of advertising relevant to each individual customer."
+      ],
+      "zh": [
+        "僅花五週即以 Vertex AI 部署 Carrefour Marketing Studio。",
+        "行銷人員只需幾次點擊即可針對特定受眾建立高度個人化的廣告活動。",
+        "支援 Twitter、Instagram、LinkedIn、Facebook 等多個社群渠道與格式。",
+        "實現向每位顧客精準投放其感興趣的廣告。"
+      ]
+    },
+    "technologies": [
+      "Vertex AI",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Carrefour utilise l'IA générative de Google pour booster l'efficacité de son marketing - LSA Conso",
+        "url": "https://www.lsa-conso.fr/carrefour-utilise-l-ia-generative-de-google-pour-booster-l-efficacite-de-son-marketing,440101"
+      }
+    ]
+  },
+  {
+    "id": "retail-creative-casas-bahia",
+    "industry": "retail",
+    "agentType": "creative",
+    "company": "Casas Bahia",
+    "isNew": true,
+    "summary": {
+      "en": "Casas Bahia uses Nano Banana to auto-enhance product image quality across its digital catalog, boosting sales conversions by up to 60%.",
+      "zh": "Casas Bahia 運用 Nano Banana 自動優化數位目錄中的商品圖片品質，使銷售轉換率提升最高達 60%。"
+    },
+    "overview": {
+      "en": "Casas Bahia, one of Brazil's largest consumer electronics and home goods retailers, integrated Nano Banana — Google's AI image enhancement model — to standardize the visual quality of product images from both in-house teams and manufacturer partners. The technology automatically refines image sharpness and lighting across the entire digital catalog, ensuring consistently high-quality product visuals that drive shopper confidence and conversions.",
+      "zh": "巴西大型消費電子與家居零售商 Casas Bahia 整合了 Google 的 AI 圖像增強模型 Nano Banana，用以標準化來自內部團隊及製造商合作夥伴的商品圖片視覺品質。該技術自動優化整個數位目錄的圖片銳利度與光線，確保一致的高品質商品視覺，進而提升購物者信心與轉換率。"
+    },
+    "highlights": {
+      "en": [
+        "Integrated Nano Banana to automatically standardize image sharpness and lighting across the product catalog.",
+        "Sales conversions driven by product images increased by up to 60%.",
+        "Covers images from both in-house photography teams and external manufacturer partners.",
+        "Reduces manual image editing overhead while improving overall catalog quality."
+      ],
+      "zh": [
+        "整合 Nano Banana 自動標準化商品目錄中的圖片銳利度與光線。",
+        "商品圖片帶動的銷售轉換率提升最高達 60%。",
+        "涵蓋內部攝影團隊與外部製造商合作夥伴的圖片。",
+        "減少人工圖片編輯工作量，同時提升整體目錄品質。"
+      ]
+    },
+    "technologies": [
+      "Nano Banana",
+      "Vertex AI",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Nano Banana Pro available for enterprise | Google Cloud Blog",
+        "url": "https://cloud.google.com/blog/products/ai-machine-learning/nano-banana-pro-available-for-enterprise"
+      }
+    ]
+  },
+  {
+    "id": "retail-creative-cia-hering",
+    "industry": "retail",
+    "agentType": "creative",
+    "company": "Cia.Hering",
+    "isNew": false,
+    "summary": {
+      "en": "Cia.Hering's AI image search and Herica chatbot drove a 16% click-through rate increase and 122% higher average purchase value.",
+      "zh": "Cia.Hering 的 AI 圖像搜尋與 Herica 聊天機器人帶動點擊率提升 16%，平均購買金額提高 122%。"
+    },
+    "overview": {
+      "en": "Cia.Hering, a major Brazilian textile and fashion retailer, used Google Cloud to implement two AI-powered capabilities: an image search feature that lets customers find clothing using a photo as a reference, and Herica, an AI chatbot that personalizes messages and answers customer questions. The combination of visual AI discovery and conversational AI delivered significant uplifts in both engagement and purchase value.",
+      "zh": "巴西主要紡織與時尚零售商 Cia.Hering 運用 Google Cloud 實現兩項 AI 功能：讓顧客以照片搜尋服裝的圖像搜尋功能，以及可個人化訊息並回答顧客問題的 AI 聊天機器人 Herica。視覺 AI 探索與對話式 AI 的結合，在參與度與購買金額方面帶來顯著提升。"
+    },
+    "highlights": {
+      "en": [
+        "16% increase in click-through rates following AI-powered image search and chatbot implementation.",
+        "122% higher average purchase value per customer after AI personalization.",
+        "Image search allows customers to upload a photo and find matching clothing items.",
+        "Herica chatbot personalizes messaging and handles customer Q&A at scale."
+      ],
+      "zh": [
+        "導入 AI 圖像搜尋與聊天機器人後，點擊率提升 16%。",
+        "AI 個人化後每位顧客的平均購買金額提高 122%。",
+        "圖像搜尋允許顧客上傳照片，找到相符的服裝商品。",
+        "Herica 聊天機器人大規模個人化訊息並處理顧客問答。"
+      ]
+    },
+    "technologies": [
+      "Google Cloud",
+      "Vertex AI",
+      "Vision AI"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ]
+  },
+  {
+    "id": "retail-creative-comoferta-com",
+    "industry": "retail",
+    "agentType": "creative",
+    "company": "Comoferta.com",
+    "isNew": false,
+    "summary": {
+      "en": "Comoferta.com uses Gemini and Vertex AI with computer vision and OCR to compare supermarket prices from shelf photos across Brazil.",
+      "zh": "Comoferta.com 運用 Gemini 與 Vertex AI 的電腦視覺及 OCR，從貨架照片比較巴西各超市的商品價格。"
+    },
+    "overview": {
+      "en": "Comoferta.com is a Brazilian price-comparison application that leverages Gemini and Vertex AI to help consumers save on grocery shopping. The platform uses computer vision and OCR to recognize products and read prices from photos of supermarket shelves, then analyzes and compares those prices across different stores — displaying the results in an organized format that guides shoppers toward the best deals.",
+      "zh": "Comoferta.com 是一款巴西購物比價應用程式，運用 Gemini 與 Vertex AI 幫助消費者節省雜貨開支。平台以電腦視覺與 OCR 技術辨識商品並讀取超市貨架照片中的價格，再分析比較不同門市的價格，以有組織的方式呈現結果，引導消費者找到最划算的優惠。"
+    },
+    "highlights": {
+      "en": [
+        "Uses computer vision and OCR to extract product and price information directly from shelf photos.",
+        "Gemini and Vertex AI power the recognition, analysis, and comparison pipeline.",
+        "Compares prices across multiple supermarkets in Brazil in real time.",
+        "Displays results in an organized format to help consumers maximize grocery savings."
+      ],
+      "zh": [
+        "運用電腦視覺與 OCR 直接從貨架照片提取商品和價格資訊。",
+        "Gemini 與 Vertex AI 驅動識別、分析與比較流程。",
+        "即時比較巴西多家超市的價格。",
+        "以有組織的格式呈現結果，幫助消費者最大化購物節省。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Vertex AI",
+      "Vision AI",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ]
+  },
+  {
+    "id": "retail-creative-delgado-guitars",
+    "industry": "retail",
+    "agentType": "creative",
+    "company": "Delgado Guitars",
+    "isNew": false,
+    "summary": {
+      "en": "Delgado Guitars uses Gemini in Gmail to send timely, personalized responses and share three generations of handcrafted guitar expertise worldwide.",
+      "zh": "Delgado Guitars 運用 Gemini in Gmail 發送即時、個人化的回覆，將三代家傳手工吉他工藝分享給全球音樂人。"
+    },
+    "overview": {
+      "en": "Delgado Guitars is a family business with over three generations of expertise in handcrafted guitars. Using Gemini in Gmail, the small team can send timely and personalized responses to inquiries from musicians worldwide — maintaining the warm, expert communication that defines the brand while managing a global customer base without extensive support staff.",
+      "zh": "Delgado Guitars 是擁有三代以上手工吉他工藝的家族企業。透過 Gemini in Gmail，小型團隊能向全球音樂人的詢問發送即時、個人化的回覆，在沒有龐大客服人員的情況下，維持定義品牌形象的溫暖專業溝通。"
+    },
+    "highlights": {
+      "en": [
+        "Gemini in Gmail enables timely, personalized responses to global customer inquiries.",
+        "Small family team maintains high-quality communication at scale without large support staff.",
+        "Helps share three generations of handcrafted guitar expertise with musicians worldwide."
+      ],
+      "zh": [
+        "Gemini in Gmail 讓家族小團隊能即時回覆全球顧客詢問並做到個人化。",
+        "無需龐大客服人員，即可維持高品質的大規模溝通。",
+        "助力將三代家傳手工吉他工藝分享給全球音樂人。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Google Workspace",
+      "Gemini in Gmail"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ]
+  },
+  {
+    "id": "retail-creative-down-the-road-spice-co",
+    "industry": "retail",
+    "agentType": "creative",
+    "company": "Down the Road Spice Co.",
+    "isNew": false,
+    "summary": {
+      "en": "Down the Road Spice Co. uses Gemini in Slides to create designs promoting its multi-generational family spice blends.",
+      "zh": "Down the Road Spice Co. 運用 Gemini in Slides 製作推廣家傳多代香料調配的設計素材。"
+    },
+    "overview": {
+      "en": "Down the Road Spice Co. is a family-owned spice business with multi-generational recipes it wants to share with the world. Using Gemini in Google Slides, the team creates marketing designs and promotional materials for their spice blends — enabling a small family business to produce professional-looking visual content without a dedicated design team.",
+      "zh": "Down the Road Spice Co. 是一家擁有多代家傳配方的家族香料企業。透過 Gemini in Slides，團隊為香料調配品製作行銷設計與推廣素材，讓小型家族企業在沒有專屬設計團隊的情況下也能產出專業視覺內容。"
+    },
+    "highlights": {
+      "en": [
+        "Uses Gemini in Slides to create promotional designs for spice blend products.",
+        "Enables a family-owned small business to produce professional visual marketing content.",
+        "Supports storytelling around multi-generational family recipes."
+      ],
+      "zh": [
+        "運用 Gemini in Slides 為香料調配品製作推廣設計素材。",
+        "讓家族小企業無需設計人員也能產出專業視覺行銷內容。",
+        "支援以多代家傳食譜為核心的品牌故事敘述。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Google Workspace",
+      "Gemini in Slides"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ]
+  },
+  {
+    "id": "retail-creative-estee-lauder-companies",
+    "industry": "retail",
+    "agentType": "creative",
+    "company": "Estee Lauder Companies",
+    "isNew": false,
+    "summary": {
+      "en": "Estée Lauder's ELLA assistant, powered by Gemini, helps brand leaders generate creative content, translate languages, and summarize meetings.",
+      "zh": "Estée Lauder 以 Gemini 驅動的 ELLA 助理，協助品牌主管生成創意內容、翻譯語言及摘要會議記錄。"
+    },
+    "overview": {
+      "en": "The Estée Lauder Companies (ELC) deployed ELLA — the Estée Lauder Language Assistant — powered by Google Cloud AI including Gemini and Vertex AI. The tool enables brand leaders across ELC's portfolio of 20+ prestige brands to generate creative content such as ad copy, translate languages, and summarize meetings. This enhances productivity and customer experience across ELC's operations in 40+ countries.",
+      "zh": "Estée Lauder Companies（ELC）部署了由 Google Cloud AI（包括 Gemini 與 Vertex AI）驅動的 ELLA（Estée Lauder Language Assistant）。此工具使 ELC 旗下 20 多個高端品牌的品牌主管能夠生成廣告文案等創意內容、翻譯語言及摘要會議，提升在 40 多個國家業務中的生產力與顧客體驗。"
+    },
+    "highlights": {
+      "en": [
+        "ELLA (Estée Lauder Language Assistant) runs on Gemini to support gen AI use cases across the enterprise.",
+        "Capabilities include creative content generation, language translation, and meeting summarization.",
+        "Used across 20+ prestige brands in 40+ countries.",
+        "Google Cloud partnership also covers Vertex AI and BigQuery for consumer data insights."
+      ],
+      "zh": [
+        "ELLA（Estée Lauder Language Assistant）以 Gemini 運行，支援企業內部多種生成式 AI 使用場景。",
+        "功能包括創意內容生成、語言翻譯及會議摘要。",
+        "在 40 多個國家的 20 多個高端品牌中使用。",
+        "與 Google Cloud 的合作還涵蓋 Vertex AI 與 BigQuery 的消費者數據洞察。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Vertex AI",
+      "BigQuery",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "The Estée Lauder Companies and Google Cloud Partner to Transform the Online Consumer Experience with Generative AI",
+        "url": "https://www.prnewswire.com/news-releases/the-estee-lauder-companies-inc-and-google-cloud-partner-to-transform-the-online-consumer-experience-with-generative-ai-301912131.html"
+      },
+      {
+        "title": "Estée Lauder Expands Use of Generative AI with Google Cloud",
+        "url": "https://consumergoods.com/estee-lauder-expands-use-generative-ai-google-cloud"
+      }
+    ]
+  },
+  {
+    "id": "retail-creative-farmatodo",
+    "industry": "retail",
+    "agentType": "creative",
+    "company": "Farmatodo",
+    "isNew": false,
+    "summary": {
+      "en": "Farmatodo deployed an AI platform in 3 weeks; virtual sales now exceed a quarter of total Colombia sales and self-checkout exceeds a quarter of in-store transactions.",
+      "zh": "Farmatodo 在 3 週內部署 AI 平台；虛擬銷售額已超過哥倫比亞總銷售額的四分之一，自助結帳超過門市交易的四分之一。"
+    },
+    "overview": {
+      "en": "Farmatodo, a Colombian chain of self-service pharmacies with over 300 stores in Colombia, Venezuela, and Argentina, deployed an AI-powered platform using Google Cloud, Looker, and Gemini for Workspace in just three weeks. The platform personalizes customer promotions based on purchase behavior and enables self-service shopping experiences. It has transformed Farmatodo into an omnichannel organization, with significant shifts in where and how customers complete purchases.",
+      "zh": "哥倫比亞自助藥局連鎖 Farmatodo 在哥倫比亞、委內瑞拉及阿根廷擁有超過 300 家門市，僅花三週即以 Google Cloud、Looker 及 Gemini for Workspace 部署 AI 平台。該平台根據購買行為個人化顧客促銷，並提供自助購物體驗，將 Farmatodo 轉型為全通路組織。"
+    },
+    "highlights": {
+      "en": [
+        "AI platform deployed in just 3 weeks using Google Cloud, Looker, and Gemini for Workspace.",
+        "Virtual channel sales represent more than a quarter of total sales in Colombia.",
+        "Self-checkout solutions account for more than a quarter of in-store transactions.",
+        "Personalized promotions and offers delivered to each customer using a Looker-powered data lake.",
+        "Transformed Farmatodo into a fully omnichannel retail organization."
+      ],
+      "zh": [
+        "AI 平台以 Google Cloud、Looker 及 Gemini for Workspace 在短短 3 週內部署完成。",
+        "虛擬渠道銷售額超過哥倫比亞總銷售額的四分之一。",
+        "自助結帳解決方案佔門市交易的四分之一以上。",
+        "透過 Looker 數據湖向每位顧客提供個人化促銷與優惠。",
+        "Farmatodo 成功轉型為全通路零售組織。"
+      ]
+    },
+    "technologies": [
+      "Google Cloud",
+      "Looker",
+      "Gemini",
+      "Google Workspace"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Farmatodo Caso de éxito | Google Cloud",
+        "url": "https://cloud.google.com/customers/intl/es-419/farmatodo?hl=es-419"
+      }
+    ]
+  },
+  {
+    "id": "retail-creative-gap-inc",
+    "industry": "retail",
+    "agentType": "creative",
+    "company": "Gap Inc.",
+    "isNew": true,
+    "summary": {
+      "en": "Gap Inc. partners with Google Cloud to reimagine retail across Old Navy, Gap, Banana Republic, and Athleta using Gemini and BigQuery.",
+      "zh": "Gap Inc. 與 Google Cloud 合作，運用 Gemini 與 BigQuery 重塑 Old Navy、Gap、Banana Republic 及 Athleta 的零售體驗。"
+    },
+    "overview": {
+      "en": "Gap Inc. announced a multi-year strategic partnership with Google Cloud in October 2025 to accelerate its AI-powered retail transformation. The collaboration provides Gap Inc. with a unified, AI-powered platform leveraging Gemini models, Gemini Enterprise Agent Platform, and BigQuery to fuel innovation across three core pillars: product creation (design, planning, pricing), customer experience (hyper-personalized shopping and recommendations), and employee enablement.",
+      "zh": "Gap Inc. 於 2025 年 10 月宣布與 Google Cloud 建立多年策略合作夥伴關係，加速 AI 驅動的零售轉型。合作提供以 Gemini 模型、Gemini Enterprise Agent Platform 及 BigQuery 為核心的統一 AI 平台，在三大核心支柱推動創新：商品創作（設計、規劃、定價）、顧客體驗（高度個人化購物與推薦）及員工賦能。"
+    },
+    "highlights": {
+      "en": [
+        "Multi-year Google Cloud partnership announced in October 2025 spanning all four major Gap Inc. brands.",
+        "AI platform built on Gemini models, Gemini Enterprise Agent Platform, and BigQuery.",
+        "Product innovation: AI tools to accelerate design, planning, and pricing from concept to shelf.",
+        "Customer experience: hyper-personalized shopping and AI-powered recommendations at scale.",
+        "Employee enablement included as a third transformation pillar alongside product and customer initiatives."
+      ],
+      "zh": [
+        "2025 年 10 月宣布涵蓋 Gap Inc. 旗下四大品牌的多年 Google Cloud 合作夥伴關係。",
+        "AI 平台基於 Gemini 模型、Gemini Enterprise Agent Platform 及 BigQuery 構建。",
+        "商品創新：AI 工具加速從概念到上架的設計、規劃與定價流程。",
+        "顧客體驗：大規模提供高度個人化購物與 AI 驅動的商品推薦。",
+        "員工賦能作為第三大轉型支柱，與商品及顧客計畫並駕齊驅。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Gemini Enterprise Agent Platform",
+      "BigQuery",
+      "Vertex AI",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Gap Inc. Sets Out to Reimagine Retail Powered by Google Cloud's AI",
+        "url": "https://www.googlecloudpresscorner.com/2025-10-09-Gap-Inc-Sets-Out-to-Reimagine-Retail-Powered-by-Google-Clouds-AI"
+      },
+      {
+        "title": "Gap Inc. Sets Out to Reimagine Retail Powered by Google Cloud's AI - PR Newswire",
+        "url": "https://www.prnewswire.com/news-releases/gap-inc-sets-out-to-reimagine-retail-powered-by-google-clouds-ai-302579074.html"
+      }
+    ]
+  },
+  {
+    "id": "retail-creative-grupo-botic-rio",
+    "industry": "retail",
+    "agentType": "creative",
+    "company": "Grupo Boticário",
+    "isNew": true,
+    "summary": {
+      "en": "Grupo Boticário deployed 16,000 AI models on Gemini Enterprise Agent Platform, cutting planning time from 49 hours to 3 and tripling retail sales.",
+      "zh": "Grupo Boticário 在 Gemini Enterprise Agent Platform 上部署 16,000 個 AI 模型，將規劃時間從 49 小時壓縮至 3 小時，並使零售銷售額翻三倍。"
+    },
+    "overview": {
+      "en": "Grupo Boticário, one of Brazil's largest beauty retailers with 4,500 stores, deployed 16,000 AI models on Gemini Enterprise Agent Platform and BigQuery to optimize operations at scale. The initiative achieved 100% adoption of its supply platform, reduced stockouts by up to 40%, and slashed production planning time from 49 hours to just 3. Retail sales tripled, and Gemini adoption reached 83% of administrative staff, with 35% of those users saving more than an hour daily.",
+      "zh": "巴西最大美妝零售商之一 Grupo Boticário 擁有 4,500 家門市，在 Gemini Enterprise Agent Platform 與 BigQuery 上部署了 16,000 個 AI 模型，以大規模優化營運。此舉實現了供應平台 100% 採用率，將缺貨率降低最高 40%，並將生產規劃時間從 49 小時壓縮至 3 小時。零售銷售額翻三倍，Gemini 在 83% 的行政人員中獲得採用，其中 35% 的使用者每天節省超過一小時。"
+    },
+    "highlights": {
+      "en": [
+        "Deployed 16,000 AI models on Gemini Enterprise Agent Platform and BigQuery across 4,500 stores.",
+        "Production planning time reduced from 49 hours to 3 hours — an 18× improvement.",
+        "Stockouts reduced by up to 40% with 100% adoption of the AI supply platform.",
+        "Retail sales tripled following the AI-powered operational transformation.",
+        "83% of administrative staff adopted Gemini; 35% save more than one hour per day."
+      ],
+      "zh": [
+        "在 4,500 家門市的 Gemini Enterprise Agent Platform 與 BigQuery 上部署 16,000 個 AI 模型。",
+        "生產規劃時間從 49 小時縮短至 3 小時，效率提升 18 倍。",
+        "缺貨率降低最高 40%，AI 供應平台達 100% 採用率。",
+        "AI 驅動的營運轉型後零售銷售額翻三倍。",
+        "83% 的行政人員採用 Gemini，35% 的使用者每天節省超過一小時。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Gemini Enterprise Agent Platform",
+      "BigQuery",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Google Cloud Brings a New Era of AI Innovation to Brazil",
+        "url": "https://www.googlecloudpresscorner.com/2025-09-10-Google-Cloud-Brings-a-New-Era-of-AI-Innovation-to-Brazil"
+      }
+    ]
+  },
+  {
+    "id": "retail-creative-grupo-casas-bahia",
+    "industry": "retail",
+    "agentType": "creative",
+    "company": "Grupo Casas Bahia",
+    "isNew": false,
+    "summary": {
+      "en": "Grupo Casas Bahia uses Retail Search and Recommendations AI to align product search with customer intent, lifting revenue per app user by 28%.",
+      "zh": "Grupo Casas Bahia 運用 Retail Search 與 Recommendations AI 使商品搜尋更貼近顧客意圖，每位 App 用戶的營收提升 28%。"
+    },
+    "overview": {
+      "en": "Grupo Casas Bahia, a major Brazilian e-commerce and retail group, reinforced its search experience by adopting Google Cloud's Retail Search and Recommendations AI. Retail Search was applied to the Casas Bahia platform to maximize revenue-optimal sort orders, while Recommendations AI powered Ponto and Extra.com.br. The result was more relevant search outcomes and a measurable lift in per-user revenue and conversion.",
+      "zh": "巴西主要電商與零售集團 Grupo Casas Bahia 採用 Google Cloud 的 Retail Search 與 Recommendations AI 強化搜尋體驗。Retail Search 應用於 Casas Bahia 平台以最大化收益最優排序，Recommendations AI 則為 Ponto 與 Extra.com.br 提供動力。結果帶來更相關的搜尋結果與每用戶收益和轉換率的可衡量提升。"
+    },
+    "highlights": {
+      "en": [
+        "28% increase in revenue per app user after deploying Retail Search and Recommendations AI.",
+        "58% higher user conversion rates driven by improved search relevancy.",
+        "28% increase in click-through rate and 4% lower bounce rate.",
+        "Catalog loading time reduced from 24 hours to 4 hours with real-time data ingestion."
+      ],
+      "zh": [
+        "部署 Retail Search 與 Recommendations AI 後，每位 App 用戶的營收提升 28%。",
+        "改善搜尋相關性後，用戶轉換率提高 58%。",
+        "點擊率提升 28%，跳出率降低 4%。",
+        "透過即時數據攝取，目錄載入時間從 24 小時縮短至 4 小時。"
+      ]
+    },
+    "technologies": [
+      "Retail Search",
+      "Recommendations AI",
+      "Google Cloud",
+      "Vertex AI"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Grupo Casas Bahia Case Study | Google Cloud",
+        "url": "https://cloud.google.com/customers/grupo-casas-bahia"
+      }
+    ]
+  },
+  {
+    "id": "retail-creative-grupo-p-o-de-a-car",
+    "industry": "retail",
+    "agentType": "creative",
+    "company": "Grupo Pão De Açúcar",
+    "isNew": false,
+    "summary": {
+      "en": "Grupo Pão de Açúcar uses Vertex AI to improve sales forecasting across 700+ stores and 60,000+ SKUs, reducing stockouts and waste.",
+      "zh": "Grupo Pão de Açúcar 運用 Vertex AI 優化 700 多家門市、超過 6 萬個 SKU 的銷售預測，降低缺貨率與損耗。"
+    },
+    "overview": {
+      "en": "Grupo Pão de Açúcar (GPA), one of the largest retail groups in South America, adopted Vertex AI to enhance sales demand forecasting at scale. Covering more than 700 stores and a portfolio of over 60,000 products, the AI system predicts demand more accurately — especially for perishable goods — to minimize stockouts, reduce waste, and improve profitability and customer satisfaction.",
+      "zh": "南美洲最大零售集團之一 Grupo Pão de Açúcar（GPA）採用 Vertex AI 大規模提升銷售需求預測能力。系統涵蓋逾 700 家門市和超過 6 萬個商品，尤其針對生鮮商品做出更準確的需求預測，以減少缺貨、降低損耗，並改善獲利能力與顧客滿意度。"
+    },
+    "highlights": {
+      "en": [
+        "Vertex AI deployed to improve demand forecasting across 700+ stores and 60,000+ SKUs.",
+        "Higher forecast accuracy reduces stockouts, especially for perishable products.",
+        "Gains achieved in sustainability, customer satisfaction, and profitability.",
+        "AI expansion planned across all GPA stores and product categories."
+      ],
+      "zh": [
+        "Vertex AI 部署用於改善 700 多家門市、超過 6 萬個 SKU 的需求預測。",
+        "更高的預測準確度減少缺貨，尤其對生鮮商品效果顯著。",
+        "在永續發展、顧客滿意度與獲利能力方面均取得進展。",
+        "計劃將 AI 擴展至 GPA 所有門市和商品類別。"
+      ]
+    },
+    "technologies": [
+      "Vertex AI",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Google Cloud: 90 casos de IA na América Latina",
+        "url": "https://blog.google/intl/pt-br/produtos/nas-nuvens/google-cloud-90-casos-de-ia-na-america-latina-que-estao-moldando-o-futuro-da-inovacao/"
+      }
+    ]
+  },
+  {
+    "id": "retail-creative-kraft-heinz",
+    "industry": "retail",
+    "agentType": "creative",
+    "company": "Kraft Heinz",
+    "isNew": false,
+    "summary": {
+      "en": "Kraft Heinz cut campaign creation from 8 weeks to 8 hours using Imagen and Veo on Vertex AI via its TasteMaker platform.",
+      "zh": "Kraft Heinz 透過 TasteMaker 平台以 Vertex AI 上的 Imagen 與 Veo，將廣告活動製作時間從 8 週壓縮至 8 小時。"
+    },
+    "overview": {
+      "en": "Kraft Heinz built TasteMaker, a generative AI-powered marketing platform running on Vertex AI, to accelerate product content and campaign development. The platform integrates BigQuery's proprietary brand data (brand guidelines, product catalogs, photo libraries) with Gemini, Imagen for image generation, and Veo for video creation — delivering a secure, promptless enterprise experience. Initial results showed concept production cut from eight weeks to eight hours, with 70% adoption among product and marketing users.",
+      "zh": "Kraft Heinz 打造了以 Vertex AI 運行的生成式 AI 行銷平台 TasteMaker，加速商品內容與廣告活動開發。平台整合 BigQuery 專有品牌數據（品牌指南、商品目錄、照片庫）與 Gemini、Imagen（圖像生成）及 Veo（視頻創作），提供安全、無需提示詞的企業體驗。初步結果顯示概念製作時間從八週縮短至八小時，在商品和行銷用戶中的採用率達 70%。"
+    },
+    "highlights": {
+      "en": [
+        "Campaign concept production time reduced from 8 weeks to 8 hours — a 42× speedup.",
+        "TasteMaker platform built on BigQuery, Vertex AI, Gemini, Imagen, and Veo.",
+        "70% adoption rate among product development and marketing users on the platform.",
+        "Promptless enterprise experience that uses proprietary brand intelligence from BigQuery.",
+        "Covers end-to-end workflow from concept ideation to photo-realistic image and video generation."
+      ],
+      "zh": [
+        "廣告活動概念製作時間從 8 週縮短至 8 小時，速度提升 42 倍。",
+        "TasteMaker 平台基於 BigQuery、Vertex AI、Gemini、Imagen 及 Veo 構建。",
+        "平台在商品開發和行銷用戶中的採用率達 70%。",
+        "無需提示詞的企業體驗，利用 BigQuery 中的專有品牌智慧。",
+        "涵蓋從概念構思到逼真圖像和視頻生成的端到端工作流程。"
+      ]
+    },
+    "technologies": [
+      "Imagen",
+      "Veo",
+      "Vertex AI",
+      "BigQuery",
+      "Gemini",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Kraft Heinz case study | Google Cloud",
+        "url": "https://cloud.google.com/customers/kraftheinz"
+      },
+      {
+        "title": "How Google's AI cut Kraft Heinz's creative process to 8 hours - Mediabrief",
+        "url": "https://mediabrief.com/how-googles-ai-cut-kraft-heinzs-creative-process-to-8-hours/"
+      }
+    ]
+  },
+  {
+    "id": "retail-creative-l-oreal-groupe",
+    "industry": "retail",
+    "agentType": "creative",
+    "company": "L'Oreal Groupe",
+    "isNew": false,
+    "summary": {
+      "en": "L'Oréal uses Veo 2 and Imagen 3 to generate diverse cinematic content across 20+ countries while upholding its trustworthy AI principles.",
+      "zh": "L'Oréal 運用 Veo 2 與 Imagen 3 跨逾 20 個國家生成多元電影級內容，同時堅守「值得信賴的 AI」原則。"
+    },
+    "overview": {
+      "en": "L'Oréal Groupe partnered with Google Cloud to use Veo 2 and Imagen 3 as a creative partner within its CREAITECH — L'Oréal's GenAI Beauty Content Lab. Teams can generate diverse, cinematic video and image content at scale, including packaging visualization, animated product sequences, and multi-market campaign assets across 20+ additional countries and languages. L'Oréal's approach is guided by its \"trustworthy AI\" values, which include a policy against generating life-like human faces or bodies.",
+      "zh": "L'Oréal 與 Google Cloud 合作，在其 CREAITECH（L'Oréal 的生成式 AI 美妝內容實驗室）中以 Veo 2 與 Imagen 3 作為創意夥伴。團隊能大規模生成多元電影級視頻和圖像內容，包括包裝視覺化、商品動態序列，以及橫跨 20 多個國家和語言的多市場廣告素材。L'Oréal 的做法以「值得信賴的 AI」價值觀為指引，包括不生成逼真人臉或身體的政策。"
+    },
+    "highlights": {
+      "en": [
+        "Uses Veo 2 for animated product sequences and Imagen 3 for photo-realistic still imagery.",
+        "Expanded qualitative video and image production across 20+ additional countries and languages.",
+        "Enables rapid iteration on packaging design concepts, including bottle shapes and lighting.",
+        "Responsible AI policy: no generation of life-like human faces, hair, or skin for advertising.",
+        "CREAITECH lab serves as the internal hub for AI-driven beauty content creation."
+      ],
+      "zh": [
+        "以 Veo 2 製作商品動態序列，以 Imagen 3 生成逼真靜態圖像。",
+        "在 20 多個國家和語言中擴大高品質視頻和圖像製作。",
+        "支援快速反覆調整包裝設計概念，包括瓶型和光線效果。",
+        "負責任的 AI 政策：廣告中不生成逼真的人臉、頭髮或皮膚。",
+        "CREAITECH 實驗室作為 AI 驅動美妝內容創作的內部核心。"
+      ]
+    },
+    "technologies": [
+      "Veo 2",
+      "Imagen 3",
+      "Vertex AI",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "How L'Oréal Groupe pioneers responsible AI visuals with Veo and Imagen | Google Cloud Blog",
+        "url": "https://cloud.google.com/transform/loreal-ai-content-creation-veo-imagen-creaitech-next25"
+      },
+      {
+        "title": "L'Oréal partners with Google Cloud on generative AI content creation to enhance marketing",
+        "url": "https://cosmeticsbusiness.com/l-or%C3%A9al-partners-with-google-cloud-on-generative-ai-content-creation-to-enhance-marketing"
+      }
+    ]
+  },
+  {
+    "id": "retail-creative-levi-s",
+    "industry": "retail",
+    "agentType": "creative",
+    "company": "Levi's",
+    "isNew": false,
+    "summary": {
+      "en": "Levi's marketing teams use AI models for first-draft content generation and translations with a human-in-the-loop approach.",
+      "zh": "Levi's 行銷團隊運用 AI 模型協助撰寫初稿與翻譯，並保持人工審核流程。"
+    },
+    "overview": {
+      "en": "Levi Strauss & Co. has integrated AI models into its marketing workflow to help teams with first-draft content generation and language translations. The company maintains a human-in-the-loop approach throughout, ensuring brand authenticity and quality while accelerating the content production pipeline for one of the world's most recognized apparel brands.",
+      "zh": "Levi Strauss & Co. 將 AI 模型整合至行銷工作流程，協助團隊撰寫內容初稿與語言翻譯。公司全程保持人工參與流程，在加速全球最知名服裝品牌之一的內容生產管道的同時，確保品牌真實性與品質。"
+    },
+    "highlights": {
+      "en": [
+        "AI models assist marketing teams with first-draft content generation for campaigns.",
+        "Language translation workflows accelerated with AI assistance.",
+        "Human-in-the-loop maintained throughout to preserve brand voice and quality.",
+        "Balances AI efficiency with brand authenticity across global markets."
+      ],
+      "zh": [
+        "AI 模型協助行銷團隊撰寫廣告活動的內容初稿。",
+        "語言翻譯工作流程以 AI 輔助加速。",
+        "全程保持人工參與，維護品牌語調與品質。",
+        "在全球市場間平衡 AI 效率與品牌真實性。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Vertex AI",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ]
+  },
+  {
+    "id": "retail-creative-mondelez",
+    "industry": "retail",
+    "agentType": "creative",
+    "company": "Mondelez",
+    "isNew": false,
+    "summary": {
+      "en": "Mondelez uses Imagen to generate visuals for Oreo and Cadbury campaigns in 150+ countries, targeting a 25% increase in gen AI content ROI.",
+      "zh": "Mondelez 運用 Imagen 為 Oreo 與 Cadbury 在 150 多個國家的廣告活動生成視覺素材，目標是生成式 AI 內容 ROI 提升 25%。"
+    },
+    "overview": {
+      "en": "Mondelēz International uses Google Cloud's Imagen on Vertex AI to rapidly generate campaign visuals for global brands including Oreo and Cadbury, operating across more than 150 countries. The company creates 20 million assets for personalized marketing at scale and has seen measurable ROI improvements from AI-generated content — including a 10%+ global marketing ROI increase and a 42% sales lift for Cadbury in a hyper-local AI campaign. Mondelez has set a target of achieving 25% increase in ROI from generatively created content.",
+      "zh": "Mondelēz International 在 Vertex AI 上使用 Google Cloud 的 Imagen，為 Oreo 與 Cadbury 等在 150 多個國家銷售的全球品牌快速生成廣告活動視覺素材。公司為個人化行銷規模化創建 2,000 萬個素材，並從 AI 生成內容中看到可衡量的 ROI 改善——包括全球行銷 ROI 提升逾 10%，以及 Cadbury 在超本地化 AI 廣告活動中銷售額提升 42%。Mondelez 設定了生成式 AI 內容 ROI 提升 25% 的目標。"
+    },
+    "highlights": {
+      "en": [
+        "Imagen on Vertex AI generates campaign visuals for Oreo, Cadbury, and 100+ brands in 150+ countries.",
+        "Creates 20 million personalized marketing assets at scale.",
+        "Global marketing ROI improved by 10%+ from AI-driven personalization.",
+        "42% sales lift for Cadbury in hyper-local AI campaign.",
+        "Target of 25% increase in ROI from generatively created content."
+      ],
+      "zh": [
+        "Vertex AI 上的 Imagen 為 Oreo、Cadbury 等 100 多個品牌在 150 多個國家生成廣告活動視覺素材。",
+        "規模化創建 2,000 萬個個人化行銷素材。",
+        "AI 驅動的個人化使全球行銷 ROI 提升逾 10%。",
+        "Cadbury 在超本地化 AI 廣告活動中銷售額提升 42%。",
+        "設定生成式 AI 內容 ROI 提升 25% 的目標。"
+      ]
+    },
+    "technologies": [
+      "Imagen",
+      "Vertex AI",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Mondelēz Case Study | Google Cloud",
+        "url": "https://cloud.google.com/customers/mondelez"
+      },
+      {
+        "title": "Mondelez's AI Strategy: Analysis in Consumer Packaged Goods",
+        "url": "https://www.klover.ai/mondelez-ai-strategy-analysis-of-dominance-in-consumer-packaged-goods-confectionery-snacks/"
+      }
+    ]
+  },
+  {
+    "id": "retail-creative-ocado-retail",
+    "industry": "retail",
+    "agentType": "creative",
+    "company": "Ocado Retail",
+    "isNew": false,
+    "summary": {
+      "en": "Ocado Retail uses Gems in Gemini to craft individualized, branded product copy with recipes and jokes for its 50,000-product catalogue.",
+      "zh": "Ocado Retail 運用 Gemini 的 Gems 功能，為其近 5 萬件商品目錄撰寫帶有食譜和趣味內容的個人化品牌文案。"
+    },
+    "overview": {
+      "en": "Ocado Retail, the UK's largest online-only grocery supermarket with nearly 50,000 products, uses Gemini's Gems feature to create rich 'back of pack' product copy for its massive catalogue. The marketing team feeds tone-of-voice guidelines into Gemini, which then generates individualized, branded content including recipes and jokes that make products more appealing. This approach enables Ocado to deliver high-quality, distinctive content at scale across its entire product range.",
+      "zh": "英國最大純網路雜貨超市 Ocado Retail 擁有近 5 萬件商品，利用 Gemini 的 Gems 功能為龐大目錄創建豐富的「包裝背面」商品文案。行銷團隊將語調指南輸入 Gemini，由其生成包含食譜和趣味內容的個人化品牌文案，讓商品對購物者更具吸引力。這種方式使 Ocado 能夠在整個商品範圍內大規模提供高品質、獨特的內容。"
+    },
+    "highlights": {
+      "en": [
+        "Uses Gemini Gems to generate branded 'back of pack' copy for nearly 50,000 products.",
+        "Tone-of-voice guidelines fed into Gemini ensure individualized, on-brand content.",
+        "Content includes recipes and jokes to make products more appealing to shoppers.",
+        "Enables high-quality, distinctive product descriptions at scale without proportional headcount."
+      ],
+      "zh": [
+        "運用 Gemini Gems 為近 5 萬件商品生成品牌化的「包裝背面」文案。",
+        "將語調指南輸入 Gemini，確保個人化且符合品牌的內容。",
+        "內容包含食譜和趣味內容，使商品對購物者更具吸引力。",
+        "無需按比例增加人員，即可大規模提供高品質、獨特的商品描述。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Google Workspace",
+      "Gems"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Ocado Customer Success Story - Google Workspace",
+        "url": "https://workspace.google.com/intl/en_uk/customers/ocadoretail/"
+      }
+    ]
+  },
+  {
+    "id": "retail-creative-ocado-retail-2",
+    "industry": "retail",
+    "agentType": "creative",
+    "company": "Ocado Retail",
+    "isNew": true,
+    "summary": {
+      "en": "Ocado Retail automates ad banner production with Imagen and Veo on Gemini Enterprise Agent Platform, replacing a 100-person manual process.",
+      "zh": "Ocado Retail 以 Gemini Enterprise Agent Platform 上的 Imagen 與 Veo 自動化廣告橫幅製作，取代原先需要逾百人的人工流程。"
+    },
+    "overview": {
+      "en": "Ocado Retail extended its AI transformation by deploying Imagen and Veo models on Gemini Enterprise Agent Platform to automatically generate tailored ad banners — a process that previously required more than 100 people working overtime to design, customize, and publish thousands of banners monthly. Simultaneously, Ocado rolled out Google Workspace with Gemini and NotebookLM to more than 1,500 employees, saving analysts an estimated two days of work per week through customer feedback summarization.",
+      "zh": "Ocado Retail 延伸其 AI 轉型，在 Gemini Enterprise Agent Platform 上部署 Imagen 與 Veo 模型，自動生成客製化廣告橫幅——這一流程此前需要逾百名員工加班，每月設計、客製化並發布數千個橫幅。同時，Ocado 將 Google Workspace 與 Gemini、NotebookLM 推廣至逾 1,500 名員工，透過顧客回饋摘要功能，每位分析師每週估計節省兩天工作量。"
+    },
+    "highlights": {
+      "en": [
+        "Automated ad banner generation replaced a 100+ person manual process.",
+        "Imagen and Veo on Gemini Enterprise Agent Platform generate thousands of tailored banners monthly.",
+        "Google Workspace with Gemini and NotebookLM deployed to 1,500+ employees.",
+        "Customer feedback summarization with NotebookLM saves analysts approximately 2 days per week.",
+        "AI-powered personalized marketing content frees teams for higher-value work."
+      ],
+      "zh": [
+        "自動化廣告橫幅生成取代了逾百人的人工流程。",
+        "Gemini Enterprise Agent Platform 上的 Imagen 與 Veo 每月生成數千個客製化橫幅。",
+        "Google Workspace 與 Gemini、NotebookLM 部署至逾 1,500 名員工。",
+        "NotebookLM 的顧客回饋摘要功能每位分析師每週節省約 2 天工作量。",
+        "AI 驅動的個人化行銷內容讓團隊得以專注於更高價值的工作。"
+      ]
+    },
+    "technologies": [
+      "Imagen",
+      "Veo",
+      "Gemini Enterprise Agent Platform",
+      "Google Workspace",
+      "Gemini",
+      "NotebookLM",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Ocado Retail's Remarkable Google AI Adoption Journey | Devoteam",
+        "url": "https://www.devoteam.com/success-story/ocado-retails-remarkable-google-ai-adoption-journey/"
+      },
+      {
+        "title": "Ocado Retail personaliseert marketing voor 1,2 miljoen klanten met AI",
+        "url": "https://www.uptodatewebdesign.com/2026/03/ocado-personaliseert-marketing-ai.html"
+      }
+    ]
+  },
+  {
+    "id": "retail-creative-olx",
+    "industry": "retail",
+    "agentType": "creative",
+    "company": "OLX",
+    "isNew": true,
+    "summary": {
+      "en": "OLX built an AI ad-creation system with Gemini Enterprise Agent Platform and Gemini Flash, achieving 88% precision and generating 5.5M+ ads.",
+      "zh": "OLX 以 Gemini Enterprise Agent Platform 與 Gemini Flash 打造 AI 廣告創建系統，達到 88% 精準度，已生成逾 550 萬則廣告。"
+    },
+    "overview": {
+      "en": "OLX, a leading classifieds marketplace specializing in used goods, autos, and real estate in Brazil, partnered with CI&T to build an automated ad creation system using Gemini Enterprise Agent Platform and Gemini Flash. The tool analyzes user-uploaded images combined with user-entered details to generate complete ad listings with 88% precision. Since launch, the tool has been used to create more than 5.5 million ads, with around 250,000 users adopting it daily, reducing listing creation time by up to threefold.",
+      "zh": "巴西主要二手商品、汽車及房地產分類廣告市場 OLX 與 CI&T 合作，以 Gemini Enterprise Agent Platform 和 Gemini Flash 建立自動化廣告創建系統。該工具結合用戶上傳的圖像與輸入的細節，以 88% 的精準度生成完整廣告清單。自上線以來，該工具已被用於創建逾 550 萬則廣告，每日約有 25 萬名用戶使用，廣告刊登創建時間縮短最多三倍。"
+    },
+    "highlights": {
+      "en": [
+        "Automated ad creation tool achieves 88% precision by combining image analysis with user inputs.",
+        "Built on Gemini Enterprise Agent Platform and Gemini Flash in partnership with CI&T.",
+        "5.5 million+ ads created using the tool since launch.",
+        "250,000 daily active users adopting the automated listing system.",
+        "Listing creation time reduced by up to 3× compared to manual entry."
+      ],
+      "zh": [
+        "結合圖像分析與用戶輸入，自動化廣告創建工具達到 88% 的精準度。",
+        "與 CI&T 合作，基於 Gemini Enterprise Agent Platform 與 Gemini Flash 構建。",
+        "自上線以來已創建逾 550 萬則廣告。",
+        "每日約 25 萬名活躍用戶使用自動化刊登系統。",
+        "廣告刊登創建時間與人工輸入相比縮短最多 3 倍。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Gemini Enterprise Agent Platform",
+      "Gemini Flash",
+      "Vertex AI",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Grupo OLX launches AI tool to automate listing creation - AIM Group",
+        "url": "https://aimgroup.com/2025/11/07/grupo-olx-launches-ai-tool-to-automate-listing-creation/"
+      }
+    ]
+  },
+  {
+    "id": "retail-creative-procter-gamble",
+    "industry": "retail",
+    "agentType": "creative",
+    "company": "Procter & Gamble",
+    "isNew": false,
+    "summary": {
+      "en": "Procter & Gamble developed an internal gen AI platform using Imagen to accelerate photo-realistic creative asset creation for marketing teams.",
+      "zh": "Procter & Gamble 以 Imagen 開發內部生成式 AI 平台，加速行銷團隊的寫實創意素材製作。"
+    },
+    "overview": {
+      "en": "Procter & Gamble used Google Cloud's Imagen to develop imagePG, an internal generative AI platform for creating photo-realistic images and videos for advertising and marketing. The platform is part of P&G's broader suite of internal AI tools (alongside chatPG and askPG) and accelerates the creation of creative assets — giving marketing teams more time to focus on high-level strategy and delivering superior consumer experiences.",
+      "zh": "Procter & Gamble 運用 Google Cloud 的 Imagen 開發了 imagePG，一個用於廣告和行銷的內部生成式 AI 圖像和視頻創作平台。該平台是 P&G 更廣泛內部 AI 工具套件（包括 chatPG 和 askPG）的一部分，加速創意素材的製作，讓行銷團隊有更多時間專注於高層次策略，並為消費者提供卓越體驗。"
+    },
+    "highlights": {
+      "en": [
+        "imagePG internal platform built on Imagen supports photo-realistic image and video generation for advertising.",
+        "Part of P&G's enterprise AI suite alongside chatPG (language) and askPG (data access).",
+        "Accelerates creative asset production, freeing marketing teams for strategic work.",
+        "Reduces time-to-concept for marketing content compared to traditional production methods."
+      ],
+      "zh": [
+        "基於 Imagen 的 imagePG 內部平台支援廣告所需的逼真圖像和視頻生成。",
+        "P&G 企業 AI 套件的一部分，與 chatPG（語言）和 askPG（數據訪問）並列。",
+        "加速創意素材製作，讓行銷團隊得以專注於策略工作。",
+        "與傳統製作方式相比，縮短行銷內容的概念到成品時間。"
+      ]
+    },
+    "technologies": [
+      "Imagen",
+      "Vertex AI",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "P&G's ChatPG Generative AI Tool Scaling Across Business | Consumer Goods Technology",
+        "url": "https://consumergoods.com/pgs-chatpg-generative-ai-tool-scaling-across-business"
+      }
+    ]
+  },
+  {
+    "id": "retail-creative-puma",
+    "industry": "retail",
+    "agentType": "creative",
+    "company": "Puma",
+    "isNew": false,
+    "summary": {
+      "en": "Puma uses Imagen on Vertex AI to customize product photos by region, with PUMA India already seeing a 10% click-through rate increase.",
+      "zh": "Puma 運用 Vertex AI 上的 Imagen 按市場客製化商品圖片，PUMA India 已看到點擊率提升 10%。"
+    },
+    "overview": {
+      "en": "PUMA, which distributes products across 120+ countries, deployed Google Cloud's Imagen 2 on Vertex AI to generate and customize product images with market-relevant backgrounds — replacing the need for multiple physical photo shoots for each region. The system allows each PUMA regional marketing team to tailor product visuals to local market preferences without separate photography sessions. PUMA was the first in its industry to use AI imagery at scale in its online shop, launching in September 2024.",
+      "zh": "在 120 多個國家銷售產品的 PUMA，在 Vertex AI 上部署 Google Cloud 的 Imagen 2，生成並客製化具有市場相關背景的商品圖片，取代了為每個市場進行多次實體攝影的需求。系統讓各 PUMA 區域行銷團隊無需個別攝影，即可針對本地市場偏好調整商品視覺。PUMA 是業界首家在其網路商店大規模使用 AI 圖像的品牌，於 2024 年 9 月推出。"
+    },
+    "highlights": {
+      "en": [
+        "Imagen 2 on Vertex AI generates locally-relevant product images across 120+ country markets.",
+        "PUMA India recorded a 10% increase in click-through rate after AI-customized product photos.",
+        "Eliminates need for multiple physical photo shoots per region, saving time and cost.",
+        "First brand in its industry to use AI imagery at scale in an online retail shop.",
+        "Each regional team can tailor product visuals independently without a central photo production bottleneck."
+      ],
+      "zh": [
+        "Vertex AI 上的 Imagen 2 為 120 多個國家市場生成本地化商品圖片。",
+        "PUMA India 在 AI 客製化商品圖片後記錄到點擊率提升 10%。",
+        "消除了每個市場多次實體攝影的需求，節省時間和成本。",
+        "業界首家在網路零售商店大規模使用 AI 圖像的品牌。",
+        "每個區域團隊可獨立調整商品視覺，無需依賴中央攝影製作。"
+      ]
+    },
+    "technologies": [
+      "Imagen",
+      "Vertex AI",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "PUMA Transforms Product Campaign Development with Google Cloud's Generative AI",
+        "url": "https://www.prnewswire.com/news-releases/puma-transforms-product-campaign-development-with-google-clouds-generative-ai-302256616.html"
+      },
+      {
+        "title": "Puma Boosting CTRs With Google Cloud Generative AI Tools | Consumer Goods Technology",
+        "url": "https://consumergoods.com/puma-boosting-ctrs-google-cloud-generative-ai-tools"
+      }
+    ]
+  },
+  {
+    "id": "retail-creative-puma-2",
+    "industry": "retail",
+    "agentType": "creative",
+    "company": "Puma",
+    "isNew": false,
+    "summary": {
+      "en": "Puma's AI Creator app — powered by AI Hypercomputer, Vertex AI, and Gemini on NVIDIA H100s — had 54,000 users design 180,000 unique kits.",
+      "zh": "Puma 以 AI Hypercomputer、Vertex AI 及 NVIDIA H100 上的 Gemini 打造的 AI Creator 應用程式，吸引 54,000 名用戶設計了 180,000 件獨特球衣。"
+    },
+    "overview": {
+      "en": "PUMA developed the AI Creator app using AI Hypercomputer, Vertex AI, and Gemini running on NVIDIA H100 GPUs to democratize digital kit design. The app allowed Manchester City fans to design a real jersey that would be worn on the pitch — a Premier League first. During the 11-day live phase, the system reduced image generation time from 60 to 17 seconds per four HD images, requiring only 306 of the originally planned 600 GPUs. The campaign generated 54,000 registrations from 206 countries, 180,000 unique kits, and 1.7 million ratings.",
+      "zh": "PUMA 使用 AI Hypercomputer、Vertex AI 及 NVIDIA H100 GPU 上的 Gemini 開發了 AI Creator 應用程式，讓數位球衣設計大眾化。應用程式允許曼徹斯特城球迷設計一件真正穿上場的球衣——英超聯賽首次。在 11 天的正式上線期間，系統將每四張高解析度圖像的生成時間從 60 秒縮短至 17 秒，只需使用原計劃 600 個 GPU 中的 306 個。活動吸引來自 206 個國家的 54,000 名用戶註冊，創建了 180,000 件獨特球衣，收到 170 萬個評分。"
+    },
+    "highlights": {
+      "en": [
+        "AI Creator app built on AI Hypercomputer, Vertex AI, and Gemini with NVIDIA H100 GPUs.",
+        "54,000 users from 206 countries registered during the 11-day campaign.",
+        "180,000 unique kit designs created; 1.7 million ratings submitted.",
+        "Image generation time cut from 60 to 17 seconds per four HD images.",
+        "Used 306 GPUs vs. 600 originally planned — 49% infrastructure efficiency gain."
+      ],
+      "zh": [
+        "AI Creator 應用程式基於 AI Hypercomputer、Vertex AI 及 NVIDIA H100 GPU 上的 Gemini 構建。",
+        "11 天活動期間吸引來自 206 個國家的 54,000 名用戶註冊。",
+        "創建了 180,000 件獨特球衣設計，收到 170 萬個評分。",
+        "每四張高解析度圖像的生成時間從 60 秒縮短至 17 秒。",
+        "實際使用 306 個 GPU（原計劃 600 個），基礎設施效率提升 49%。"
+      ]
+    },
+    "technologies": [
+      "AI Hypercomputer",
+      "Vertex AI",
+      "Gemini",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "PUMA AI Creator | Slalom",
+        "url": "https://www.slalom.com/us/en/customer-stories/puma-ai-creator"
+      },
+      {
+        "title": "PUMA expands implementation of Google Cloud's generative AI",
+        "url": "https://www.retail-insight-network.com/news/puma-google-cloud-ai/"
+      }
+    ]
+  },
+  {
+    "id": "retail-creative-t-c-surf-design",
+    "industry": "retail",
+    "agentType": "creative",
+    "company": "T&C Surf Design",
+    "isNew": false,
+    "summary": {
+      "en": "T&C Surf Design uses Gemini in Docs to write radio ad copy, helping the 50-year-old Hawaii surf brand share its culture.",
+      "zh": "T&C Surf Design 運用 Gemini in Docs 撰寫廣播廣告文案，協助這個有 50 年歷史的夏威夷衝浪品牌傳播其文化。"
+    },
+    "overview": {
+      "en": "T&C Surf Design, a Hawaiian surf brand with over 50 years of history, uses Gemini in Google Docs to write radio copy for its marketing campaigns. The AI-assisted copywriting helps the team efficiently produce broadcast advertising scripts that convey the authentic spirit and culture of their decades-long surf heritage, reaching a wider audience without extensive creative production resources.",
+      "zh": "擁有超過 50 年歷史的夏威夷衝浪品牌 T&C Surf Design，運用 Gemini in Docs 為其行銷活動撰寫廣播文案。AI 輔助的文案撰寫幫助團隊高效製作傳達真實衝浪文化精神的廣播廣告腳本，在不需要大量創意製作資源的情況下觸及更廣泛的受眾。"
+    },
+    "highlights": {
+      "en": [
+        "Uses Gemini in Docs to write radio advertisement copy efficiently.",
+        "Helps a 50+ year legacy surf brand communicate its culture and heritage to a wider audience.",
+        "Enables a small team to produce broadcast-quality scripts without dedicated copywriting staff."
+      ],
+      "zh": [
+        "運用 Gemini in Docs 高效撰寫廣播廣告文案。",
+        "幫助一個有 50 多年傳承的衝浪品牌向更廣泛的受眾傳達其文化與歷史。",
+        "讓小型團隊無需專屬文案人員也能製作廣播級腳本。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Google Workspace",
+      "Gemini in Docs"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ]
+  },
+  {
+    "id": "retail-creative-the-united-nations-population-fund",
+    "industry": "retail",
+    "agentType": "creative",
+    "company": "The United Nations Population Fund",
+    "isNew": false,
+    "summary": {
+      "en": "UNFPA uses Google Workspace with Gemini as a 'superpowered writing assistant' to help staff craft precise, tonally correct communications.",
+      "zh": "UNFPA 運用 Google Workspace 與 Gemini 作為「超強寫作助理」，協助員工撰寫精確、語調適當的對外溝通。"
+    },
+    "overview": {
+      "en": "The United Nations Population Fund (UNFPA) has adopted Google Workspace with Gemini as an intelligent writing assistant across its global operations. The tool helps staff — from country directors drafting high-stakes emails to government officials, to non-English speakers who need to express their message precisely — to get the right tone, formality, and clarity in their written communications, enhancing the organization's effectiveness in delivering its global mission.",
+      "zh": "聯合國人口基金（UNFPA）在全球業務中採用 Google Workspace 與 Gemini 作為智慧寫作助理。該工具幫助員工——從需要向政府官員起草重要電子郵件的國家代表，到需要精確表達訊息的非英語母語者——在書面溝通中達到正確的語調、正式程度和清晰度，提升組織履行全球使命的效能。"
+    },
+    "highlights": {
+      "en": [
+        "Google Workspace with Gemini described as 'a superpowered writing assistant' by UNFPA.",
+        "Helps country directors calibrate tone and formality in emails to government officials.",
+        "Supports non-English speaking staff to communicate their message precisely in English.",
+        "Enhances overall organizational communication effectiveness across global field offices."
+      ],
+      "zh": [
+        "UNFPA 稱 Google Workspace 與 Gemini 為「超強寫作助理」。",
+        "協助國家代表在發送給政府官員的電子郵件中校準語調和正式程度。",
+        "支援非英語母語員工以英語精確表達訊息。",
+        "提升全球各地辦事處的整體組織溝通效能。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Google Workspace"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ]
+  },
+  {
+    "id": "retail-creative-wisconsin-cheese-mart",
+    "industry": "retail",
+    "agentType": "creative",
+    "company": "Wisconsin Cheese Mart",
+    "isNew": false,
+    "summary": {
+      "en": "Wisconsin Cheese Mart uses Gemini in Docs to quickly write online product descriptions for its growing e-commerce customer base.",
+      "zh": "Wisconsin Cheese Mart 運用 Gemini in Docs 為快速成長的線上顧客群快速撰寫商品描述。"
+    },
+    "overview": {
+      "en": "Wisconsin Cheese Mart, a specialty cheese retailer, uses Gemini in Google Docs to write product descriptions for its online store. The AI-assisted copywriting allows the team to efficiently produce informative, compelling product listings for its growing e-commerce customer base — without taking time away from the personalized, hands-on in-store experience that defines the brand.",
+      "zh": "特色起司零售商 Wisconsin Cheese Mart 運用 Gemini in Docs 為其線上商店撰寫商品描述。AI 輔助文案撰寫讓團隊能高效為快速成長的電商顧客群製作資訊豐富、吸引人的商品清單，同時不佔用定義品牌的個人化實體店體驗時間。"
+    },
+    "highlights": {
+      "en": [
+        "Uses Gemini in Docs to write online product descriptions for specialty cheese products.",
+        "Enables efficient content production to serve a growing e-commerce customer base.",
+        "Frees staff to focus on the personalized in-store experience rather than digital copywriting."
+      ],
+      "zh": [
+        "運用 Gemini in Docs 為特色起司商品撰寫線上商品描述。",
+        "實現高效內容生產，服務快速成長的電商顧客群。",
+        "讓員工得以專注於個人化的實體店體驗，而非數位文案撰寫。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Google Workspace",
+      "Gemini in Docs"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ]
+  }
+]

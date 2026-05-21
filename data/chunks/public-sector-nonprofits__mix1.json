@@ -1,0 +1,1842 @@
+[
+  {
+    "id": "public-sector-nonprofits-employee-bayes-impact",
+    "industry": "public-sector-nonprofits",
+    "agentType": "employee",
+    "company": "Bayes Impact",
+    "isNew": false,
+    "summary": {
+      "en": "Bayes Impact's CaseAI cuts caseworker admin time by 25 hours per week using Gemini-powered action plans.",
+      "zh": "Bayes Impact 的 CaseAI 利用 Gemini 為社工生成個人化行動計畫，每週節省 25 小時行政工作。"
+    },
+    "overview": {
+      "en": "Bayes Impact is a nonprofit that builds AI products for public services. Its flagship product CaseAI is a digital case management copilot that integrates with an NGO's existing system, using generative AI to draft action plans tailored to each beneficiary's unique history. Developed through the Google.org accelerator, CaseAI is open-source and self-hostable. Caseworkers have saved an average of 25 hours of work per week since adopting the platform.",
+      "zh": "Bayes Impact 是一家專注公共服務 AI 的非營利組織。其旗艦產品 CaseAI 是一款數位案件管理副駕，可整合到 NGO 既有系統，利用生成式 AI 根據受助者的個別背景草擬行動計畫。CaseAI 透過 Google.org 加速器開發，屬開源且可自主部署。社工人員自採用後平均每週節省 25 小時行政工作。"
+    },
+    "highlights": {
+      "en": [
+        "Caseworkers save an average of 25 hours per week on administrative tasks.",
+        "CaseAI integrates with existing NGO case management systems to add AI-powered features.",
+        "The platform is fully open-source and self-hostable, giving organizations full data control.",
+        "Developed during Bayes Impact's participation in the Google.org AI accelerator program."
+      ],
+      "zh": [
+        "社工人員每週平均節省 25 小時行政工作。",
+        "CaseAI 可整合至 NGO 現有案件管理系統，新增 AI 功能。",
+        "平台完全開源且可自主部署，讓組織掌控全部資料。",
+        "於 Bayes Impact 參加 Google.org AI 加速器期間開發完成。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Vertex AI",
+      "Google.org AI Accelerator"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "CaseAI — Beneficiary management copilot · Bayes Impact",
+        "url": "https://www.bayesimpact.org/caseai/"
+      },
+      {
+        "title": "How orgs are building digital responsibility in the AI era | Google Cloud Blog",
+        "url": "https://cloud.google.com/transform/gen-ai-social-services-legal-aid-immigration-hunger-google-org-nonprofit-ai-incubator"
+      }
+    ]
+  },
+  {
+    "id": "public-sector-nonprofits-employee-can-do-canines",
+    "industry": "public-sector-nonprofits",
+    "agentType": "employee",
+    "company": "Can Do Canines",
+    "isNew": false,
+    "summary": {
+      "en": "Can Do Canines uses Gemini in Gmail to draft emails faster, freeing staff for their service-dog mission.",
+      "zh": "Can Do Canines 使用 Gmail 內建的 Gemini 加速撰寫郵件，讓員工有更多時間投入服務犬任務。"
+    },
+    "overview": {
+      "en": "Can Do Canines is a nonprofit that provides no-cost service dogs to persons with disabilities. The small team uses Gemini in Gmail to help draft emails more quickly, giving staff more time to devote to their life-changing mission of training and placing service dogs with people who need them.",
+      "zh": "Can Do Canines 是一家為身障人士提供免費服務犬的非營利組織。團隊利用 Gmail 內建的 Gemini 協助快速起草郵件，讓員工有更多時間投入訓練並媒合服務犬的核心任務。"
+    },
+    "highlights": {
+      "en": [
+        "Uses Gemini in Gmail to draft outbound emails faster, reducing administrative burden.",
+        "Freed-up staff time is redirected to the core mission of training and placing service dogs.",
+        "Leverages Google Workspace for Nonprofits to access AI tools at low cost."
+      ],
+      "zh": [
+        "使用 Gmail 中的 Gemini 快速起草郵件，降低行政負擔。",
+        "節省出的員工時間重新投入訓練與配對服務犬的核心任務。",
+        "透過 Google Workspace for Nonprofits 以低成本使用 AI 工具。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Google Workspace",
+      "Gmail"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "public-sector-nonprofits-employee-chef-ann-foundation",
+    "industry": "public-sector-nonprofits",
+    "agentType": "employee",
+    "company": "Chef Ann Foundation",
+    "isNew": false,
+    "summary": {
+      "en": "Chef Ann Foundation uses Gemini in Meet to summarize conversations with farmers and school districts.",
+      "zh": "Chef Ann Foundation 使用 Gemini in Meet 摘要與農民、廠商及學區的通話重點，助力全國校園健康飲食推廣。"
+    },
+    "overview": {
+      "en": "Chef Ann Foundation works to get healthy foods into schools nationwide, coordinating with farmers, vendors, and school districts across the country. The team uses Gemini in Google Meet to automatically summarize these conversations, ensuring important information is captured and tracked without manual note-taking, allowing staff to focus on advancing their nutritional mission.",
+      "zh": "Chef Ann Foundation 致力於在全美學校推廣健康飲食，需與各地農民、廠商及學區持續協作。團隊使用 Google Meet 中的 Gemini 自動摘要這些通話內容，免去手動記錄，讓員工能專注於推動健康飲食使命。"
+    },
+    "highlights": {
+      "en": [
+        "Gemini in Meet automatically summarizes calls with farmers, vendors, and school districts.",
+        "Ensures key information is tracked across a nationwide network of partners.",
+        "Reduces manual note-taking, freeing staff to focus on mission-critical work."
+      ],
+      "zh": [
+        "Meet 中的 Gemini 自動摘要與農民、廠商及學區的通話內容。",
+        "確保全國合作夥伴網絡中的關鍵資訊完整記錄。",
+        "減少手動記錄，讓員工專注於核心任務。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Google Meet",
+      "Google Workspace"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "public-sector-nonprofits-employee-climate-ride",
+    "industry": "public-sector-nonprofits",
+    "agentType": "employee",
+    "company": "Climate Ride",
+    "isNew": false,
+    "summary": {
+      "en": "Climate Ride's five-person team uses Google Workspace for Nonprofits to collaborate remotely and automate tasks.",
+      "zh": "Climate Ride 五人團隊使用 Google Workspace for Nonprofits 遠端協作並自動化任務，將更多資源投入氣候行動。"
+    },
+    "overview": {
+      "en": "Climate Ride is an environmental and cycling fundraising organization that uses Google Workspace for Nonprofits to enable its five-person team to collaborate remotely and automate routine tasks. This increased operational efficiency translates directly to more time and resources being dedicated to their core mission of combating climate change through fundraising events.",
+      "zh": "Climate Ride 是一個環保暨自行車募款組織，透過 Google Workspace for Nonprofits 讓五人小組能夠遠端協作並自動化例行任務。運作效率的提升，直接讓更多時間與資源回歸對抗氣候變遷的核心任務。"
+    },
+    "highlights": {
+      "en": [
+        "A five-person team uses Google Workspace for Nonprofits for remote collaboration and task automation.",
+        "Increased efficiency allows more resources to be directed toward climate change fundraising efforts.",
+        "Demonstrates how small nonprofits can scale impact with AI-assisted productivity tools."
+      ],
+      "zh": [
+        "五人團隊使用 Google Workspace for Nonprofits 進行遠端協作與任務自動化。",
+        "效率提升使更多資源可投入氣候變遷相關募款活動。",
+        "展示小型非營利組織如何透過 AI 生產力工具放大影響力。"
+      ]
+    },
+    "technologies": [
+      "Google Workspace",
+      "Gemini"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "public-sector-nonprofits-employee-codepath",
+    "industry": "public-sector-nonprofits",
+    "agentType": "employee",
+    "company": "CodePath",
+    "isNew": false,
+    "summary": {
+      "en": "CodePath uses Gemini in Workspace to speed up grant writing and recruiting for underrepresented engineers.",
+      "zh": "CodePath 利用 Gemini in Workspace 加速撰寫補助申請與招募工作，深化對弱勢族群的工程師培育影響。"
+    },
+    "overview": {
+      "en": "CodePath is a nonprofit that supports the next generation of engineering leaders from low-income and underrepresented communities, providing free software engineering courses to 20,000+ students at 500+ US universities. The organization uses Gemini in Google Workspace to accelerate grant writing and recruiting processes, enabling staff to deepen the impact of their work without expanding headcount. Google has also provided $500,000 grants to support CodePath's expansion into multiple cities.",
+      "zh": "CodePath 是一個支持低收入及弱勢族群工程師的非營利組織，為全美 500 多所大學的 20,000 多名學生提供免費軟體工程課程。他們透過 Google Workspace 中的 Gemini 加速補助申請撰寫和人才招募，無需增加人力便能深化社會影響力。Google 亦提供 50 萬美元補助支持 CodePath 拓展至多個城市。"
+    },
+    "highlights": {
+      "en": [
+        "Gemini in Workspace accelerates grant writing and recruiting for a lean nonprofit team.",
+        "CodePath has served 20,000+ underserved CS students at 500+ US universities.",
+        "Google has provided $500,000 grants to support CodePath's expansion into multiple US cities.",
+        "AI tools help the team deepen mission impact without proportionally increasing staff."
+      ],
+      "zh": [
+        "Gemini in Workspace 為精簡的非營利團隊加速補助申請撰寫與招募。",
+        "CodePath 已服務全美 500 多所大學的逾 2 萬名弱勢電腦科學學生。",
+        "Google 提供 50 萬美元補助支持 CodePath 拓展至多個美國城市。",
+        "AI 工具幫助團隊在不大幅增加人力的前提下深化使命影響力。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Google Workspace"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Google Announces Support for CodePath To Help Democratize Computer Science Education",
+        "url": "https://www.prnewswire.com/news-releases/google-announces-support-for-codepath-to-help-democratize-computer-science-education-for-underrepresented-students-across-atlanta-301615969.html"
+      }
+    ]
+  },
+  {
+    "id": "public-sector-nonprofits-employee-court-of-justice-of-the-state-of-goi-s",
+    "industry": "public-sector-nonprofits",
+    "agentType": "employee",
+    "company": "Court of Justice of the State of Goiás",
+    "isNew": true,
+    "summary": {
+      "en": "Brazil's TJGO uses Gemini to optimize judicial workflows and boost productivity for judges and staff.",
+      "zh": "巴西戈亞斯州法院（TJGO）導入 Gemini 優化司法行政流程，提升法官與工作人員的生產力。"
+    },
+    "overview": {
+      "en": "The Court of Justice of the State of Goiás (TJGO) in Brazil began integrating Gemini models into its judicial and administrative process management structure. The deployment targets both judges and court servers, optimizing work routines and enabling measurable productivity gains across the institution's legal and administrative operations.",
+      "zh": "巴西戈亞斯州法院（TJGO）開始將 Gemini 模型整合至司法與行政流程管理體系，涵蓋法官與法院人員，優化工作流程並在整體司法與行政運作上實現可量化的生產力提升。"
+    },
+    "highlights": {
+      "en": [
+        "Gemini models integrated into both judicial and administrative process management.",
+        "Workflow optimization covers judges and administrative court servers.",
+        "Deployment enables measurable productivity gains across the institution."
+      ],
+      "zh": [
+        "Gemini 模型整合至司法與行政流程管理。",
+        "工作流程優化涵蓋法官與行政人員。",
+        "部署帶來可量化的機構整體生產力提升。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Google Workspace"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "public-sector-nonprofits-employee-dutch-bamboo-foundation",
+    "industry": "public-sector-nonprofits",
+    "agentType": "employee",
+    "company": "Dutch Bamboo Foundation",
+    "isNew": false,
+    "summary": {
+      "en": "Dutch Bamboo Foundation uses Gemini for Workspace to let one person run an entire climate nonprofit.",
+      "zh": "Dutch Bamboo Foundation 利用 Gemini for Google Workspace，讓創辦人一人有效營運整個對抗氣候變遷的非營利組織。"
+    },
+    "overview": {
+      "en": "Dutch Bamboo Foundation is a single-person nonprofit dedicated to combating climate change. The founder uses Gemini for Google Workspace to streamline everything from fundraising to research, enabling one person to run the entire organization effectively. By working strategically with AI assistance, the founder can maximize limited resources and advance the mission to promote bamboo as a sustainable solution.",
+      "zh": "Dutch Bamboo Foundation 是由一人運營的非營利組織，致力於對抗氣候變遷。創辦人使用 Gemini for Google Workspace 從募款到研究全面優化，讓單人即可有效管理整個組織。透過 AI 輔助的策略性工作方式，創辦人得以最大化有限資源並推進利用竹子作為永續解決方案的使命。"
+    },
+    "highlights": {
+      "en": [
+        "Gemini for Workspace enables a single person to effectively manage an entire nonprofit.",
+        "AI tools streamline fundraising, research, and administrative tasks end-to-end.",
+        "Maximizes limited resources, allowing the founder to focus on strategic climate work."
+      ],
+      "zh": [
+        "Gemini for Workspace 讓單人即可有效管理整個非營利組織。",
+        "AI 工具從頭到尾優化募款、研究與行政工作。",
+        "最大化有限資源，讓創辦人專注於策略性氣候工作。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Google Workspace"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "public-sector-nonprofits-employee-erika-s-lighthouse",
+    "industry": "public-sector-nonprofits",
+    "agentType": "employee",
+    "company": "Erika's Lighthouse",
+    "isNew": false,
+    "summary": {
+      "en": "Erika's Lighthouse uses Gemini in Workspace to automate tasks and accelerate mental health content creation for schools.",
+      "zh": "Erika's Lighthouse 使用 Gemini in Workspace 自動化例行任務並加速為全球學校社區創作心理健康內容。"
+    },
+    "overview": {
+      "en": "Erika's Lighthouse relies on Google Workspace with Gemini to create life-saving mental health programs for school communities worldwide. The nonprofit uses Gemini to automate repetitive tasks and accelerate content creation — from summarizing meeting takeaways and populating tables in Sheets to organizing data — freeing the team to focus on delivering impactful mental health resources to students.",
+      "zh": "Erika's Lighthouse 仰賴 Google Workspace 與 Gemini 為全球學校社區創作救命的心理健康計畫。非營利組織使用 Gemini 自動化例行任務並加速內容創作——從摘要會議要點、填寫 Sheets 表格到整理資料——讓團隊得以專注於為學生提供有影響力的心理健康資源。"
+    },
+    "highlights": {
+      "en": [
+        "Automates repetitive tasks such as summarizing meeting notes and populating spreadsheets.",
+        "Accelerates content creation for mental health programs serving school communities worldwide.",
+        "Gemini in Sheets helps organize program data efficiently."
+      ],
+      "zh": [
+        "自動化例行任務，如摘要會議記錄與填寫試算表。",
+        "加速為全球學校社區服務的心理健康計畫內容創作。",
+        "Gemini in Sheets 有效協助整理計畫資料。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Google Workspace",
+      "Google Sheets"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "public-sector-nonprofits-employee-fulton-theatre",
+    "industry": "public-sector-nonprofits",
+    "agentType": "employee",
+    "company": "Fulton Theatre",
+    "isNew": false,
+    "summary": {
+      "en": "Fulton Theatre cuts grant-writing time in half using Gemini in Docs to fill in routine information.",
+      "zh": "Fulton Theatre 使用 Gemini in Docs 填寫例行資訊，將補助申請撰寫時間縮短一半。"
+    },
+    "overview": {
+      "en": "Fulton Theatre uses Gemini in Google Docs to assist with grant writing by automatically filling in routine information. This cuts the time spent on grant applications in half, allowing the theatre team to focus more on growing the organization and producing shows that bring communities together.",
+      "zh": "Fulton Theatre 使用 Google Docs 中的 Gemini 協助撰寫補助申請，自動填入例行資訊，將申請所需時間縮短一半，讓劇院團隊能將更多精力投入組織成長與製作凝聚社區的演出。"
+    },
+    "highlights": {
+      "en": [
+        "Grant-writing time cut in half by using Gemini in Docs to handle routine content.",
+        "Freed-up time is reinvested into growing the theatre and producing community shows."
+      ],
+      "zh": [
+        "透過 Gemini in Docs 處理例行內容，補助申請撰寫時間縮短一半。",
+        "節省的時間重新投入劇院成長與社區演出製作。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Google Docs",
+      "Google Workspace"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "public-sector-nonprofits-employee-good-earth-farm",
+    "industry": "public-sector-nonprofits",
+    "agentType": "employee",
+    "company": "Good Earth Farm",
+    "isNew": false,
+    "summary": {
+      "en": "Good Earth Farm co-writes animal sanctuary newsletters with Gemini in Docs to engage its community.",
+      "zh": "Good Earth Farm 動物庇護所與活動場地使用 Gemini in Docs 共同撰寫社群電子報，讓大眾關注園內動物動態。"
+    },
+    "overview": {
+      "en": "Good Earth Farm is an animal sanctuary and event space that uses Gemini in Google Docs to help write newsletters that keep their community updated on their favorite animals. By co-writing with AI, the small team can produce engaging, consistent content without dedicating excessive staff time to writing.",
+      "zh": "Good Earth Farm 是一個動物庇護所兼活動場地，利用 Google Docs 中的 Gemini 協助撰寫電子報，讓社群隨時掌握園內動物的最新動態。透過 AI 共同創作，小型團隊得以產出吸引人且一致的內容，而無需投入大量員工時間。"
+    },
+    "highlights": {
+      "en": [
+        "Gemini in Docs co-writes community newsletters about resident animals.",
+        "Enables consistent community communications for a small nonprofit team."
+      ],
+      "zh": [
+        "Gemini in Docs 協同撰寫關於園內動物的社群電子報。",
+        "讓小型非營利團隊維持一致的社群溝通。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Google Docs",
+      "Google Workspace"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "public-sector-nonprofits-employee-indigenous-made",
+    "industry": "public-sector-nonprofits",
+    "agentType": "employee",
+    "company": "Indigenous Made",
+    "isNew": false,
+    "summary": {
+      "en": "Indigenous Made uses Gemini in Gmail to help coordinate indigenous art market events more efficiently.",
+      "zh": "Indigenous Made 的共同創辦人使用 Gmail 中的 Gemini 建議來啟動郵件回覆，更有效協調原住民藝術市集活動。"
+    },
+    "overview": {
+      "en": "Indigenous Made's cofounders coordinate indigenous art markets and use Gemini in Gmail to receive email reply suggestions that help kick-start their responses. This allows the small team to handle a higher volume of coordination communications more efficiently, dedicating more time to supporting indigenous artists and their community events.",
+      "zh": "Indigenous Made 的共同創辦人負責協調原住民藝術市集，使用 Gmail 中的 Gemini 獲取郵件回覆建議以快速啟動回應。這讓小型團隊能更有效率地處理大量協調溝通，將更多時間投入支持原住民藝術家及其社區活動。"
+    },
+    "highlights": {
+      "en": [
+        "Gemini in Gmail provides reply suggestions to kick-start email responses.",
+        "Enables the team to handle coordination communications more efficiently.",
+        "Frees up time to support indigenous artists and art market events."
+      ],
+      "zh": [
+        "Gmail 中的 Gemini 提供回覆建議，協助快速啟動郵件回應。",
+        "讓團隊更有效率地處理協調溝通。",
+        "釋出時間支持原住民藝術家與藝術市集活動。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Gmail",
+      "Google Workspace"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "public-sector-nonprofits-employee-infoxchange",
+    "industry": "public-sector-nonprofits",
+    "agentType": "employee",
+    "company": "Infoxchange",
+    "isNew": false,
+    "summary": {
+      "en": "Infoxchange uses NotebookLM to cut AI training module development time from over a week to half a day.",
+      "zh": "Infoxchange 使用 NotebookLM 將 AI 培訓模組的開發時間從逾一週縮短至半天，效率提升 10 倍。"
+    },
+    "overview": {
+      "en": "Infoxchange is an Australian nonprofit social enterprise with over 140 staff delivering technology for social justice for 35+ years, serving 38,000+ government and community services. The organization uses NotebookLM to develop training programs for four distinct audience personas — AI Sceptics, Experimenters, Implementers, and Influencers — by uploading research data to review sources and elaborate on learning objectives. NotebookLM reduced the time to create a starting point for training modules from over a week to half a day, a 10x improvement.",
+      "zh": "Infoxchange 是一家澳洲非營利社會企業，擁有逾 140 名員工，35 年來致力於透過技術推動社會公義，服務逾 38,000 個政府與社區服務機構。該組織使用 NotebookLM 為四種不同受眾（AI 懷疑者、實驗者、實施者與倡導者）開發培訓計畫，透過上傳研究資料來審查來源並釐清學習目標。NotebookLM 將培訓模組起始點的建立時間從逾一週縮短至半天，效率提升 10 倍。"
+    },
+    "highlights": {
+      "en": [
+        "NotebookLM reduced training module development time from over a week to half a day (10x faster).",
+        "Training programs tailored for four distinct audience personas.",
+        "Serves a network of 38,000+ government and community services across Australia.",
+        "Frees the team to focus on strategy and client education rather than content creation."
+      ],
+      "zh": [
+        "NotebookLM 將培訓模組開發時間從逾一週縮短至半天（速度提升 10 倍）。",
+        "培訓計畫針對四種不同受眾量身打造。",
+        "服務澳洲逾 38,000 個政府與社區服務機構網絡。",
+        "讓團隊得以專注於策略與客戶教育，而非內容創作。"
+      ]
+    },
+    "technologies": [
+      "NotebookLM",
+      "Google Workspace"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Infoxchange uses NotebookLM to create AI training modules 10x faster | Google Workspace Blog",
+        "url": "https://workspace.google.com/blog/customer-stories/infoxchange-delivers-tailored-educational-resources-10x-faster-notebooklm"
+      },
+      {
+        "title": "How Infoxchange crafts tailored educational resources in hours instead of days with NotebookLM",
+        "url": "https://workspace.google.com/blog/customer-stories/infoxchange-crafts-educational-resources-hours-instead-days-notebooklm"
+      }
+    ]
+  },
+  {
+    "id": "public-sector-nonprofits-employee-maryland-department-of-information-technology",
+    "industry": "public-sector-nonprofits",
+    "agentType": "employee",
+    "company": "Maryland Department of Information Technology",
+    "isNew": true,
+    "summary": {
+      "en": "Maryland DoIT gave 43,000 state employees access to Gemini in Workspace, with 12,500 active users driving measurable savings.",
+      "zh": "馬里蘭州資訊科技部為近 4.3 萬名州政府員工提供 Gemini in Workspace 存取，目前 12,500 名活躍用戶已帶來可量化的節省效益。"
+    },
+    "overview": {
+      "en": "The Maryland Department of Information Technology (DoIT) partnered with Google Public Sector to roll out Gemini in Google Workspace across 59 state agencies, giving nearly 43,000 state employees access to AI tools. Gemini came at no additional cost to agencies already using Google Workspace. Active usage reached 12,500 users, and the Maryland Department of the Environment saved more than $400,000 by using Gemini to fulfill internal tasks for a water infrastructure grant application rather than procuring a vendor solution.",
+      "zh": "馬里蘭州資訊科技部與 Google Public Sector 合作，在 59 個州政府機構推出 Gemini in Google Workspace，為近 4.3 萬名州政府員工提供 AI 工具。對於已使用 Google Workspace 的機構，Gemini 不需額外費用。活躍用戶達 12,500 人，馬里蘭州環境部更透過使用 Gemini 完成水利基礎設施補助申請的內部任務，省去向外部廠商採購的費用，節省逾 40 萬美元。"
+    },
+    "highlights": {
+      "en": [
+        "Nearly 43,000 state employees across 59 agencies gained access to Gemini in Google Workspace.",
+        "12,500 state employees are currently active users of the AI tools.",
+        "Maryland Department of the Environment saved over $400,000 using Gemini for a water infrastructure grant application.",
+        "Gemini provided at no additional cost to existing Google Workspace users — 30% of the state workforce."
+      ],
+      "zh": [
+        "59 個機構的近 4.3 萬名州政府員工獲得 Gemini in Google Workspace 存取權限。",
+        "目前 12,500 名州政府員工為 AI 工具的活躍用戶。",
+        "馬里蘭州環境部使用 Gemini 處理水利基礎設施補助申請，節省逾 40 萬美元。",
+        "對現有 Google Workspace 用戶（佔州政府員工 30%）免費提供 Gemini。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Google Workspace"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Maryland and Google Public Sector Partner to Accelerate Statewide AI Adoption Across 59 State Agencies",
+        "url": "https://www.prnewswire.com/news-releases/maryland-and-google-public-sector-partner-to-accelerate-statewide-ai-adoption-across-59-state-agencies-302598202.html"
+      },
+      {
+        "title": "Maryland Expands AI Integration Across State Government | GovTech",
+        "url": "https://www.govtech.com/artificial-intelligence/maryland-expands-ai-integration-across-state-government"
+      }
+    ]
+  },
+  {
+    "id": "public-sector-nonprofits-employee-mississippi-farm-to-school-network",
+    "industry": "public-sector-nonprofits",
+    "agentType": "employee",
+    "company": "Mississippi Farm to School Network",
+    "isNew": false,
+    "summary": {
+      "en": "Mississippi Farm to School Network uses Gemini in Docs to proofread and organize grant proposals.",
+      "zh": "Mississippi Farm to School Network 使用 Gemini in Docs 校對並整理補助申請書，支撐其飲食教育使命。"
+    },
+    "overview": {
+      "en": "Mississippi Farm to School Network is a nutrition education nonprofit that relies on grant funding to sustain its educational mission. The organization uses Gemini in Google Docs to proofread and organize grant proposals, ensuring submissions are polished and well-structured without requiring excessive staff time, so the team can focus on connecting students with local food sources.",
+      "zh": "Mississippi Farm to School Network 是一個以補助金為主要資金來源的營養教育非營利組織。他們使用 Google Docs 中的 Gemini 校對並整理補助申請書，確保提交內容完整且結構清晰，同時不需耗費大量員工時間，讓團隊得以專注於連結學生與在地食材。"
+    },
+    "highlights": {
+      "en": [
+        "Gemini in Docs proofreads and organizes grant proposals that fund the nonprofit's mission.",
+        "Ensures well-structured, polished submissions without excessive staff time."
+      ],
+      "zh": [
+        "Gemini in Docs 校對並整理支撐組織使命的補助申請書。",
+        "確保提交內容完整且結構清晰，同時不需耗費大量員工時間。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Google Docs",
+      "Google Workspace"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "public-sector-nonprofits-employee-nasa",
+    "industry": "public-sector-nonprofits",
+    "agentType": "employee",
+    "company": "NASA",
+    "isNew": true,
+    "summary": {
+      "en": "NASA used Gemini Enterprise agents with Google Cloud to power Artemis II flight readiness and astronaut safety.",
+      "zh": "NASA 與 Google Cloud 合作，使用 Gemini Enterprise 代理程式支援 Artemis II 飛行準備審查，確保太空人安全。"
+    },
+    "overview": {
+      "en": "NASA partnered with Google Cloud to deploy Gemini Enterprise agents supporting flight readiness processes for the Artemis II mission. Artemis II is a crewed lunar flyby that set the human spaceflight record for the farthest distance from Earth. The Gemini Enterprise Agent Platform — which provides integrated governance, security, and data management for agentic AI — was used to help ensure astronaut safety during the critical flight readiness review phases.",
+      "zh": "NASA 與 Google Cloud 合作，部署 Gemini Enterprise 代理程式以支援 Artemis II 任務的飛行準備流程。Artemis II 是一次載人月球飛越任務，創下人類太空飛行距離地球最遠的紀錄。Gemini Enterprise Agent Platform 提供代理式 AI 的整合治理、安全性與資料管理，用於協助確保關鍵飛行準備審查階段的太空人安全。"
+    },
+    "highlights": {
+      "en": [
+        "Gemini Enterprise agents powered Artemis II flight readiness reviews.",
+        "Artemis II set the human spaceflight record for farthest distance from Earth.",
+        "Google Cloud's Gemini Enterprise Agent Platform provided governance and security for mission-critical AI.",
+        "Demonstrated agentic AI deployment in safety-critical government space operations."
+      ],
+      "zh": [
+        "Gemini Enterprise 代理程式支援 Artemis II 飛行準備審查。",
+        "Artemis II 創下人類太空飛行距離地球最遠的紀錄。",
+        "Google Cloud Gemini Enterprise Agent Platform 為關鍵任務 AI 提供治理與安全性。",
+        "展示代理式 AI 在安全關鍵政府太空任務中的部署。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Gemini Enterprise Agent Platform",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Welcome to Google Cloud Next 2026 | Google Cloud Blog",
+        "url": "https://cloud.google.com/blog/topics/google-cloud-next/welcome-to-google-cloud-next26"
+      },
+      {
+        "title": "Artemis II: NASA's First Crewed Lunar Flyby in 50 Years",
+        "url": "https://www.nasa.gov/mission/artemis-ii/"
+      }
+    ]
+  },
+  {
+    "id": "public-sector-nonprofits-employee-national-cancer-institute",
+    "industry": "public-sector-nonprofits",
+    "agentType": "employee",
+    "company": "National Cancer Institute",
+    "isNew": false,
+    "summary": {
+      "en": "NCI partnered with Google Cloud and Barnacle Labs to build NanCI, an AI app managing 500+ daily cancer research papers.",
+      "zh": "NCI 與 Google Cloud 及 Barnacle Labs 合作開發 NanCI，協助科學家管理每日逾 500 篇癌症研究論文並促進跨機構協作。"
+    },
+    "overview": {
+      "en": "The National Cancer Institute, which supports more than 3,000 scientists, partnered with Google Cloud and Barnacle Labs to develop NanCI — an AI-powered research assistant app using Gemini's long-context windows and semantic search to help researchers navigate the more than 500 cancer research papers published daily. The app provides personalized paper recommendations, paper summaries, chat-with-the-paper functionality, and social networking features to connect researchers with similar interests. Over 100 academic institutions are now participating.",
+      "zh": "美國國家癌症研究所（NCI）支持逾 3,000 名科學家，與 Google Cloud 及 Barnacle Labs 合作開發 NanCI——一款使用 Gemini 長上下文視窗和語義搜索的 AI 研究助理應用程式，幫助研究人員管理每日發表的逾 500 篇癌症研究論文。應用程式提供個人化論文推薦、論文摘要、「與論文對話」功能以及連結興趣相近研究者的社群功能。目前已有逾 100 所學術機構參與。"
+    },
+    "highlights": {
+      "en": [
+        "NanCI uses Gemini to manage 500+ cancer research papers published daily with personalized recommendations.",
+        "Features include paper summaries, chat-with-the-paper, and social networking for researchers.",
+        "Over 100 academic institutions are now participating in the NanCI platform.",
+        "Supports NCI's network of more than 3,000 scientists worldwide."
+      ],
+      "zh": [
+        "NanCI 使用 Gemini 管理每日發表的逾 500 篇癌症研究論文，提供個人化推薦。",
+        "功能包括論文摘要、與論文對話，以及研究者社群網路。",
+        "逾 100 所學術機構現已參與 NanCI 平台。",
+        "支持 NCI 全球逾 3,000 名科學家的研究網絡。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Vertex AI",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "National Cancer Institute case study | Google Cloud",
+        "url": "https://cloud.google.com/customers/national-cancer-institute"
+      },
+      {
+        "title": "NCI Revamping NanCI Social App to Bolster Cancer Research – MeriTalk",
+        "url": "https://www.meritalk.com/articles/nci-revamping-nanci-social-app-to-bolster-cancer-research/"
+      },
+      {
+        "title": "New AI-Powered Feed Connects Scientists | NIH Record",
+        "url": "https://nihrecord.nih.gov/2025/03/14/new-ai-powered-feed-connects-scientists"
+      }
+    ]
+  },
+  {
+    "id": "public-sector-nonprofits-employee-opportunity-work",
+    "industry": "public-sector-nonprofits",
+    "agentType": "employee",
+    "company": "Opportunity@Work",
+    "isNew": false,
+    "summary": {
+      "en": "Opportunity@Work uses gen AI to scale tools helping employers identify STAR candidates skilled through alternative routes.",
+      "zh": "Opportunity@Work 運用生成式 AI 擴展工具，協助雇主辨識透過非傳統途徑習得技能的 STAR 求職者。"
+    },
+    "overview": {
+      "en": "Opportunity@Work advocates for a skills-first labor market serving over 70 million STARs — workers Skilled Through Alternative Routes such as community college, military service, and on-the-job experience. The organization applies generative AI to scale a suite of software tools and APIs, branded as STARSight, that help employers identify qualified STAR candidates who might otherwise be overlooked. The tools use AI to improve candidate-job matching, helping fill roles in a tight market and expand economic opportunities.",
+      "zh": "Opportunity@Work 倡導以技能為本的勞動力市場，服務逾 7,000 萬名透過非傳統途徑習得技能的 STAR 工作者（如社區學院、軍事服務、在職學習）。組織將生成式 AI 應用於擴展名為 STARSight 的一套軟體工具與 API，協助雇主辨識可能被忽略的合格 STAR 候選人，透過 AI 改善求職者與職位的匹配，在緊俏的勞動市場中填補職缺並擴大經濟機會。"
+    },
+    "highlights": {
+      "en": [
+        "STARSight APIs use gen AI to help employers identify 70+ million STAR workers often overlooked in hiring.",
+        "AI improves candidate-job matching, shortening time-to-hire and increasing diversity.",
+        "Tools help fill roles in tight labor markets by surfacing skills earned through non-degree pathways.",
+        "Supports employers in transitioning to skills-first hiring practices at scale."
+      ],
+      "zh": [
+        "STARSight API 使用生成式 AI 協助雇主辨識逾 7,000 萬名常被忽視的 STAR 工作者。",
+        "AI 改善求職者與職位匹配，縮短招募時間並提升多樣性。",
+        "工具透過挖掘非學位途徑習得的技能，協助在緊俏勞動市場中填補職缺。",
+        "支持雇主大規模轉型為以技能為本的招募實踐。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Vertex AI",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "AI in a skills-first labor market | Opportunity@Work",
+        "url": "https://www.opportunityatwork.org/topics/ai-in-a-skills-first-labor-market"
+      },
+      {
+        "title": "Skilled Through Alternative Routes (STARs) - Opportunity@Work",
+        "url": "https://learnworkecosystemlibrary.com/initiatives/stars-skilled-through-alternative-routes-opportunitywork/"
+      }
+    ]
+  },
+  {
+    "id": "public-sector-nonprofits-employee-paran-state-department-of-education",
+    "industry": "public-sector-nonprofits",
+    "agentType": "employee",
+    "company": "Paraná State Department of Education",
+    "isNew": false,
+    "summary": {
+      "en": "Paraná's education department uses Gemini API to grade essays in under 3 minutes, down from 10–15 minutes, for 900,000 students.",
+      "zh": "巴西巴拉那州教育廳使用 Gemini API 為 90 萬名學生批改作文，批改時間從每篇 10-15 分鐘降至 3 分鐘以內。"
+    },
+    "overview": {
+      "en": "The Paraná State Department of Education in Brazil serves 900,000 students across 2,100 schools. The department uses the Gemini API to automatically grade student essays and provide personalized feedback. The AI solution reduced grading time from 10–15 minutes per essay to under 3 minutes, freeing teachers to focus more attention on students who need the most writing support.",
+      "zh": "巴西巴拉那州教育廳服務 2,100 所學校的 90 萬名學生，使用 Gemini API 自動批改學生作文並提供個人化回饋。AI 解決方案將每篇作文的批改時間從 10-15 分鐘縮短至 3 分鐘以內，讓教師能將更多注意力集中在最需要寫作輔導的學生身上。"
+    },
+    "highlights": {
+      "en": [
+        "Gemini API grades essays in under 3 minutes, compared to 10–15 minutes manually.",
+        "Serves 900,000 students across 2,100 schools in Brazil.",
+        "Provides personalized feedback at scale, previously impractical for large classrooms.",
+        "Frees teachers to focus on students who need the most writing support."
+      ],
+      "zh": [
+        "Gemini API 在 3 分鐘以內批改作文，相比人工批改的 10-15 分鐘大幅縮短。",
+        "服務巴西 2,100 所學校的 90 萬名學生。",
+        "大規模提供個人化回饋，這在大型班級中以往並不可行。",
+        "讓教師得以專注於最需要寫作輔導的學生。"
+      ]
+    },
+    "technologies": [
+      "Gemini API",
+      "Vertex AI",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "public-sector-nonprofits-employee-stanford-university",
+    "industry": "public-sector-nonprofits",
+    "agentType": "employee",
+    "company": "Stanford University",
+    "isNew": true,
+    "summary": {
+      "en": "Stanford built an AI Playground on Gemini and GKE in two months, now serving 7,000+ active users processing 38B tokens.",
+      "zh": "Stanford 在兩個月內以 Gemini 和 Google Kubernetes Engine 建立 AI Playground，目前超過 7,000 名活躍用戶已處理 380 億個 token。"
+    },
+    "overview": {
+      "en": "Stanford University's central technology organization wanted to increase AI literacy across campus while maintaining strict data privacy and security standards. Using the Gemini Enterprise Agent Platform and Google Kubernetes Engine, University IT built and launched the Stanford AI Playground in just two months — a free, secure platform where students, faculty, and staff can explore and compare generative AI models from Google, OpenAI, Anthropic, and others. The platform is already serving more than 7,000 active users and processing 38 billion tokens across millions of queries.",
+      "zh": "Stanford 大學的中央技術組織希望在維持嚴格資料隱私與安全標準的同時，提升校園 AI 素養。University IT 使用 Gemini Enterprise Agent Platform 和 Google Kubernetes Engine，僅用兩個月便建立並推出 Stanford AI Playground——一個免費、安全的平台，讓學生、教職員和工作人員可以探索並比較 Google、OpenAI、Anthropic 等廠商的生成式 AI 模型。該平台已有逾 7,000 名活躍用戶，並透過數百萬次查詢處理了 380 億個 token。"
+    },
+    "highlights": {
+      "en": [
+        "Stanford AI Playground built and launched in just two months using Gemini Enterprise Agent Platform and GKE.",
+        "Over 7,000 active users across students, faculty, and staff.",
+        "38 billion tokens processed across millions of queries and interactions.",
+        "Free, secure platform allowing exploration of multiple AI models with data privacy guarantees."
+      ],
+      "zh": [
+        "Stanford AI Playground 使用 Gemini Enterprise Agent Platform 和 GKE，僅用兩個月建立並推出。",
+        "逾 7,000 名活躍用戶，涵蓋學生、教職員與工作人員。",
+        "透過數百萬次查詢與互動處理了 380 億個 token。",
+        "免費、安全的平台，在資料隱私保障下支援多種 AI 模型探索。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Gemini Enterprise Agent Platform",
+      "Google Kubernetes Engine",
+      "Vertex AI"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "AI Playground offers a safe place to explore and experiment | Stanford Report",
+        "url": "https://news.stanford.edu/stories/2025/01/ai-playground-offers-a-safe-place-to-explore-and-experiment"
+      },
+      {
+        "title": "Stanford's AI Playground Keeps up a Quick Pace | University IT",
+        "url": "https://uit.stanford.edu/news/stanford-ai-playground-keeps-quick-pace"
+      }
+    ]
+  },
+  {
+    "id": "public-sector-nonprofits-employee-studio-be",
+    "industry": "public-sector-nonprofits",
+    "agentType": "employee",
+    "company": "Studio Be",
+    "isNew": false,
+    "summary": {
+      "en": "Studio Be founder uses Gemini in Gmail to manage hundreds of weekly emails, freeing time to support New Orleans artists.",
+      "zh": "Studio Be 創辦人使用 Gemini in Gmail 管理每週數百封郵件，騰出更多時間支持紐奧良藝術家。"
+    },
+    "overview": {
+      "en": "Studio Be is a nonprofit arts organization in New Orleans that empowers local artists. Founder Brandan 'BMike' Odums receives hundreds of emails per week and uses Gemini in Gmail to summarize and respond to them efficiently. By reducing time spent on email management, he can dedicate more hours to supporting young artists and growing the organization's community impact.",
+      "zh": "Studio Be 是紐奧良一個賦能在地藝術家的非營利藝術組織。創辦人 Brandan「BMike」Odums 每週收到數百封郵件，使用 Gmail 中的 Gemini 高效摘要並回覆這些郵件，減少在郵件管理上花費的時間，使他得以將更多時間投入支持年輕藝術家及拓展組織的社區影響力。"
+    },
+    "highlights": {
+      "en": [
+        "Gemini in Gmail summarizes and assists with responding to hundreds of weekly emails.",
+        "Founder reclaims time from email management to focus on supporting young artists.",
+        "Demonstrates AI productivity gains for single-leader community arts organizations."
+      ],
+      "zh": [
+        "Gmail 中的 Gemini 摘要並協助回覆每週數百封郵件。",
+        "創辦人從郵件管理中節省出時間，專注於支持年輕藝術家。",
+        "展示 AI 生產力提升對單一領導者社區藝術組織的效益。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Gmail",
+      "Google Workspace"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "public-sector-nonprofits-employee-the-red-barn",
+    "industry": "public-sector-nonprofits",
+    "agentType": "employee",
+    "company": "The Red Barn",
+    "isNew": false,
+    "summary": {
+      "en": "The Red Barn uses Gemini in Docs to write grant proposals funding equine-assisted therapy for children with disabilities.",
+      "zh": "The Red Barn 使用 Gemini in Docs 撰寫補助申請書，為身障兒童的馬術輔助治療計畫爭取資金。"
+    },
+    "overview": {
+      "en": "The Red Barn is a nonprofit that teaches children with disabilities how to work with horses through equine-assisted therapy programs. The organization uses Gemini in Google Docs to help write grant proposals, enabling the team to secure funding that allows more children to benefit from this therapeutic approach.",
+      "zh": "The Red Barn 是一個透過馬術輔助治療計畫教導身障兒童與馬匹互動的非營利組織。他們使用 Google Docs 中的 Gemini 協助撰寫補助申請書，讓團隊能夠爭取資金，使更多兒童受益於這種治療方式。"
+    },
+    "highlights": {
+      "en": [
+        "Gemini in Docs assists writing grant proposals to fund equine-assisted therapy programs.",
+        "Funding secured through AI-assisted grant writing allows more children with disabilities to receive therapy."
+      ],
+      "zh": [
+        "Gemini in Docs 協助撰寫資助馬術輔助治療計畫的補助申請書。",
+        "透過 AI 輔助申請書爭取到的資金，使更多身障兒童能夠接受治療。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Google Docs",
+      "Google Workspace"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "public-sector-nonprofits-employee-the-wilmington-ballet",
+    "industry": "public-sector-nonprofits",
+    "agentType": "employee",
+    "company": "The Wilmington Ballet",
+    "isNew": false,
+    "summary": {
+      "en": "The Wilmington Ballet uses Gemini in Docs to draft grant proposals, freeing staff to nurture the next generation of dancers.",
+      "zh": "Wilmington Ballet 使用 Gemini in Docs 起草補助申請書，讓員工有更多時間培育下一代舞者。"
+    },
+    "overview": {
+      "en": "The Wilmington Ballet continues its mission of empowering students through dance by using Gemini in Google Docs to draft grant proposals. This AI assistance reduces the administrative burden of grant writing, giving the team more time to spend nurturing young dancers and advancing dance education in the community.",
+      "zh": "Wilmington Ballet 透過使用 Google Docs 中的 Gemini 起草補助申請書，持續推進以舞蹈賦能學生的使命。AI 輔助減少了補助申請的行政負擔，讓團隊有更多時間培育年輕舞者並推動社區舞蹈教育。"
+    },
+    "highlights": {
+      "en": [
+        "Gemini in Docs drafts grant proposals that fund dance education programs.",
+        "Reduces administrative burden, freeing staff to focus on dance instruction and student development."
+      ],
+      "zh": [
+        "Gemini in Docs 起草資助舞蹈教育計畫的補助申請書。",
+        "減少行政負擔，讓員工得以專注於舞蹈教學與學生發展。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Google Docs",
+      "Google Workspace"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "public-sector-nonprofits-employee-u-s-air-force",
+    "industry": "public-sector-nonprofits",
+    "agentType": "employee",
+    "company": "U.S. Air Force",
+    "isNew": false,
+    "summary": {
+      "en": "U.S. Air Force built a PDF search portal using Vertex AI Search in 90 days.",
+      "zh": "美國空軍在 90 天內利用 Vertex AI Search 建立電子出版品 PDF 搜尋入口網站。"
+    },
+    "overview": {
+      "en": "The U.S. Air Force built a proof-of-concept portal for searching, browsing, and reading e-published PDFs, all within a 90-day deadline. The project leveraged the prebuilt tools and speed of Vertex AI Search and Conversation, enabling rapid delivery of a functional search solution for military documents without extensive custom development.",
+      "zh": "美國空軍在 90 天期限內建立了一個用於搜尋、瀏覽和閱讀電子出版品 PDF 的概念驗證入口網站。該專案利用 Vertex AI Search and Conversation 的預建工具和速度，無需大量客製化開發即可快速交付軍事文件的搜尋解決方案。"
+    },
+    "highlights": {
+      "en": [
+        "Built a functional PDF search portal within a strict 90-day deadline.",
+        "Used Vertex AI Search and Conversation prebuilt tools to accelerate delivery.",
+        "Enables military personnel to search, browse, and read e-published PDF documents."
+      ],
+      "zh": [
+        "在嚴格的 90 天期限內建立可運作的 PDF 搜尋入口網站。",
+        "使用 Vertex AI Search and Conversation 預建工具加速交付。",
+        "讓軍事人員能夠搜尋、瀏覽和閱讀電子出版品 PDF 文件。"
+      ]
+    },
+    "technologies": [
+      "Vertex AI Search",
+      "Vertex AI"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "public-sector-nonprofits-employee-u-s-department-of-energy-s-17-national-labs",
+    "industry": "public-sector-nonprofits",
+    "agentType": "employee",
+    "company": "U.S. Department of Energy's 17 National Labs",
+    "isNew": true,
+    "summary": {
+      "en": "DOE's 17 national labs use Gemini for Government to double scientific productivity under the White House Genesis Mission.",
+      "zh": "美國能源部 17 個國家實驗室使用 Gemini for Government，響應白宮「Genesis Mission」目標在十年內使科學生產力倍增。"
+    },
+    "overview": {
+      "en": "The U.S. Department of Energy's 17 National Laboratories are at the forefront of the Genesis Mission — the White House's ambition to double scientific productivity within the decade. Gemini for Government provides a secure, accredited platform where researchers can ask questions in natural language to generate insights grounded in technical reports, code, images, enterprise applications, and scientific datasets, accelerating discovery across the national lab ecosystem.",
+      "zh": "美國能源部 17 個國家實驗室站在「Genesis Mission」的前沿——這是白宮提出的在十年內使科學生產力倍增的宏大目標。Gemini for Government 提供安全且經過認證的平台，研究人員可用自然語言提問，從技術報告、程式碼、圖像、企業應用和科學數據集中生成洞見，加速國家實驗室生態系統的科學發現。"
+    },
+    "highlights": {
+      "en": [
+        "Part of the White House Genesis Mission to double U.S. scientific productivity within a decade.",
+        "Gemini for Government enables natural language queries across technical reports, code, images, and scientific datasets.",
+        "Covers all 17 DOE National Laboratories, a network of world-leading research institutions.",
+        "Provides a secure, accredited environment meeting government data sovereignty requirements."
+      ],
+      "zh": [
+        "作為白宮「Genesis Mission」的一部分，目標在十年內使美國科學生產力倍增。",
+        "Gemini for Government 支援跨技術報告、程式碼、圖像和科學數據集的自然語言查詢。",
+        "涵蓋全部 17 個能源部國家實驗室，這是世界領先研究機構的網絡。",
+        "提供符合政府資料主權要求的安全認證環境。"
+      ]
+    },
+    "technologies": [
+      "Gemini for Government",
+      "Gemini",
+      "Vertex AI",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Welcome to Google Cloud Next 2026 | Google Cloud Blog",
+        "url": "https://cloud.google.com/blog/topics/google-cloud-next/welcome-to-google-cloud-next26"
+      }
+    ]
+  },
+  {
+    "id": "public-sector-nonprofits-employee-u-s-department-of-transportation",
+    "industry": "public-sector-nonprofits",
+    "agentType": "employee",
+    "company": "U.S. Department of Transportation",
+    "isNew": true,
+    "summary": {
+      "en": "U.S. DOT uses Gemini for Government to streamline contracting and NotebookLM to synthesize research for executive briefings.",
+      "zh": "美國交通部使用 Gemini for Government 優化採購合約流程，並使用 NotebookLM 快速整合複雜研究以供主管簡報使用。"
+    },
+    "overview": {
+      "en": "Employees at the U.S. Department of Transportation use Gemini for Government to streamline contracting and communications workflows. They also use NotebookLM to rapidly synthesize complex research for executive briefings, reducing the time needed to distill large volumes of technical material into actionable summaries for leadership.",
+      "zh": "美國交通部的員工使用 Gemini for Government 優化採購合約和通訊工作流程，並使用 NotebookLM 快速整合複雜研究供主管簡報使用，縮短將大量技術資料提煉為可供領導層使用的行動摘要所需時間。"
+    },
+    "highlights": {
+      "en": [
+        "Gemini for Government streamlines contracting and internal communications.",
+        "NotebookLM rapidly synthesizes complex research for executive briefings.",
+        "Reduces time needed to prepare leadership-ready summaries from technical documents."
+      ],
+      "zh": [
+        "Gemini for Government 優化採購合約和內部通訊。",
+        "NotebookLM 快速整合複雜研究供主管簡報使用。",
+        "縮短從技術文件準備供領導層使用的摘要所需時間。"
+      ]
+    },
+    "technologies": [
+      "Gemini for Government",
+      "Gemini",
+      "NotebookLM"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "public-sector-nonprofits-employee-u-s-dept-of-veterans-affairs",
+    "industry": "public-sector-nonprofits",
+    "agentType": "employee",
+    "company": "U.S. Dept. of Veterans Affairs",
+    "isNew": false,
+    "summary": {
+      "en": "The VA deploys Google's AI-powered Augmented Reality Microscope to help pathologists detect cancer faster at military facilities worldwide.",
+      "zh": "美國退伍軍人事務部在全球軍事醫療機構部署 Google AI 擴增實境顯微鏡（ARM），協助病理科醫師更快速準確地診斷癌症。"
+    },
+    "overview": {
+      "en": "The U.S. Department of Veterans Affairs, in collaboration with the Department of Defense, Defense Innovation Unit, Google Public Sector, and Jenoptik, has deployed the Augmented Reality Microscope (ARM) at remote military treatment facilities around the world. The ARM uses AI algorithms to analyze digitized tissue samples and highlight potential abnormalities in real time, helping pathologists detect breast cancer, cervical cancer, and prostate cancer faster and with better accuracy.",
+      "zh": "美國退伍軍人事務部與國防部、國防創新小組、Google Public Sector 及 Jenoptik 合作，在全球遠端軍事醫療機構部署擴增實境顯微鏡（ARM）。ARM 使用 AI 演算法即時分析數位化組織樣本並標示潛在異常，協助病理科醫師更快速、更準確地診斷乳腺癌、子宮頸癌和前列腺癌。"
+    },
+    "highlights": {
+      "en": [
+        "ARM deployed at remote military treatment facilities globally to assist pathologists.",
+        "AI detects breast cancer, cervical cancer, prostate cancer, and abnormal cell duplication.",
+        "Real-time augmented reality overlay highlights potential tissue abnormalities during microscopy.",
+        "Collaboration between VA, DoD, Defense Innovation Unit, Google Public Sector, and Jenoptik."
+      ],
+      "zh": [
+        "ARM 部署於全球遠端軍事醫療機構，輔助病理科醫師診斷。",
+        "AI 可偵測乳腺癌、子宮頸癌、前列腺癌及異常細胞分裂。",
+        "顯微鏡檢查時即時疊加擴增實境標示潛在組織異常。",
+        "由退伍軍人事務部、國防部、國防創新小組、Google Public Sector 及 Jenoptik 合作推動。"
+      ]
+    },
+    "technologies": [
+      "Vertex AI",
+      "Google Cloud",
+      "Google Public Sector AI"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "DoD - Google AI for Public Sector",
+        "url": "https://publicsector.google/ai/google-and-the-us-department-of-defense-teamed-up-to-battle-cancer/"
+      },
+      {
+        "title": "AI-Enabled Microscopes Could Bring More Timely, Accurate Cancer Detection | DIU",
+        "url": "https://www.diu.mil/latest/augmented-reality-microscope"
+      },
+      {
+        "title": "How DOD and Google Public Sector partnered using AI to fight cancer | FedScoop",
+        "url": "https://fedscoop.com/how-dod-and-google-public-sector-partnered-using-ai-to-fight-cancer/"
+      }
+    ]
+  },
+  {
+    "id": "public-sector-nonprofits-employee-u-s-food-and-drug-administration",
+    "industry": "public-sector-nonprofits",
+    "agentType": "employee",
+    "company": "U.S. Food and Drug Administration",
+    "isNew": true,
+    "summary": {
+      "en": "The FDA deploys multi-step agentic AI workflows powered by Gemini for Government to streamline reviewer and scientist tasks.",
+      "zh": "美國食品藥物管理局（FDA）部署由 Gemini for Government 驅動的多步驟代理式 AI 工作流程，為審查員與科學家簡化複雜任務。"
+    },
+    "overview": {
+      "en": "The U.S. Food and Drug Administration is deploying agentic AI capabilities including multi-step AI workflows powered by Gemini for Government. These tools are designed to put world-class AI capabilities into the hands of FDA reviewers and scientists, enabling them to streamline complex regulatory and scientific tasks and improve review efficiency.",
+      "zh": "美國食品藥物管理局（FDA）正在部署代理式 AI 能力，包括由 Gemini for Government 驅動的多步驟 AI 工作流程。這些工具旨在將世界級 AI 能力賦予 FDA 審查員和科學家，協助他們簡化複雜的監管與科學任務，提升審查效率。"
+    },
+    "highlights": {
+      "en": [
+        "Deploys multi-step agentic AI workflows powered by Gemini for Government.",
+        "Puts advanced AI tools directly into the hands of FDA reviewers and scientists.",
+        "Streamlines complex regulatory and scientific review tasks."
+      ],
+      "zh": [
+        "部署由 Gemini for Government 驅動的多步驟代理式 AI 工作流程。",
+        "將先進 AI 工具直接賦予 FDA 審查員和科學家。",
+        "簡化複雜的監管與科學審查任務。"
+      ]
+    },
+    "technologies": [
+      "Gemini for Government",
+      "Gemini",
+      "Vertex AI"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "public-sector-nonprofits-employee-u-s-patent-and-trademark-office",
+    "industry": "public-sector-nonprofits",
+    "agentType": "employee",
+    "company": "U.S. Patent and Trademark Office",
+    "isNew": false,
+    "summary": {
+      "en": "USPTO improved patent and trademark examination quality and efficiency with AI-driven technologies.",
+      "zh": "美國專利商標局（USPTO）透過 AI 驅動技術提升專利與商標審查的品質與效率。"
+    },
+    "overview": {
+      "en": "The U.S. Patent and Trademark Office has improved the quality and efficiency of its patent and trademark examination process by implementing AI-driven technologies. The deployment supports examiners in processing a high volume of applications more accurately and consistently.",
+      "zh": "美國專利商標局（USPTO）透過實施 AI 驅動技術，提升了專利與商標審查流程的品質與效率，協助審查員更準確、一致地處理大量申請案件。"
+    },
+    "highlights": {
+      "en": [
+        "AI-driven technologies improve quality and efficiency of patent and trademark examination.",
+        "Supports examiners in handling high volumes of applications more accurately."
+      ],
+      "zh": [
+        "AI 驅動技術提升專利與商標審查的品質與效率。",
+        "協助審查員更準確地處理大量申請案件。"
+      ]
+    },
+    "technologies": [
+      "Vertex AI",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "public-sector-nonprofits-employee-understood-org",
+    "industry": "public-sector-nonprofits",
+    "agentType": "employee",
+    "company": "Understood.org",
+    "isNew": false,
+    "summary": {
+      "en": "Understood.org uses Gemini for Google Workspace to improve efficiency across departments with document summarization and email writing.",
+      "zh": "Understood.org 使用 Gemini for Google Workspace 透過文件摘要和郵件撰寫提升各部門的效率與溝通。"
+    },
+    "overview": {
+      "en": "Understood.org is a nonprofit that supports the 70 million people in the U.S. with learning and thinking differences. The organization uses Gemini for Google Workspace to improve efficiency and communication across departments, streamlining tasks like document summarization and email writing so staff can focus on delivering resources and support to their community.",
+      "zh": "Understood.org 是一個支持美國 7,000 萬名有學習與思維差異人士的非營利組織。該組織使用 Gemini for Google Workspace 提升各部門的效率與溝通，簡化文件摘要和郵件撰寫等任務，讓員工得以專注於為其社群提供資源與支持。"
+    },
+    "highlights": {
+      "en": [
+        "Gemini for Workspace streamlines document summarization and email writing across departments.",
+        "Efficiency gains allow staff to focus on serving 70 million Americans with learning differences.",
+        "Improves cross-department communication at scale."
+      ],
+      "zh": [
+        "Gemini for Workspace 簡化各部門的文件摘要和郵件撰寫。",
+        "效率提升讓員工得以專注服務 7,000 萬名有學習差異的美國人。",
+        "大規模改善跨部門溝通。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Google Workspace"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "public-sector-nonprofits-employee-uniformed-services-university",
+    "industry": "public-sector-nonprofits",
+    "agentType": "employee",
+    "company": "Uniformed Services University",
+    "isNew": false,
+    "summary": {
+      "en": "Uniformed Services University uses Google Workspace with Gemini, with 88% of pilot users reporting improved overall effectiveness.",
+      "zh": "美國軍事醫療大學使用 Google Workspace 搭配 Gemini，88% 的試點用戶表示整體效能有所提升。"
+    },
+    "overview": {
+      "en": "The Uniformed Services University (USU) trains the U.S. military's medical personnel and prepares them professionally and technically for digital medicine. Using Google Workspace with Gemini, USU supported new ways of working including HR processes, academic workflows, and proposal writing. A pilot program found that 88% of users reported being more effective overall, with AI accelerating administrative and academic work.",
+      "zh": "美國軍事醫療大學（USU）負責訓練美國軍事醫療人員，並在專業和技術上為數位醫療做好準備。透過使用 Google Workspace 搭配 Gemini，USU 支持了包括人力資源流程、學術工作流程和提案撰寫在內的新工作模式。試點計畫發現，88% 的用戶表示整體效能有所提升，AI 加速了行政和學術工作。"
+    },
+    "highlights": {
+      "en": [
+        "88% of pilot users reported being more effective overall after adopting Gemini in Workspace.",
+        "AI accelerates HR, academic, and proposal writing processes.",
+        "Supports preparation of military medical personnel for the future of digital medicine."
+      ],
+      "zh": [
+        "採用 Gemini in Workspace 後，88% 的試點用戶表示整體效能有所提升。",
+        "AI 加速人力資源、學術與提案撰寫流程。",
+        "支持軍事醫療人員為數位醫療的未來做好準備。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Google Workspace"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Uniformed Services University case study | Google Cloud",
+        "url": "https://cloud.google.com/customers/uniformed-services-university"
+      }
+    ]
+  },
+  {
+    "id": "public-sector-nonprofits-employee-universidad-panamericana",
+    "industry": "public-sector-nonprofits",
+    "agentType": "employee",
+    "company": "Universidad Panamericana",
+    "isNew": true,
+    "summary": {
+      "en": "Universidad Panamericana uses Gemini for Education to improve teaching, learning, and administrative efficiency.",
+      "zh": "墨西哥 Universidad Panamericana 使用 Gemini for Education 改善師生教學體驗並節省例行行政任務的時間。"
+    },
+    "overview": {
+      "en": "Universidad Panamericana, a private university in Mexico, uses Gemini for Education to improve the teaching and learning process for both teachers and students. The AI tools also help save time on routine administrative tasks, allowing faculty and staff to focus more on educational quality and student engagement.",
+      "zh": "墨西哥的私立大學 Universidad Panamericana 使用 Gemini for Education 改善教師和學生的教學體驗。AI 工具也幫助節省例行行政任務的時間，讓教職人員能夠更專注於教育品質與學生參與度。"
+    },
+    "highlights": {
+      "en": [
+        "Gemini for Education improves teaching and learning processes for faculty and students.",
+        "AI tools save time on routine administrative tasks.",
+        "Enables faculty to focus more on educational quality and student engagement."
+      ],
+      "zh": [
+        "Gemini for Education 改善教師和學生的教學流程。",
+        "AI 工具節省例行行政任務的時間。",
+        "讓教職人員能夠更專注於教育品質與學生參與度。"
+      ]
+    },
+    "technologies": [
+      "Gemini for Education",
+      "Gemini",
+      "Google Workspace"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "public-sector-nonprofits-employee-west-sussex-county-council",
+    "industry": "public-sector-nonprofits",
+    "agentType": "employee",
+    "company": "West Sussex County Council",
+    "isNew": false,
+    "summary": {
+      "en": "West Sussex County Council deployed 14 gen AI agents using Dialogflow and Vertex AI to help 890,000 residents' service staff access policy and procedures faster.",
+      "zh": "西薩塞克斯郡議會使用 Dialogflow 和 Vertex AI 部署 14 個生成式 AI 代理程式，協助為 89 萬居民服務的員工更快存取政策與程序。"
+    },
+    "overview": {
+      "en": "West Sussex County Council serves 890,000 residents in the UK and deployed 14 unique generative AI agents using Dialogflow and Vertex AI. The agents provide conversational search to council employees — particularly Adult Social Care teams — allowing them to quickly access policy guides, legislation, procedures, and important documents. The AI assistants reduce time spent searching for information and improve efficiency across internal teams, with the council aiming to scale to hundreds of use cases.",
+      "zh": "西薩塞克斯郡議會服務英國 89 萬居民，使用 Dialogflow 和 Vertex AI 部署了 14 個獨特的生成式 AI 代理程式。這些代理程式為議會員工——尤其是成人社會服務團隊——提供對話式搜尋，讓他們能夠快速存取政策指南、法規、程序和重要文件。AI 助理減少了員工搜尋資訊的時間，提升了內部團隊的工作效率，議會計畫將此擴展至數百個使用案例。"
+    },
+    "highlights": {
+      "en": [
+        "14 unique generative AI agents deployed for conversational search across policy and legal documents.",
+        "Particularly benefits Adult Social Care teams serving 890,000 UK residents.",
+        "Reduces time staff spend searching for policy guides, legislation, and procedures.",
+        "Council aims to scale AI agent technology to hundreds of use cases across the organization."
+      ],
+      "zh": [
+        "部署 14 個獨特的生成式 AI 代理程式，用於政策和法律文件的對話式搜尋。",
+        "特別有益於服務 89 萬英國居民的成人社會服務團隊。",
+        "減少員工搜尋政策指南、法規和程序的時間。",
+        "議會計畫將 AI 代理程式技術擴展至整個組織的數百個使用案例。"
+      ]
+    },
+    "technologies": [
+      "Dialogflow",
+      "Vertex AI",
+      "Gemini",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "West Sussex County case study | Google Cloud",
+        "url": "https://cloud.google.com/customers/westsussexcounty"
+      }
+    ]
+  },
+  {
+    "id": "public-sector-nonprofits-employee-yduqs",
+    "industry": "public-sector-nonprofits",
+    "agentType": "employee",
+    "company": "YDUQS",
+    "isNew": false,
+    "summary": {
+      "en": "YDUQS uses Vertex AI to screen student admission cover letters with 90% accuracy and 4-second response time, saving BRL 1.5M.",
+      "zh": "巴西教育集團 YDUQS 使用 Vertex AI 篩選入學申請信函，準確率 90%、平均 4 秒回應，節省約 150 萬巴西雷亞爾。"
+    },
+    "overview": {
+      "en": "YDUQS is a Brazilian education company that uses Vertex AI to automate the screening of cover letters for student admissions. The AI solution replaced manual professional assessment, achieving a 90% success rate with an average response time of just 4 seconds. This streamlined enrollment process has enabled YDUQS to save approximately BRL 1.5 million since adoption.",
+      "zh": "YDUQS 是一家巴西教育公司，使用 Vertex AI 自動篩選學生入學申請信函。AI 解決方案取代了人工專業評估，達到 90% 的成功率，平均回應時間僅 4 秒。這一簡化的入學流程自採用以來已為 YDUQS 節省約 150 萬巴西雷亞爾。"
+    },
+    "highlights": {
+      "en": [
+        "Vertex AI screens student admission cover letters with 90% success rate.",
+        "Average response time of 4 seconds, compared to manual assessment.",
+        "Saved approximately BRL 1.5 million since adoption.",
+        "Replaced professional manual review, reducing costs and accelerating enrollment."
+      ],
+      "zh": [
+        "Vertex AI 以 90% 的成功率篩選學生入學申請信函。",
+        "相較人工評估，平均回應時間僅 4 秒。",
+        "自採用以來節省約 150 萬巴西雷亞爾。",
+        "取代人工專業審查，降低成本並加快入學流程。"
+      ]
+    },
+    "technologies": [
+      "Vertex AI",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "YDUQS Case Study | Google Cloud",
+        "url": "https://cloud.google.com/customers/yduqs"
+      }
+    ]
+  },
+  {
+    "id": "public-sector-nonprofits-security-centre-for-strategic-infocomm-technologies",
+    "industry": "public-sector-nonprofits",
+    "agentType": "security",
+    "company": "Centre for Strategic Infocomm Technologies",
+    "isNew": true,
+    "summary": {
+      "en": "Singapore's CSIT uses AI-augmented security tools to translate threat intelligence into proactive defense actions.",
+      "zh": "新加坡 CSIT 使用 AI 強化的安全工具，將威脅情報轉化為主動防禦行動，對抗先進數位威脅。"
+    },
+    "overview": {
+      "en": "The Centre for Strategic Infocomm Technologies (CSIT) is Singapore's government agency for enabling proactive defense against advanced digital threats. CSIT uses AI-augmented security tools to translate threat intelligence insights into concrete defensive actions faster, strengthening Singapore's national cybersecurity posture.",
+      "zh": "新加坡戰略資訊通訊技術中心（CSIT）是負責針對先進數位威脅實施主動防禦的政府機構。CSIT 使用 AI 強化的安全工具，更快速地將威脅情報洞察轉化為具體防禦行動，強化新加坡的國家網路安全態勢。"
+    },
+    "highlights": {
+      "en": [
+        "AI-augmented security tools enable proactive defense against advanced digital threats.",
+        "Translates threat intelligence insights into defensive actions faster.",
+        "Strengthens Singapore's national cybersecurity posture."
+      ],
+      "zh": [
+        "AI 強化的安全工具支援針對先進數位威脅的主動防禦。",
+        "更快速地將威脅情報洞察轉化為防禦行動。",
+        "強化新加坡的國家網路安全態勢。"
+      ]
+    },
+    "technologies": [
+      "Vertex AI",
+      "Google Cloud",
+      "Security AI"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "public-sector-nonprofits-security-government-of-singapore",
+    "industry": "public-sector-nonprofits",
+    "agentType": "security",
+    "company": "Government of Singapore",
+    "isNew": false,
+    "summary": {
+      "en": "Singapore uses Google Cloud Web Risk AI to proactively detect and block thousands of harmful websites protecting its residents.",
+      "zh": "新加坡政府使用 Google Cloud Web Risk 的 AI 能力，主動偵測並封鎖數千個有害網站，保護居民上網安全。"
+    },
+    "overview": {
+      "en": "The Government of Singapore, through the Government Technology Agency (GovTech), partnered with Google Cloud to deploy Web Risk — an AI-powered service that scans over 10 billion URLs and files daily to identify phishing sites, malware, and harmful content. Web Risk is integrated into Singapore's Government Cyber Security Operations Centre (GCSOC) infrastructure, and has disrupted thousands of harmful sites to date, protecting Singapore citizens and residents from online scams.",
+      "zh": "新加坡政府透過政府科技局（GovTech）與 Google Cloud 合作，部署 Web Risk——一項每日掃描逾 100 億個 URL 和檔案以辨識釣魚網站、惡意軟體和有害內容的 AI 服務。Web Risk 整合至新加坡政府網路安全運營中心（GCSOC）基礎設施，迄今已阻斷數千個有害網站，保護新加坡市民免受網路詐騙侵害。"
+    },
+    "highlights": {
+      "en": [
+        "Google Cloud Web Risk scans over 10 billion URLs and files daily using AI.",
+        "Integrated into Singapore's Government Cyber Security Operations Centre (GCSOC).",
+        "Has disrupted thousands of harmful phishing and scam sites to date.",
+        "Protects Singapore citizens and residents from online scams and malicious websites."
+      ],
+      "zh": [
+        "Google Cloud Web Risk 每日使用 AI 掃描逾 100 億個 URL 和檔案。",
+        "整合至新加坡政府網路安全運營中心（GCSOC）。",
+        "迄今已阻斷數千個有害釣魚網站和詐騙網站。",
+        "保護新加坡市民免受網路詐騙和惡意網站侵害。"
+      ]
+    },
+    "technologies": [
+      "Google Cloud Web Risk",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Singapore Government & Google partner to protect citizens from scams | Google Cloud Blog",
+        "url": "https://cloud.google.com/blog/products/identity-security/singapore-government--google-partner-to-protect-citizens-from-scams"
+      }
+    ]
+  },
+  {
+    "id": "public-sector-nonprofits-security-los-angeles-department-of-water-and-power",
+    "industry": "public-sector-nonprofits",
+    "agentType": "security",
+    "company": "Los Angeles Department of Water and Power",
+    "isNew": true,
+    "summary": {
+      "en": "LADWP is securing critical water and power infrastructure ahead of the LA28 Olympic Games using Google Cloud.",
+      "zh": "洛杉磯水電局（LADWP）正在使用 Google Cloud 強化關鍵水電基礎設施的安全，為 2028 年洛杉磯奧運做好準備。"
+    },
+    "overview": {
+      "en": "The Los Angeles Department of Water and Power (LADWP) is working with Google Cloud to secure its critical water and power infrastructure ahead of the LA28 Olympic Games. The initiative focuses on strengthening cybersecurity defenses for essential public utility systems that will support millions of residents and visitors during the Games.",
+      "zh": "洛杉磯水電局（LADWP）正與 Google Cloud 合作，在 2028 年洛杉磯奧運舉辦前強化關鍵水電基礎設施的安全。此舉旨在強化公共事業系統的網路安全防禦，以支持奧運期間數百萬居民和訪客的需求。"
+    },
+    "highlights": {
+      "en": [
+        "Securing critical water and power infrastructure ahead of the LA28 Olympic Games.",
+        "Google Cloud tools used to harden cybersecurity of public utility systems.",
+        "Protects essential services that will support millions of residents and Games visitors."
+      ],
+      "zh": [
+        "在 2028 年洛杉磯奧運前強化關鍵水電基礎設施安全。",
+        "使用 Google Cloud 工具強化公共事業系統的網路安全。",
+        "保護將支持數百萬居民和奧運訪客的關鍵服務。"
+      ]
+    },
+    "technologies": [
+      "Google Cloud",
+      "Security Command Center"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "City of Los Angeles Bets on Google Workspace with Gemini as It Preps for Big Events | Constellation Research",
+        "url": "https://www.constellationr.com/insights/news/city-los-angeles-bets-google-workspace-gemini-it-preps-big-events"
+      }
+    ]
+  },
+  {
+    "id": "public-sector-nonprofits-security-minas-gerais-state-government",
+    "industry": "public-sector-nonprofits",
+    "agentType": "security",
+    "company": "Minas Gerais State Government",
+    "isNew": false,
+    "summary": {
+      "en": "Minas Gerais uses Vertex AI to automate and accelerate processing of environmental infraction notices.",
+      "zh": "巴西米納斯吉拉斯州政府使用 Vertex AI 自動化並加速環境違規通知的處理流程。"
+    },
+    "overview": {
+      "en": "The Minas Gerais State Government in Brazil is using Vertex AI within the State Secretariat for the Environment and Sustainable Development (Semad) to implement an AI solution that speeds up and improves the efficiency of processing environmental infraction notices. The system helps the agency manage compliance and enforcement actions more effectively.",
+      "zh": "巴西米納斯吉拉斯州政府在州環境與永續發展秘書處（Semad）使用 Vertex AI，實施 AI 解決方案以加速並提升環境違規通知的處理效率，協助機構更有效地管理合規和執法行動。"
+    },
+    "highlights": {
+      "en": [
+        "Vertex AI deployed in the State Secretariat for the Environment and Sustainable Development (Semad).",
+        "Automates and accelerates processing of environmental infraction notices.",
+        "Improves efficiency of environmental compliance and enforcement across the state."
+      ],
+      "zh": [
+        "Vertex AI 部署於州環境與永續發展秘書處（Semad）。",
+        "自動化並加速環境違規通知的處理。",
+        "提升全州環境合規與執法的效率。"
+      ]
+    },
+    "technologies": [
+      "Vertex AI",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "public-sector-nonprofits-security-nato-s-communication-and-information-agency",
+    "industry": "public-sector-nonprofits",
+    "agentType": "security",
+    "company": "NATO's Communication and Information Agency",
+    "isNew": true,
+    "summary": {
+      "en": "NATO's NCIA selected Google Distributed Cloud air-gapped to run classified AI and analytics for JATEC with full data sovereignty.",
+      "zh": "NATO 通訊與資訊局（NCIA）選擇 Google Distributed Cloud 氣隙版本，為 JATEC 在完全資料主權下運行機密 AI 和分析工作負載。"
+    },
+    "overview": {
+      "en": "NATO's Communication and Information Agency (NCIA) selected Google Distributed Cloud air-gapped in a multimillion-dollar contract signed in November 2025 to support the Joint Analysis, Training and Education Centre (JATEC). The solution enables NATO to run AI and analytics workloads on classified data in a fully disconnected environment that maintains absolute operational control and meets strict digital sovereignty requirements, without any data leaving NATO's sovereign territory.",
+      "zh": "NATO 通訊與資訊局（NCIA）在 2025 年 11 月簽署了一份數百萬美元的合約，選擇 Google Distributed Cloud 氣隙版本支持聯合分析、訓練與教育中心（JATEC）。此解決方案讓 NATO 能夠在完全斷網的環境中對機密資料運行 AI 和分析工作負載，維持絕對的操作控制並滿足嚴格的數位主權要求，資料不會離開 NATO 主權領土。"
+    },
+    "highlights": {
+      "en": [
+        "Multimillion-dollar contract signed November 2025 for air-gapped sovereign cloud.",
+        "Google Distributed Cloud air-gapped provides a fully disconnected environment for classified AI workloads.",
+        "Enables NATO's JATEC to run analytics on classified data with absolute operational control.",
+        "Meets strict digital sovereignty requirements — no data leaves NATO's sovereign territory."
+      ],
+      "zh": [
+        "2025 年 11 月簽署數百萬美元的氣隙主權雲合約。",
+        "Google Distributed Cloud 氣隙版本為機密 AI 工作負載提供完全斷網的環境。",
+        "讓 NATO JATEC 能夠在絕對操作控制下對機密資料運行分析。",
+        "滿足嚴格的數位主權要求——資料不會離開 NATO 主權領土。"
+      ]
+    },
+    "technologies": [
+      "Google Distributed Cloud",
+      "Vertex AI",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "NATO and Google Cloud Sign Multi-Million Dollar Deal for AI-Enabled Sovereign Cloud",
+        "url": "https://www.prnewswire.com/news-releases/nato-and-google-cloud-sign-multi-million-dollar-deal-for-ai-enabled-sovereign-cloud-302623269.html"
+      },
+      {
+        "title": "NATO taps Google for air-gapped sovereign cloud | The Register",
+        "url": "https://www.theregister.com/2025/11/24/nato_google_cloud/"
+      }
+    ]
+  },
+  {
+    "id": "public-sector-nonprofits-security-uc-riverside",
+    "industry": "public-sector-nonprofits",
+    "agentType": "security",
+    "company": "UC Riverside",
+    "isNew": false,
+    "summary": {
+      "en": "UC Riverside adopted Google SecOps and Security Command Center for zero-trust security with Gemini-assisted real-time threat triage.",
+      "zh": "UC Riverside 採用 Google SecOps 和 Security Command Center 實施零信任安全架構，並利用 Gemini 協助安全分析師即時分類威脅。"
+    },
+    "overview": {
+      "en": "UC Riverside adopted Google SecOps and Security Command Center to implement zero-trust security along with Google AI. The university leveraged Stellar Engine, a secure enclave automation framework from Google Public Sector, to create hardened computing environments for researchers. Security analysts can ask Gemini questions in real time while triaging issues, capturing and synthesizing both external and internal data to solve security problems more quickly.",
+      "zh": "UC Riverside 採用 Google SecOps 和 Security Command Center 配合 Google AI 實施零信任安全架構。大學利用 Google Public Sector 的 Stellar Engine 安全飛地自動化框架，為研究人員建立強化的運算環境。安全分析師在分類問題時可即時向 Gemini 提問，整合外部和內部資料以更快速解決安全問題。"
+    },
+    "highlights": {
+      "en": [
+        "Google SecOps and Security Command Center deployed for zero-trust security architecture.",
+        "Gemini enables real-time question-answering for security analysts during threat triage.",
+        "Stellar Engine secure enclave framework automates compliance for researchers.",
+        "Synthesizes external and internal data to accelerate security problem resolution."
+      ],
+      "zh": [
+        "部署 Google SecOps 和 Security Command Center 實施零信任安全架構。",
+        "Gemini 讓安全分析師在威脅分類過程中能夠即時提問求答。",
+        "Stellar Engine 安全飛地框架為研究人員自動化合規工作。",
+        "整合外部和內部資料以加速安全問題解決。"
+      ]
+    },
+    "technologies": [
+      "Google SecOps",
+      "Security Command Center",
+      "Gemini",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "How UC Riverside is securing the path to federal grants with Google Public Sector | Google Cloud Blog",
+        "url": "https://cloud.google.com/blog/topics/public-sector/a-new-standard-for-research-how-uc-riverside-is-securing-the-path-to-federal-grants-with-google-public-sector"
+      }
+    ]
+  },
+  {
+    "id": "public-sector-nonprofits-creative-bethel-china",
+    "industry": "public-sector-nonprofits",
+    "agentType": "creative",
+    "company": "Bethel China",
+    "isNew": false,
+    "summary": {
+      "en": "Bethel China and Google built VisAid Learn, cutting teaching video production from days to 5 minutes for 2,000+ visually impaired children.",
+      "zh": "Bethel China 與 Google 合作開發 VisAid Learn，將視障兒童教學影片的製作時間從數天縮短至約 5 分鐘，服務逾 2,000 名視障兒童。"
+    },
+    "overview": {
+      "en": "Bethel China is a nonprofit providing education for visually impaired children in China. Working with Google volunteers, they developed VisAid Learn — a platform using Gemini, Imagen, Text-to-Speech, and MediaPipe to automatically generate teaching videos optimized for children with limited vision. Gemini generates scripts, Imagen creates visually optimized images, MediaPipe separates objects with high-contrast outlines, and TTS adds narration. The platform cuts production time from days to about 5 minutes per video and will expand to assist over 2,000 visually impaired children across 15 schools in China and institutions in India, the Philippines, and Malaysia.",
+      "zh": "Bethel China 是一家為中國視障兒童提供教育的非營利組織。與 Google 志工合作開發了 VisAid Learn——一個使用 Gemini、Imagen、Text-to-Speech 和 MediaPipe 自動生成專為視力有限兒童優化的教學影片平台。Gemini 生成腳本文字，Imagen 建立視覺優化圖像，MediaPipe 以高對比輪廓分離物件，Text-to-Speech 添加旁白。該平台將影片製作時間從數天縮短至約 5 分鐘，並將擴展至中國 15 所學校及印度、菲律賓、馬來西亞的機構，服務逾 2,000 名視障兒童。"
+    },
+    "highlights": {
+      "en": [
+        "Teaching video production time cut from days to approximately 5 minutes per video.",
+        "Platform uses Gemini (scripts), Imagen (images), MediaPipe (object separation), and Text-to-Speech.",
+        "Will serve over 2,000 visually impaired children across 15 schools in China.",
+        "Planned international expansion to India, the Philippines, and Malaysia."
+      ],
+      "zh": [
+        "教學影片製作時間從數天縮短至每部約 5 分鐘。",
+        "平台使用 Gemini（腳本）、Imagen（圖像）、MediaPipe（物件分離）和 Text-to-Speech。",
+        "將服務中國 15 所學校逾 2,000 名視障兒童。",
+        "計畫向印度、菲律賓和馬來西亞擴展。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Imagen",
+      "MediaPipe",
+      "Text-to-Speech",
+      "Vertex AI"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Bethel China Case Study | Google Cloud",
+        "url": "https://cloud.google.com/customers/bethel-china"
+      }
+    ]
+  },
+  {
+    "id": "public-sector-nonprofits-creative-subject-com",
+    "industry": "public-sector-nonprofits",
+    "agentType": "creative",
+    "company": "Subject.com",
+    "isNew": false,
+    "summary": {
+      "en": "Subject.com powers its K-12 AI learning platform with Vertex AI, Cloud SQL, and BigQuery for personalized student support.",
+      "zh": "Subject.com 使用 Vertex AI、Cloud SQL 和 BigQuery 驅動 K-12 AI 學習平台，為學生提供個人化學習支持。"
+    },
+    "overview": {
+      "en": "Subject.com is an AI-powered learning platform for grades 6-12 that blends cinematic storytelling with AI to ensure students and teachers never get stuck. The platform's infrastructure uses Vertex AI, Cloud SQL, and BigQuery to power multiple AI-driven features: the teacher assistant tool Spark, instant feedback on student work, an 'ExplainThis' text simplifier, a 24/7 Homework Helper, and personalized learning experiences tied to individual student interests.",
+      "zh": "Subject.com 是一個面向 6-12 年級的 AI 學習平台，結合電影式敘事與 AI，確保學生和教師不會遭遇卡關。平台基礎設施使用 Vertex AI、Cloud SQL 和 BigQuery 驅動多項 AI 功能：教師助理工具 Spark、即時學習回饋、「ExplainThis」文字簡化器、全天候作業輔助，以及根據個別學生興趣量身打造的學習體驗。"
+    },
+    "highlights": {
+      "en": [
+        "Vertex AI, Cloud SQL, and BigQuery power multiple AI learning features.",
+        "Teacher assistant tool Spark provides AI-aided instructional support.",
+        "24/7 Homework Helper and ExplainThis text simplifier support self-paced learning.",
+        "Personalized learning experiences tied to individual student interests at scale."
+      ],
+      "zh": [
+        "Vertex AI、Cloud SQL 和 BigQuery 驅動多項 AI 學習功能。",
+        "教師助理工具 Spark 提供 AI 輔助教學支持。",
+        "全天候作業輔助和 ExplainThis 文字簡化器支持自主學習。",
+        "大規模提供與個別學生興趣掛鉤的個人化學習體驗。"
+      ]
+    },
+    "technologies": [
+      "Vertex AI",
+      "Cloud SQL",
+      "BigQuery",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "public-sector-nonprofits-creative-the-rhythm-foundation",
+    "industry": "public-sector-nonprofits",
+    "agentType": "creative",
+    "company": "The Rhythm Foundation",
+    "isNew": false,
+    "summary": {
+      "en": "The Rhythm Foundation uses Gemini in Slides to create funding pitch decks in minutes instead of hours.",
+      "zh": "Rhythm Foundation 使用 Gemini in Slides 在數分鐘而非數小時內製作融資提案簡報，為免費音樂會爭取資助。"
+    },
+    "overview": {
+      "en": "The Rhythm Foundation is a nonprofit that organizes free concerts funded through sponsorships and grants. The organization uses Gemini in Google Slides to create pitch decks for securing funding, cutting the time to produce a first draft from hours to minutes. This allows the small team to pursue more funding opportunities and spend more time on programming.",
+      "zh": "Rhythm Foundation 是一個透過贊助和補助金資助免費音樂會的非營利組織。他們使用 Google Slides 中的 Gemini 製作融資提案簡報，將第一稿的製作時間從數小時縮短至數分鐘，讓小型團隊能夠追求更多資助機會並將更多時間投入節目規劃。"
+    },
+    "highlights": {
+      "en": [
+        "Gemini in Slides cuts pitch deck creation time from hours to minutes.",
+        "Enables the team to pursue more funding opportunities for free concerts.",
+        "Frees staff time for programming and mission activities."
+      ],
+      "zh": [
+        "Gemini in Slides 將提案簡報製作時間從數小時縮短至數分鐘。",
+        "讓團隊得以追求更多資助免費音樂會的機會。",
+        "釋出員工時間用於節目規劃和使命活動。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Google Slides",
+      "Google Workspace"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "public-sector-nonprofits-creative-the-world-bank",
+    "industry": "public-sector-nonprofits",
+    "agentType": "creative",
+    "company": "The World Bank",
+    "isNew": false,
+    "summary": {
+      "en": "The World Bank is building an AI tool to extract causal evidence from development research, guiding $220B in annual aid allocation.",
+      "zh": "世界銀行正在開發 AI 工具從發展研究文獻中提取因果證據，為每年 2,200 億美元的援助資金分配提供依據。"
+    },
+    "overview": {
+      "en": "The World Bank is developing ImpactAI, a tool that leverages large language models to extract key causal impact data from thousands of development intervention studies. The system automates extraction of economic relationships between interventions and outcomes from randomized controlled trials, standardizing findings into comparable metrics. The ultimate goal is to empower decision-makers to allocate $220 billion in annual aid and trillions in annual impact investing more effectively. ImpactAI launched publicly in October 2025.",
+      "zh": "世界銀行正在開發 ImpactAI，一個利用大型語言模型從數千項發展干預研究中提取關鍵因果影響資料的工具。系統自動從隨機對照試驗中提取干預與結果之間的經濟關係，將研究結果標準化為可比較的指標。最終目標是幫助決策者更有效地分配每年 2,200 億美元的援助資金和數兆美元的影響力投資。ImpactAI 於 2025 年 10 月公開發布。"
+    },
+    "highlights": {
+      "en": [
+        "ImpactAI extracts causal evidence from thousands of development intervention studies.",
+        "Aims to improve allocation of $220 billion in annual aid and trillions in impact investing.",
+        "Automates data extraction from randomized controlled trials and standardizes findings.",
+        "Publicly launched October 2025 as a conversational AI agent for policymakers."
+      ],
+      "zh": [
+        "ImpactAI 從數千項發展干預研究中提取因果證據。",
+        "旨在改善每年 2,200 億美元援助資金和數兆美元影響力投資的分配。",
+        "自動從隨機對照試驗中提取資料並標準化研究結果。",
+        "2025 年 10 月作為面向政策制定者的對話式 AI 代理程式公開發布。"
+      ]
+    },
+    "technologies": [
+      "Vertex AI",
+      "Gemini",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "ImpactAI — World Bank",
+        "url": "https://impactai.worldbank.org/"
+      },
+      {
+        "title": "DIME Artificial Intelligence | World Bank",
+        "url": "https://www.worldbank.org/en/about/unit/unit-dec/impactevaluation/ai"
+      }
+    ]
+  },
+  {
+    "id": "public-sector-nonprofits-creative-wild-hearts-idaho",
+    "industry": "public-sector-nonprofits",
+    "agentType": "creative",
+    "company": "Wild Hearts Idaho",
+    "isNew": false,
+    "summary": {
+      "en": "Wild Hearts Idaho uses Gemini in Docs to write social media captions promoting outdoor leadership programs for girls.",
+      "zh": "Wild Hearts Idaho 使用 Gemini in Docs 撰寫社群媒體文案，推廣為女孩設計的戶外領導力計畫。"
+    },
+    "overview": {
+      "en": "Wild Hearts Idaho is a leadership program for girls that uses outdoor adventure as a vehicle for personal growth. The organization uses Gemini in Google Docs to write social media captions that promote their programs, helping more girls discover and participate in outdoor adventures. AI-assisted content creation allows the small team to maintain an active social media presence without dedicating excessive time to writing.",
+      "zh": "Wild Hearts Idaho 是一個以戶外冒險為媒介促進個人成長的女孩領導力計畫。組織使用 Google Docs 中的 Gemini 撰寫宣傳計畫的社群媒體文案，幫助更多女孩發現並參與戶外冒險。AI 輔助內容創作讓小型團隊得以在不耗費大量寫作時間的情況下保持活躍的社群媒體存在感。"
+    },
+    "highlights": {
+      "en": [
+        "Gemini in Docs writes social media captions promoting outdoor leadership programs for girls.",
+        "Helps the small team maintain an active social media presence efficiently.",
+        "Enables the mission of reaching more girls with outdoor adventure opportunities."
+      ],
+      "zh": [
+        "Gemini in Docs 為女孩戶外領導力計畫撰寫社群媒體文案。",
+        "幫助小型團隊有效率地維持活躍的社群媒體存在感。",
+        "推動觸及更多女孩、提供戶外冒險機會的使命。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Google Docs",
+      "Google Workspace"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  }
+]

@@ -1,0 +1,510 @@
+[
+  {
+    "id": "technology-customer-abstrakt",
+    "industry": "technology",
+    "agentType": "customer",
+    "company": "Abstrakt",
+    "isNew": false,
+    "summary": {
+      "en": "Abstrakt uses Vertex AI to transcribe calls and evaluate sentiment in real-time, empowering contact center agents.",
+      "zh": "Abstrakt 使用 Vertex AI 即時轉錄通話並評估情緒，提升客服中心代理人的對話效能。"
+    },
+    "overview": {
+      "en": "Abstrakt is a real-time agent assist and automated QA software platform that leverages Google Cloud's Vertex AI to transcribe contact center calls and evaluate customer sentiment in real time. By providing instantaneous guidance and insights during live calls, the platform helps agents resolve issues faster and deliver better customer experiences. Recommended responses are triggered in as little as 0.2 seconds, enabling agents to address objections on the fly.",
+      "zh": "Abstrakt 是一個即時客服輔助與自動化 QA 軟體平台，透過 Google Cloud 的 Vertex AI 即時轉錄客服通話並評估客戶情緒。平台在通話過程中即時提供指引，幫助代理人更快速解決問題並提升客戶體驗。推薦回應最快可在 0.2 秒內觸發，讓代理人能即時應對客戶異議。"
+    },
+    "highlights": {
+      "en": [
+        "Real-time call transcription and sentiment evaluation powered by Vertex AI.",
+        "Recommended responses triggered in as fast as 0.2 seconds during live calls.",
+        "A client (Johnson & Johnson) reduced average call handle time by 38% after deploying Abstrakt.",
+        "New agents ramp up faster thanks to AI-guided in-call coaching.",
+        "Abstrakt is part of the 60%+ funded gen AI startups building production workloads on Google Cloud."
+      ],
+      "zh": [
+        "透過 Vertex AI 實現即時通話轉錄與情緒分析。",
+        "通話中推薦回應最快 0.2 秒觸發。",
+        "客戶 Johnson & Johnson 使用後平均通話處理時間縮短 38%。",
+        "AI 導引的即時輔導加速新進代理人上手。",
+        "Abstrakt 是超過 60% 在 Google Cloud 上建立生產工作負載的生成式 AI 新創之一。"
+      ]
+    },
+    "technologies": ["Vertex AI", "Google Cloud"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "How three startups deliver results faster with Vertex AI | Google Cloud Blog",
+        "url": "https://cloud.google.com/blog/topics/startups/how-three-startups-deliver-results-faster-with-vertex-ai"
+      },
+      {
+        "title": "Abstrakt | Real-Time Agent Assist & Automated QA Software",
+        "url": "https://abstrakt.ai/"
+      }
+    ]
+  },
+  {
+    "id": "technology-customer-adapta",
+    "industry": "technology",
+    "agentType": "customer",
+    "company": "Adapta",
+    "isNew": true,
+    "summary": {
+      "en": "Adapta, a Brazilian startup, offers a Gemini Pro and Imagen-powered AI subscription for daily workplace AI use.",
+      "zh": "巴西新創 Adapta 基於 Gemini Pro 與 Imagen 推出 AI 訂閱服務，協助用戶將生成式 AI 應用於日常工作。"
+    },
+    "overview": {
+      "en": "Adapta is a Brazilian company that sells subscriptions to a generative AI and educational content platform designed to help professionals apply AI in their everyday work. Built on Google Cloud with Gemini Pro and Imagen, the service gives subscribers integrated web search, large document analysis, and realistic image generation capabilities. The educational focus helps users quickly gain practical AI skills.",
+      "zh": "Adapta 是一家巴西公司，銷售基於生成式 AI 與教育內容的訂閱平台，協助專業人士將 AI 應用於日常工作。服務建構於 Google Cloud，採用 Gemini Pro 與 Imagen，提供整合式網路搜尋、大型文件分析與高品質圖像生成功能。教育導向的設計幫助用戶快速習得實用 AI 技能。"
+    },
+    "highlights": {
+      "en": [
+        "Built on Google Cloud with Gemini Pro and Imagen as core AI engines.",
+        "Subscribers get integrated web search, large document analysis, and realistic image generation.",
+        "Targets professionals seeking to apply generative AI skills in daily work contexts.",
+        "Combines AI tooling with educational content in a single subscription offering."
+      ],
+      "zh": [
+        "以 Google Cloud 為基礎，使用 Gemini Pro 與 Imagen 作為核心 AI 引擎。",
+        "訂閱用戶可使用整合式網路搜尋、大型文件分析及高品質圖像生成。",
+        "面向希望在日常工作中應用生成式 AI 的專業人士。",
+        "將 AI 工具與教育內容整合為單一訂閱方案。"
+      ]
+    },
+    "technologies": ["Gemini Pro", "Imagen", "Google Cloud"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "technology-customer-adt",
+    "industry": "technology",
+    "agentType": "customer",
+    "company": "ADT",
+    "isNew": false,
+    "summary": {
+      "en": "ADT is building a Google Cloud-powered AI agent to help millions of customers select, order, and set up home security.",
+      "zh": "ADT 正在建置以 Google Cloud 為基礎的 AI 代理人，協助數百萬用戶選購並安裝家庭安全系統。"
+    },
+    "overview": {
+      "en": "ADT, one of the largest home security providers in North America with over 6 million customers, is developing a customer-facing AI agent on Google Cloud to streamline the end-to-end home security journey — from product selection and ordering to setup. The initiative aims to reduce friction in customer onboarding and leverage ADT's long-standing partnership with Google, which also includes the ADT+ platform built with Google Nest.",
+      "zh": "ADT 是北美最大的家庭安全服務商之一，擁有超過 600 萬名客戶，正在 Google Cloud 上開發面向客戶的 AI 代理人，以簡化從選購、下單到安裝的完整家庭安全流程。此計畫旨在降低客戶入門的阻力，並延伸 ADT 與 Google 的長期合作關係，包括基於 Google Nest 打造的 ADT+ 平台。"
+    },
+    "highlights": {
+      "en": [
+        "Building a customer AI agent to guide 6+ million ADT customers through product selection, ordering, and setup.",
+        "Leverages ADT's existing Google partnership including the ADT+ smart home platform with Google Nest.",
+        "Aims to achieve significant call deflection through AI-assisted self-service.",
+        "Expands ADT's use of AI into camera, video analytics, and facial recognition for approved users."
+      ],
+      "zh": [
+        "建置客戶 AI 代理人，引導超過 600 萬名 ADT 用戶完成選購、下單與安裝流程。",
+        "延伸 ADT 與 Google 的既有合作，包括與 Google Nest 共同打造的 ADT+ 智慧家庭平台。",
+        "透過 AI 自助服務目標達成大幅通話分流。",
+        "將 AI 應用延伸至攝影機、影像分析及授權用戶的人臉辨識功能。"
+      ]
+    },
+    "technologies": ["Google Cloud", "Vertex AI"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "ADT highlights new platform, relationship with Google | Security Systems News",
+        "url": "https://www.securitysystemsnews.com/article/adt-highlights-new-platform-relationship-with-google"
+      },
+      {
+        "title": "ADT and Google announce availability of first integrated smart home security system for DIY customers",
+        "url": "https://newsroom.adt.com/corporate-news/adt-and-google-announce-availability-of-first-integrated-smart-home-security-system-for-diy-customers"
+      }
+    ]
+  },
+  {
+    "id": "technology-customer-amd",
+    "industry": "technology",
+    "agentType": "customer",
+    "company": "AMD",
+    "isNew": false,
+    "summary": {
+      "en": "AMD deployed a Vertex AI chatbot pulling real-time SAP data to answer customer order and delivery questions quickly.",
+      "zh": "AMD 部署基於 Vertex AI 的聊天機器人，即時存取 SAP 資料，快速回答客戶訂單與交貨相關問題。"
+    },
+    "overview": {
+      "en": "AMD, a global leader in high-performance computing, built a natural language chatbot in its customer operations team using Vertex AI and the SAP Cortex Framework. The chatbot retrieves real-time data from SAP S/4HANA systems on order scheduling and delivery status, enabling customer service representatives to answer inquiries far more quickly. The initiative is part of AMD's broader AXCENT ERP modernization program.",
+      "zh": "AMD 是全球高效能運算領域的領導者，利用 Vertex AI 與 SAP Cortex Framework 在客戶營運團隊中建置自然語言聊天機器人。此機器人能即時存取 SAP S/4HANA 系統中的訂單排程與交貨狀態資料，讓客服代表大幅縮短回應時間。此計畫是 AMD 更廣泛的 AXCENT ERP 現代化計畫的一部分。"
+    },
+    "highlights": {
+      "en": [
+        "Natural language chatbot built with Vertex AI and SAP Cortex Framework pulling live SAP S/4HANA data.",
+        "Targets reducing order inquiry response time from 20–30 minutes to under 2 minutes (approx. 90% time savings).",
+        "Deployed in customer operations to answer order scheduling and delivery questions in real time.",
+        "Part of AMD's AXCENT program which unified ERP systems across dozens of global warehouses."
+      ],
+      "zh": [
+        "使用 Vertex AI 與 SAP Cortex Framework 打造自然語言機器人，即時存取 SAP S/4HANA 資料。",
+        "目標將訂單查詢回應時間從 20–30 分鐘縮短至 2 分鐘以內（節省約 90% 時間）。",
+        "部署於客戶營運部門，即時回答訂單排程與交貨問題。",
+        "隸屬 AMD AXCENT 計畫，統一整合了遍布全球數十個倉庫的 ERP 系統。"
+      ]
+    },
+    "technologies": ["Vertex AI", "Google Cloud", "SAP Cortex Framework"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "AMD case study | Google Cloud",
+        "url": "https://cloud.google.com/customers/amd"
+      },
+      {
+        "title": "Transforming Order Scheduling with Generative AI: the AMD and SAP Innovative Journey",
+        "url": "https://www.amd.com/en/blogs/2025/transforming-order-scheduling-with-generative-ai.html"
+      }
+    ]
+  },
+  {
+    "id": "technology-customer-aui",
+    "industry": "technology",
+    "agentType": "customer",
+    "company": "AUI",
+    "isNew": false,
+    "summary": {
+      "en": "AUI's Apollo neuro-symbolic AI agent enables enterprises to deploy accurate, compliant multi-step conversational experiences.",
+      "zh": "AUI 的 Apollo 神經符號 AI 代理人讓企業能部署精準、合規的多步驟對話體驗。"
+    },
+    "overview": {
+      "en": "AUI (Augmented Intelligence) developed Apollo, a neuro-symbolic AI agent that combines the conversational capabilities of generative AI with the predictability of rule-based systems. Through a strategic partnership with Google Cloud, Apollo is designed to help enterprise and consumer companies build complex, multi-step conversational experiences that are accurate, transparent, and compliant. The platform integrates with existing enterprise systems and leverages BigQuery for advanced search and Google Cloud's Kubernetes infrastructure for scalable AI workload management.",
+      "zh": "AUI（Augmented Intelligence）開發了 Apollo，一款結合生成式 AI 對話能力與規則式系統可預測性的神經符號 AI 代理人。透過與 Google Cloud 的策略合作，Apollo 協助企業和消費性公司建置複雜、多步驟的對話體驗，確保精準、透明且符合法規。平台整合既有企業系統，並利用 BigQuery 進行進階搜尋，以及 Google Cloud 的 Kubernetes 基礎架構管理可擴展的 AI 工作負載。"
+    },
+    "highlights": {
+      "en": [
+        "Apollo combines generative AI conversational skills with rule-based AI for compliant, policy-adherent responses.",
+        "Strategic partnership with Google Cloud to accelerate enterprise AI agent deployment.",
+        "Integrates with BigQuery to enable structured conversational search across enterprise data.",
+        "Runs on Google Cloud Kubernetes and GPUs for scalable, high-performance AI workloads.",
+        "AUI raised $10M at a $350M valuation as part of its Google Cloud partnership expansion."
+      ],
+      "zh": [
+        "Apollo 將生成式 AI 對話能力與規則式 AI 結合，確保回應符合政策與法規。",
+        "與 Google Cloud 建立策略合作夥伴關係，加速企業 AI 代理人部署。",
+        "整合 BigQuery，實現企業資料的結構化對話搜尋。",
+        "在 Google Cloud Kubernetes 與 GPU 上運行，支援可擴展的高效能 AI 工作負載。",
+        "AUI 在 Google Cloud 合作擴展計畫中以 3.5 億美元估值籌得 1000 萬美元。"
+      ]
+    },
+    "technologies": ["Google Cloud", "BigQuery", "Kubernetes", "Vertex AI"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Google Cloud partners with AUI | Google Cloud Blog",
+        "url": "https://cloud.google.com/blog/topics/partners/google-cloud-partners-with-aui/"
+      },
+      {
+        "title": "Press Release: AUI Brings Next Generation AI Agents to Enterprise Customers with Google Cloud",
+        "url": "https://www.aui.io/resources/augmented-intelligence-aui-inc-brings-next-generation-ai-agents-to-enterprise-customers-with-google-cloud/"
+      },
+      {
+        "title": "Augmented Intelligence raises $10M at $350M valuation, forms AI agent partnership with Google Cloud | CTech",
+        "url": "https://www.calcalistech.com/ctechnews/article/rjquwx000c"
+      }
+    ]
+  },
+  {
+    "id": "technology-customer-bmc",
+    "industry": "technology",
+    "agentType": "customer",
+    "company": "BMC",
+    "isNew": false,
+    "summary": {
+      "en": "BMC integrated Vertex AI and Llama 3.1 into its Helix platform to significantly boost AIOps and conversational AI accuracy.",
+      "zh": "BMC 將 Vertex AI 與 Llama 3.1 整合進 BMC Helix 平台，大幅提升 AIOps 建議與對話式 AI 的準確度。"
+    },
+    "overview": {
+      "en": "BMC partnered with Google Cloud to bring Vertex AI and Meta's Llama 3.1 to its BMC Helix platform, which underpins IT service management and AIOps for enterprises worldwide. By running a fine-tuned Llama 3.1 8B model on Vertex AI through its HelixGPT service, BMC achieved significant improvements in both conversational AI accuracy and AIOps recommendation quality. The platform trains its planning agent using GRPO on historical ticket data, enabling it to reason about IT incidents the way human experts do.",
+      "zh": "BMC 與 Google Cloud 合作，將 Vertex AI 與 Meta 的 Llama 3.1 整合進 BMC Helix 平台，為全球企業提供 IT 服務管理與 AIOps 解決方案。透過 HelixGPT 服務在 Vertex AI 上執行微調後的 Llama 3.1 8B 模型，BMC 大幅提升了對話式 AI 的準確度與 AIOps 建議品質。平台使用 GRPO 在歷史工單資料上訓練規劃代理人，使其能如人類專家般推理 IT 事件。"
+    },
+    "highlights": {
+      "en": [
+        "HelixGPT runs a fine-tuned Llama 3.1 8B model on Vertex AI for AIOps and conversational AI.",
+        "Uses a customized Mixture of Experts (MoE) architecture on a single GPU for efficient inference.",
+        "Planning agent trained with Group Relative Policy Optimization (GRPO) on real ticket and incident data.",
+        "Aggregates observability data across formats to consolidate alerts into unified situations for IT teams.",
+        "Delivers cutting-edge AI capabilities tailored to each BMC customer's IT environment."
+      ],
+      "zh": [
+        "HelixGPT 在 Vertex AI 上執行微調後的 Llama 3.1 8B 模型，支援 AIOps 與對話式 AI。",
+        "採用自訂的混合專家（MoE）架構，在單一 GPU 上實現高效推理。",
+        "規劃代理人以 GRPO 方法在真實工單與事件資料上訓練。",
+        "跨格式彙整可觀測性資料，將告警整合為統一情境供 IT 團隊使用。",
+        "為每位 BMC 客戶的 IT 環境提供量身定制的前沿 AI 能力。"
+      ]
+    },
+    "technologies": ["Vertex AI", "Google Cloud", "Llama 3.1"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "BMC Helix case study | Google Cloud",
+        "url": "https://cloud.google.com/customers/bmc-helix"
+      },
+      {
+        "title": "Transforming Enterprise IT Work: BMC Helix Now Supports Google Gemini for Google Cloud Models",
+        "url": "https://blogs.helixops.ai/bmc-helix-gemini/"
+      },
+      {
+        "title": "White Paper: The BMC Helix observability and AIOps solution + Google Cloud",
+        "url": "https://www.helixops.ai/documents/white-papers/bmc-helix-observability-and-aiops-solution-google-cloud.html"
+      }
+    ]
+  },
+  {
+    "id": "technology-customer-bren",
+    "industry": "technology",
+    "agentType": "customer",
+    "company": "Bren",
+    "isNew": true,
+    "summary": {
+      "en": "Bren uses Google Cloud-powered AI agents for sales and to turn conversation data into actionable business insights.",
+      "zh": "Bren 使用 Google Cloud 支援的 AI 代理人執行銷售任務，並將對話資料轉化為可行的業務洞察。"
+    },
+    "overview": {
+      "en": "Bren is a platform that deploys AI agents to perform sales activities and transform conversation data into valuable business intelligence. By building on Google Cloud, Bren rapidly scaled its solutions and was able to derive insights from conversation data in record time. The platform helps businesses streamline their sales processes through AI-driven automation and analytics.",
+      "zh": "Bren 是一個透過 AI 代理人執行銷售活動、並將對話資料轉化為寶貴業務情報的平台。透過在 Google Cloud 上建置，Bren 快速擴展其解決方案，並能在創紀錄的時間內從對話資料中提取洞察。該平台幫助企業透過 AI 驅動的自動化與分析來精簡銷售流程。"
+    },
+    "highlights": {
+      "en": [
+        "Deploys AI agents to autonomously perform sales tasks and outreach.",
+        "Converts conversation data into structured business insights at scale.",
+        "Built on Google Cloud infrastructure, enabling rapid scaling of AI solutions.",
+        "Delivers insights from conversation data in record time."
+      ],
+      "zh": [
+        "部署 AI 代理人自主執行銷售任務與外展活動。",
+        "大規模將對話資料轉化為結構化業務洞察。",
+        "建構於 Google Cloud 基礎架構，實現 AI 解決方案的快速擴展。",
+        "能在創紀錄的時間內從對話資料中提取洞察。"
+      ]
+    },
+    "technologies": ["Google Cloud"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "technology-customer-character-ai",
+    "industry": "technology",
+    "agentType": "customer",
+    "company": "Character.ai",
+    "isNew": false,
+    "summary": {
+      "en": "Character.ai runs its massive conversational AI platform on Google Cloud's full AI stack, processing terabytes of chats daily.",
+      "zh": "Character.ai 在 Google Cloud 完整 AI 技術堆疊上運行其龐大的對話式 AI 平台，每日處理數 TB 的對話資料。"
+    },
+    "overview": {
+      "en": "Character.ai built its realistic conversational chat platform on the full stack of Google Cloud AI services, using Google Cloud as its preferred infrastructure for both model training and daily production operations. The platform leverages TPU v5e and A3 VMs with NVIDIA H100 GPUs to train and serve large language models efficiently, enabling it to manage terabytes of user conversations each day without interruption. A strategic partnership with Google Cloud provides access to cutting-edge hardware and infrastructure.",
+      "zh": "Character.ai 在 Google Cloud 完整 AI 服務堆疊上建置其逼真的對話式聊天平台，以 Google Cloud 作為模型訓練與日常生產運營的首選基礎架構。平台利用 TPU v5e 與搭載 NVIDIA H100 GPU 的 A3 VM 高效訓練和服務大型語言模型，每日無間斷處理數 TB 的用戶對話。與 Google Cloud 的策略合作夥伴關係確保持續獲得最先進的硬體與基礎架構支援。"
+    },
+    "highlights": {
+      "en": [
+        "Built on the full Google Cloud AI stack including TPUs and A3 VMs with NVIDIA H100 GPUs.",
+        "Processes terabytes of user conversations daily without interruption.",
+        "TPU v5e and H100 GPUs deliver more than 2x cost-efficient performance vs. previous generations.",
+        "Google Cloud selected as preferred infrastructure for both model training and daily production operations.",
+        "Uses Memorystore for Redis Cluster for high-performance data management at scale."
+      ],
+      "zh": [
+        "建構於完整 Google Cloud AI 技術堆疊，包括 TPU 與搭載 NVIDIA H100 GPU 的 A3 VM。",
+        "每日無間斷處理數 TB 用戶對話資料。",
+        "TPU v5e 與 H100 GPU 相較前代提供超過 2 倍的成本效益。",
+        "Google Cloud 獲選為模型訓練與日常生產運營的首選基礎架構。",
+        "使用 Memorystore for Redis Cluster 進行大規模高效能資料管理。"
+      ]
+    },
+    "technologies": ["Google Cloud", "TPU", "Vertex AI", "Memorystore"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Character.AI and Google Cloud Partner to Build the Next Generation of Conversational AI",
+        "url": "https://www.prnewswire.com/news-releases/characterai-and-google-cloud-partner-to-build-the-next-generation-of-conversational-ai-301821277.html"
+      },
+      {
+        "title": "Character.AI and Google Cloud Partner to Build the Next Generation of Conversational AI | Google Cloud Press Corner",
+        "url": "https://www.googlecloudpresscorner.com/2023-05-10-Character-AI-and-Google-Cloud-Partner-to-Build-the-Next-Generation-of-Conversational-AI"
+      },
+      {
+        "title": "Character.AI's storybook ending with Memorystore for Redis Cluster | Google Cloud Blog",
+        "url": "https://cloud.google.com/blog/products/databases/character-ai-storybook-ending-with-memorystore-for-redis-cluster"
+      }
+    ]
+  },
+  {
+    "id": "technology-customer-flockx",
+    "industry": "technology",
+    "agentType": "customer",
+    "company": "Flockx",
+    "isNew": false,
+    "summary": {
+      "en": "Flockx uses collaborative AI agents on Google Cloud and Elastic to connect people with local events and combat loneliness.",
+      "zh": "Flockx 在 Google Cloud 與 Elastic 上使用協作式 AI 代理人，連結人們與在地活動，對抗孤獨感。"
+    },
+    "overview": {
+      "en": "Flockx is a Michigan-based startup that combats the loneliness epidemic by connecting individuals with local events, communities, and like-minded people using collaborative AI agent technology built on Google Cloud and Elastic. The AI Sidekick feature helps users discover their local 'flock' and engage in real-world social activities rather than staying glued to screens. Flockx uses semantic search and Elasticsearch for highly personalized matching, with Neo4j for data graph analysis and Fetch.ai for inter-agent connectivity.",
+      "zh": "Flockx 是一家總部位於密西根的新創公司，透過建構於 Google Cloud 與 Elastic 上的協作式 AI 代理人技術，連結個人與在地活動、社群及志同道合的人，以對抗孤獨流行病。AI Sidekick 功能幫助用戶發現本地「族群」並參與真實世界的社交活動，而非沉浸於螢幕。Flockx 使用語義搜尋與 Elasticsearch 實現高度個人化匹配，並以 Neo4j 進行資料圖分析、Fetch.ai 實現代理人間的連結。"
+    },
+    "highlights": {
+      "en": [
+        "Uses collaborative AI agent technology to connect users with local events and communities.",
+        "Built on Google Cloud for affordable, scalable infrastructure after migrating from a previous cloud provider.",
+        "Powered by Elastic's semantic search, keyword search, and fuzzy matching for personalized user experiences.",
+        "Integrates Neo4j for graph data analysis and Fetch.ai for connecting community AI agents to other agents.",
+        "Addresses the loneliness epidemic by encouraging offline, real-world human connection."
+      ],
+      "zh": [
+        "使用協作式 AI 代理人技術將用戶與在地活動和社群連結。",
+        "從舊有雲端服務商遷移後，建置於 Google Cloud 上，享有更具成本效益的可擴展基礎架構。",
+        "由 Elastic 的語義搜尋、關鍵字搜尋與模糊匹配驅動，提供高度個人化的用戶體驗。",
+        "整合 Neo4j 進行圖形資料分析，並以 Fetch.ai 連結社群 AI 代理人與其他代理人。",
+        "透過鼓勵線下、真實世界的人際連結，應對孤獨流行病。"
+      ]
+    },
+    "technologies": ["Google Cloud", "Elastic", "Vertex AI"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Flockx case study | Google Cloud",
+        "url": "https://cloud.google.com/customers/flockx"
+      },
+      {
+        "title": "Flockx AI agents bring people together with Elastic | Elastic Customers",
+        "url": "https://www.elastic.co/customers/flockx"
+      },
+      {
+        "title": "FlockX combats loneliness with AI Agent communities, Google Cloud and Elastic",
+        "url": "https://googlecloud.folloze.com/dataandanalyticspartners/items/flockx-combats-loneliness-with-ai-agent-communities-google-cloud-and-elastic"
+      }
+    ]
+  },
+  {
+    "id": "technology-customer-gojek",
+    "industry": "technology",
+    "agentType": "customer",
+    "company": "Gojek",
+    "isNew": false,
+    "summary": {
+      "en": "Gojek launched Dira, Indonesia's first Bahasa Indonesia AI voice assistant in GoPay, powered by Google Cloud's Gemini.",
+      "zh": "Gojek 推出 Dira，印尼首款 Bahasa Indonesia AI 語音助理，整合至 GoPay，由 Google Cloud 的 Gemini 驅動。"
+    },
+    "overview": {
+      "en": "Gojek's parent company GoTo Group launched Dira, the first-ever AI-enabled fintech voice assistant in Bahasa Indonesia, integrated into the GoPay app. Powered by Google Cloud's Vertex AI, speech-to-text AI, and the Gemini 1.5 Flash model, Dira allows GoPay users to complete tasks like bill payments and money transfers using voice commands in Indonesia's national language — eliminating the need for typing and scrolling. The lightweight assistant works on all mobile phones, including those with limited capacity, at no additional cost.",
+      "zh": "GoTo Group 旗下的 Gojek 推出 Dira，印尼首款 AI 金融科技語音助理，使用 Bahasa Indonesia，整合於 GoPay 應用程式。Dira 由 Google Cloud 的 Vertex AI、語音轉文字 AI 及 Gemini 1.5 Flash 模型驅動，允許 GoPay 用戶以印尼國語語音指令完成帳單付款和轉帳等任務，無需打字和滑動。這款輕量助理可在所有手機上運行，包括儲存容量有限的設備，且不另收費。"
+    },
+    "highlights": {
+      "en": [
+        "First-ever Bahasa Indonesia AI voice assistant in the fintech sector, integrated into GoPay.",
+        "Powered by Vertex AI, Google Cloud speech-to-text, and Gemini 1.5 Flash.",
+        "Enables voice-command bill payments, money transfers, and feature discovery with fewer steps.",
+        "Lightweight design works on all mobile phones including low-capacity devices at no extra cost.",
+        "Part of GoTo Group's expanded Google Cloud collaboration on generative AI."
+      ],
+      "zh": [
+        "金融科技領域首款 Bahasa Indonesia AI 語音助理，整合於 GoPay 應用程式。",
+        "由 Vertex AI、Google Cloud 語音轉文字及 Gemini 1.5 Flash 提供技術支援。",
+        "以語音指令完成帳單付款、轉帳及功能探索，減少操作步驟。",
+        "輕量設計可在所有手機（含低容量設備）上免費使用。",
+        "是 GoTo Group 與 Google Cloud 在生成式 AI 領域擴大合作的一部分。"
+      ]
+    },
+    "technologies": ["Vertex AI", "Google Cloud", "Gemini 1.5 Flash", "Speech-to-Text"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "GoTo Group and Google Cloud Extend Collaboration on Generative AI with Groundbreaking In-app Voice Assistant, Dira",
+        "url": "https://www.prnewswire.com/news-releases/goto-group-and-google-cloud-extend-collaboration-on-generative-ai-with-groundbreaking-in-app-voice-assistant-dira-302256936.html"
+      },
+      {
+        "title": "GoTo launches new AI strategy with the introduction of Dira, the first ever AI-based fintech Voice Assistant in Bahasa Indonesia",
+        "url": "https://www.gotocompany.com/en/news/press/goto-launches-new-ai-strategy-with-the-introduction-of-dira-the-first-ever-ai-based-fintech-voice-assistant-in-bahasa-indonesia"
+      },
+      {
+        "title": "GoPay Introduces AI Voice Assistant 'Dira' Powered by Google Cloud - Fintech News Indonesia",
+        "url": "https://fintechnews.id/101685/payments/gopay-ai-voice-assistant-dira/"
+      }
+    ]
+  },
+  {
+    "id": "technology-customer-hand-talk",
+    "industry": "technology",
+    "agentType": "customer",
+    "company": "Hand Talk",
+    "isNew": false,
+    "summary": {
+      "en": "Hand Talk uses AI to translate spoken and written Portuguese into Brazilian sign language via a 3D avatar named Hugo.",
+      "zh": "Hand Talk 使用 AI 透過 3D 虛擬角色 Hugo 將葡萄牙語口語和書面語翻譯成巴西手語（Libras）。"
+    },
+    "overview": {
+      "en": "Hand Talk is a Brazilian accessibility technology company that uses AI to automatically translate spoken and written Portuguese into Brazilian Sign Language (Libras) using a friendly 3D avatar named Hugo. The system first converts oral language into ASL gloss (a written representation of sign language), then animates Hugo to perform the corresponding signs. This technology enables communication and education access for deaf individuals and their families. Hand Talk was selected as one of 20 global organizations to receive a share of Google.org's $25M AI Impact Challenge grant in 2019.",
+      "zh": "Hand Talk 是一家巴西無障礙科技公司，利用 AI 透過友善的 3D 虛擬角色 Hugo，自動將葡萄牙語口語和書面語翻譯成巴西手語（Libras）。系統先將口語轉換為 ASL 書寫符號（手語的書面表示），再驅動 Hugo 做出相應的手勢動作。這項技術為聽障人士及其家人提供溝通與教育的管道。Hand Talk 於 2019 年獲選為全球 20 個組織之一，分享 Google.org AI Impact Challenge 的 2500 萬美元獎助金。"
+    },
+    "highlights": {
+      "en": [
+        "Translates spoken and written Portuguese into Brazilian Sign Language (Libras) via AI-powered 3D avatar Hugo.",
+        "AI pipeline: oral language → ASL gloss → sign animation, enabling natural sign language representation.",
+        "Hugo's design features long limbs, large hands, and expressive face to maximize sign language clarity.",
+        "Selected in 2019 as one of 20 global organizations to share Google.org's $25M AI Impact Challenge grant.",
+        "Supported through Google's Launchpad Accelerator program with consulting and AI coaching."
+      ],
+      "zh": [
+        "透過 AI 驅動的 3D 虛擬角色 Hugo，將葡萄牙語口語和書面語翻譯成巴西手語（Libras）。",
+        "AI 流程：口語 → ASL 書寫符號 → 手勢動畫，實現自然的手語表達。",
+        "Hugo 具備長手臂、大手掌與豐富表情，以最大化手語的清晰度。",
+        "2019 年獲選為全球 20 個組織之一，分享 Google.org AI Impact Challenge 的 2500 萬美元獎助金。",
+        "透過 Google Launchpad Accelerator 計畫獲得顧問諮詢與 AI 輔導支援。"
+      ]
+    },
+    "technologies": ["Google Cloud", "AI (Machine Learning)"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Hand Talk with Thadeu Luz | Google Cloud Platform Podcast",
+        "url": "https://www.gcppodcast.com/post/episode-132-hand-talk-with-thadeu-luz/"
+      },
+      {
+        "title": "Artificial Intelligence (AI) for Social Good through Accessibility - Hand Talk",
+        "url": "https://www.handtalk.me/en/blog/ai-for-social-good-accessibility/"
+      },
+      {
+        "title": "Brazilian Sign Language app, HandTalk, raises US$750 thousand in Google competition",
+        "url": "https://contxto.com/en/brazil/brazilian-sign-language-app-handtalk-raises-us750-thousand-in-google-competition/"
+      }
+    ]
+  }
+]

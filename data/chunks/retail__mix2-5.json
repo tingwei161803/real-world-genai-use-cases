@@ -1,0 +1,406 @@
+[
+  {
+    "id": "retail-data-tchibo",
+    "industry": "retail",
+    "agentType": "data",
+    "company": "Tchibo",
+    "isNew": false,
+    "summary": {
+      "en": "Tchibo built DEMON, an AI demand forecasting system generating 6M+ predictions daily using Vertex AI and BigQuery.",
+      "zh": "Tchibo 以 Vertex AI 與 BigQuery 打造 DEMON 需求預測系統，每日產生逾 600 萬筆預測，優化倉庫供應管理。"
+    },
+    "overview": {
+      "en": "Tchibo, a major European coffee and e-commerce company, partnered with Google Cloud in 2022 to build DEMON, an AI-powered demand forecasting service for its online sales channel. The system uses a Temporal Fusion Transformer (TFT) model trained on over three years of historical data, producing 84-day forecasts per item. BigQuery serves as the central data engine, aggregating product, sales, marketing, and logistics data from six countries into a feature store, while Vertex AI notebooks handle experimentation and model development. The resulting predictions are handed off to ERP and allocation systems, enabling automatic warehouse replenishment.",
+      "zh": "Tchibo 是歐洲知名咖啡與電商品牌，於 2022 年與 Google Cloud 合作，為線上銷售渠道建立名為 DEMON 的 AI 需求預測服務。該系統採用時序融合轉換器（TFT）模型，基於逾三年歷史資料訓練，對每件商品產生 84 天預測。BigQuery 整合來自六個國家的產品、銷售、行銷與物流資料作為特徵倉庫；Vertex AI Notebooks 負責實驗與模型開發。預測結果自動傳入 ERP 與配貨系統，驅動倉庫自動補貨。"
+    },
+    "highlights": {
+      "en": [
+        "Generates over 6 million optimized demand predictions per day across Tchibo's online catalog.",
+        "84-day item-level forecasts powered by a Temporal Fusion Transformer model on Vertex AI.",
+        "BigQuery aggregates multi-source data from 6 countries to form the training and inference feature store.",
+        "Microservice architecture orchestrated by Google Workflows integrates with ERP for automatic replenishment.",
+        "Reduces logistics costs and overstock by ensuring right-sized warehouse inventory."
+      ],
+      "zh": [
+        "每日針對線上商品目錄產生逾 600 萬筆優化需求預測。",
+        "以 Vertex AI 上的時序融合轉換器模型提供 84 天商品層級預測。",
+        "BigQuery 整合來自 6 個國家的多來源資料，構建訓練與推論特徵倉庫。",
+        "微服務架構透過 Google Workflows 協作，與 ERP 整合實現自動補貨。",
+        "降低物流成本與庫存積壓，確保倉庫備貨水位精準合理。"
+      ]
+    },
+    "technologies": ["Vertex AI", "BigQuery", "Google Workflows", "Temporal Fusion Transformer"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Tchibo Case Study | Google Cloud",
+        "url": "https://cloud.google.com/customers/tchibogmbh"
+      }
+    ]
+  },
+  {
+    "id": "retail-data-the-village-store",
+    "industry": "retail",
+    "agentType": "data",
+    "company": "The Village Store",
+    "isNew": false,
+    "summary": {
+      "en": "The Village Store uses Gemini in Sheets to simplify accounting for its two-person team at a New Hampshire general store.",
+      "zh": "The Village Store 是一家新罕布夏州的老式雜貨店，以 Gemini in Sheets 簡化兩人團隊的會計作業，讓員工能專注於實體營運。"
+    },
+    "overview": {
+      "en": "The Village Store, a small old-town general store in New Hampshire run by just two people, uses Gemini in Google Sheets to handle accounting tasks. By leveraging AI-assisted spreadsheets, the team automates routine data entry and financial tracking, freeing them from administrative overhead so they can focus on serving their community. The store was featured in Google's \"50 States, 50 Stories\" campaign showcasing small businesses using Google Workspace with Gemini.",
+      "zh": "The Village Store 是新罕布夏州一家僅有兩人經營的老式雜貨店，利用 Gemini in Google Sheets 處理會計事務。透過 AI 輔助試算表，團隊能自動化日常資料輸入與財務追蹤，減少行政負擔，將心力回歸社區服務。該店曾入選 Google「50 州 50 個故事」小型企業展示活動。"
+    },
+    "highlights": {
+      "en": [
+        "Two-person team uses Gemini in Sheets to automate accounting tasks previously done manually.",
+        "Reduces administrative burden, allowing staff to focus on hands-on store operations.",
+        "Featured in Google's '50 States, 50 Stories' campaign as a small business using Google Workspace with Gemini."
+      ],
+      "zh": [
+        "兩人團隊以 Gemini in Sheets 自動化原本手動的會計作業。",
+        "降低行政負擔，讓員工得以專注於門市實體日常運作。",
+        "入選 Google「50 州 50 個故事」活動，作為運用 Google Workspace with Gemini 的小型企業代表。"
+      ]
+    },
+    "technologies": ["Gemini", "Google Sheets", "Google Workspace"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "New Hampshire - The Village Store: Gemini in Google Sheets (YouTube)",
+        "url": "https://www.youtube.com/shorts/TgRxTJpnCLw"
+      }
+    ]
+  },
+  {
+    "id": "retail-data-the-woobles",
+    "industry": "retail",
+    "agentType": "data",
+    "company": "The Woobles",
+    "isNew": false,
+    "summary": {
+      "en": "The Woobles tracks beginner crochet kit inventory faster with Gemini in Sheets, building forecasts and run rates via simple prompts.",
+      "zh": "The Woobles 以 Gemini in Sheets 加速追蹤初學鉤針套件庫存，輕鬆透過提示建立預測與週轉率報表。"
+    },
+    "overview": {
+      "en": "The Woobles, a North Carolina company selling beginner crochet kits, uses Gemini in Google Sheets to streamline inventory management and demand forecasting. The team can generate forecasts and run rates with a single prompt, ensuring every product finds a home without manual spreadsheet work. The Woobles was featured in Google's Super Bowl Workspace with Gemini campaign and is part of the '50 States, 50 Stories' initiative.",
+      "zh": "The Woobles 是北卡羅來納州的初學鉤針套件品牌，使用 Gemini in Google Sheets 簡化庫存管理與需求預測。團隊只需一個提示即可生成預測與週轉率報表，確保每件商品都能順利售出，無需繁瑣的手動試算表作業。該公司曾入選 Google Workspace with Gemini 超級盃廣告，並參與「50 州 50 個故事」活動。"
+    },
+    "highlights": {
+      "en": [
+        "Generates inventory forecasts and run rates for crochet kits using a single prompt in Gemini in Sheets.",
+        "Eliminates manual spreadsheet work for inventory tracking across product lines.",
+        "Featured in Google's Super Bowl campaign showcasing Workspace with Gemini for small businesses."
+      ],
+      "zh": [
+        "透過 Gemini in Sheets 的單一提示，產生鉤針套件的庫存預測與週轉率報表。",
+        "消除跨產品線庫存追蹤的手動試算表作業。",
+        "入選 Google Workspace with Gemini 超級盃廣告，作為小型企業應用代表。"
+      ]
+    },
+    "technologies": ["Gemini", "Google Sheets", "Google Workspace"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "North Carolina - The Woobles: Gemini in Google Sheets (YouTube)",
+        "url": "https://www.youtube.com/watch?v=9iQXPE0u77g"
+      }
+    ]
+  },
+  {
+    "id": "retail-data-unilever",
+    "industry": "retail",
+    "agentType": "data",
+    "company": "Unilever",
+    "isNew": false,
+    "summary": {
+      "en": "Unilever digitized distribution trade processes with BigQuery, processing 75,000 orders daily to reach millions of retailers in emerging markets.",
+      "zh": "Unilever 以 BigQuery 數位化其配銷交易流程，每日處理 7.5 萬筆訂單，觸及新興市場數百萬零售商。"
+    },
+    "overview": {
+      "en": "Unilever built a cloud-based eB2B distribution platform using BigQuery and Google Cloud analytics to digitize its trade distribution processes in emerging markets. The platform processes 75,000 distributor and retailer orders daily, supporting annualized sales of approximately €2.5 billion. It is operational in Indonesia, Vietnam, Pakistan, the Philippines, Thailand, and Bangladesh, connecting Unilever directly to more than 600 distributors through real-time digital ordering, inventory management, automated replenishment, and route optimization. Unilever also signed a five-year partnership with Google Cloud to further advance AI-powered business transformation.",
+      "zh": "Unilever 以 BigQuery 和 Google Cloud 分析技術建立雲端 eB2B 配銷平台，數位化新興市場的貿易配銷流程。該平台每日處理 7.5 萬筆經銷商與零售商訂單，支撐年化銷售額約 25 億歐元。目前已在印尼、越南、巴基斯坦、菲律賓、泰國及孟加拉上線，直接連結逾 600 家經銷商，提供即時數位訂購、庫存管理、自動補貨與路線優化功能。Unilever 並與 Google Cloud 簽署五年合作協議，持續推進 AI 驅動的業務轉型。"
+    },
+    "highlights": {
+      "en": [
+        "Processes 75,000 distributor and retailer orders daily through a BigQuery-powered analytics platform.",
+        "Supports annualized sales of approximately €2.5 billion across emerging markets.",
+        "Operational in 6 emerging markets: Indonesia, Vietnam, Pakistan, Philippines, Thailand, and Bangladesh.",
+        "Connects Unilever directly to 600+ distributors with real-time digital ordering and automated replenishment.",
+        "Underpinned by a five-year Google Cloud partnership for AI-powered business transformation."
+      ],
+      "zh": [
+        "透過 BigQuery 驅動的分析平台，每日處理 7.5 萬筆經銷商與零售商訂單。",
+        "支撐新興市場年化銷售額約 25 億歐元。",
+        "已在印尼、越南、巴基斯坦、菲律賓、泰國、孟加拉 6 個新興市場上線。",
+        "直接連結逾 600 家經銷商，提供即時數位訂購與自動補貨功能。",
+        "以五年 Google Cloud 合作協議為基礎，推進 AI 驅動的業務轉型。"
+      ]
+    },
+    "technologies": ["BigQuery", "Google Cloud", "Dataflow"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Unilever Expands B2B Distributor Platform Across Emerging Markets | Distribution Strategy Group",
+        "url": "https://distributionstrategy.com/unilever-expands-b2b-distributor-platform-across-emerging-markets/"
+      },
+      {
+        "title": "Unilever Customer Hub Page | Google Cloud",
+        "url": "https://cloud.google.com/customers/featured/unilever"
+      }
+    ]
+  },
+  {
+    "id": "retail-data-woodward-throwbacks",
+    "industry": "retail",
+    "agentType": "data",
+    "company": "Woodward Throwbacks",
+    "isNew": false,
+    "summary": {
+      "en": "Woodward Throwbacks, a reclaimed-wood furniture maker, uses Gemini in Sheets to create project and monthly trackers from a single prompt.",
+      "zh": "Woodward Throwbacks 是一家使用回收木材的傢俱公司，以 Gemini in Sheets 透過單一提示建立月度或專案追蹤表，滿足團隊各種需求。"
+    },
+    "overview": {
+      "en": "Woodward Throwbacks, a Detroit-based furniture company that creates modern pieces using reclaimed wood and salvaged materials, uses Gemini in Google Sheets to manage project tracking. The small team can create monthly or project-based trackers with a single prompt, tailored to their workflow needs, rather than building complex spreadsheets manually. This allows the company to dedicate more time to its core craft of sourcing and transforming reclaimed materials.",
+      "zh": "Woodward Throwbacks 是底特律一家以回收木材和廢棄材料製作現代傢俱的品牌，利用 Gemini in Google Sheets 管理專案追蹤。小型團隊只需一個提示，即可建立符合工作流需求的月度或專案追蹤表，無需手動建構複雜試算表，讓公司得以將更多時間投入回收材料的取材與轉化核心業務。"
+    },
+    "highlights": {
+      "en": [
+        "Creates custom monthly or project-based trackers with a single Gemini prompt in Google Sheets.",
+        "Eliminates manual spreadsheet construction, freeing the team to focus on furniture craftsmanship.",
+        "Flexible template generation adapts to varied project workflows without IT support."
+      ],
+      "zh": [
+        "透過 Google Sheets 中的 Gemini 單一提示，建立月度或專案自訂追蹤表。",
+        "消除手動建構試算表的負擔，讓團隊專注於傢俱工藝創作。",
+        "靈活的範本生成功能可適應多種專案工作流，無需 IT 支援。"
+      ]
+    },
+    "technologies": ["Gemini", "Google Sheets", "Google Workspace"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Woodward Throwbacks | Furniture With A Story",
+        "url": "https://www.throwbackshome.com/"
+      }
+    ]
+  },
+  {
+    "id": "retail-data-wyze-labs",
+    "industry": "retail",
+    "agentType": "data",
+    "company": "Wyze Labs",
+    "isNew": false,
+    "summary": {
+      "en": "Wyze Labs is rolling out AI-powered anomaly detection for its security cameras using Google's vision AI technology.",
+      "zh": "Wyze Labs 以 Google 視覺 AI 工具為其安全攝影機系統推出 AI 異常偵測新功能。"
+    },
+    "overview": {
+      "en": "Wyze Labs, a consumer smart home and security camera brand, is integrating Google's vision AI technology to power new AI anomaly detection features for its security camera systems. The solution moves beyond basic motion sensing to recognize meaningful events such as people, packages, pets, and vehicles, as well as detecting unusual activity patterns. Wyze is also developing AI video search capabilities that let users query footage by text descriptions, leveraging vision-language model technology.",
+      "zh": "Wyze Labs 是消費級智慧家庭與安全攝影機品牌，正在整合 Google 視覺 AI 技術，為其攝影機系統推出 AI 異常偵測新功能。該方案超越基本移動偵測，能識別人物、包裹、寵物與車輛等有意義的事件，並偵測異常活動模式。Wyze 同時開發 AI 影片搜尋功能，讓用戶透過文字描述查詢錄影片段，運用視覺語言模型技術實現。"
+    },
+    "highlights": {
+      "en": [
+        "Integrating Google's vision AI to enable AI-powered anomaly detection in Wyze security cameras.",
+        "Detects meaningful events including people, pets, packages, and vehicles beyond basic motion alerts.",
+        "AI video search feature allows users to query footage by natural language text descriptions.",
+        "Vision language models deliver 2–3x faster inference compared to conventional engines."
+      ],
+      "zh": [
+        "整合 Google 視覺 AI，為 Wyze 安全攝影機賦予 AI 異常偵測能力。",
+        "超越基本移動警報，偵測人物、寵物、包裹與車輛等有意義事件。",
+        "AI 影片搜尋功能讓用戶以自然語言文字描述查詢錄影片段。",
+        "視覺語言模型推論速度比傳統引擎快 2–3 倍。"
+      ]
+    },
+    "technologies": ["Google Cloud Vision AI", "Vision Language Model"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Wyze's new AI feature lets users search across footage from security cameras | GeekWire",
+        "url": "https://www.geekwire.com/2024/new-ai-feature-from-wyze-lets-users-search-across-video-footage-from-security-cams/"
+      }
+    ]
+  },
+  {
+    "id": "retail-code-grupo-dia",
+    "industry": "retail",
+    "agentType": "code",
+    "company": "Grupo Dia",
+    "isNew": false,
+    "summary": {
+      "en": "Grupo Dia uses Apps Script with Google Workspace to let non-coders across stores, warehouses, and offices build automated workflows.",
+      "zh": "Grupo Dia 以 Apps Script 結合 Google Workspace，讓門市、倉庫與辦公室的非技術人員也能建立自動化工作流程，同時確保資料主權。"
+    },
+    "overview": {
+      "en": "Grupo Dia, a Spanish multinational supermarket chain, has adopted Google Workspace's Apps Script platform powered by AI to enable employees across its stores, warehouses, and offices to create automated workflows without deep coding expertise. The AI-assisted tools lower the barrier for workflow automation, empowering business teams to streamline operations independently. The solution maintains full control over data privacy and sovereignty, which is especially important for a large retailer operating in regulated markets.",
+      "zh": "Grupo Dia 是西班牙跨國連鎖超市集團，採用 Google Workspace 的 AI 輔助 Apps Script 平台，讓門市、倉庫與辦公室員工無需深厚程式設計知識即可建立自動化工作流程。AI 輔助工具降低工作流自動化的門檻，賦予業務團隊獨立優化營運的能力，同時完整保障資料隱私與主權，這對在受監管市場運營的大型零售商尤為重要。"
+    },
+    "highlights": {
+      "en": [
+        "Enables employees with little coding experience to build automated workflows using AI-assisted Apps Script.",
+        "Deployed across stores, warehouses, and offices within the Grupo Dia organization.",
+        "Maintains full data privacy and sovereignty compliance throughout the automation platform.",
+        "Reduces reliance on IT teams by empowering business users to self-serve workflow creation."
+      ],
+      "zh": [
+        "讓編程經驗有限的員工能利用 AI 輔助 Apps Script 建立自動化工作流程。",
+        "在 Grupo Dia 的門市、倉庫與辦公室全面部署。",
+        "整個自動化平台全程符合資料隱私與主權合規要求。",
+        "賦予業務用戶自助建立工作流程的能力，降低對 IT 團隊的依賴。"
+      ]
+    },
+    "technologies": ["Google Workspace", "Apps Script", "Gemini"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "retail-code-l-oreal",
+    "industry": "retail",
+    "agentType": "code",
+    "company": "L'Oreal",
+    "isNew": false,
+    "summary": {
+      "en": "L'Oreal built an AI agent with LangChain and Cloud Run for text-to-text and text-to-image generation, accelerating gen AI app development.",
+      "zh": "L'Oreal 以 LangChain 和 Cloud Run 打造 AI Agent，提供文字生成與文字轉圖像能力，加速生成式 AI 應用開發部署。"
+    },
+    "overview": {
+      "en": "L'Oreal developed an internal AI agent platform using LangChain and Google Cloud Run to provide both text-to-text and text-to-image generation capabilities. The platform acts as a generative AI-as-a-service layer, enabling teams across the company to build and deploy gen AI applications faster while reducing time and cost. L'Oreal has also expanded its AI use into marketing, leveraging Google's Imagen 3 and Veo 2 within its CREAITECH lab for high-quality visual and video content generation.",
+      "zh": "L'Oreal 以 LangChain 和 Google Cloud Run 建立內部 AI Agent 平台，提供文字生成（text-to-text）與文字轉圖像（text-to-image）能力。該平台作為生成式 AI 即服務（GenAI-as-a-Service）層，讓全公司各團隊能更快速地建置與部署生成式 AI 應用，同時節省時間與成本。L'Oreal 也在行銷領域擴展 AI 應用，透過其 CREAITECH 實驗室運用 Google 的 Imagen 3 與 Veo 2 進行高品質視覺與影片內容生成。"
+    },
+    "highlights": {
+      "en": [
+        "Built an AI agent using LangChain and Cloud Run supporting both text-to-text and text-to-image generation.",
+        "Serves as an internal GenAI-as-a-Service layer to accelerate application development across teams.",
+        "Reduces time and cost for building and deploying gen AI applications company-wide.",
+        "CREAITECH lab additionally leverages Imagen 3 and Veo 2 for AI-generated marketing visuals and video."
+      ],
+      "zh": [
+        "以 LangChain 和 Cloud Run 建置支援文字生成與文字轉圖像的 AI Agent。",
+        "作為內部 GenAI 即服務層，加速各團隊的 AI 應用開發。",
+        "降低全公司建置和部署生成式 AI 應用的時間與成本。",
+        "CREAITECH 實驗室另以 Imagen 3 和 Veo 2 產生行銷用 AI 視覺與影片內容。"
+      ]
+    },
+    "technologies": ["LangChain", "Cloud Run", "Vertex AI", "Imagen", "Veo"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "L'Oreal — Gen AI As A Service With Cloud Run & LangChain (Scribd)",
+        "url": "https://www.scribd.com/document/764032003/L-Oreal-Gen-AI-As-a-Service-with-Cloud-Run-LangChain"
+      },
+      {
+        "title": "How L'Oréal Groupe pioneers responsible AI visuals with Veo and Imagen | Google Cloud Blog",
+        "url": "https://cloud.google.com/transform/loreal-ai-content-creation-veo-imagen-creaitech-next25"
+      }
+    ]
+  },
+  {
+    "id": "retail-code-leroy-merlin",
+    "industry": "retail",
+    "agentType": "code",
+    "company": "Leroy Merlin",
+    "isNew": false,
+    "summary": {
+      "en": "Leroy Merlin built a Pull Request Analyzer on Vertex AI that summarizes code changes to speed up code review for developers.",
+      "zh": "Leroy Merlin 以 Vertex AI 開發 Pull Request Analyzer，自動摘要程式碼變更，協助開發者更快理解專案並提升程式碼審查效率。"
+    },
+    "overview": {
+      "en": "Leroy Merlin, a global home improvement retailer, developed an internal Pull Request Analyzer using Vertex AI to assist its engineering teams. The generative AI solution reads code diffs and automatically generates summaries of changes, enabling developers to quickly understand the scope and intent of pull requests. This accelerates the code review process, reduces context-switching overhead, and helps teams maintain higher code quality at scale.",
+      "zh": "Leroy Merlin 是全球家居改善零售商，以 Vertex AI 為工程團隊開發內部 Pull Request Analyzer。此生成式 AI 解決方案讀取程式碼差異（code diff），自動生成變更摘要，讓開發者能快速理解 Pull Request 的範圍與意圖，加速程式碼審查流程，降低上下文切換成本，並協助團隊大規模維護較高的程式碼品質。"
+    },
+    "highlights": {
+      "en": [
+        "Built a Pull Request Analyzer using Vertex AI to automatically summarize code changes.",
+        "Helps developers quickly understand project changes, reducing time spent reading raw diffs.",
+        "Improves code review efficiency by providing AI-generated context for each pull request.",
+        "Enables engineering teams to maintain code quality at scale with generative AI assistance."
+      ],
+      "zh": [
+        "以 Vertex AI 建置 Pull Request Analyzer，自動摘要程式碼變更。",
+        "協助開發者快速理解專案改動，減少閱讀原始差異的時間。",
+        "透過 AI 生成的每個 Pull Request 背景說明，提升程式碼審查效率。",
+        "讓工程團隊借助生成式 AI 在規模化環境中維護程式碼品質。"
+      ]
+    },
+    "technologies": ["Vertex AI", "Gemini"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "retail-code-wayfair",
+    "industry": "retail",
+    "agentType": "code",
+    "company": "Wayfair",
+    "isNew": false,
+    "summary": {
+      "en": "Wayfair piloted Gemini Code Assist, achieving 55% faster environment setup and 48% better unit test performance for developers.",
+      "zh": "Wayfair 試行 Gemini Code Assist，開發者環境建置速度提升 55%、單元測試效能提升 48%，60% 開發者表示能專注於更有意義的工作。"
+    },
+    "overview": {
+      "en": "Wayfair piloted Gemini Code Assist (Google Cloud's AI code agent) to boost developer productivity across its engineering organization. Developers using the code agent set up their environments 55% faster than before. Unit testing performance improved by 48%, and 60% of participating developers reported being able to focus on more satisfying and higher-value work. Wayfair is a long-standing Google Cloud partner and has also integrated Gemini across Google Workspace tools to further scale AI usage.",
+      "zh": "Wayfair 試行 Google Cloud 的 AI 程式碼助理 Gemini Code Assist，以提升工程組織整體開發者生產力。使用程式碼 Agent 的開發者環境建置速度提升 55%；單元測試效能提升 48%；60% 的參與開發者表示能專注於更令人滿足的高價值工作。Wayfair 是 Google Cloud 長期合作夥伴，也已在 Google Workspace 工具中整合 Gemini，進一步擴大 AI 應用範圍。"
+    },
+    "highlights": {
+      "en": [
+        "Developers set up their environments 55% faster with Gemini Code Assist's code agent.",
+        "48% increase in code performance during unit testing after adopting Code Assist.",
+        "60% of developers reported focusing on more satisfying, higher-value work.",
+        "Wayfair is a broad Google Cloud partner, also leveraging Gemini in Google Workspace."
+      ],
+      "zh": [
+        "使用 Gemini Code Assist 程式碼 Agent 後，開發者環境建置速度提升 55%。",
+        "採用 Code Assist 後，單元測試期間程式碼效能提升 48%。",
+        "60% 的開發者表示能專注於更令人滿足的高價值工作。",
+        "Wayfair 是 Google Cloud 廣泛合作夥伴，亦在 Google Workspace 中整合 Gemini。"
+      ]
+    },
+    "technologies": ["Gemini Code Assist", "Google Cloud", "Google Workspace", "Vertex AI"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Wayfair case study | Google Cloud",
+        "url": "https://cloud.google.com/customers/wayfair-ai"
+      },
+      {
+        "title": "How Wayfair is using Gemini CodeAssist to increase developer productivity (YouTube)",
+        "url": "https://www.youtube.com/watch?v=VwZNWqh5ZWU"
+      }
+    ]
+  }
+]

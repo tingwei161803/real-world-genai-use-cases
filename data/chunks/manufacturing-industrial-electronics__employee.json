@@ -1,0 +1,1181 @@
+[
+  {
+    "id": "manufacturing-industrial-electronics-employee-adani-group",
+    "industry": "manufacturing-industrial-electronics",
+    "agentType": "employee",
+    "company": "Adani Group",
+    "isNew": false,
+    "summary": {
+      "en": "Adani Group uses Vertex AI Search and Vector Search to power semantic search across its internal a-connect newsletter.",
+      "zh": "Adani Group 運用 Vertex AI Search 與 Vector Search，讓員工能以語意理解搜尋 a-connect 內部通訊平台的文章、圖片與影片。"
+    },
+    "overview": {
+      "en": "Adani Group, one of India's largest multinational conglomerates, transformed its internal a-connect newsletter platform using Vertex AI Search and Vector Search. The AI-powered system indexes multimodal content — including text, images, and video — enabling employees to search using semantic understanding rather than keyword matching. BigQuery handles large-scale data analytics and Cloud Functions power backend services.",
+      "zh": "Adani Group 是印度最大的跨國企業集團之一，藉由 Vertex AI Search 與 Vector Search 改造 a-connect 內部通訊平台。新系統支援多模態內容索引（文字、圖片、影片），讓員工透過語意搜尋快速找到所需資訊，後端由 BigQuery 與 Cloud Functions 支援。"
+    },
+    "highlights": {
+      "en": [
+        "Semantic search across text, images, and videos replaces keyword-only search in the a-connect newsletter platform.",
+        "Average search query time significantly reduced, with increased successful search rates and user engagement.",
+        "Automatic summarizations and citations surface relevant content without requiring manual review.",
+        "BigQuery, Cloud Functions, and Dialogflow integrated with Vertex AI for a scalable, unified platform."
+      ],
+      "zh": [
+        "a-connect 平台以語意搜尋取代傳統關鍵字搜尋，支援文字、圖片與影片多模態內容。",
+        "平均查詢時間顯著縮短，搜尋成功率與用戶參與度提升。",
+        "AI 自動生成摘要並附上引用來源，免去人工審閱。",
+        "整合 BigQuery、Cloud Functions 與 Dialogflow，打造可擴展的統一平台。"
+      ]
+    },
+    "technologies": [
+      "Vertex AI Search",
+      "Vertex AI Vector Search",
+      "BigQuery",
+      "Cloud Functions",
+      "Dialogflow"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Adani case study | Google Cloud",
+        "url": "https://cloud.google.com/customers/adani"
+      }
+    ]
+  },
+  {
+    "id": "manufacturing-industrial-electronics-employee-aes",
+    "industry": "manufacturing-industrial-electronics",
+    "agentType": "employee",
+    "company": "AES",
+    "isNew": false,
+    "summary": {
+      "en": "AES cut energy safety audit costs by 99% and reduced audit time from 14 days to one hour using gen AI agents.",
+      "zh": "AES 以 Vertex AI 與 Anthropic Claude 建構 AI 代理，將能源安全稽核成本降低 99%，稽核時間從 14 天縮至 1 小時。"
+    },
+    "overview": {
+      "en": "AES, a global energy company, built gen AI agents using Vertex AI and Anthropic's Claude models to automate its extensive safety audit program — covering over 1,500 audits annually across power generation sites. The agents review compliance documentation, generate audit reports, and flag issues, dramatically reducing both cost and time while improving accuracy. After conducting more than 50 agent audits, results were delivered 99.7% faster.",
+      "zh": "AES 是一家全球能源公司，每年執行逾 1,500 次安全管理稽核。透過在 Vertex AI 上運行 Anthropic Claude 模型所建構的 AI 代理，自動審閱合規文件、生成稽核報告並標記問題。超過 50 次代理稽核後，結果呈現速度提升 99.7%，精準度也同步提升。"
+    },
+    "highlights": {
+      "en": [
+        "99% reduction in audit costs per audit after deploying gen AI agents on Vertex AI.",
+        "Audit report generation time reduced from approximately 14 days to about 1 hour — a 99.7% time reduction.",
+        "Audit accuracy improved by 10–20% compared to manual processes.",
+        "Claude models on Vertex AI selected for ability to handle large API call volumes and synchronize agents for complex tasks."
+      ],
+      "zh": [
+        "每次稽核成本降低 99%。",
+        "稽核報告生成時間從約 14 天縮短至約 1 小時，速度提升 99.7%。",
+        "稽核精準度較人工流程提升 10–20%。",
+        "選用 Vertex AI 上的 Claude 模型，原因在於其能處理大量 API 呼叫並協調複雜任務中的多個代理。"
+      ]
+    },
+    "technologies": [
+      "Vertex AI",
+      "Anthropic Claude"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "AES Case Study | Google Cloud",
+        "url": "https://cloud.google.com/customers/aes"
+      },
+      {
+        "title": "Customer story | AES | Claude",
+        "url": "https://claude.com/customers/aes"
+      }
+    ]
+  },
+  {
+    "id": "manufacturing-industrial-electronics-employee-asia-digital-engineering",
+    "industry": "manufacturing-industrial-electronics",
+    "agentType": "employee",
+    "company": "Asia Digital Engineering",
+    "isNew": false,
+    "summary": {
+      "en": "Asia Digital Engineering doubled development lifecycle speed using Gemini, Document AI, and Vertex AI for MRO digital operations.",
+      "zh": "Asia Digital Engineering 結合 Gemini、Document AI 與 Vertex AI，將開發生命週期速度提升一倍，大幅加速航空 MRO 數據處理。"
+    },
+    "overview": {
+      "en": "Asia Digital Engineering (ADE), a leading aircraft Maintenance, Repair, and Overhaul provider born from Malaysia AirAsia's engineering department during COVID-19, adopted Gemini, Document AI, and Vertex AI to enhance digital operations. The implementation doubled development lifecycle speed through containerization and significantly accelerated data processing across large datasets. BigQuery and Looker Studio power analytics and dashboards across the organization.",
+      "zh": "Asia Digital Engineering（ADE）源自馬來西亞 AirAsia 工程部門，是亞太地區領先的飛機維修、修理與翻修（MRO）服務商。導入 Gemini、Document AI 與 Vertex AI 後，開發生命週期速度提升一倍，大型資料集的處理效率顯著提升。BigQuery 與 Looker Studio 支援全公司的分析與儀表板需求。"
+    },
+    "highlights": {
+      "en": [
+        "Development lifecycle speed doubled through containerization and AI-assisted workflows.",
+        "Large dataset analysis significantly accelerated, enabling faster operational decisions.",
+        "Gemini and Document AI used for sophisticated ML tasks and document processing in MRO contexts.",
+        "Vertex AI Workbench supports the team's ML development and job execution."
+      ],
+      "zh": [
+        "透過容器化與 AI 輔助工作流，開發生命週期速度提升一倍。",
+        "大型資料集分析速度顯著提升，加快運營決策效率。",
+        "在 MRO 場景中，Gemini 與 Document AI 用於複雜機器學習任務與文件處理。",
+        "Vertex AI Workbench 支援團隊的機器學習開發與任務執行。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Document AI",
+      "Vertex AI",
+      "BigQuery",
+      "Looker Studio"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "ADE Case Study Page | Google Cloud",
+        "url": "https://cloud.google.com/customers/ade"
+      }
+    ]
+  },
+  {
+    "id": "manufacturing-industrial-electronics-employee-bayer-crop-science",
+    "industry": "manufacturing-industrial-electronics",
+    "agentType": "employee",
+    "company": "Bayer Crop Science",
+    "isNew": true,
+    "summary": {
+      "en": "Bayer Crop Science researchers use data science agents to eliminate manual data management and focus on agricultural innovation.",
+      "zh": "Bayer Crop Science 研究人員透過資料科學代理消除手動資料管理，專注推動農業永續創新。"
+    },
+    "overview": {
+      "en": "Bayer Crop Science researchers are using gen AI-powered data science agents to automate manual data management and analytics workflows. By removing the burden of repetitive data tasks, researchers can redirect their time and expertise toward pioneering agricultural innovations that support a more sustainable and productive future for food production.",
+      "zh": "Bayer Crop Science 的研究人員透過 AI 驅動的資料科學代理，自動化手動資料管理與分析工作流程。消除重複性資料作業後，研究人員能將精力投注於開創性農業創新，為糧食生產的永續未來做出貢獻。"
+    },
+    "highlights": {
+      "en": [
+        "Data science agents automate manual data management tasks for agricultural researchers.",
+        "Researchers freed from repetitive analytics to focus on sustainable agricultural innovation.",
+        "Part of Bayer's broader adoption of generative AI across crop science R&D."
+      ],
+      "zh": [
+        "資料科學代理自動化農業研究人員的手動資料管理任務。",
+        "研究人員從重複性分析工作中解放，得以專注於農業永續創新。",
+        "屬於 Bayer 在農業科學研發領域更廣泛導入生成式 AI 的一部分。"
+      ]
+    },
+    "technologies": [
+      "Vertex AI",
+      "Gemini"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "manufacturing-industrial-electronics-employee-bosch",
+    "industry": "manufacturing-industrial-electronics",
+    "agentType": "employee",
+    "company": "Bosch",
+    "isNew": true,
+    "summary": {
+      "en": "Bosch integrates Gemini Enterprise into its AskBosch internal platform, enabling employees to deploy their own AI agents.",
+      "zh": "Bosch 將 Gemini Enterprise 整合至內部 AskBosch 平台，讓全公司員工皆可自行部署 AI 代理。"
+    },
+    "overview": {
+      "en": "Bosch is scaling innovation from power tools to emergency safety by integrating Gemini Enterprise into AskBosch, its internal platform for accelerating AI adoption. The platform enables employees across the organization to deploy their own AI agents, extending AI capabilities from centralized IT teams to individual business units. AskBosch's integration of Gemini Enterprise represents a key step in Bosch's enterprise-wide AI democratization strategy.",
+      "zh": "Bosch 將 Gemini Enterprise 整合至內部 AI 加速平台 AskBosch，讓全公司員工得以自行部署 AI 代理，從集中式 IT 團隊延伸至各業務單位。這是 Bosch 推動全企業 AI 民主化策略的關鍵一步，應用範圍橫跨電動工具至緊急安全系統。"
+    },
+    "highlights": {
+      "en": [
+        "Gemini Enterprise integrated into AskBosch, Bosch's internal AI acceleration platform.",
+        "Employees across all divisions can deploy their own specialized AI agents without deep technical expertise.",
+        "Bosch extends AI adoption from power tools and consumer products to safety-critical applications.",
+        "Part of Bosch's broader partnership with Google Cloud announced at Cloud Next 2026."
+      ],
+      "zh": [
+        "Gemini Enterprise 整合至 Bosch 內部 AI 加速平台 AskBosch。",
+        "各部門員工無需深厚技術背景即可部署專屬 AI 代理。",
+        "AI 應用範疇從電動工具、消費品延伸至安全關鍵系統。",
+        "屬於 Bosch 與 Google Cloud 在 Cloud Next 2026 宣布的更廣泛合作夥伴關係。"
+      ]
+    },
+    "technologies": [
+      "Gemini Enterprise"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Gemini Enterprise app: Best of Google AI for Business | Google Cloud",
+        "url": "https://cloud.google.com/gemini-enterprise"
+      }
+    ]
+  },
+  {
+    "id": "manufacturing-industrial-electronics-employee-bynry",
+    "industry": "manufacturing-industrial-electronics",
+    "agentType": "employee",
+    "company": "Bynry",
+    "isNew": false,
+    "summary": {
+      "en": "Bynry's SMART360 platform leverages Google Cloud infrastructure to help small and mid-sized utilities improve efficiency and customer satisfaction.",
+      "zh": "Bynry 的 SMART360 平台以 Google Cloud 基礎架構，協助中小型公用事業公司提升運營效率與客戶滿意度。"
+    },
+    "overview": {
+      "en": "Bynry's SMART360 is an AI-driven SaaS utility management platform built on Google Cloud's infrastructure. The solution empowers small and mid-sized water, electricity, and gas utilities to digitize critical workflows — including billing, metering, customer relationship management, and infrastructure monitoring — reducing operational costs and enhancing customer satisfaction.",
+      "zh": "Bynry 的 SMART360 是一套建構在 Google Cloud 基礎架構上的 AI 驅動 SaaS 公用事業管理平台，協助中小型水、電、氣業者數位化關鍵工作流程，包括計費、計量、客戶關係管理與基礎設施監控，以降低營運成本並提升客戶滿意度。"
+    },
+    "highlights": {
+      "en": [
+        "SMART360 leverages Google Cloud's robust infrastructure for reliability and scalability.",
+        "Utilities using the platform typically see a 30% drop in billing errors and a 25% increase in digital payment adoption.",
+        "The meter reading app processes up to 5,000 readings in under two minutes.",
+        "Clients have reported up to 40% increase in overall efficiency after adoption."
+      ],
+      "zh": [
+        "SMART360 以 Google Cloud 基礎架構確保高可靠性與可擴展性。",
+        "採用平台的公用事業公司帳單錯誤率通常降低 30%，數位付款採用率提升 25%。",
+        "抄表應用程式可在兩分鐘內處理多達 5,000 筆讀數。",
+        "客戶導入後回報整體效率最多提升 40%。"
+      ]
+    },
+    "technologies": [
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "SMART360: The Ultimate Cloud-Based Utility Management Platform | Bynry",
+        "url": "https://www.bynry.com/utility-management-software"
+      }
+    ]
+  },
+  {
+    "id": "manufacturing-industrial-electronics-employee-copel",
+    "industry": "manufacturing-industrial-electronics",
+    "agentType": "employee",
+    "company": "Copel",
+    "isNew": false,
+    "summary": {
+      "en": "Copel built a Gemini Pro 1.5 AI agent that lets employees query its SAP ERP system using natural language.",
+      "zh": "巴西電力公司 Copel 以 Gemini Pro 1.5 建構 AI 代理，讓員工用自然語言查詢 SAP ERP 系統數據。"
+    },
+    "overview": {
+      "en": "Copel, a major Brazilian electric utility company, developed an AI agent powered by Gemini Pro 1.5 that connects to its on-premises SAP ERP system. Employees can ask questions in natural language and receive data-driven answers without navigating complex ERP interfaces or manual exports to Excel. The solution uses Vertex AI, Open Data QnA, and BigQuery as core components.",
+      "zh": "巴西主要電力公司 Copel 建構了一套由 Gemini Pro 1.5 驅動的 AI 代理，直接對接其本地 SAP ERP 系統。員工可用自然語言提問並獲得數據驅動的回答，無需操作複雜的 ERP 介面或手動匯出 Excel。核心架構包括 Vertex AI、Open Data QnA 與 BigQuery。"
+    },
+    "highlights": {
+      "en": [
+        "Natural language interface allows employees to query SAP ERP data without technical expertise.",
+        "Replaces manual processes and RPA tools, reducing inconsistencies in financial and operational data.",
+        "Generative AI in accounts payable brings agility and rapid resolution of complex financial issues.",
+        "Built on Vertex AI, Open Data QnA, and BigQuery for a scalable, enterprise-grade solution."
+      ],
+      "zh": [
+        "自然語言介面讓員工無需技術背景即可查詢 SAP ERP 數據。",
+        "取代手動流程與 RPA 工具，減少財務與運營數據的不一致性。",
+        "應付帳款中的生成式 AI 提升了靈活性，快速解決複雜財務問題。",
+        "建構於 Vertex AI、Open Data QnA 與 BigQuery，打造企業級可擴展解決方案。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Vertex AI",
+      "BigQuery"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Copel case study | Google Cloud",
+        "url": "https://cloud.google.com/customers/copel"
+      }
+    ]
+  },
+  {
+    "id": "manufacturing-industrial-electronics-employee-danfoss",
+    "industry": "manufacturing-industrial-electronics",
+    "agentType": "employee",
+    "company": "Danfoss",
+    "isNew": false,
+    "summary": {
+      "en": "Danfoss automated 80% of email-based B2B orders with AI agents on Google Cloud, cutting response time from 42 hours to near real-time.",
+      "zh": "Danfoss 在 Google Cloud 上部署 AI 代理，自動化 80% 的電子郵件訂單處理，客戶回應時間從 42 小時縮短至近即時。"
+    },
+    "overview": {
+      "en": "Danfoss, a global manufacturer operating in over 100 countries, partnered with Go Autonomous — discovered via Google Marketplace — to deploy AI agents on Google Cloud for email-based order processing. The autonomous commerce platform reads incoming orders, validates data against SAP, and prepares orders for processing. It automated 80% of transactional decisions, consolidated five legacy systems into one interface, and cut customer response time from 42 hours to under one minute.",
+      "zh": "丹麥全球製造商 Danfoss 透過 Google Marketplace 找到 Go Autonomous，在 Google Cloud 上部署 AI 代理處理電子郵件訂單。平台自動讀取訂單、對比 SAP 驗證數據並準備處理，自動化了 80% 的交易決策，將五個遺留系統整合為單一介面，客戶回應時間從 42 小時縮短至 1 分鐘以內。"
+    },
+    "highlights": {
+      "en": [
+        "80% of transactional email orders processed autonomously without human escalation.",
+        "Customer response time reduced from 42 hours to under 1 minute — orders processed across 26 countries.",
+        "Five separate systems consolidated into a single interface.",
+        "Go Autonomous platform runs on Google Cloud using Google Kubernetes Engine (GKE) for reliability and scale."
+      ],
+      "zh": [
+        "80% 的電子郵件訂單可在無需人工介入的情況下自動處理。",
+        "客戶回應時間從 42 小時縮短至 1 分鐘以內，覆蓋 26 個國家。",
+        "五套獨立系統整合為單一介面。",
+        "Go Autonomous 平台在 Google Cloud 上運行，以 Google Kubernetes Engine（GKE）確保可靠性與可擴展性。"
+      ]
+    },
+    "technologies": [
+      "Vertex AI",
+      "Google Kubernetes Engine",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Danfoss case study | Google Cloud",
+        "url": "https://cloud.google.com/customers/danfoss"
+      },
+      {
+        "title": "Danfoss Streamlines Order Intake with AI-Powered Agents | Go Autonomous",
+        "url": "https://goautonomous.io/danfoss-streamlines-order-intake-with-ai-powered-agents-and-autonomous-commerce/"
+      }
+    ]
+  },
+  {
+    "id": "manufacturing-industrial-electronics-employee-enpal",
+    "industry": "manufacturing-industrial-electronics",
+    "agentType": "employee",
+    "company": "Enpal",
+    "isNew": false,
+    "summary": {
+      "en": "Enpal reduced solar panel quote generation time by 87.5% — from 120 minutes to 15 minutes — using AI automation with Google Cloud.",
+      "zh": "Enpal 與 Google Cloud 合作夥伴 dida 合作，以 AI 自動化太陽能板報價流程，所需時間從 120 分鐘縮短至 15 分鐘，降幅達 87.5%。"
+    },
+    "overview": {
+      "en": "Enpal, a German solar energy company, worked with Google Cloud partner dida to automate its solar panel sales quoting process. The AI solution uses Google Maps Platform API to gather rooftop images, analyzes roof size and tile count, estimates the number of panels required, and generates accurate sales quotes. The system reduced quote generation from 120 minutes to 15 minutes, achieving approximately 93% accuracy in panel estimations.",
+      "zh": "德國太陽能公司 Enpal 與 Google Cloud 合作夥伴 dida 攜手，自動化太陽能板銷售報價流程。AI 解決方案透過 Google Maps Platform API 取得屋頂影像，分析屋頂尺寸與磚瓦數量，估算所需面板數並生成準確報價，太陽能板估算精準度約達 93%。"
+    },
+    "highlights": {
+      "en": [
+        "Quote generation time reduced 87.5%, from 120 minutes to 15 minutes per quote.",
+        "Approximately 93% accuracy achieved in solar panel estimations.",
+        "From 13 initial users at launch to 150 Enpal employees saving time with the solution.",
+        "Google Maps Platform API used to collect rooftop imagery; Cloud Storage manages images with cost-efficient storage transitions."
+      ],
+      "zh": [
+        "報價生成時間縮短 87.5%，從 120 分鐘降至 15 分鐘。",
+        "太陽能板估算精準度約達 93%。",
+        "使用者從初始 13 人成長至 150 名 Enpal 員工，每人皆節省大量時間。",
+        "以 Google Maps Platform API 收集屋頂影像；Cloud Storage 以自動存儲類別轉換管理影像並控制成本。"
+      ]
+    },
+    "technologies": [
+      "Google Maps Platform",
+      "Cloud Storage",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "dida creates a custom AI solution with Google Cloud | Google Cloud Blog",
+        "url": "https://cloud.google.com/blog/topics/customers/dida-creates-a-custom-ai-solution-with-google-cloud"
+      },
+      {
+        "title": "Google publishes success story about our machine learning project with Enpal | dida",
+        "url": "https://dida.do/news/google-publishes-success-story-about-our-machine-learning-project-with-enpal"
+      }
+    ]
+  },
+  {
+    "id": "manufacturing-industrial-electronics-employee-ge-appliances",
+    "industry": "manufacturing-industrial-electronics",
+    "agentType": "employee",
+    "company": "GE Appliances",
+    "isNew": true,
+    "summary": {
+      "en": "GE Appliances deployed 800+ Gemini Enterprise AI agents across manufacturing, quality control, and supply chain operations.",
+      "zh": "GE Appliances 在製造、品質控制與供應鏈運營中部署逾 800 個 Gemini Enterprise AI 代理，推動工廠數位化轉型。"
+    },
+    "overview": {
+      "en": "GE Appliances has deployed more than 800 AI agents powered by Google Cloud's Gemini Enterprise across its manufacturing, logistics, and supply chain operations. The system is embedded in its Brilliant Factory manufacturing data platform, enabling real-time, data-driven decision-making on the factory floor. Employees can query production data conversationally, identify root causes faster, and monitor equipment health, shifting from reactive to proactive operations management.",
+      "zh": "GE Appliances 在製造、物流與供應鏈中部署超過 800 個由 Google Cloud Gemini Enterprise 驅動的 AI 代理，整合至「Brilliant Factory」製造數據平台，實現工廠現場的即時數據驅動決策。員工可以對話方式查詢生產數據、更快速識別根本原因並監控設備健康狀態，從被動問題解決轉向主動運營管理。"
+    },
+    "highlights": {
+      "en": [
+        "800+ AI agents deployed across manufacturing, logistics, and supply chain operations.",
+        "Quality Insights AI tool enhances product design and accelerates improvement across customer logistics.",
+        "Automated Supplier Collaboration Agent led to a 25% reduction in backorders.",
+        "AI agents analyze shift data in minutes rather than hours, enabling real-time root cause identification."
+      ],
+      "zh": [
+        "跨製造、物流與供應鏈部署逾 800 個 AI 代理。",
+        "Quality Insights AI 工具提升產品設計品質，加速客戶物流改善。",
+        "自動化供應商協作代理使缺貨率降低 25%。",
+        "AI 代理可在數分鐘（而非數小時）內分析班次數據，實現即時根本原因識別。"
+      ]
+    },
+    "technologies": [
+      "Gemini Enterprise"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "GE Appliances Reinvents Manufacturing Operations at Scale with Google Cloud's Gemini Enterprise",
+        "url": "https://pressroom.geappliances.com/news/ge-appliances-reinvents-manufacturing-operations-at-scale-with-google-clouds-gemini-enterprise"
+      },
+      {
+        "title": "GE Appliances Expands Factory AI With 800 Gemini Enterprise Agents | ASSEMBLY",
+        "url": "https://www.assemblymag.com/articles/100065-ge-appliances-expands-factory-ai-with-800-gemini-enterprise-agents"
+      }
+    ]
+  },
+  {
+    "id": "manufacturing-industrial-electronics-employee-honeywell",
+    "industry": "manufacturing-industrial-electronics",
+    "agentType": "employee",
+    "company": "Honeywell",
+    "isNew": false,
+    "summary": {
+      "en": "Honeywell integrates Gemini into building automation products and uses AI agents to help engineers manage product lifecycles.",
+      "zh": "Honeywell 將 Gemini 整合至樓宇自動化產品，並運用 AI 代理協助工程師管理產品生命週期。"
+    },
+    "overview": {
+      "en": "Honeywell, a nearly 120-year-old manufacturing company, partnered with Google Cloud to incorporate Gemini into its building automation products and leverage AI agents for product lifecycle management. The collaboration, announced in October 2024, connects AI agents with Honeywell Forge's IoT platform and Gemini on Vertex AI to automate repetitive engineering tasks, shorten project cycles, and provide real-time insights from multimodal industrial data.",
+      "zh": "擁有近 120 年歷史的製造企業 Honeywell，與 Google Cloud 合作，將 Gemini 整合至樓宇自動化產品，並透過 AI 代理輔助產品生命週期管理。此合作於 2024 年 10 月宣布，將 Honeywell Forge IoT 平台與 Vertex AI 上的 Gemini 串連，自動化重複性工程任務、縮短專案週期，並從多模態工業數據中獲取即時洞察。"
+    },
+    "highlights": {
+      "en": [
+        "Gemini incorporated into Honeywell's building automation products for intelligent building management.",
+        "AI agents review product designs against all previous versions to troubleshoot issues and accelerate engineering.",
+        "Honeywell Forge IoT platform connected to Gemini on Vertex AI for real-time multimodal data insights.",
+        "AI-powered agents designed to automate repetitive tasks and shorten product development project cycles."
+      ],
+      "zh": [
+        "Gemini 整合至 Honeywell 樓宇自動化產品，實現智慧樓宇管理。",
+        "AI 代理對比所有歷史版本審查產品設計，協助排查問題並加速工程流程。",
+        "Honeywell Forge IoT 平台與 Vertex AI 上的 Gemini 連結，提供即時多模態數據洞察。",
+        "AI 代理自動化重複性任務，縮短產品開發專案週期。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Vertex AI"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Honeywell and Google Cloud to Accelerate Autonomous Operations with AI Agents for the Industrial Sector",
+        "url": "https://www.honeywell.com/us/en/press/2024/10/honeywell-and-google-cloud-to-accelerate-autonomous-operations-with-ai-agents-for-the-industrial-sector"
+      }
+    ]
+  },
+  {
+    "id": "manufacturing-industrial-electronics-employee-honeywell-2",
+    "industry": "manufacturing-industrial-electronics",
+    "agentType": "employee",
+    "company": "Honeywell",
+    "isNew": true,
+    "summary": {
+      "en": "Honeywell uses AI trained on a million product specifications to generate billions of insights for managing digital twin buildings.",
+      "zh": "Honeywell 以百萬份產品規格訓練 AI，為數位孿生樓宇管理生成數十億條洞察。"
+    },
+    "overview": {
+      "en": "Honeywell trains digital twins on a dataset of one million product specifications to generate billions of insights for building management. This approach enables intelligent, data-driven operation of large building portfolios, supporting energy efficiency, maintenance planning, and facility management at scale through AI-powered digital twin technology.",
+      "zh": "Honeywell 以百萬份產品規格的資料集訓練數位孿生，為樓宇管理生成數十億條洞察。此方法支援大型樓宇組合的智慧數據驅動運營，透過 AI 驅動的數位孿生技術，在規模上支援節能、維護規劃與設施管理。"
+    },
+    "highlights": {
+      "en": [
+        "Digital twins trained on over one million product specifications to generate building management insights.",
+        "Billions of insights generated to support intelligent, data-driven building operations.",
+        "Extends Honeywell's Google Cloud AI partnership across building automation and facilities management."
+      ],
+      "zh": [
+        "以逾百萬份產品規格訓練數位孿生，生成樓宇管理洞察。",
+        "生成數十億條洞察，支援智慧數據驅動的樓宇運營。",
+        "延伸 Honeywell 與 Google Cloud 的 AI 合作，涵蓋樓宇自動化與設施管理。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Vertex AI"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Honeywell and Google Cloud to Accelerate Autonomous Operations with AI Agents for the Industrial Sector",
+        "url": "https://www.honeywell.com/us/en/press/2024/10/honeywell-and-google-cloud-to-accelerate-autonomous-operations-with-ai-agents-for-the-industrial-sector"
+      }
+    ]
+  },
+  {
+    "id": "manufacturing-industrial-electronics-employee-hydro-ottawa",
+    "industry": "manufacturing-industrial-electronics",
+    "agentType": "employee",
+    "company": "Hydro Ottawa",
+    "isNew": false,
+    "summary": {
+      "en": "Hydro Ottawa uses Gemini for Google Workspace to automate daily employee tasks and drive productivity across the electricity provider.",
+      "zh": "加拿大電力公司 Hydro Ottawa 使用 Gemini for Google Workspace，協助員工自動化日常任務，提升組織生產力。"
+    },
+    "overview": {
+      "en": "Hydro Ottawa, the electricity provider for Canada's capital, adopted Gemini for Google Workspace to help employees automate daily tasks and collaborate more efficiently. The Gemini pilot started with 50 users and quickly expanded to over 100 as team members discovered productivity benefits including email summarization, document search, and content drafting. The initiative supports Hydro Ottawa's broader energy transition strategy.",
+      "zh": "加拿大首都的電力供應商 Hydro Ottawa 導入 Gemini for Google Workspace，協助員工自動化日常任務並提升協作效率。試行計畫從 50 名用戶開始，隨著員工體驗到電子郵件摘要、文件搜尋和內容起草等生產力效益後，迅速擴展至逾 100 人，也支援 Hydro Ottawa 的能源轉型策略。"
+    },
+    "highlights": {
+      "en": [
+        "Gemini pilot expanded from 50 to 100+ users as productivity benefits became apparent.",
+        "Employees use Gemini in Workspace side panels for email summarization, document search, and content drafting.",
+        "Initiative supports Hydro Ottawa's strategic goals for the energy sector transition.",
+        "Results in better and more cost-effective services for customers served by the utility."
+      ],
+      "zh": [
+        "Gemini 試行計畫在生產力效益顯現後從 50 人擴展至逾 100 人。",
+        "員工透過 Workspace 側欄使用 Gemini 進行電子郵件摘要、文件搜尋及內容起草。",
+        "計畫支援 Hydro Ottawa 在能源轉型領域的策略目標。",
+        "為客戶帶來更好、更具成本效益的服務。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Google Workspace"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Hydro Ottawa transforms how it works with Gemini for Google Workspace | Google Workspace Blog",
+        "url": "https://workspace.google.com/blog/customer-stories/hydro-ottawa-lights-future-work-gemini-google-workspace"
+      }
+    ]
+  },
+  {
+    "id": "manufacturing-industrial-electronics-employee-l-on-grosse",
+    "industry": "manufacturing-industrial-electronics",
+    "agentType": "employee",
+    "company": "Léon Grosse",
+    "isNew": false,
+    "summary": {
+      "en": "Léon Grosse uses Gemini in Google Workspace to automate document summarization, data analysis, and content drafting across 2,300 employees.",
+      "zh": "建築業領導者 Léon Grosse 在 Google Workspace 中使用 Gemini，讓 2,300 名員工自動化文件摘要、數據分析與內容起草工作。"
+    },
+    "overview": {
+      "en": "Léon Grosse, a French construction industry leader with 2,300 employees across 30+ offices and 200 building sites, uses Gemini in Google Workspace to automate complex tasks including document summarization, data analysis, and content drafting. The company launched a Google Boost program with internal AI ambassadors to drive adoption. Nearly 89% adoption was achieved, with employees completing 110,000 Gemini prompts in a single month.",
+      "zh": "法國建築業領導者 Léon Grosse 擁有 2,300 名員工，分布於 30 多個辦公室與 200 多個工程現場，在 Google Workspace 中使用 Gemini 自動化文件摘要、數據分析與內容起草等複雜任務。公司推出 Google Boost 計畫並設立內部 AI 大使，推動採用率近 89%，員工單月完成 11 萬次 Gemini 提示。"
+    },
+    "highlights": {
+      "en": [
+        "~89% employee adoption of Gemini, with 110,000 prompts completed in a single month.",
+        "Google Boost program with internal AI ambassadors drives deep adoption across offices and sites.",
+        "AI automates document summarization, data analysis, and content creation, gaining agility across the business.",
+        "Gemini serves as a catalyst for digital transformation in a rapidly evolving construction industry."
+      ],
+      "zh": [
+        "Gemini 員工採用率近 89%，單月完成 11 萬次提示。",
+        "Google Boost 計畫與內部 AI 大使網絡推動各辦公室與工地的深度採用。",
+        "AI 自動化文件摘要、數據分析與內容創作，提升全業務敏捷性。",
+        "Gemini 作為建築業數位轉型的催化劑，助力公司在快速演變的產業中保持競爭力。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Google Workspace"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Léon Grosse: How Gemini powers its digital transformation and accelerates growth | Google Workspace",
+        "url": "https://workspace.google.com/customers/success-stories/leon-grosse/"
+      }
+    ]
+  },
+  {
+    "id": "manufacturing-industrial-electronics-employee-mercer-international",
+    "industry": "manufacturing-industrial-electronics",
+    "agentType": "employee",
+    "company": "Mercer International",
+    "isNew": false,
+    "summary": {
+      "en": "Mercer International uses Gemini to translate safety training materials into seven languages for its multilingual global manufacturing workforce.",
+      "zh": "Mercer International 以 Gemini 將安全培訓材料翻譯成七種語言，服務其多語言全球製造業員工隊伍。"
+    },
+    "overview": {
+      "en": "Mercer International, a global bio-manufacturing company with 4,000 employees across the US, Canada, and Germany, uses Gemini and Google Workspace to translate safety training materials for its multilingual workforce. Some European facilities have seven different languages spoken on the factory floor daily. By using Gemini and Google Vids for AI-powered content creation, Mercer has achieved a 75% reduction in safety training video production costs and condensed weeks of content development into minutes.",
+      "zh": "Mercer International 是一家在美國、加拿大和德國擁有 4,000 名員工的全球生物製造公司，使用 Gemini 與 Google Workspace 將安全培訓材料翻譯為多種語言。部分歐洲工廠每天有七種不同語言在工廠地板上並行使用。透過 Gemini 與 Google Vids 進行 AI 驅動內容創作，安全培訓影片製作成本降低 75%，數週的內容開發工作被壓縮至數分鐘。"
+    },
+    "highlights": {
+      "en": [
+        "Safety training materials translated into up to 7 languages for factory floors with multilingual workforces.",
+        "75% reduction in safety training video production costs using Gemini and Google Vids.",
+        "Content development condensed from weeks to minutes with AI-powered capabilities.",
+        "Estimated savings of $3 million per year using Google Workspace with Gemini across operations."
+      ],
+      "zh": [
+        "安全培訓材料翻譯成多達 7 種語言，服務多語言工廠員工。",
+        "使用 Gemini 與 Google Vids，安全培訓影片製作成本降低 75%。",
+        "AI 功能將內容開發週期從數週壓縮至數分鐘。",
+        "透過 Google Workspace 與 Gemini，每年估計節省 300 萬美元。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Google Workspace",
+      "Google Vids"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Mercer International saves $3 million a year using Google Workspace with Gemini | Google Workspace Blog",
+        "url": "https://workspace.google.com/blog/customer-stories/mercer-international-productivity-gains-google-workspace-gemini"
+      }
+    ]
+  },
+  {
+    "id": "manufacturing-industrial-electronics-employee-orica",
+    "industry": "manufacturing-industrial-electronics",
+    "agentType": "employee",
+    "company": "Orica",
+    "isNew": false,
+    "summary": {
+      "en": "Orica migrated its SAP system to Google Cloud, achieving up to 18.5% performance gains and reducing backup time from 6 hours to 17 minutes.",
+      "zh": "Orica 將 SAP 系統遷移至 Google Cloud，應用程式效能提升最高 18.5%，備份時間從 6 小時縮短至 17 分鐘。"
+    },
+    "overview": {
+      "en": "Orica, a multinational with 14,000+ employees in 100+ countries, migrated its critical SAP platform from Microsoft Azure to Google Cloud. The 18-week migration, completed by Google Cloud's Professional Services Organization, resulted in significant performance improvements for SAP Fiori apps and SAP HANA, dramatically faster backups, and cut monthly business planning job time in half. The move also positions Orica to leverage advanced AI and analytics capabilities on Google Cloud.",
+      "zh": "跨國公司 Orica 擁有逾 14,000 名員工，遍布 100 多個國家，將其關鍵 SAP 平台從 Microsoft Azure 遷移至 Google Cloud。此次遷移歷時 18 週，由 Google Cloud 專業服務組織完成，SAP Fiori 應用程式與 SAP HANA 效能顯著提升，備份速度大幅加快，每月業務規劃作業時間縮短一半，並為未來利用 Google Cloud 先進 AI 與分析能力奠定基礎。"
+    },
+    "highlights": {
+      "en": [
+        "SAP Fiori app response times improved by up to 18.5%; SAP HANA database responds 4.5% faster.",
+        "Backup time reduced from 6 hours to 17 minutes using Google Cloud Backup and Disaster Recovery Service.",
+        "Monthly business planning job time cut by 50% without additional infrastructure burden.",
+        "18-week end-to-end migration completed by Google Cloud Professional Services Organization."
+      ],
+      "zh": [
+        "SAP Fiori 應用程式回應時間提升最高 18.5%；SAP HANA 資料庫回應速度提升 4.5%。",
+        "使用 Google Cloud 備份與災難恢復服務，備份時間從 6 小時縮短至 17 分鐘。",
+        "每月業務規劃作業時間縮短 50%，且不增加額外基礎設施負擔。",
+        "由 Google Cloud 專業服務組織完成，18 週內完成端到端遷移。"
+      ]
+    },
+    "technologies": [
+      "Google Cloud",
+      "SAP on Google Cloud",
+      "Cloud Backup and Disaster Recovery"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Orica case study | Google Cloud",
+        "url": "https://cloud.google.com/customers/orica"
+      }
+    ]
+  },
+  {
+    "id": "manufacturing-industrial-electronics-employee-papel-semente",
+    "industry": "manufacturing-industrial-electronics",
+    "agentType": "employee",
+    "company": "Papel Semente",
+    "isNew": true,
+    "summary": {
+      "en": "Papel Semente uses Gemini in Google Meet to automatically capture meeting notes, summaries, and next steps for the founder.",
+      "zh": "環保文創品牌 Papel Semente 在 Google Meet 中使用 Gemini 自動記錄會議紀要、生成摘要並整理後續行動。"
+    },
+    "overview": {
+      "en": "Papel Semente, a Brazilian company that creates recycled paper products embedded with seeds that grow into flowers and seasonings, uses Gemini in Google Meet to automatically capture meeting notes, generate summaries, and organize next steps. This frees the founder to be fully present with team members and focus on building relationships rather than note-taking, improving both team dynamics and operational efficiency.",
+      "zh": "Papel Semente 是一家巴西企業，生產內嵌種子的再生紙製品，種子可生長為花卉與香料。公司在 Google Meet 中使用 Gemini，自動記錄會議紀要、生成摘要並整理後續行動事項，讓創辦人得以全神貫注於與團隊的互動，專注於建立人際關係而非做筆記。"
+    },
+    "highlights": {
+      "en": [
+        "Gemini in Google Meet automatically captures meeting notes, generates summaries, and organizes next steps.",
+        "Founder freed from note-taking to focus on team relationships and leadership.",
+        "Small sustainable business demonstrates AI accessibility beyond large enterprises."
+      ],
+      "zh": [
+        "Gemini 在 Google Meet 中自動捕捉會議紀要、生成摘要並整理後續行動。",
+        "創辦人從記錄工作中解放，得以專注於團隊關係與領導力。",
+        "小型永續企業展示了 AI 不只局限於大型企業的可及性。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Google Workspace",
+      "Google Meet"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "manufacturing-industrial-electronics-employee-plenitude",
+    "industry": "manufacturing-industrial-electronics",
+    "agentType": "employee",
+    "company": "Plenitude",
+    "isNew": false,
+    "summary": {
+      "en": "Plenitude automates customer onboarding by using OCR and Gemini Flash to extract data from energy bills and verify IDs.",
+      "zh": "能源公司 Plenitude 透過 OCR 與 Gemini Flash 從電費帳單提取數據並驗證身份，自動化客戶入網流程。"
+    },
+    "overview": {
+      "en": "Plenitude, an energy company, leverages Google Cloud's Optical Character Recognition and Gemini Flash models along with Document AI to automate customer onboarding. The system extracts data from energy bills and verifies customer identities, reducing manual processing time, preventing fraud, and accelerating the onboarding journey. This AI-powered workflow delivers faster onboarding and significant time savings in ID verification.",
+      "zh": "能源公司 Plenitude 運用 Google Cloud 的光學字元辨識（OCR）技術、Gemini Flash 模型與 Document AI，自動化客戶入網流程。系統從電費帳單提取數據並驗證客戶身份，減少人工處理時間、預防詐欺並加速入網流程。"
+    },
+    "highlights": {
+      "en": [
+        "Automated extraction of data from energy bills using OCR and Gemini Flash models.",
+        "ID verification accelerated with Document AI, reducing fraud and processing time.",
+        "Faster customer onboarding results in improved customer experience and operational efficiency.",
+        "AI-powered workflow replaces manual data entry and review for new customer accounts."
+      ],
+      "zh": [
+        "透過 OCR 與 Gemini Flash 模型自動從電費帳單提取數據。",
+        "Document AI 加速身份驗證，降低詐欺風險並縮短處理時間。",
+        "更快速的客戶入網流程提升客戶體驗與運營效率。",
+        "AI 工作流取代新客戶帳戶的人工資料輸入與審查。"
+      ]
+    },
+    "technologies": [
+      "Document AI",
+      "Gemini",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "manufacturing-industrial-electronics-employee-robert-bosch",
+    "industry": "manufacturing-industrial-electronics",
+    "agentType": "employee",
+    "company": "Robert Bosch",
+    "isNew": false,
+    "summary": {
+      "en": "Robert Bosch uses gen AI to revolutionize marketing, streamlining processes and maximizing efficiency across 100+ decentralized departments.",
+      "zh": "Robert Bosch 透過生成式 AI 革新行銷作業，在 100 多個去中心化部門中精簡流程、優化資源配置。"
+    },
+    "overview": {
+      "en": "Robert Bosch, the world's largest automotive supplier, applies gen AI-powered solutions to transform its marketing operations across more than 100 decentralized departments globally. The initiative streamlines content creation processes, optimizes resource allocation across business units, and maximizes operational efficiency. This reflects Bosch's broader strategy of deploying AI across R&D, engineering, marketing, and customer service.",
+      "zh": "作為全球最大的汽車零件供應商，Robert Bosch 在全球逾 100 個去中心化部門中，運用生成式 AI 驅動的解決方案轉型行銷運營。該計畫精簡內容創作流程、優化各業務單位的資源配置並提升運營效率，體現 Bosch 在研發、工程、行銷與客戶服務中全面部署 AI 的宏觀策略。"
+    },
+    "highlights": {
+      "en": [
+        "Gen AI streamlines marketing content creation and resource allocation across 100+ global departments.",
+        "Efficiency maximized across decentralized business units without requiring centralized control.",
+        "Part of Bosch's enterprise-wide AI deployment spanning R&D, engineering, marketing, and customer service.",
+        "World's largest automotive supplier demonstrates AI-at-scale in industrial manufacturing organizations."
+      ],
+      "zh": [
+        "生成式 AI 精簡逾 100 個全球部門的行銷內容創作與資源配置。",
+        "在去中心化業務單位中最大化效率，無需集中控制。",
+        "屬於 Bosch 橫跨研發、工程、行銷與客戶服務的全企業 AI 部署計畫。",
+        "全球最大汽車零件供應商展示了工業製造組織的規模化 AI 應用。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Vertex AI",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Generative AI — Bosch SDS",
+        "url": "https://bosch-sds.com/our-expertise/capabilities/data-first-enterprise/ai-ml/gen-ai/"
+      }
+    ]
+  },
+  {
+    "id": "manufacturing-industrial-electronics-employee-suzano",
+    "industry": "manufacturing-industrial-electronics",
+    "agentType": "employee",
+    "company": "Suzano",
+    "isNew": false,
+    "summary": {
+      "en": "Suzano developed VagaLúmen — a Gemini Pro AI agent translating natural language into SQL — achieving a 95% reduction in SAP data query time.",
+      "zh": "Suzano 開發 VagaLúmen 平台，以 Gemini Pro 將自然語言轉為 SQL 查詢 SAP 材料數據，查詢時間減少 95%。"
+    },
+    "overview": {
+      "en": "Suzano, the world's largest pulp manufacturer, worked with Google Cloud and Sauter to develop VagaLúmen — an AI platform powered by Gemini Pro that uses the Cortex Framework to translate natural language questions into SQL queries against SAP Materials data on BigQuery. Since going live in May 2024, the platform has democratized data access for 50,000 employees, reducing query time for materials data from 2 minutes to just 8 seconds.",
+      "zh": "全球最大紙漿製造商 Suzano 與 Google Cloud 及 Sauter 合作，開發了 VagaLúmen 平台——一個以 Gemini Pro 為核心、使用 Cortex Framework 的 AI 平台，將自然語言問題轉譯為針對 BigQuery 上 SAP 材料數據的 SQL 查詢。自 2024 年 5 月上線以來，平台已讓 5 萬名員工民主化地存取數據，材料查詢時間從 2 分鐘縮短至僅 8 秒。"
+    },
+    "highlights": {
+      "en": [
+        "95% reduction in query time for SAP Materials data — from 2 minutes to 8 seconds.",
+        "50,000 employees enabled to query SAP data using natural language without technical SQL knowledge.",
+        "VagaLúmen reached 4,000 accesses and 473 unique users since Go Live in May 2024.",
+        "Built on Gemini Pro, Cortex Framework, and BigQuery as part of Google Cloud's SAP integration."
+      ],
+      "zh": [
+        "SAP 材料數據查詢時間減少 95%——從 2 分鐘縮短至 8 秒。",
+        "5 萬名員工得以使用自然語言查詢 SAP 數據，無需 SQL 技術背景。",
+        "VagaLúmen 自 2024 年 5 月上線以來已達 4,000 次訪問與 473 個唯一用戶。",
+        "建構於 Gemini Pro、Cortex Framework 與 BigQuery，整合 Google Cloud SAP 解決方案。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "BigQuery",
+      "Vertex AI",
+      "Cortex Framework"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Suzano Case Study | Google Cloud",
+        "url": "https://cloud.google.com/customers/suzano-genai-cortex"
+      }
+    ]
+  },
+  {
+    "id": "manufacturing-industrial-electronics-employee-talgo",
+    "industry": "manufacturing-industrial-electronics",
+    "agentType": "employee",
+    "company": "Talgo",
+    "isNew": false,
+    "summary": {
+      "en": "Talgo built Sophia, a Vertex AI-powered multilingual conversational agent providing maintenance assistance to train crews in English, Russian, and Arabic.",
+      "zh": "火車製造商 Talgo 以 Vertex AI 建構 Sophia AI 代理，以英語、俄語及阿拉伯語為維修人員提供多語言對話式維護支援。"
+    },
+    "overview": {
+      "en": "Talgo, one of the world's foremost train manufacturers, used Vertex AI to create Sophia — an AI agent that provides conversational maintenance assistance to technical teams around the world. Sophia supports multiple languages including English, Russian, and Arabic, enabling maintenance crews in diverse regions to receive timely, accurate guidance in their native language. This supports Talgo's broader TSMART predictive maintenance platform.",
+      "zh": "全球頂尖火車製造商之一 Talgo，以 Vertex AI 建構了 Sophia AI 代理，為全球技術維修團隊提供對話式維護協助，支援英語、俄語與阿拉伯語等多種語言，使不同地區的維修人員能以母語獲得即時、準確的指引，並支援 Talgo 更廣泛的 TSMART 預測性維護平台。"
+    },
+    "highlights": {
+      "en": [
+        "Sophia AI agent provides multilingual maintenance support in English, Russian, and Arabic.",
+        "Built on Vertex AI for conversational assistance to maintenance teams across global operations.",
+        "Enables non-native English-speaking technicians to access guidance in their preferred language.",
+        "Complements Talgo's TSMART platform which manages 30,000+ sensor signals per second per train."
+      ],
+      "zh": [
+        "Sophia AI 代理提供英語、俄語及阿拉伯語的多語言維護支援。",
+        "以 Vertex AI 建構，為全球維修團隊提供對話式協助。",
+        "非英語母語技術人員可以首選語言獲取指引。",
+        "補充 Talgo 的 TSMART 平台，該平台每列火車每秒管理逾 30,000 個感測器訊號。"
+      ]
+    },
+    "technologies": [
+      "Vertex AI"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Smarter train operations for Talgo with data and AI — Atos",
+        "url": "https://atos.net/en/client-stories/data-and-analytics-talgo"
+      }
+    ]
+  },
+  {
+    "id": "manufacturing-industrial-electronics-employee-tata-steel",
+    "industry": "manufacturing-industrial-electronics",
+    "agentType": "employee",
+    "company": "Tata Steel",
+    "isNew": true,
+    "summary": {
+      "en": "Tata Steel deployed 300+ specialized AI agents in nine months on Google Cloud, transforming operations across its global value chain.",
+      "zh": "Tata Steel 在九個月內透過 Google Cloud 部署逾 300 個專業 AI 代理，轉型其全球價值鏈運營。"
+    },
+    "overview": {
+      "en": "Tata Steel partnered with Google Cloud to deploy a unified agentic AI strategy across its global operations. In just nine months, the company deployed over 300 specialized AI agents spanning operations, finance, HR, and shop floor environments using Zen AI — a low-code platform built on Google Cloud's Agent Development Kit — and BigQuery. The Tata Steel Digital Assistant (TDA) resolves over 70% of HR helpdesk queries, and a Safety EyeQ system monitors live video feeds for safety violations.",
+      "zh": "Tata Steel 與 Google Cloud 合作，在全球運營中部署統一的代理式 AI 策略。九個月內，公司透過 Zen AI（以 Google Cloud Agent Development Kit 建構的低代碼平台）與 BigQuery，在運營、財務、人力資源與生產現場等環境部署逾 300 個專業 AI 代理。Tata Steel 數位助理（TDA）解決逾 70% 的人力資源服務台查詢，Safety EyeQ 系統則監控即時影像以偵測安全違規。"
+    },
+    "highlights": {
+      "en": [
+        "300+ specialized AI agents deployed across operations, finance, HR, and shop floor in nine months.",
+        "Tata Steel Digital Assistant (TDA) resolves over 70% of HR helpdesk queries autonomously.",
+        "Zen AI low-code platform enables non-data-scientist employees to build and deploy their own AI agents.",
+        "Customer complaint analysis AI reduced turnaround time by up to 50%."
+      ],
+      "zh": [
+        "九個月內在運營、財務、人力資源與生產現場部署逾 300 個專業 AI 代理。",
+        "Tata Steel 數位助理（TDA）自主解決逾 70% 的人力資源服務台查詢。",
+        "Zen AI 低代碼平台讓非數據科學家員工亦可自行建構與部署 AI 代理。",
+        "客戶投訴分析 AI 將處理週轉時間縮短最多 50%。"
+      ]
+    },
+    "technologies": [
+      "Vertex AI",
+      "BigQuery",
+      "Google Cloud Agent Development Kit",
+      "Google Cloud Storage"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Tata Steel Partners with Google Cloud To Deploy a Unified Agentic AI Across its Global Value Chain",
+        "url": "https://www.tatasteel.com/newsroom/press-releases/india/2026/tata-steel-partners-with-google-cloud-to-deploy-a-unified-agentic-ai-across-its-global-value-chain/"
+      },
+      {
+        "title": "Tata Steel deploys over 300 AI agents in nine months with Google Cloud",
+        "url": "https://www.crnasia.com/india/news/2026/tata-steel-deploys-over-300-ai-agents-in-nine-months-with-google-cloud"
+      }
+    ]
+  },
+  {
+    "id": "manufacturing-industrial-electronics-employee-trimble",
+    "industry": "manufacturing-industrial-electronics",
+    "agentType": "employee",
+    "company": "Trimble",
+    "isNew": false,
+    "summary": {
+      "en": "Trimble rolled out Gemini for Google Workspace to all global employees, achieving 77% adoption in the first two weeks.",
+      "zh": "Trimble 向全球員工推出 Gemini for Google Workspace，前兩週即達 77% 採用率，大幅提升員工生產力。"
+    },
+    "overview": {
+      "en": "Trimble, a maker of hardware and software for satellites, drones, and monitors, rolled out Gemini for Google Workspace to all employees globally, achieving an average adoption rate of 77% within the first two weeks, with nearly 8,000 employees actively using it. The deployment streamlines workflows through efficient document search, concise summaries, code generation, and asynchronous video communication — all within a secure and collaborative environment.",
+      "zh": "Trimble 是衛星、無人機及各類監測設備軟硬體的製造商，向全球員工推出 Gemini for Google Workspace，前兩週平均採用率達 77%，近 8,000 名員工積極使用。部署涵蓋高效文件搜尋、簡明摘要、程式碼生成及非同步影片溝通，均在安全且協作的環境中運作。"
+    },
+    "highlights": {
+      "en": [
+        "77% average adoption rate in the first two weeks, with ~8,000 employees actively using Gemini.",
+        "Employees use Google Vids for asynchronous project updates, saving meeting time while improving collaboration.",
+        "Document search, code generation, and content summarization streamlined across the organization.",
+        "Custom role-based training workshops and dedicated Chat spaces accelerated adoption."
+      ],
+      "zh": [
+        "前兩週平均採用率達 77%，近 8,000 名員工積極使用 Gemini。",
+        "員工使用 Google Vids 進行非同步專案更新，節省會議時間並提升協作品質。",
+        "文件搜尋、程式碼生成與內容摘要在全組織中得到精簡。",
+        "依角色客製化培訓工作坊與專屬 Chat 空間加速採用。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Google Workspace",
+      "Google Vids"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Trimble Systems Customer Success Story — Google Workspace",
+        "url": "https://workspace.google.com/customers/trimble/"
+      },
+      {
+        "title": "How Google Workspace has powered digital transformation at Trimble | Google Workspace Blog",
+        "url": "https://workspace.google.com/blog/customer-stories/trimble-digital-transformation-with-google-workspace"
+      }
+    ]
+  },
+  {
+    "id": "manufacturing-industrial-electronics-employee-vibra-energy",
+    "industry": "manufacturing-industrial-electronics",
+    "agentType": "employee",
+    "company": "Vibra Energy",
+    "isNew": true,
+    "summary": {
+      "en": "Vibra Energy is deploying Gemini Enterprise Agent Platform across 4,000+ employees as part of a company-wide AI literacy initiative.",
+      "zh": "巴西能源公司 Vibra Energy 在逾 4,000 名員工中推行 Gemini Enterprise Agent Platform，作為全公司 AI 素養計畫的一部分。"
+    },
+    "overview": {
+      "en": "Vibra Energy, a Brazilian energy company with more than 4,000 employees, is using the Gemini Enterprise Agent Platform as part of a structured AI literacy initiative. The program began with leadership workshops for senior executives and is expanding to all organizational levels. The goal is to enable business areas to develop customized AI agents tailored to their specific operational needs.",
+      "zh": "巴西能源公司 Vibra Energy 擁有逾 4,000 名員工，正以 Gemini Enterprise Agent Platform 推行結構化 AI 素養計畫。計畫從高層主管工作坊啟動，逐步擴展至所有層級，目標是使各業務部門能夠開發符合自身運營需求的客製化 AI 代理。"
+    },
+    "highlights": {
+      "en": [
+        "AI literacy program launched across 4,000+ employees, starting with senior leadership workshops.",
+        "Gemini Enterprise Agent Platform enables business areas to create their own customized AI agents.",
+        "Training expanding from executive level to all organizational levels.",
+        "Part of a broader initiative to embed AI capability throughout the energy company's operations."
+      ],
+      "zh": [
+        "從高層主管工作坊啟動，向逾 4,000 名員工全面推行 AI 素養計畫。",
+        "Gemini Enterprise Agent Platform 讓各業務部門得以自行建立客製化 AI 代理。",
+        "培訓從高管層擴展至所有組織層級。",
+        "屬於在能源公司業務中全面嵌入 AI 能力的更廣泛計畫之一。"
+      ]
+    },
+    "technologies": [
+      "Gemini Enterprise"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "manufacturing-industrial-electronics-employee-workerbase",
+    "industry": "manufacturing-industrial-electronics",
+    "agentType": "employee",
+    "company": "Workerbase",
+    "isNew": false,
+    "summary": {
+      "en": "Workerbase uses Vertex AI and GKE to deliver AI-powered, multilingual workflow instructions to factory floor operators in real time.",
+      "zh": "德國製造平台 Workerbase 以 Vertex AI 與 Google Kubernetes Engine，為生產現場操作員即時提供 AI 驅動、多語言的工作流程指引。"
+    },
+    "overview": {
+      "en": "Workerbase, a Germany-based manufacturing platform serving clients like Siemens and Porsche, uses Vertex AI and Google Kubernetes Engine (GKE) to deliver real-time, AI-powered workflow instructions to shop floor operators in their preferred languages. Its low-code app development framework lets supervisors and engineers design and deploy custom applications without extensive coding expertise — reducing deployment time from months to hours.",
+      "zh": "德國製造平台 Workerbase 服務 Siemens、Porsche 等客戶，以 Vertex AI 與 Google Kubernetes Engine（GKE）為生產現場操作員即時提供 AI 驅動、多語言工作流程指引。其低代碼應用程式開發框架讓主管與工程師無需大量編碼即可設計並部署客製化應用程式，部署時間從數月縮短至數小時。"
+    },
+    "highlights": {
+      "en": [
+        "Workflow application deployment time reduced from months to hours using low-code framework on GKE.",
+        "AI delivers task instructions to shop floor operators in their preferred language in real time.",
+        "Serving enterprise clients including Siemens and Porsche with diverse manufacturing use cases.",
+        "Predictive maintenance powered by AI reduces downtime and boosts overall equipment efficiency (OEE)."
+      ],
+      "zh": [
+        "使用 GKE 上的低代碼框架，工作流程應用部署時間從數月縮短至數小時。",
+        "AI 以操作員首選語言即時提供任務指引。",
+        "服務包括 Siemens 與 Porsche 在內的大型企業客戶，涵蓋多樣化製造場景。",
+        "AI 驅動的預測性維護減少停機時間並提升整體設備效率（OEE）。"
+      ]
+    },
+    "technologies": [
+      "Vertex AI",
+      "Google Kubernetes Engine"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Workerbase: Empowering shop floor workers with AI | Google Cloud",
+        "url": "https://cloud.google.com/customers/workerbase"
+      },
+      {
+        "title": "Workerbase integrates with Google Vertex AI to bring generative AI to factory shop floors",
+        "url": "https://workerbase.com/blog/workerbase-integrates-with-google-vertex-ai/"
+      }
+    ]
+  },
+  {
+    "id": "manufacturing-industrial-electronics-employee-zoppas-industries",
+    "industry": "manufacturing-industrial-electronics",
+    "agentType": "employee",
+    "company": "Zoppas Industries",
+    "isNew": false,
+    "summary": {
+      "en": "Zoppas Industries uses Gemini in Google Workspace to automate meeting notes and accelerate supplier research across global teams.",
+      "zh": "全球熱管理解決方案領導企業 Zoppas Industries 在 Google Workspace 中使用 Gemini，自動化會議記錄並加速供應商研究。"
+    },
+    "overview": {
+      "en": "Zoppas Industries, a global leader in designing and manufacturing smart thermal management solutions, uses Gemini in Google Workspace to automate meeting note-taking, accelerate supplier research, and support collaborative workflows. The AI enables teams to create, collaborate, and innovate faster, ensuring quicker time to market and enhanced customer satisfaction across the company's global operations.",
+      "zh": "全球智慧熱管理解決方案設計與製造領導企業 Zoppas Industries，在 Google Workspace 中使用 Gemini 自動化會議記錄、加速供應商研究並支援協作工作流程，讓團隊更快創作、協作與創新，確保更快的上市時間與更高的客戶滿意度。"
+    },
+    "highlights": {
+      "en": [
+        "Gemini automates meeting note-taking, freeing teams to focus on higher-value work.",
+        "Supplier research accelerated with AI assistance, reducing sourcing and procurement lead times.",
+        "Faster collaboration and innovation across global teams ensures quicker time to market.",
+        "AI maintains premium security protocols across global operations."
+      ],
+      "zh": [
+        "Gemini 自動化會議記錄，讓團隊專注於更高價值的工作。",
+        "AI 輔助加速供應商研究，縮短採購前置時間。",
+        "全球團隊協作與創新更快，確保更短的上市週期。",
+        "AI 在全球運營中維持高標準安全協議。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Google Workspace"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "manufacturing-industrial-electronics-employee-zoppas-industries-2",
+    "industry": "manufacturing-industrial-electronics",
+    "agentType": "employee",
+    "company": "Zoppas Industries",
+    "isNew": false,
+    "summary": {
+      "en": "Zoppas Industries also uses Gemini to support HR analysis tasks and enhance decision-making with secure AI tools.",
+      "zh": "Zoppas Industries 同時以 Gemini 支援人力資源分析任務，在維持全球安全協議的前提下提升決策品質。"
+    },
+    "overview": {
+      "en": "Beyond meeting automation, Zoppas Industries extends its use of Gemini to support HR analysis tasks and enhance organizational decision-making. The generative AI tools help HR and management teams work more efficiently by surfacing insights from workforce data, while maintaining premium security protocols across all global teams.",
+      "zh": "在會議自動化之外，Zoppas Industries 進一步將 Gemini 應用於支援人力資源分析任務與強化組織決策。生成式 AI 工具協助人力資源與管理團隊從員工數據中提取洞察，同時在所有全球團隊中維持高標準的安全協議。"
+    },
+    "highlights": {
+      "en": [
+        "Gemini supports HR analysis tasks, surfacing insights from workforce data for better decision-making.",
+        "Generative AI helps HR and management teams work more efficiently.",
+        "Premium security protocols maintained across all global teams while using AI tools.",
+        "Extends Zoppas Industries' Gemini adoption from productivity automation to people analytics."
+      ],
+      "zh": [
+        "Gemini 支援人力資源分析任務，從員工數據中提取洞察，提升決策品質。",
+        "生成式 AI 協助人力資源與管理團隊提升工作效率。",
+        "使用 AI 工具的同時，在所有全球團隊中維持高標準安全協議。",
+        "將 Zoppas Industries 的 Gemini 應用從生產力自動化延伸至人員分析。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Google Workspace"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  }
+]

@@ -1,0 +1,2467 @@
+[
+  {
+    "id": "healthcare-life-sciences-employee-american-addiction-centers",
+    "industry": "healthcare-life-sciences",
+    "agentType": "employee",
+    "company": "American Addiction Centers",
+    "isNew": false,
+    "summary": {
+      "en": "Reduced employee onboarding from three days to 12 hours using Gemini for Google Workspace.",
+      "zh": "American Addiction Centers 利用 Gemini for Google Workspace，將員工到職訓練從三天縮短至 12 小時。"
+    },
+    "overview": {
+      "en": "American Addiction Centers adopted Gemini for Google Workspace to streamline internal operations. The AI integration cut new-employee onboarding time from three days to 12 hours. The team is now exploring AI-generated safety checklists for medical staff to improve patient care quality.",
+      "zh": "American Addiction Centers 導入 Gemini for Google Workspace 後大幅優化內部作業流程。新員工到職訓練時間從三天壓縮至 12 小時。目前正進一步探索 AI 自動產生醫療人員安全檢查清單，以提升病患照護品質。"
+    },
+    "highlights": {
+      "en": [
+        "Onboarding time reduced from 3 days to 12 hours using Gemini for Google Workspace.",
+        "Exploring AI-generated safety checklists for medical staff.",
+        "Part of a broader push to automate administrative tasks across the organization."
+      ],
+      "zh": [
+        "利用 Gemini for Google Workspace 將到職訓練時間從 3 天縮短至 12 小時。",
+        "正探索以 AI 自動產生醫療人員安全檢查清單。",
+        "此為組織推動行政任務自動化整體策略的一部分。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Google Workspace"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "healthcare-life-sciences-employee-american-society-of-clinical-oncology",
+    "industry": "healthcare-life-sciences",
+    "agentType": "employee",
+    "company": "American Society of Clinical Oncology",
+    "isNew": true,
+    "summary": {
+      "en": "ASCO uses Gemini Enterprise to deliver cancer expertise 10x faster to 50,000 oncology professionals.",
+      "zh": "ASCO 利用 Gemini Enterprise 將癌症臨床指引傳遞速度提升 10 倍，服務全球 5 萬名腫瘤科專業人員。"
+    },
+    "overview": {
+      "en": "ASCO partnered with Google Cloud to launch an AI-powered Guidelines Assistant built on Vertex AI and Gemini. Oncology professionals can interactively query ASCO's full library of evidence-based clinical guidelines, receive cited answers in seconds, and ask follow-up questions—replacing manual searches taking up to 15 minutes. The assistant is available to all 50,000 ASCO members worldwide.",
+      "zh": "ASCO 與 Google Cloud 合作，基於 Vertex AI 與 Gemini 推出 AI 臨床指引助理。腫瘤科專業人員可互動式查詢 ASCO 完整的實證臨床指引庫，數秒內獲得附引用來源的答覆，並可追問後續問題，取代原本耗時達 15 分鐘的人工搜尋。"
+    },
+    "highlights": {
+      "en": [
+        "Delivers trusted cancer expertise 10x faster to 50,000 oncology professionals worldwide.",
+        "Guidelines Assistant built on Google Cloud Vertex AI and Gemini models.",
+        "Replaces manual guideline searches taking up to 15 minutes with near-instant responses.",
+        "All answers include clear citations, addressing accuracy concerns of public AI tools."
+      ],
+      "zh": [
+        "將癌症專業知識傳遞速度提升 10 倍，服務全球 5 萬名腫瘤科專業人員。",
+        "臨床指引助理基於 Google Cloud Vertex AI 與 Gemini 模型構建。",
+        "以近乎即時的回應取代原本耗時達 15 分鐘的人工指引查詢。",
+        "所有答覆均附明確引用來源，解決公共 AI 工具的準確性疑慮。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Vertex AI",
+      "Gemini Enterprise"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "ASCO and Google Cloud Deliver AI-Powered Guidelines Tool",
+        "url": "https://www.asco.org/about-asco/press-center/news-releases/asco-google-cloud-ai-powered-tool-faster-interactive-access-asco-guidelines"
+      },
+      {
+        "title": "ASCO Guidelines Assistant – Google Cloud Press Corner",
+        "url": "https://www.googlecloudpresscorner.com/2025-05-21-ASCO-and-Google-Cloud-to-Deliver-AI-Powered-Tool-that-Provides-Faster,-Interactive-Access-to-ASCOs-Evidence-Based-Clinical-Guidelines"
+      }
+    ]
+  },
+  {
+    "id": "healthcare-life-sciences-employee-asepha",
+    "industry": "healthcare-life-sciences",
+    "agentType": "employee",
+    "company": "Asepha",
+    "isNew": false,
+    "summary": {
+      "en": "Asepha is building fully autonomous AI pharmacists via Google for Startups Cloud AI Accelerator.",
+      "zh": "Asepha 透過 Google for Startups Cloud AI Accelerator，打造全自主 AI 藥師以自動化藥局人工作業。"
+    },
+    "overview": {
+      "en": "Asepha, a participant in Google's Cloud AI Accelerator for Startups, is developing fully autonomous AI pharmacist systems designed to automate the manual, repetitive tasks that burden pharmacists and pharmacy staff, freeing them for patient-facing care and clinical judgment.",
+      "zh": "Asepha 是 Google for Startups Cloud AI Accelerator 的參與企業，致力開發全自主 AI 藥師系統，旨在自動化藥師與藥局人員繁瑣的重複性工作，讓他們能將精力投入面向病患的照護與臨床判斷。"
+    },
+    "highlights": {
+      "en": [
+        "Building fully autonomous AI pharmacists to automate manual pharmacy workflows.",
+        "Participating in Google for Startups Cloud AI Accelerator program.",
+        "Aims to reduce administrative burden on pharmacy staff and improve operational efficiency."
+      ],
+      "zh": [
+        "打造全自主 AI 藥師，自動化人工藥局作業流程。",
+        "參與 Google for Startups Cloud AI Accelerator 計畫。",
+        "目標減輕藥局人員行政負擔並提升營運效率。"
+      ]
+    },
+    "technologies": [
+      "Google Cloud",
+      "Vertex AI"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "healthcare-life-sciences-employee-bayer",
+    "industry": "healthcare-life-sciences",
+    "agentType": "employee",
+    "company": "Bayer",
+    "isNew": false,
+    "summary": {
+      "en": "Bayer and Google Cloud are co-building an AI radiology platform to assist radiologists with imaging analysis and intelligent search.",
+      "zh": "Bayer 與 Google Cloud 合作打造 AI 放射科平台，協助放射科醫師進行影像分析與智慧搜尋。"
+    },
+    "overview": {
+      "en": "Bayer and Google Cloud have collaborated for about five years to build an AI-powered radiology platform using Vertex AI, BigQuery, Healthcare API, and Chronicle. The platform flags imaging anomalies, compares current scans with prior patient history, and summarizes findings—reducing radiologist workload and expediting diagnoses. A first version for extended testing was planned for the EU and US.",
+      "zh": "Bayer 與 Google Cloud 攜手合作約五年，共同基於 Vertex AI、BigQuery、Healthcare API 及 Chronicle 打造 AI 放射科平台。平台可標記影像異常、將當前掃描與病患過去影像對比分析並彙整報告，減輕放射科醫師工作量並加速診斷。第一版本已計畫在歐盟與美國市場進行擴大測試。"
+    },
+    "highlights": {
+      "en": [
+        "AI platform flags imaging anomalies and summarizes comparisons with prior patient scans.",
+        "Built on Vertex AI, BigQuery, Healthcare API, and Chronicle over ~5 years.",
+        "Designed to reduce radiologist burnout and speed up diagnoses.",
+        "First version planned for extended testing in EU and US markets.",
+        "Supports radiologists without replacing clinical judgment—no autonomous diagnoses."
+      ],
+      "zh": [
+        "AI 平台標記影像異常，並彙整與過去掃描的對比分析結果。",
+        "基於 Vertex AI、BigQuery、Healthcare API 及 Chronicle，歷經約 5 年合作構建。",
+        "旨在減輕放射科醫師過勞問題並加速診斷流程。",
+        "第一版本計畫在歐盟與美國市場進行擴大測試。",
+        "輔助放射科醫師但不取代臨床判斷——不自主作出診斷。"
+      ]
+    },
+    "technologies": [
+      "Vertex AI",
+      "BigQuery",
+      "Healthcare API",
+      "Chronicle",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Bayer and Google Cloud to accelerate AI healthcare applications for radiologists",
+        "url": "https://www.bayer.com/media/en-us/bayer-and-google-cloud-to-accelerate-development-of-ai-powered-healthcare-applications-for-radiologists/"
+      },
+      {
+        "title": "Google and Bayer AI platform for radiologists – CNBC",
+        "url": "https://www.cnbc.com/2024/04/09/google-partners-with-bayer-on-new-ai-product-for-radiologists.html"
+      }
+    ]
+  },
+  {
+    "id": "healthcare-life-sciences-employee-benchsci",
+    "industry": "healthcare-life-sciences",
+    "agentType": "employee",
+    "company": "BenchSci",
+    "isNew": false,
+    "summary": {
+      "en": "BenchSci uses Gemini on Google Cloud to power AI drug discovery, achieving 60%+ productivity gains in early pharma R&D.",
+      "zh": "BenchSci 利用 Google Cloud 上的 Gemini 驅動 AI 藥物發現，在早期藥物研發階段實現逾 60% 的生產力提升。"
+    },
+    "overview": {
+      "en": "BenchSci's ASCEND platform uses Google Cloud's Gemini models and its LENS engine to interpret scientific papers with contextual awareness, connecting internal and external biomedical evidence to guide preclinical R&D decisions. BenchSci serves 16 of the top 20 pharma firms and over 4,500 research centers globally, with Google Cloud reporting over 60% productivity gains in target assessment and biomarker understanding.",
+      "zh": "BenchSci 的 ASCEND 平台透過 Google Cloud 的 Gemini 模型及其 LENS 引擎，以情境感知方式解讀科學論文，將內外部生物醫學證據整合，引導臨床前研發決策。BenchSci 服務全球前 20 大藥廠中的 16 家及逾 4,500 個研究中心，Google Cloud 報告顯示靶點評估與生物標記理解生產力提升逾 60%。"
+    },
+    "highlights": {
+      "en": [
+        "Over 60% productivity increase in target assessment and biomarker understanding (Google Cloud reported).",
+        "Serves 16 of the top 20 pharma companies and 4,500+ research centers globally.",
+        "LENS engine interprets scientific papers using Gemini with contextual awareness.",
+        "Neuro-symbolic approach combines LLMs with a structured knowledge graph for higher accuracy."
+      ],
+      "zh": [
+        "靶點評估與生物標記理解生產力提升逾 60%（Google Cloud 報告）。",
+        "服務全球前 20 大藥廠中的 16 家及逾 4,500 個研究中心。",
+        "LENS 引擎透過 Gemini 以情境感知方式解讀科學論文。",
+        "神經符號混合方法結合大型語言模型與結構化知識圖譜，提升準確性。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Vertex AI",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "BenchSci Case Study | Google Cloud",
+        "url": "https://cloud.google.com/customers/benchsci"
+      }
+    ]
+  },
+  {
+    "id": "healthcare-life-sciences-employee-better-habits",
+    "industry": "healthcare-life-sciences",
+    "agentType": "employee",
+    "company": "Better Habits",
+    "isNew": false,
+    "summary": {
+      "en": "Better Habits uses Google Workspace with Gemini to cut time on communication plans and focus on wellness delivery.",
+      "zh": "Better Habits 利用內建 Gemini 的 Google Workspace 縮短制定溝通計畫的時間，專注提供優質健康服務。"
+    },
+    "overview": {
+      "en": "Better Habits, a wellness company, uses Google Workspace integrated with Gemini to reduce the administrative time spent creating communication plans. By automating routine content drafting, the team can dedicate more energy to delivering high-quality wellness programs to their clients.",
+      "zh": "健康管理公司 Better Habits 透過整合 Gemini 的 Google Workspace 大幅縮短製作溝通計畫所花費的行政時間，藉由自動化例行內容草擬，讓團隊得以將更多精力投入為客戶提供優質健康方案。"
+    },
+    "highlights": {
+      "en": [
+        "Reduced time spent developing communication plans using Gemini in Google Workspace.",
+        "Freed up team capacity to focus on high-quality wellness program delivery.",
+        "Demonstrates AI productivity gains for small health and wellness businesses."
+      ],
+      "zh": [
+        "利用 Google Workspace 中的 Gemini 縮短制定溝通計畫所需時間。",
+        "釋放團隊產能，專注於高品質健康方案交付。",
+        "展示 AI 為中小型健康企業帶來的生產力提升。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Google Workspace"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "healthcare-life-sciences-employee-certify-os",
+    "industry": "healthcare-life-sciences",
+    "agentType": "employee",
+    "company": "Certify OS",
+    "isNew": false,
+    "summary": {
+      "en": "Certify OS automates medical provider credentialing and licensing using AI, replacing manual verification processes.",
+      "zh": "Certify OS 利用 AI 自動化醫療提供者的資格認證與執照管理，取代人工核查流程。"
+    },
+    "overview": {
+      "en": "Certify OS provides API-first, AI-powered credentialing, licensing, enrollment, and network monitoring for health plans and digital health companies. The platform unifies provider data from thousands of primary sources through automated pipelines, using AI and ML to attribute every data point to a unique provider record—replacing error-prone spreadsheets with a continuously updated intelligence layer.",
+      "zh": "Certify OS 為健康計畫及數位醫療公司提供 API 優先的 AI 資格認證、執照管理與網絡監控服務。平台透過自動化管道整合來自數千個主要來源的提供者資料，運用 AI 與機器學習將每個資料點歸屬至唯一的提供者記錄，以持續更新的智慧層取代容易出錯的人工試算表。"
+    },
+    "highlights": {
+      "en": [
+        "Automates credentialing, licensing, and monitoring for healthcare provider networks.",
+        "Unifies provider data from thousands of primary sources via AI-powered pipelines.",
+        "Replaces manual spreadsheets with continuously updated, ML-attributed provider records.",
+        "Raised $69M total funding backed by Transformation Capital and General Catalyst."
+      ],
+      "zh": [
+        "為醫療提供者網絡自動化資格認證、執照管理與監控流程。",
+        "透過 AI 驅動管道整合來自數千個主要來源的提供者資料。",
+        "以持續更新的 ML 歸屬提供者記錄取代人工試算表。",
+        "累計融資達 6,900 萬美元，由 Transformation Capital 和 General Catalyst 支持。"
+      ]
+    },
+    "technologies": [
+      "Google Cloud",
+      "Vertex AI"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "CertifyOS provider data intelligence – Fierce Healthcare",
+        "url": "https://www.fiercehealthcare.com/health-tech/provider-data-intelligence-startup-certify-nabs-40m-backed-transformation-capital"
+      }
+    ]
+  },
+  {
+    "id": "healthcare-life-sciences-employee-click-therapeutics",
+    "industry": "healthcare-life-sciences",
+    "agentType": "employee",
+    "company": "Click Therapeutics",
+    "isNew": false,
+    "summary": {
+      "en": "Click Therapeutics uses Gemini for Google Workspace to streamline clinical operations documentation for digital therapeutics.",
+      "zh": "Click Therapeutics 利用 Gemini for Google Workspace 簡化處方數位治療的臨床作業文件流程。"
+    },
+    "overview": {
+      "en": "Click Therapeutics develops FDA-regulated prescription digital therapeutics (PDTs). Its Clinical Operations team leverages Gemini for Google Workspace to transform complex clinical documentation—including protocol creation, regulatory submissions, and study reports—reducing administrative burden and letting staff focus on advancing therapeutic programs.",
+      "zh": "Click Therapeutics 開發受 FDA 監管的處方數位治療（PDT）產品。其臨床作業團隊利用 Gemini for Google Workspace 改革複雜臨床文件作業，包括研究方案制定、法規申報及研究報告，降低行政負擔，使員工得以專注推進治療方案。"
+    },
+    "highlights": {
+      "en": [
+        "Clinical Operations team uses Gemini for Google Workspace to streamline complex clinical documentation.",
+        "Supports FDA-regulated prescription digital therapeutics workflows.",
+        "Reduces administrative burden enabling focus on therapeutic program advancement."
+      ],
+      "zh": [
+        "臨床作業團隊利用 Gemini for Google Workspace 簡化複雜臨床文件處理。",
+        "支援 FDA 監管的處方數位治療相關工作流程。",
+        "降低行政負擔，使員工得以專注推進治療方案。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Google Workspace"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "healthcare-life-sciences-employee-cost-plus-drugs",
+    "industry": "healthcare-life-sciences",
+    "agentType": "employee",
+    "company": "Cost Plus Drugs",
+    "isNew": false,
+    "summary": {
+      "en": "Cost Plus Drugs employees save an average of five hours per week using Gemini for Google Workspace.",
+      "zh": "Cost Plus Drugs 員工透過 Gemini for Google Workspace 平均每週節省 5 小時工作時間。"
+    },
+    "overview": {
+      "en": "Cost Plus Drugs, the low-cost pharmaceutical company, has widely adopted Gemini for Google Workspace across its workforce. Employees estimate saving an average of five hours per week through AI capabilities in Gmail and other tools. Gemini also assists with coding tasks including building automation scripts that further streamline operations.",
+      "zh": "低成本藥品公司 Cost Plus Drugs 已在全公司廣泛採用 Gemini for Google Workspace。員工估計僅透過 Gmail 等工具的 AI 功能每週平均可節省 5 小時。Gemini 亦協助完成程式碼任務，包括建立進一步簡化作業的自動化腳本。"
+    },
+    "highlights": {
+      "en": [
+        "Employees saving an average of 5 hours per week through AI capabilities in Gmail.",
+        "Gemini supports coding tasks including automation script development.",
+        "Wide organizational adoption reflects strong AI workforce engagement."
+      ],
+      "zh": [
+        "員工透過 Gmail 的 AI 功能平均每週節省 5 小時。",
+        "Gemini 亦支援程式碼任務，包括自動化腳本開發。",
+        "全公司廣泛採用，顯示員工對 AI 工具的高度參與。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Google Workspace"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "healthcare-life-sciences-employee-covered-california",
+    "industry": "healthcare-life-sciences",
+    "agentType": "employee",
+    "company": "Covered California",
+    "isNew": false,
+    "summary": {
+      "en": "Covered California uses Document AI to automate health insurance eligibility verification, raising completion rates from under 20% to 84%.",
+      "zh": "Covered California 利用 Document AI 自動化健保資格審核，文件核實完成率從不到 20% 提升至 84%。"
+    },
+    "overview": {
+      "en": "Covered California partnered with Google Cloud and Deloitte to deploy Document AI for processing 50,000 monthly eligibility documents across 56 classification types. The system increased verification completion rates from under 20% to 84%, cut manual tasks by 40%, and transformed enrollment into a near real-time experience. The partnership expanded to verify 25 additional document types including income and residency status in seconds.",
+      "zh": "Covered California 與 Google Cloud 及 Deloitte 合作部署 Document AI，處理每月收到的 5 萬份涵蓋 56 種類型的健保資格文件。系統將文件核實完成率從不到 20% 提升至 84%，人工作業量減少 40%，並將投保流程轉型為近乎即時的體驗。合作範圍已擴展至可在數秒內核驗包括收入與居住狀態在內的 25 種新文件類型。"
+    },
+    "highlights": {
+      "en": [
+        "Document verification completion rate rose from under 20% to 84% after deploying Document AI.",
+        "40% reduction in manual tasks for eligibility processing.",
+        "Processes 50,000 documents per month across 56 document classifications.",
+        "Expanded to verify 25 additional document types including income and residency in seconds.",
+        "Improved both consumer enrollment experience and employee productivity."
+      ],
+      "zh": [
+        "部署 Document AI 後文件核實完成率從不到 20% 提升至 84%。",
+        "資格審核人工作業減少 40%。",
+        "每月處理 5 萬份文件，涵蓋 56 種文件類型。",
+        "已擴展至可在數秒內核驗包括收入與居住狀態在內的 25 種新文件類型。",
+        "同時改善消費者投保體驗與員工生產力。"
+      ]
+    },
+    "technologies": [
+      "Document AI",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Covered California Collaborates with Google Public Sector to Accelerate Health Insurance Enrollment",
+        "url": "https://www.coveredca.com/newsroom/news-releases/2024/04/10/covered-california-collaborates-with-google-public-sector-to-accelerate-and-simplify-health-insurance-enrollment-using-ai/"
+      },
+      {
+        "title": "Covered California Case Study | Google Cloud",
+        "url": "https://cloud.google.com/customers/coveredcalifornia"
+      }
+    ]
+  },
+  {
+    "id": "healthcare-life-sciences-employee-covet",
+    "industry": "healthcare-life-sciences",
+    "agentType": "employee",
+    "company": "CoVet",
+    "isNew": false,
+    "summary": {
+      "en": "CoVet is an AI assistant for veterinary professionals built with Gemini, Cloud Functions, and Google Cloud.",
+      "zh": "CoVet 是由獸醫專業人員打造、專為獸醫設計的 AI 助理，基於 Gemini 與 Cloud Functions 等 Google Cloud 技術構建。"
+    },
+    "overview": {
+      "en": "CoVet is an AI assistant built by veterinary professionals specifically for veterinary professionals. It uses Gemini, Cloud Functions, and other Google Cloud solutions to help veterinarians and their teams streamline clinical workflows, access medical knowledge quickly, and reduce administrative burden—allowing more time for animal care.",
+      "zh": "CoVet 是由獸醫專業人員打造、專為獸醫設計的 AI 助理。它利用 Gemini、Cloud Functions 及其他 Google Cloud 解決方案，協助獸醫師及其團隊簡化臨床工作流程、快速獲取醫療知識並減輕行政負擔，讓他們有更多時間照護動物。"
+    },
+    "highlights": {
+      "en": [
+        "Built by veterinary professionals specifically for the veterinary industry.",
+        "Uses Gemini and Cloud Functions for clinical workflow automation.",
+        "Reduces administrative burden so veterinary teams can focus on patient care."
+      ],
+      "zh": [
+        "由獸醫專業人員打造，專為獸醫產業設計。",
+        "利用 Gemini 與 Cloud Functions 實現臨床工作流程自動化。",
+        "減輕行政負擔，讓獸醫團隊得以專注於動物照護。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Cloud Functions",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "healthcare-life-sciences-employee-cradle",
+    "industry": "healthcare-life-sciences",
+    "agentType": "employee",
+    "company": "Cradle",
+    "isNew": false,
+    "summary": {
+      "en": "Cradle uses Google Cloud generative AI to design proteins for drug discovery, cutting experimental cycles by up to 90%.",
+      "zh": "Cradle 利用 Google Cloud 生成式 AI 設計蛋白質，用於藥物發現，將實驗週期縮短最多 90%。"
+    },
+    "overview": {
+      "en": "Cradle is a biotech startup using Google Cloud's generative AI to design proteins for drug discovery, food production, and chemical manufacturing. Traditional protein engineering requires 10–20 experimental rounds each taking 8–12 weeks; Cradle's platform cuts this by up to 90%, saving hundreds of thousands of dollars in early research. The company now runs 50+ projects and serves six of the top 25 pharma companies, including Johnson & Johnson, AbbVie, and Novo Nordisk.",
+      "zh": "Cradle 是一家利用 Google Cloud 生成式 AI 設計蛋白質的生技新創，應用於藥物發現、食品生產及化學製造。傳統蛋白質工程需要 10 至 20 輪實驗，每輪耗時 8 至 12 週；Cradle 平台可將此過程縮短最多 90%，節省早期研究數十萬美元的成本。目前公司執行逾 50 個專案，服務前 25 大藥廠中的 6 家，包括 Johnson & Johnson、AbbVie 及 Novo Nordisk。"
+    },
+    "highlights": {
+      "en": [
+        "Cuts protein engineering experimental cycles by up to 90% versus traditional 10–20 round processes.",
+        "Saves hundreds of thousands of dollars in early-stage R&D costs.",
+        "Serves 6 of the top 25 pharma companies including Johnson & Johnson, AbbVie, and Novo Nordisk.",
+        "Running 50+ active drug discovery projects.",
+        "Raised $73M in Series B funding in November 2024."
+      ],
+      "zh": [
+        "相較傳統 10 至 20 輪實驗流程，將蛋白質工程實驗週期縮短最多 90%。",
+        "節省早期研發數十萬美元的成本。",
+        "服務前 25 大藥廠中的 6 家，包括 Johnson & Johnson、AbbVie 及 Novo Nordisk。",
+        "執行逾 50 個活躍藥物發現專案。",
+        "2024 年 11 月完成 7,300 萬美元 B 輪融資。"
+      ]
+    },
+    "technologies": [
+      "Vertex AI",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Cradle Case Study | Google Cloud",
+        "url": "https://cloud.google.com/customers/cradlebio"
+      },
+      {
+        "title": "Cradle AI-powered protein engineering platform serving six of top 25 pharma leaders",
+        "url": "https://www.prnewswire.com/news-releases/cradle-ai-powered-protein-engineering-platform-serving-six-of-top-25-pharma-leaders-302643154.html"
+      }
+    ]
+  },
+  {
+    "id": "healthcare-life-sciences-employee-cytoreason",
+    "industry": "healthcare-life-sciences",
+    "agentType": "employee",
+    "company": "CytoReason",
+    "isNew": false,
+    "summary": {
+      "en": "CytoReason uses AI and Google Cloud to build computational disease models that help pharma companies shorten clinical trials.",
+      "zh": "CytoReason 利用 AI 與 Google Cloud 構建計算疾病模型，協助藥廠縮短臨床試驗週期。"
+    },
+    "overview": {
+      "en": "CytoReason creates AI-powered computational disease models that map human diseases tissue by tissue and cell by cell, enabling pharma companies to validate drug targets, prioritize treatments, and stratify patients. Google Cloud's scalable infrastructure powers its data processing and ML workflows. Six of the world's top ten pharma companies use CytoReason's technology, and Pfizer signed a $110 million deal including a $20 million investment.",
+      "zh": "CytoReason 開發 AI 計算疾病模型，逐組織、逐細胞地繪製人類疾病圖譜，使藥廠得以驗證藥物靶點、排定治療優先順序並進行患者分層。Google Cloud 的可擴展基礎架構為其資料處理與機器學習工作流程提供支援。全球前十大藥廠中有六家採用 CytoReason 的技術，Pfizer 並簽署了包含 2,000 萬美元投資的 1.1 億美元合作協議。"
+    },
+    "highlights": {
+      "en": [
+        "Six of the world's top 10 pharma companies use CytoReason's disease models.",
+        "Pfizer signed a $110M deal including $20M investment in CytoReason.",
+        "Maps human diseases tissue by tissue and cell by cell using AI.",
+        "Google Cloud infrastructure handles scalable data processing and ML workflows.",
+        "Recently launched LINA, an AI agent for pharma R&D built on computational disease models."
+      ],
+      "zh": [
+        "全球前十大藥廠中有六家採用 CytoReason 的疾病模型。",
+        "Pfizer 簽署包含 2,000 萬美元投資的 1.1 億美元合作協議。",
+        "利用 AI 逐組織、逐細胞地繪製人類疾病圖譜。",
+        "Google Cloud 基礎架構承載可擴展的資料處理與機器學習工作流程。",
+        "近期推出基於計算疾病模型的藥物研發 AI 代理 LINA。"
+      ]
+    },
+    "technologies": [
+      "Google Cloud",
+      "Vertex AI",
+      "Google Kubernetes Engine"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "CytoReason Case Study | Google Cloud",
+        "url": "https://cloud.google.com/customers/cytoreason"
+      },
+      {
+        "title": "CytoReason expands collaboration with Pfizer for AI drug discovery",
+        "url": "https://www.pfizer.com/news/press-release/press-release-detail/cytoreason-announces-expanded-collaboration-deal-pfizer"
+      }
+    ]
+  },
+  {
+    "id": "healthcare-life-sciences-employee-dasa",
+    "industry": "healthcare-life-sciences",
+    "agentType": "employee",
+    "company": "Dasa",
+    "isNew": false,
+    "summary": {
+      "en": "Dasa, Brazil's largest medical diagnostics company, uses Google Cloud AI to help physicians detect relevant findings in test results faster.",
+      "zh": "巴西最大醫療診斷公司 Dasa 利用 Google Cloud AI 協助醫師更快速地在檢驗結果中發現重要異常。"
+    },
+    "overview": {
+      "en": "Dasa, Brazil's largest integrated health network serving 23 million people annually, uses Google Cloud's BigQuery, Dataproc, and Vertex AI to centralize its medical image archive, improve diagnoses, and enhance customer experience. The company built a tool to help doctors in its network spot relevant findings in test results and notify prescribing physicians, with next steps involving language models to detect healthcare issues in medical histories and reports.",
+      "zh": "巴西最大整合醫療網絡 Dasa 每年服務逾 2,300 萬人，利用 Google Cloud 的 BigQuery、Dataproc 及 Vertex AI 集中整合龐大的醫療影像存檔、提升診斷品質並優化客戶體驗。公司打造了一套工具，協助網絡內醫師在檢驗結果中發現重要異常並通知處方醫師，下一步計畫運用語言模型偵測病歷與報告中的醫療問題。"
+    },
+    "highlights": {
+      "en": [
+        "Built AI tool helping doctors spot relevant findings in test results and notify prescribing physicians.",
+        "Centralizes massive medical image archive to improve diagnoses using BigQuery, Dataproc, and Vertex AI.",
+        "Serves over 23 million people annually across Brazil.",
+        "Next phase will use language models to detect healthcare issues in medical histories and reports."
+      ],
+      "zh": [
+        "打造 AI 工具協助醫師在檢驗結果中發現重要異常，並通知處方醫師。",
+        "利用 BigQuery、Dataproc 及 Vertex AI 集中整合龐大醫療影像存檔以提升診斷品質。",
+        "每年服務巴西逾 2,300 萬人。",
+        "下一步將運用語言模型偵測病歷與報告中的醫療問題。"
+      ]
+    },
+    "technologies": [
+      "BigQuery",
+      "Dataproc",
+      "Vertex AI",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Dasa Case Study | Google Cloud",
+        "url": "https://cloud.google.com/customers/dasa"
+      }
+    ]
+  },
+  {
+    "id": "healthcare-life-sciences-employee-davita",
+    "industry": "healthcare-life-sciences",
+    "agentType": "employee",
+    "company": "DaVita",
+    "isNew": false,
+    "summary": {
+      "en": "DaVita uses Google Cloud's Vertex AI and BigQuery to develop dozens of AI models transforming kidney care across 2,700+ dialysis centers.",
+      "zh": "DaVita 利用 Google Cloud 的 Vertex AI 與 BigQuery 開發數十個 AI 模型，在逾 2,700 個透析中心全面改革腎臟照護。"
+    },
+    "overview": {
+      "en": "DaVita collaborated with Google Cloud to build Center Without Walls (CWOW), a clinical operating system now live across 2,700+ dialysis centers nationwide. Using Cloud Spanner, BigQuery, and Vertex AI, the platform unifies data from more than 30 million dialysis treatments per year to generate insights for improving clinical outcomes, enabling seamless data sharing between physicians, hospitals, and care teams.",
+      "zh": "DaVita 與 Google Cloud 合作，共同打造目前已在全美逾 2,700 個透析中心上線運行的臨床作業系統「Center Without Walls（CWOW）」。平台運用 Cloud Spanner、BigQuery 及 Vertex AI，整合每年逾 3,000 萬次透析治療的資料，為改善臨床結果提供洞察，並實現醫師、醫院與照護團隊之間的無縫資料共享。"
+    },
+    "highlights": {
+      "en": [
+        "Center Without Walls platform deployed across 2,700+ dialysis centers nationwide.",
+        "Unifies data from 30M+ dialysis treatments per year to improve clinical outcomes.",
+        "Built on Cloud Spanner, BigQuery, and Vertex AI.",
+        "Enables seamless data sharing between physicians, hospitals, and internal care teams.",
+        "Serves more than 200,000 DaVita patients."
+      ],
+      "zh": [
+        "Center Without Walls 平台已在全美逾 2,700 個透析中心部署上線。",
+        "整合每年逾 3,000 萬次透析治療的資料，以改善臨床結果。",
+        "基於 Cloud Spanner、BigQuery 及 Vertex AI 構建。",
+        "實現醫師、醫院與內部照護團隊之間的無縫資料共享。",
+        "服務逾 20 萬名 DaVita 患者。"
+      ]
+    },
+    "technologies": [
+      "Vertex AI",
+      "BigQuery",
+      "Cloud Spanner",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "DaVita Collaborates with Google Cloud to Develop Clinical Operating System for Kidney Care",
+        "url": "https://www.prnewswire.com/news-releases/davita-collaborates-with-google-cloud-to-develop-customized-clinical-operating-system-designed-to-transform-kidney-care-301960247.html"
+      },
+      {
+        "title": "DaVita Google Cloud kidney care platform – Google Cloud Blog",
+        "url": "https://cloud.google.com/transform/davita-reinvents-healthcare-center-without-walls-dialysis-on-the-cloud"
+      }
+    ]
+  },
+  {
+    "id": "healthcare-life-sciences-employee-digital-diagnostics",
+    "industry": "healthcare-life-sciences",
+    "agentType": "employee",
+    "company": "Digital Diagnostics",
+    "isNew": false,
+    "summary": {
+      "en": "Digital Diagnostics uses Google Cloud's secure infrastructure to scale LumineticsCore, the first FDA-cleared autonomous AI diagnostic tool.",
+      "zh": "Digital Diagnostics 利用 Google Cloud 安全基礎架構擴展 LumineticsCore——全球首個獲 FDA 核准的自主 AI 診斷工具。"
+    },
+    "overview": {
+      "en": "Digital Diagnostics is a healthcare diagnostics company that uses Google Cloud's secure, HIPAA-compliant infrastructure to enhance the reach of LumineticsCore, its FDA-cleared AI-powered diagnostic tool. LumineticsCore was the first autonomous AI diagnostic platform to receive FDA clearance for diagnosing diabetic retinopathy without physician input, improving access to screening for underserved populations.",
+      "zh": "Digital Diagnostics 是一家醫療診斷公司，利用 Google Cloud 安全合規（符合 HIPAA）的基礎架構，擴大其 FDA 核准 AI 診斷工具 LumineticsCore 的覆蓋範圍。LumineticsCore 是全球首個獲 FDA 核准、無需醫師介入即可診斷糖尿病視網膜病變的自主 AI 診斷平台，改善了服務不足族群的篩檢機會。"
+    },
+    "highlights": {
+      "en": [
+        "LumineticsCore is the first FDA-cleared autonomous AI to diagnose diabetic retinopathy without physician input.",
+        "Google Cloud secure infrastructure enables HIPAA-compliant scaling to underserved populations.",
+        "Improves healthcare access and equity through AI-powered point-of-care diagnostics."
+      ],
+      "zh": [
+        "LumineticsCore 是全球首個獲 FDA 核准、無需醫師介入即可診斷糖尿病視網膜病變的自主 AI 系統。",
+        "Google Cloud 安全基礎架構使其得以在符合 HIPAA 規範的前提下擴展至服務不足族群。",
+        "透過 AI 即時照護診斷提升醫療可及性與健康公平。"
+      ]
+    },
+    "technologies": [
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Digital Diagnostics – Transforming Global Healthcare With AI",
+        "url": "https://www.digitaldiagnostics.com/"
+      }
+    ]
+  },
+  {
+    "id": "healthcare-life-sciences-employee-elanco",
+    "industry": "healthcare-life-sciences",
+    "agentType": "employee",
+    "company": "Elanco",
+    "isNew": false,
+    "summary": {
+      "en": "Elanco uses Gemini in its Elanco.ai platform to automatically sort thousands of manufacturing compliance documents.",
+      "zh": "Elanco 在其 Elanco.ai 平台中利用 Gemini 自動整理數千份製造法規遵循文件。"
+    },
+    "overview": {
+      "en": "Elanco, a global leader in animal health, manages thousands of manufacturing compliance documents. Using Gemini within its Elanco.ai platform, the company automatically sorts and organizes these documents, reducing the time employees spend on document management and improving regulatory compliance workflows across its global operations.",
+      "zh": "動物保健全球領導廠商 Elanco 需管理數千份製造法規遵循文件。透過在其 Elanco.ai 平台中運用 Gemini，公司實現文件的自動分類與整理，縮短員工在文件管理上花費的時間，並改善全球營運中的法規遵循工作流程。"
+    },
+    "highlights": {
+      "en": [
+        "Automatically sorts thousands of manufacturing compliance documents using Gemini in Elanco.ai.",
+        "Reduces employee time spent on document management.",
+        "Improves regulatory compliance workflows across global animal health operations."
+      ],
+      "zh": [
+        "在 Elanco.ai 平台中利用 Gemini 自動整理數千份製造法規遵循文件。",
+        "縮短員工在文件管理上花費的時間。",
+        "改善全球動物保健業務中的法規遵循工作流程。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "healthcare-life-sciences-employee-exacare-ai",
+    "industry": "healthcare-life-sciences",
+    "agentType": "employee",
+    "company": "ExaCare AI",
+    "isNew": false,
+    "summary": {
+      "en": "ExaCare AI uses Gemini Enterprise Agent Platform to streamline post-acute care admissions and clinical operations for 1,500+ facilities.",
+      "zh": "ExaCare AI 利用 Gemini Enterprise Agent Platform 為逾 1,500 家機構簡化照後照護的入院流程與臨床作業。"
+    },
+    "overview": {
+      "en": "ExaCare AI is an AI platform for post-acute care operations that uses Gemini Enterprise Agent Platform and Gemini for inference to process clinical and operational data. The platform centralizes referrals, analyzes admissions packets, and handles reimbursement workflows—powering over 1,500 facilities including skilled nursing and home care settings. Its AI agents triage referral packets, extract clinical information, and guide documentation for accurate Medicare and Medicaid reimbursement.",
+      "zh": "ExaCare AI 是一個後急性照護作業 AI 平台，利用 Gemini Enterprise Agent Platform 及 Gemini 進行推論，處理臨床與作業資料。平台集中管理轉介、分析入院資料包並處理報銷工作流程，服務逾 1,500 家機構，涵蓋技術護理與居家照護環境。其 AI 代理對轉介資料包進行分診、提取臨床資訊，並引導文件作業以確保準確的醫療保險與醫療補助報銷。"
+    },
+    "highlights": {
+      "en": [
+        "Powers post-acute care operations for 1,500+ facilities including skilled nursing and home care.",
+        "AI agents triage referral packets and extract clinical information with 99% accuracy.",
+        "Handles reimbursement workflows across Medicare, Medicaid, and managed care.",
+        "Uses Gemini Enterprise Agent Platform for clinical and operational data processing.",
+        "Raised $30M Series A to expand AI agent suite for admissions and operations."
+      ],
+      "zh": [
+        "為逾 1,500 家機構（含技術護理與居家照護）的後急性照護作業提供支援。",
+        "AI 代理以 99% 準確率對轉介資料包進行分診並提取臨床資訊。",
+        "處理涵蓋醫療保險、醫療補助及管理式照護的報銷工作流程。",
+        "利用 Gemini Enterprise Agent Platform 處理臨床與作業資料。",
+        "完成 3,000 萬美元 A 輪融資以擴展入院及作業 AI 代理套件。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Gemini Enterprise Agent Platform",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "ExaCare AI Raises $30M Series A",
+        "url": "https://www.prnewswire.com/news-releases/exacare-ai-raises-30m-series-a-to-reimagine-admissions-and-launch-a-powerful-suite-of-ai-agents-for-skilled-nursing--home-care-302586587.html"
+      }
+    ]
+  },
+  {
+    "id": "healthcare-life-sciences-employee-fingerpaint",
+    "industry": "healthcare-life-sciences",
+    "agentType": "employee",
+    "company": "Fingerpaint",
+    "isNew": false,
+    "summary": {
+      "en": "Fingerpaint uses NotebookLM for real-time quality assurance and fact-checking of drug efficacy claims in pharma marketing.",
+      "zh": "Fingerpaint 利用 NotebookLM 對藥物療效聲明進行即時品質保證與事實核查，應用於製藥行銷業務。"
+    },
+    "overview": {
+      "en": "Fingerpaint is a full-service pharmaceutical marketing agency that uses Google's NotebookLM to conduct real-time quality assurance and fact-checking of drug efficacy claims and regulatory content. This AI-powered approach ensures accuracy and compliance in pharmaceutical marketing materials, reducing the risk of regulatory issues and improving review turnaround times.",
+      "zh": "Fingerpaint 是一家全方位製藥行銷代理商，利用 Google 的 NotebookLM 對藥物療效聲明及法規內容進行即時品質保證與事實核查。這種 AI 驅動的方法確保製藥行銷素材的準確性與法規合規性，降低法規風險並改善審查週轉時間。"
+    },
+    "highlights": {
+      "en": [
+        "Uses NotebookLM for real-time QA and fact-checking of drug efficacy claims.",
+        "Improves accuracy and regulatory compliance in pharmaceutical marketing materials.",
+        "Reduces risk of regulatory issues through AI-powered content verification."
+      ],
+      "zh": [
+        "利用 NotebookLM 對藥物療效聲明進行即時品質保證與事實核查。",
+        "提升製藥行銷素材的準確性與法規合規性。",
+        "透過 AI 內容核驗降低法規風險。"
+      ]
+    },
+    "technologies": [
+      "NotebookLM",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "healthcare-life-sciences-employee-hackensack-meridian-health",
+    "industry": "healthcare-life-sciences",
+    "agentType": "employee",
+    "company": "Hackensack Meridian Health",
+    "isNew": false,
+    "summary": {
+      "en": "Hackensack Meridian Health deploys AI agents built on Google Cloud's Vertex AI across 18 hospitals to advance clinical decision-making.",
+      "zh": "Hackensack Meridian Health 在 18 家醫院部署基於 Google Cloud Vertex AI 構建的 AI 代理，推進臨床決策支援。"
+    },
+    "overview": {
+      "en": "Hackensack Meridian Health built AI agents on Google Cloud's Vertex AI and Gemini, leveraging its Ekam Cloud Data Platform, to transform patient care. The health system became the first to deploy a Gemini-based clinical note summarization agent at scale, now used by 7,000+ clinicians across 18 hospitals. Additional agents support NICU nurses with best-practice access and summarize lab results with preventive care recommendations.",
+      "zh": "Hackensack Meridian Health 基於 Google Cloud 的 Vertex AI 與 Gemini，結合其 Ekam 雲端資料平台，構建 AI 代理以改革病患照護。該醫療系統成為首家大規模部署基於 Gemini 的臨床病歷摘要代理的機構，目前已有逾 7,000 名臨床醫師在 18 家醫院使用。其他代理還協助 NICU 護士快速獲取最佳實踐資訊，並彙整實驗室結果並提供預防照護建議。"
+    },
+    "highlights": {
+      "en": [
+        "First health system to deploy Gemini-based clinical note summarization at scale, used by 7,000+ clinicians.",
+        "Deployed across 18 hospitals and 500 clinical care sites.",
+        "NICU Nurse Agent provides rapid access to up-to-date best practices for neonatal care.",
+        "Lab Values Summarization Agent highlights key trends and generates preventive care recommendations.",
+        "Platform built on Ekam Cloud Data Platform with Vertex AI (HIPAA-compliant)."
+      ],
+      "zh": [
+        "首家大規模部署基於 Gemini 的臨床病歷摘要代理，逾 7,000 名臨床醫師使用。",
+        "已在 18 家醫院及 500 個臨床照護站點部署。",
+        "NICU 護士代理為新生兒照護提供最新最佳實踐的快速存取。",
+        "實驗室數值摘要代理標記關鍵趨勢並提供預防照護建議。",
+        "平台基於 Ekam 雲端資料平台與 Vertex AI（符合 HIPAA 規範）。"
+      ]
+    },
+    "technologies": [
+      "Vertex AI",
+      "Gemini",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Hackensack Meridian Health Transforms Patient Care with AI Agents Built with Google Cloud",
+        "url": "https://www.prnewswire.com/news-releases/hackensack-meridian-health-transforms-patient-care-with-ai-agents-built-with-google-cloud-technology-302585949.html"
+      },
+      {
+        "title": "Hackensack Meridian Health deploys Google Cloud generative AI tools",
+        "url": "https://www.hackensackmeridianhealth.org/en/news/2023/08/30/hmh-deploys-google-clouds-generative-ai-tools"
+      }
+    ]
+  },
+  {
+    "id": "healthcare-life-sciences-employee-hca-healthcare",
+    "industry": "healthcare-life-sciences",
+    "agentType": "employee",
+    "company": "HCA Healthcare",
+    "isNew": false,
+    "summary": {
+      "en": "HCA Healthcare is testing Cati, a virtual AI caregiver assistant built with Google Cloud, to ensure care continuity between nursing shifts.",
+      "zh": "HCA Healthcare 正測試以 Google Cloud 構建的虛擬 AI 護理助理 Cati，確保護理交班時的照護連續性。"
+    },
+    "overview": {
+      "en": "HCA Healthcare, one of the largest US hospital networks, collaborated with Google Cloud to develop multiple AI tools including Cati, a virtual AI caregiver assistant that helps ensure continuity of care during nursing shift changes. HCA is also piloting a Nurse Handoff AI tool to reduce the ~40 minutes per shift nurses spend on handoffs—totaling 10 million hours annually—and deployed an AI documentation tool at four hospitals in collaboration with Augmedix.",
+      "zh": "HCA Healthcare 是美國最大的醫院集團之一，與 Google Cloud 合作開發了多款 AI 工具，包括虛擬 AI 護理助理 Cati，協助確保護理交班時的照護連續性。HCA 也在試行 AI 護理交班工具，旨在縮短每位護士每班約 40 分鐘的交班時間（全院每年合計達 1,000 萬小時），並與 Augmedix 合作在四家醫院部署 AI 臨床文件工具。"
+    },
+    "highlights": {
+      "en": [
+        "Testing Cati, a virtual AI caregiver assistant to ensure care continuity during shift changes.",
+        "Piloting Nurse Handoff AI tool to address 10M+ hours annually spent on nurse handoffs.",
+        "Deployed AI clinical documentation tool across 4 hospitals with Augmedix partnership.",
+        "Exploring Med-PaLM 2 LLM to support caregivers with complex medical questions.",
+        "Deep multi-year collaboration with Google Cloud on clinical AI transformation."
+      ],
+      "zh": [
+        "測試虛擬 AI 護理助理 Cati，確保護理交班時的照護連續性。",
+        "試行 AI 護理交班工具，解決全院每年逾 1,000 萬小時的交班耗時問題。",
+        "與 Augmedix 合作在 4 家醫院部署 AI 臨床文件工具。",
+        "探索運用 Med-PaLM 2 大型語言模型，為護理人員解答複雜醫療問題。",
+        "與 Google Cloud 在臨床 AI 轉型方面展開深度多年合作。"
+      ]
+    },
+    "technologies": [
+      "Vertex AI",
+      "Gemini",
+      "Med-PaLM 2",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "HCA Healthcare Collaborates With Google Cloud to Bring Generative AI to Hospitals",
+        "url": "https://investor.hcahealthcare.com/news/news-details/2023/HCA-Healthcare-Collaborates-With-Google-Cloud-to-Bring-Generative-AI-to-Hospitals/default.aspx"
+      },
+      {
+        "title": "How nurses are charting the future of AI at HCA Healthcare | Google Cloud Blog",
+        "url": "https://cloud.google.com/transform/nurse-handoff-ai-chart-app-hca-healthcare-better-patient-outcomes"
+      }
+    ]
+  },
+  {
+    "id": "healthcare-life-sciences-employee-hemominas",
+    "industry": "healthcare-life-sciences",
+    "agentType": "employee",
+    "company": "Hemominas",
+    "isNew": false,
+    "summary": {
+      "en": "Brazil's largest blood bank Hemominas partnered with Xertica to build an AI-powered omnichannel chatbot for donor services.",
+      "zh": "巴西最大血庫 Hemominas 與 Xertica 合作，打造 AI 驅動的全通路聊天機器人，服務血液捐贈者。"
+    },
+    "overview": {
+      "en": "Hemominas, Brazil's largest blood bank, partnered with Xertica—a Google Cloud partner—to develop an omnichannel chatbot for donor search and scheduling. The AI-powered solution streamlines donor registration and appointment booking processes, enabling donors to interact across multiple channels and helping the blood bank manage donor engagement more efficiently.",
+      "zh": "巴西最大血庫 Hemominas 與 Google Cloud 合作夥伴 Xertica 攜手，開發用於血液捐贈者搜尋與預約排程的全通路聊天機器人。這套 AI 解決方案簡化捐贈者登記與預約流程，讓捐贈者可透過多個管道互動，協助血庫更有效率地管理捐贈者參與。"
+    },
+    "highlights": {
+      "en": [
+        "Developed an omnichannel AI chatbot for blood donor search and appointment scheduling.",
+        "Partnership with Xertica (Google Cloud partner) for implementation.",
+        "Streamlines donor registration and engagement across multiple channels.",
+        "Supports Brazil's largest blood bank in managing donor operations efficiently."
+      ],
+      "zh": [
+        "開發用於血液捐贈者搜尋與預約排程的全通路 AI 聊天機器人。",
+        "與 Google Cloud 合作夥伴 Xertica 合作實施。",
+        "跨多個管道簡化捐贈者登記與參與流程。",
+        "協助巴西最大血庫有效率地管理捐贈者作業。"
+      ]
+    },
+    "technologies": [
+      "Google Cloud",
+      "Dialogflow"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "healthcare-life-sciences-employee-highmark-health",
+    "industry": "healthcare-life-sciences",
+    "agentType": "employee",
+    "company": "Highmark Health",
+    "isNew": false,
+    "summary": {
+      "en": "Highmark Health uses Google Cloud AI to build an intelligence system delivering analytics and insights to healthcare workers and 6M+ members.",
+      "zh": "Highmark Health 利用 Google Cloud AI 構建智慧系統，為醫護人員及逾 600 萬名會員提供分析洞察。"
+    },
+    "overview": {
+      "en": "Highmark Health, an integrated payer-provider system serving over 6 million members, signed a six-year strategic partnership with Google Cloud to modernize legacy systems and drive AI-powered digital health. The platform uses BigQuery and Healthcare Data Engine to share insights with Epic provider partners and Highmark health plan staff. More than 14,000 of its 40,000+ employees regularly use internal generative AI tools powered by Vertex AI and Gemini.",
+      "zh": "服務逾 600 萬名會員的整合型付款方─提供者系統 Highmark Health 與 Google Cloud 簽署六年策略合作協議，推動傳統系統現代化並加速 AI 驅動的數位醫療發展。平台利用 BigQuery 與 Healthcare Data Engine，與 Epic 提供者合作夥伴及 Highmark 健康計畫員工共享分析洞察。逾 4 萬名員工中有超過 1.4 萬人定期使用由 Vertex AI 與 Gemini 驅動的內部生成式 AI 工具。"
+    },
+    "highlights": {
+      "en": [
+        "Six-year strategic partnership with Google Cloud for cloud, analytics, and AI.",
+        "14,000+ of 40,000+ employees regularly use internal generative AI tools.",
+        "Uses BigQuery and Healthcare Data Engine to deliver insights to provider partners via Epic.",
+        "Intelligence system serves 6M+ members across Highmark's integrated payer-provider network.",
+        "AI helps modernize legacy systems and boost internal efficiency."
+      ],
+      "zh": [
+        "與 Google Cloud 簽署六年期雲端、分析與 AI 策略合作協議。",
+        "逾 4 萬名員工中有超過 1.4 萬人定期使用內部生成式 AI 工具。",
+        "利用 BigQuery 與 Healthcare Data Engine 透過 Epic 向提供者合作夥伴提供分析洞察。",
+        "智慧系統服務 Highmark 整合型付款方─提供者網絡的逾 600 萬名會員。",
+        "AI 協助傳統系統現代化並提升內部效率。"
+      ]
+    },
+    "technologies": [
+      "BigQuery",
+      "Vertex AI",
+      "Gemini",
+      "Healthcare Data Engine",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Highmark Health inks 6-year strategic partnership with Google Cloud",
+        "url": "https://www.fiercehealthcare.com/payer/highmark-health-inks-6-year-strategic-partnership-google-cloud-to-tap-cloud-ai-technologies"
+      },
+      {
+        "title": "Highmark Health and Epic improve payer-provider collaboration with Google Cloud",
+        "url": "https://www.highmarkhealth.org/hmk/newsroom/pr/2024/2024-02-26-Highmark-Health-Epic-improve-payer-provider-collaboration-insights-Google-Cloud.shtml"
+      }
+    ]
+  },
+  {
+    "id": "healthcare-life-sciences-employee-highmark",
+    "industry": "healthcare-life-sciences",
+    "agentType": "employee",
+    "company": "Highmark",
+    "isNew": false,
+    "summary": {
+      "en": "Highmark's Sidekick AI assistant, built on Google Cloud, generated $27.9M in value and grew to 6M+ prompts with 20,000+ active users.",
+      "zh": "Highmark 基於 Google Cloud 打造的 AI 助理 Sidekick 創造了 2,790 萬美元的價值，成長至逾 600 萬次提示，擁有逾 2 萬名活躍用戶。"
+    },
+    "overview": {
+      "en": "Highmark built its internal AI assistant Sidekick using Google Cloud tools. The platform scaled from ~1 million to over 6 million prompts in about a year, supporting 74 active use cases including data analysis, document drafting, and automating administrative tasks. In 2025, Sidekick generated $27.9 million in AI-enabled value. The assistant has 20,000+ active users and continues to expand for both payer and provider-side employees.",
+      "zh": "Highmark 利用 Google Cloud 工具打造內部 AI 助理 Sidekick。平台在約一年內從約 100 萬次擴展至逾 600 萬次提示，支援 74 個活躍用例，包括資料分析、文件草擬及行政任務自動化。2025 年，Sidekick 創造了 2,790 萬美元的 AI 賦能價值。助理擁有逾 2 萬名活躍用戶，並持續為付款方與提供者端員工擴展功能。"
+    },
+    "highlights": {
+      "en": [
+        "Sidekick generated $27.9M in AI-enabled value in 2025 alone.",
+        "Scaled from ~1M to 6M+ prompts in approximately one year.",
+        "74 active use cases covering data analysis, document drafting, and admin automation.",
+        "20,000+ active users, close to 100% adoption among target employee population.",
+        "Evolved from a secure 'AI easy button' into a comprehensive productivity powerhouse."
+      ],
+      "zh": [
+        "Sidekick 在 2025 年單年創造 2,790 萬美元的 AI 賦能價值。",
+        "在約一年內從約 100 萬次擴展至逾 600 萬次提示。",
+        "涵蓋資料分析、文件草擬及行政自動化的 74 個活躍用例。",
+        "逾 2 萬名活躍用戶，在目標員工群體中接近 100% 的採用率。",
+        "從安全的「AI 便捷按鈕」演進為全面的生產力利器。"
+      ]
+    },
+    "technologies": [
+      "Vertex AI",
+      "Gemini",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Highmark Health generates $28M in value with Google AI",
+        "url": "https://www.beckershospitalreview.com/healthcare-information-technology/innovation/highmark-health-generates-28m-in-value-with-google-ai/"
+      },
+      {
+        "title": "Inside Highmark Health's AI-Powered Sidekick",
+        "url": "https://iianalytics.com/community/blog/inside-highmark-healths-ai-powered-sidekick-an-interview-with-the-vp-ai-coe"
+      }
+    ]
+  },
+  {
+    "id": "healthcare-life-sciences-employee-humana",
+    "industry": "healthcare-life-sciences",
+    "agentType": "employee",
+    "company": "Humana",
+    "isNew": false,
+    "summary": {
+      "en": "Humana launched Agent Assist with Google Cloud's Gemini to help 20,000+ member advocates handle 80M annual calls more efficiently.",
+      "zh": "Humana 與 Google Cloud 合作推出 Agent Assist，協助逾 2 萬名會員服務專員更有效率地處理每年 8,000 萬通來電。"
+    },
+    "overview": {
+      "en": "Humana launched Agent Assist, built with Google Cloud's Vertex AI, Gemini, and Gemini Enterprise for CX, to support over 20,000 member advocates handling up to 80 million calls annually. The solution summarizes conversations in real time, surfaces relevant benefit details, and provides proactive guidance—keeping human advocates emotionally present while AI handles the heavy lifting. Full rollout to Humana member service centers was planned for 2026.",
+      "zh": "Humana 推出基於 Google Cloud 的 Vertex AI、Gemini 及 Gemini Enterprise for CX 構建的 Agent Assist，支援逾 2 萬名會員服務專員處理每年多達 8,000 萬通來電。該解決方案即時彙整對話、呈現相關福利細節並提供主動引導，讓人類服務專員全程保持情感投入，同時由 AI 承擔繁重工作。計畫於 2026 年完成在 Humana 會員服務中心的全面推廣。"
+    },
+    "highlights": {
+      "en": [
+        "Agent Assist supports 20,000+ member advocates handling up to 80 million calls annually.",
+        "Real-time conversation summarization and benefit detail surfacing reduces manual workload.",
+        "Built with Vertex AI, Gemini, and Gemini Enterprise for CX.",
+        "Rollout began in October 2025; full deployment to member service centers planned for 2026.",
+        "Preserves 'human in the loop' throughout every member interaction."
+      ],
+      "zh": [
+        "Agent Assist 支援逾 2 萬名會員服務專員處理每年多達 8,000 萬通來電。",
+        "即時對話彙整與福利細節呈現，減輕人工工作量。",
+        "基於 Vertex AI、Gemini 及 Gemini Enterprise for CX 構建。",
+        "2025 年 10 月啟動推廣；計畫於 2026 年完成在會員服務中心的全面部署。",
+        "每次會員互動全程保留「人在迴路」機制。"
+      ]
+    },
+    "technologies": [
+      "Vertex AI",
+      "Gemini",
+      "Gemini Enterprise"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Humana Redefines the Member Experience with Agent Assist Built with Google Cloud",
+        "url": "https://news.humana.com/news/articles/humana-redefines-the-member-experience-with-agent-assist-built-with-google-cloud"
+      },
+      {
+        "title": "Humana Agent Assist – Google Cloud Press Corner",
+        "url": "https://www.googlecloudpresscorner.com/2026-02-03-Humana-Redefines-the-Member-Experience-with-Agent-Assist-Built-with-Google-Cloud"
+      }
+    ]
+  },
+  {
+    "id": "healthcare-life-sciences-employee-infinitus",
+    "industry": "healthcare-life-sciences",
+    "agentType": "employee",
+    "company": "Infinitus",
+    "isNew": false,
+    "summary": {
+      "en": "Infinitus automates clinical and administrative healthcare conversations at scale using Google Cloud, saving 300,000+ provider hours.",
+      "zh": "Infinitus 利用 Google Cloud 大規模自動化臨床與行政醫療對話，為提供者節省逾 30 萬小時。"
+    },
+    "overview": {
+      "en": "Infinitus is an agentic healthcare communications platform that uses Google Cloud services—including Vertex AI since its inception—to automate payor-facing benefit verifications, prior authorization calls, and patient-facing clinical conversations. The platform has powered over 100 million minutes of conversations and saved 300,000+ hours for providers while generating tens of millions in cost savings. Its AI agents can detect medical emergencies and escalate to clinical staff as needed.",
+      "zh": "Infinitus 是一個醫療通訊代理平台，從創立之初便使用 Google Cloud 服務（包括 Vertex AI），自動化面向付款方的福利核驗、預先授權電話及面向病患的臨床對話。平台已承載逾 1 億分鐘的對話，為提供者節省逾 30 萬小時，並創造數千萬美元的成本節省。其 AI 代理能偵測醫療緊急情況，並在必要時升級給臨床人員處理。"
+    },
+    "highlights": {
+      "en": [
+        "Saved 300,000+ hours for healthcare providers using Google Cloud AI tools.",
+        "Powered 100M+ minutes of automated clinical and administrative conversations.",
+        "Uses Vertex AI for HIPAA-compliant, SOC2 Type II certified digital assistant models.",
+        "AI agents detect medical emergencies and escalate to clinical professionals as needed.",
+        "Enables providers and health plans to scale impact without stretching resources."
+      ],
+      "zh": [
+        "利用 Google Cloud AI 工具為醫療提供者節省逾 30 萬小時。",
+        "承載逾 1 億分鐘的自動化臨床與行政對話。",
+        "利用 Vertex AI 構建符合 HIPAA 規範、SOC2 Type II 認證的數位助理模型。",
+        "AI 代理能偵測醫療緊急情況，必要時升級給臨床專業人員處理。",
+        "使提供者與健康計畫得以在不過度消耗資源的情況下擴大服務規模。"
+      ]
+    },
+    "technologies": [
+      "Vertex AI",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Infinitus taps Google Cloud generative AI to streamline provider-payor interactions",
+        "url": "https://www.infinitus.ai/blog/infinitus-and-google-cloud-generative-ai/"
+      },
+      {
+        "title": "Infinitus Launches Next-Generation Clinical AI Agents",
+        "url": "https://www.prnewswire.com/news-releases/infinitus-launches-next-generation-clinical-ai-agents-302642848.html"
+      }
+    ]
+  },
+  {
+    "id": "healthcare-life-sciences-employee-isono-health",
+    "industry": "healthcare-life-sciences",
+    "agentType": "employee",
+    "company": "iSono Health",
+    "isNew": false,
+    "summary": {
+      "en": "iSono Health developed ATUSA, an AI-powered FDA-cleared wearable 3D ultrasound platform that acts as a Virtual Sonographer on Google Cloud.",
+      "zh": "iSono Health 基於 Google Cloud AI 開發出 FDA 核准的可穿戴式 3D 超音波平台 ATUSA，充當虛擬超音波技師。"
+    },
+    "overview": {
+      "en": "iSono Health, a medical imaging company, developed ATUSA—the world's first FDA-cleared, wearable, automated, portable 3D breast ultrasound platform built on Google Cloud AI. Designed as a 'Virtual Sonographer,' ATUSA enables any medical assistant to capture high-quality breast images at the point of care, with AI embedded in the software. The system captures full 3D breast volumes in about two minutes, roughly 10x faster than manual handheld ultrasound.",
+      "zh": "醫療影像公司 iSono Health 基於 Google Cloud AI 開發出 ATUSA——全球首個獲 FDA 核准、可穿戴式、自動化、便攜式 3D 乳房超音波平台。ATUSA 設計為「虛擬超音波技師」，使任何醫療助理均可在照護現場擷取高品質乳房影像，AI 功能直接嵌入軟體中。系統可在約兩分鐘內完整掃描 3D 乳房體積，約為人工手持超音波的 10 倍速。"
+    },
+    "highlights": {
+      "en": [
+        "ATUSA is the world's first FDA-cleared wearable automated 3D breast ultrasound platform.",
+        "Captures full 3D breast volumes in ~2 minutes, ~10x faster than manual handheld ultrasound.",
+        "Enables any medical assistant to conduct screenings—cognitive expertise embedded in AI.",
+        "Built on Google Cloud AI for secure operations and ML model development.",
+        "Commercially launched in January 2026; supported by NIH Phase II grant for AI model validation."
+      ],
+      "zh": [
+        "ATUSA 是全球首個獲 FDA 核准的可穿戴式自動化 3D 乳房超音波平台。",
+        "可在約 2 分鐘內完整掃描 3D 乳房體積，約為人工手持超音波的 10 倍速。",
+        "使任何醫療助理均可進行篩檢——認知專業知識嵌入 AI 中。",
+        "基於 Google Cloud AI 構建，用於安全運營與機器學習模型開發。",
+        "2026 年 1 月商業化上市；獲得 NIH 第二階段資助用於 AI 模型驗證。"
+      ]
+    },
+    "technologies": [
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "iSono Health Unveils ATUSA – World's First Wearable FDA-Cleared Breast Ultrasound Platform",
+        "url": "https://www.businesswire.com/news/home/20260114276390/en/iSono-Health-Unveils-ATUSA-The-Worlds-First-Wearable-Automated-Portable-FDA-Cleared-Breast-Ultrasound-Platform"
+      }
+    ]
+  },
+  {
+    "id": "healthcare-life-sciences-employee-kyoto-university-hospital",
+    "industry": "healthcare-life-sciences",
+    "agentType": "employee",
+    "company": "Kyoto University Hospital",
+    "isNew": false,
+    "summary": {
+      "en": "Kyoto University Hospital and Fitting Cloud built CocktailAI on Vertex AI with Gemini and MedLM to automate clinical document generation.",
+      "zh": "京都大學醫學部附屬病院與 Fitting Cloud 基於 Vertex AI，結合 Gemini 和 MedLM，打造自動化臨床文件生成系統 CocktailAI。"
+    },
+    "overview": {
+      "en": "Kyoto University Hospital partnered with Fitting Cloud Inc. to develop CocktailAI, a medical document generation system using Vertex AI with Gemini and MedLM. A research study since October 2023 found that 56% of generated text is usable as-is or with minor modifications, and another 36% is usable with additional information—meaning documentation workload can be reduced for 92% of documents, significantly alleviating physician administrative burden.",
+      "zh": "京都大學醫學部附屬病院與 Fitting Cloud 合作，基於 Vertex AI 結合 Gemini 和 MedLM，開發醫療文件生成系統 CocktailAI。2023 年 10 月起的研究顯示，56% 的生成文本可直接使用或僅需微幅修改，另有 36% 經補充資訊後可使用，意味著 92% 的文件可大幅減輕工作量，顯著減輕醫師的行政負擔。"
+    },
+    "highlights": {
+      "en": [
+        "56% of CocktailAI generated text is usable as-is or with minor modifications.",
+        "92% of documents see reduced documentation workload when combining both usability categories.",
+        "System built on Vertex AI with Gemini and MedLM for high-precision medical document generation.",
+        "Featured at Google for Japan 2024 as a showcase AI healthcare application.",
+        "Addresses physician burnout from documentation tasks in Japanese hospital settings."
+      ],
+      "zh": [
+        "CocktailAI 生成文本中有 56% 可直接使用或僅需微幅修改。",
+        "結合兩類可用情境後，92% 的文件可大幅減輕文件作業工作量。",
+        "基於 Vertex AI 結合 Gemini 和 MedLM 構建，用於高精度醫療文件生成。",
+        "在 Google for Japan 2024 活動中作為 AI 醫療應用典範展示。",
+        "解決日本醫院環境中醫師因文件工作而引發的過勞問題。"
+      ]
+    },
+    "technologies": [
+      "Vertex AI",
+      "Gemini",
+      "MedLM",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "CocktailAI Featured at Google for Japan 2024",
+        "url": "https://findex.co.jp/en/newsrelease/2024/en_news_240717.html"
+      },
+      {
+        "title": "Kyoto University Hospital case study | Google Cloud (Japanese)",
+        "url": "https://cloud.google.com/customers/intl/ja-jp/kyoto-university-hospital?hl=ja"
+      }
+    ]
+  },
+  {
+    "id": "healthcare-life-sciences-employee-manipal-hospitals",
+    "industry": "healthcare-life-sciences",
+    "agentType": "employee",
+    "company": "Manipal Hospitals",
+    "isNew": false,
+    "summary": {
+      "en": "Manipal Hospitals uses Gemini and Vertex AI to cut nurse handoff time by 70%, from 90 to 20 minutes, across 23 hospitals.",
+      "zh": "Manipal Hospitals 利用 Gemini 與 Vertex AI 將護理交班時間縮短 70%，從 90 分鐘降至 20 分鐘，已在 23 家醫院上線。"
+    },
+    "overview": {
+      "en": "Manipal Hospitals, one of India's largest healthcare providers with 37 hospitals and 10,500+ beds, partnered with Google Cloud to deploy generative AI solutions. Their nurse handoff solution—built with Vertex AI and Gemini 1.5—reduced handoff time from 90 to 20 minutes (70% reduction) and is live in 23 hospitals with 5,000+ nurses using it daily. An ePharmacy platform also reduced order processing time from 15 minutes to under 5 minutes.",
+      "zh": "擁有 37 家醫院、逾 1.05 萬張病床的印度最大醫療提供者之一 Manipal Hospitals，與 Google Cloud 合作部署生成式 AI 解決方案。基於 Vertex AI 及 Gemini 1.5 構建的護理交班解決方案，將交班時間從 90 分鐘縮短至 20 分鐘（縮短 70%），已在 23 家醫院上線，每天有逾 5,000 名護士使用。電子藥局平台也將訂單處理時間從 15 分鐘縮短至 5 分鐘以內。"
+    },
+    "highlights": {
+      "en": [
+        "70% reduction in nurse handoff time—from 90 minutes down to 20—across 23 hospitals.",
+        "5,000+ nurses use the AI-powered handoff solution daily.",
+        "ePharmacy order processing time reduced from 15 minutes to under 5 minutes.",
+        "Technology stack includes Vertex AI, Gemini 1.5, BigQuery, Cloud Healthcare API, and Looker.",
+        "Covers 37 hospitals and 10,500+ beds across 19 cities in India."
+      ],
+      "zh": [
+        "護理交班時間縮短 70%——從 90 分鐘降至 20 分鐘，已在 23 家醫院實施。",
+        "每天有逾 5,000 名護士使用 AI 護理交班解決方案。",
+        "電子藥局訂單處理時間從 15 分鐘縮短至 5 分鐘以內。",
+        "技術棧包括 Vertex AI、Gemini 1.5、BigQuery、Cloud Healthcare API 及 Looker。",
+        "覆蓋印度 19 個城市的 37 家醫院及逾 1.05 萬張病床。"
+      ]
+    },
+    "technologies": [
+      "Vertex AI",
+      "Gemini",
+      "BigQuery",
+      "Cloud Healthcare API",
+      "Looker",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Manipal Hospitals case study | Google Cloud",
+        "url": "https://cloud.google.com/customers/manipal-hospitals"
+      },
+      {
+        "title": "How Manipal Hospitals sped up nurse handoffs across 37 hospitals",
+        "url": "https://cloud.google.com/blog/topics/customers/how-manipal-hospitals-sped-up-nurse-handoffs-across-37-hospitals"
+      }
+    ]
+  },
+  {
+    "id": "healthcare-life-sciences-employee-marista-group",
+    "industry": "healthcare-life-sciences",
+    "agentType": "employee",
+    "company": "Marista Group",
+    "isNew": false,
+    "summary": {
+      "en": "Marista Group uses Google Agentspace to cut hospital billing discrepancy management from weeks to hours.",
+      "zh": "Marista Group 利用 Google Agentspace 將醫院帳單差異處理時間從數週縮短至數小時。"
+    },
+    "overview": {
+      "en": "Marista Group, a Brazilian education and healthcare organization, rolled out Google Agentspace to bring AI into its internal operations, starting with Hospital São Marcelino Champagnat. The AI platform reduced billing discrepancy management from weeks to just hours, delivering significant qualitative and financial gains. The deployment was showcased at Google Cloud's September 2025 summit in Brazil.",
+      "zh": "巴西教育與醫療機構 Marista Group 部署 Google Agentspace，從醫院聖馬爾切利諾·尚帕尼亞特（Hospital São Marcelino Champagnat）開始，將 AI 導入內部作業。AI 平台將帳單差異管理時間從數週縮短至數小時，帶來顯著的品質與財務收益。此部署在 2025 年 9 月的 Google Cloud 巴西峰會上作為典範案例展示。"
+    },
+    "highlights": {
+      "en": [
+        "Billing discrepancy management reduced from weeks to hours using Agentspace.",
+        "Deployment started at Hospital São Marcelino Champagnat.",
+        "Significant qualitative and financial gains from AI-powered operations.",
+        "Part of Google Cloud's September 2025 AI innovation announcement for Brazil."
+      ],
+      "zh": [
+        "利用 Agentspace 將帳單差異管理時間從數週縮短至數小時。",
+        "部署從醫院聖馬爾切利諾·尚帕尼亞特起步。",
+        "AI 驅動的作業帶來顯著的品質與財務收益。",
+        "是 Google Cloud 2025 年 9 月巴西 AI 創新發布的案例之一。"
+      ]
+    },
+    "technologies": [
+      "Google Agentspace",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Google Cloud Brings a New Era of AI Innovation to Brazil",
+        "url": "https://www.googlecloudpresscorner.com/2025-09-10-Google-Cloud-Brings-a-New-Era-of-AI-Innovation-to-Brazil"
+      }
+    ]
+  },
+  {
+    "id": "healthcare-life-sciences-employee-merck",
+    "industry": "healthcare-life-sciences",
+    "agentType": "employee",
+    "company": "Merck",
+    "isNew": false,
+    "summary": {
+      "en": "Merck signed a $1B partnership with Google Cloud to deploy Gemini Enterprise across R&D, manufacturing, and commercial functions.",
+      "zh": "Merck 與 Google Cloud 簽署高達 10 億美元的合作協議，在研發、製造及商業等職能全面部署 Gemini Enterprise。"
+    },
+    "overview": {
+      "en": "Merck and Google Cloud announced a landmark multi-year partnership worth up to $1 billion in April 2026 to deploy an agentic AI platform across R&D, manufacturing, commercial, and corporate functions. The platform uses Gemini Enterprise as its central AI engine, including a Deep Research agent that autonomously executes multi-step R&D tasks—condensing weeks of regulatory filing work into a single day. Google Cloud forward-deployed engineers work on-site with Merck teams.",
+      "zh": "Merck 與 Google Cloud 於 2026 年 4 月宣布一項高達 10 億美元的里程碑多年合作，在研發、製造、商業及企業職能全面部署代理 AI 平台。平台以 Gemini Enterprise 為核心 AI 引擎，其中 Deep Research 代理可自主執行多步驟研發任務——將數週的法規文件申報工作壓縮至一天完成。Google Cloud 前沿部署工程師與 Merck 團隊共同駐場工作。"
+    },
+    "highlights": {
+      "en": [
+        "Multi-year partnership worth up to $1 billion announced in April 2026 at Google Cloud Next.",
+        "Gemini Enterprise-powered agentic engine condenses weeks of regulatory filing work into a single day.",
+        "Deep Research agent autonomously executes multi-step R&D tasks combining web and proprietary data.",
+        "Google Cloud engineers forward-deployed on-site with Merck teams.",
+        "Covers R&D, manufacturing, commercial, and corporate functions."
+      ],
+      "zh": [
+        "2026 年 4 月在 Google Cloud Next 宣布高達 10 億美元的多年合作協議。",
+        "Gemini Enterprise 驅動的代理引擎將數週的法規文件申報工作壓縮至一天完成。",
+        "Deep Research 代理自主執行多步驟研發任務，整合網路與專有資料。",
+        "Google Cloud 工程師前沿部署，與 Merck 團隊共同駐場工作。",
+        "涵蓋研發、製造、商業及企業等各職能部門。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Gemini Enterprise",
+      "Vertex AI",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Merck and Google Cloud Partner to Accelerate Agentic AI Enterprise Transformation",
+        "url": "https://www.merck.com/news/merck-and-google-cloud-partner-to-accelerate-agentic-ai-enterprise-transformation/"
+      },
+      {
+        "title": "Merck inks Google Cloud agentic AI deal worth up to $1B – Fierce Pharma",
+        "url": "https://www.fiercepharma.com/ai-and-machine-learning/merck-goes-google-ai-push-1b-enterprise-deal"
+      }
+    ]
+  },
+  {
+    "id": "healthcare-life-sciences-employee-pfm-medical",
+    "industry": "healthcare-life-sciences",
+    "agentType": "employee",
+    "company": "PFM Medical",
+    "isNew": false,
+    "summary": {
+      "en": "PFM Medical built an enterprise search tool on Google Cloud to help teams quickly find data across SharePoint and other systems.",
+      "zh": "PFM Medical 基於 Google Cloud 打造企業搜尋工具，協助團隊快速查找 SharePoint 等系統中儲存的資料。"
+    },
+    "overview": {
+      "en": "PFM Medical, a medical technology manufacturer, built a robust enterprise search tool using Google Cloud that helps its teams quickly find data stored across disparate systems like SharePoint and other repositories. The AI-powered search reduces time spent hunting for technical documentation, compliance information, and product data, improving operational efficiency across the organization.",
+      "zh": "醫療技術製造商 PFM Medical 基於 Google Cloud 打造強大的企業搜尋工具，協助團隊快速查找儲存在 SharePoint 等各分散系統中的資料。AI 驅動的搜尋功能縮短了查找技術文件、法規合規資訊及產品資料的時間，提升整體組織的營運效率。"
+    },
+    "highlights": {
+      "en": [
+        "Built an enterprise search tool to quickly find data across SharePoint and other systems.",
+        "Reduces time spent locating technical documentation and compliance information.",
+        "Demonstrates AI-powered knowledge management for medical device manufacturers."
+      ],
+      "zh": [
+        "打造企業搜尋工具，可快速查找 SharePoint 等系統中的資料。",
+        "縮短查找技術文件與法規合規資訊的時間。",
+        "展示 AI 知識管理在醫療器械製造商中的應用。"
+      ]
+    },
+    "technologies": [
+      "Google Cloud",
+      "Vertex AI"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "healthcare-life-sciences-employee-pwc",
+    "industry": "healthcare-life-sciences",
+    "agentType": "employee",
+    "company": "PwC",
+    "isNew": false,
+    "summary": {
+      "en": "PwC uses Google Cloud AI agents to help oncology clinics automate administrative work so doctors can focus more on patients.",
+      "zh": "PwC 利用 Google Cloud AI 代理協助腫瘤科診所自動化行政工作，讓醫師得以將更多時間用於病患照護。"
+    },
+    "overview": {
+      "en": "PwC uses Google Cloud's Vertex AI and Healthcare Data Engine 2.0 to develop AI agents that help oncology clinics streamline administrative work so physicians can better optimize time with patients. The platform—serving over 200,000 patients—ingests oncology data and converts it to FHIR format. This success led PwC to build a broader agent OS that helps organizations deploy AI agents up to 10x faster across platforms.",
+      "zh": "PwC 利用 Google Cloud 的 Vertex AI 及 Healthcare Data Engine 2.0 開發 AI 代理，協助腫瘤科診所簡化行政工作，讓醫師得以更妥善地運用病患照護時間。這個服務逾 20 萬名患者的平台將腫瘤科資料攝入並轉換為 FHIR 格式。此成功促使 PwC 打造更廣泛的代理作業系統，協助組織在各平台上以最多快 10 倍的速度部署 AI 代理。"
+    },
+    "highlights": {
+      "en": [
+        "AI agents live and serving oncology division covering 200,000+ patients.",
+        "Platform converts oncology data to FHIR format using Vertex AI and Healthcare Data Engine 2.0.",
+        "Streamlines administrative work so oncologists can optimize time with patients.",
+        "Success led to PwC Agent OS that deploys AI agents up to 10x faster across platforms.",
+        "Part of PwC's global AI agent ecosystem with 250+ agents worldwide."
+      ],
+      "zh": [
+        "AI 代理已上線，服務涵蓋逾 20 萬名患者的腫瘤科部門。",
+        "平台利用 Vertex AI 及 Healthcare Data Engine 2.0 將腫瘤科資料轉換為 FHIR 格式。",
+        "簡化行政工作，讓腫瘤科醫師得以優化病患照護時間。",
+        "此成功促使 PwC 開發出代理作業系統，可將 AI 代理部署速度提升最多 10 倍。",
+        "是 PwC 全球 AI 代理生態系統（全球逾 250 個代理）的一部分。"
+      ]
+    },
+    "technologies": [
+      "Vertex AI",
+      "Healthcare Data Engine",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Transforming healthcare: How AI agents are powering data-driven oncology care with PwC and Google Cloud",
+        "url": "https://www.pwc.com/us/en/technology/alliances/library/google-cloud-ai-healthcare.html"
+      }
+    ]
+  },
+  {
+    "id": "healthcare-life-sciences-employee-rede-am-ricas",
+    "industry": "healthcare-life-sciences",
+    "agentType": "employee",
+    "company": "Rede Américas",
+    "isNew": false,
+    "summary": {
+      "en": "Rede Américas adopted Gemini Enterprise Agent Platform to streamline operations across its 25-hospital Latin American network.",
+      "zh": "Rede Américas 採用 Gemini Enterprise Agent Platform，簡化其遍布拉丁美洲 25 家醫院網絡的作業流程。"
+    },
+    "overview": {
+      "en": "Rede Américas, a Latin American hospital network with 25 hospitals and 400 partner health insurance companies, became an early adopter of Gemini Enterprise Agent Platform. The platform is being used to streamline administrative and clinical operations across the network, enabling greater coordination between hospitals and health insurance partners.",
+      "zh": "擁有 25 家醫院及 400 家合作健康保險公司的拉丁美洲醫院網絡 Rede Américas，成為 Gemini Enterprise Agent Platform 的早期採用者。該平台用於簡化網絡內的行政與臨床作業，實現醫院與健康保險合作夥伴之間更高效的協調配合。"
+    },
+    "highlights": {
+      "en": [
+        "Early adopter of Gemini Enterprise Agent Platform across a 25-hospital Latin American network.",
+        "Network includes 400 partner health insurance companies.",
+        "Platform streamlines administrative and clinical operations across hospitals.",
+        "Improves coordination between hospitals and health insurance partners."
+      ],
+      "zh": [
+        "在擁有 25 家醫院的拉丁美洲網絡中成為 Gemini Enterprise Agent Platform 的早期採用者。",
+        "網絡涵蓋 400 家合作健康保險公司。",
+        "平台簡化各醫院的行政與臨床作業。",
+        "改善醫院與健康保險合作夥伴之間的協調效率。"
+      ]
+    },
+    "technologies": [
+      "Gemini Enterprise Agent Platform",
+      "Gemini",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "healthcare-life-sciences-employee-sami-sa-de",
+    "industry": "healthcare-life-sciences",
+    "agentType": "employee",
+    "company": "Sami Saúde",
+    "isNew": false,
+    "summary": {
+      "en": "Sami Saúde saves nurses 900+ hours monthly using Gemini for Google Workspace, with 81% of AI-generated patient summaries approved without edits.",
+      "zh": "Sami Saúde 利用 Gemini for Google Workspace 每月為護士節省逾 900 小時，81% 的 AI 生成病患摘要無需修改即可直接核准。"
+    },
+    "overview": {
+      "en": "Sami Saúde, a Brazilian healthcare company with 300 employees, uses Gemini for Google Workspace to automate administrative processes. Gemini analyzes text, visual, and audio input to create comprehensive patient summaries, saving nurses more than 900 hours every month—a 13% productivity gain. The company also uses Gemini to standardize marketing campaigns and automatically take meeting notes. 81% of AI-generated summaries are approved without any edits.",
+      "zh": "擁有 300 名員工的巴西醫療公司 Sami Saúde 利用 Gemini for Google Workspace 自動化行政流程。Gemini 分析文字、視覺及音訊輸入，生成完整的病患摘要，每月為護士節省逾 900 小時——帶來 13% 的生產力提升。公司也使用 Gemini 統一行銷活動並自動記錄會議紀錄。81% 的 AI 生成摘要無需修改即可直接核准。"
+    },
+    "highlights": {
+      "en": [
+        "Saves nurses 900+ hours every month—a 13% productivity gain.",
+        "81% of AI-generated patient summaries approved without any edits.",
+        "Gemini analyzes text, visual, and audio input to create comprehensive patient summaries.",
+        "Also uses Gemini for marketing campaign standardization and automatic meeting notes.",
+        "CEO credits generative AI with expanding access to high-quality healthcare."
+      ],
+      "zh": [
+        "每月為護士節省逾 900 小時——帶來 13% 的生產力提升。",
+        "81% 的 AI 生成病患摘要無需修改即可直接核准。",
+        "Gemini 分析文字、視覺及音訊輸入，生成完整的病患摘要。",
+        "也使用 Gemini 統一行銷活動並自動記錄會議紀錄。",
+        "執行長表示生成式 AI 有助於擴大優質醫療的可及性。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Google Workspace"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Sami Saúde Customer Success Story - Google Workspace",
+        "url": "https://workspace.google.com/customers/sami/"
+      }
+    ]
+  },
+  {
+    "id": "healthcare-life-sciences-employee-sami-sa-de-2",
+    "industry": "healthcare-life-sciences",
+    "agentType": "employee",
+    "company": "Sami Saúde",
+    "isNew": false,
+    "summary": {
+      "en": "Sami Saúde uses Google Cloud AI and Gemini Enterprise Agent Platform to cut attendance sheet analysis from hours to minutes.",
+      "zh": "Sami Saúde 利用 Google Cloud AI 與 Gemini Enterprise Agent Platform 將出勤表分析時間從數小時縮短至數分鐘。"
+    },
+    "overview": {
+      "en": "In addition to Gemini for Google Workspace, Sami Saúde also uses Google Cloud AI and Gemini Enterprise Agent Platform to automate repetitive administrative work. Attendance sheet analysis, which previously took hours, now takes just minutes, freeing staff to focus on care delivery and higher-value tasks.",
+      "zh": "除 Gemini for Google Workspace 外，Sami Saúde 也利用 Google Cloud AI 與 Gemini Enterprise Agent Platform 自動化重複性行政工作。原本需要數小時的出勤表分析，現在僅需數分鐘，讓員工得以專注於照護交付與更高價值的任務。"
+    },
+    "highlights": {
+      "en": [
+        "Attendance sheet analysis reduced from hours to minutes using Gemini Enterprise Agent Platform.",
+        "Automates repetitive administrative tasks across healthcare operations.",
+        "Complements Gemini for Google Workspace deployment with additional cloud AI capabilities."
+      ],
+      "zh": [
+        "利用 Gemini Enterprise Agent Platform 將出勤表分析時間從數小時縮短至數分鐘。",
+        "在醫療作業中自動化重複性行政任務。",
+        "與 Gemini for Google Workspace 部署互補，進一步引入雲端 AI 功能。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Gemini Enterprise Agent Platform",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Sami Saúde uses Google Cloud AI for healthcare automation",
+        "url": "https://workspace.google.com/customers/sami/"
+      }
+    ]
+  },
+  {
+    "id": "healthcare-life-sciences-employee-seattle-children-s-hospital",
+    "industry": "healthcare-life-sciences",
+    "agentType": "employee",
+    "company": "Seattle Children's Hospital",
+    "isNew": false,
+    "summary": {
+      "en": "Seattle Children's Hospital built Pathway Assistant on Vertex AI with 98%+ accuracy, finding clinical information in seconds vs. 15 minutes manually.",
+      "zh": "Seattle Children's Hospital 基於 Vertex AI 打造的 Pathway Assistant 準確率逾 98%，在數秒內找到臨床資訊，而人工查找需耗時達 15 分鐘。"
+    },
+    "overview": {
+      "en": "Seattle Children's Hospital partnered with Google Cloud to launch Pathway Assistant, an AI agent built on Vertex AI and Gemini models. The tool synthesizes information from over 70 Clinical Standard Pathways (covering everything from diagnostic criteria to medication recommendations), finding and sharing clinical information in seconds versus up to 15 minutes manually. Testing with 50+ providers achieved accuracy exceeding 98%, and the tool reduced mental load for providers.",
+      "zh": "Seattle Children's Hospital 與 Google Cloud 合作推出基於 Vertex AI 與 Gemini 模型構建的 AI 代理 Pathway Assistant。該工具整合來自逾 70 份臨床標準路徑（涵蓋診斷標準、測試方案至用藥建議等所有內容）的資訊，可在數秒內找到並分享臨床資訊，而人工查找需耗時達 15 分鐘。在逾 50 名醫護人員參與的測試中，準確率超過 98%，且工具有效降低了醫護人員的認知負擔。"
+    },
+    "highlights": {
+      "en": [
+        "Finds and shares clinical information in seconds vs. up to 15 minutes manually.",
+        "Accuracy exceeding 98% after multiple iterations in provider testing.",
+        "Synthesizes information from 70+ Clinical Standard Pathways covering diverse diagnoses.",
+        "Pilot with 50+ providers showed reduced mental load for clinical staff.",
+        "Built on Vertex AI with Gemini models, HIPAA-compliant."
+      ],
+      "zh": [
+        "可在數秒內找到並分享臨床資訊，而人工查找需耗時達 15 分鐘。",
+        "在醫護人員測試中，經多次迭代後準確率超過 98%。",
+        "整合來自涵蓋多種診斷的逾 70 份臨床標準路徑資訊。",
+        "在逾 50 名醫護人員參與的試驗中，顯示可降低臨床人員的認知負擔。",
+        "基於 Vertex AI 與 Gemini 模型構建，符合 HIPAA 規範。"
+      ]
+    },
+    "technologies": [
+      "Vertex AI",
+      "Gemini",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Seattle Children's Hospital Partners with Google Cloud to Launch AI Agent for Clinical Decision-Making",
+        "url": "https://www.prnewswire.com/news-releases/seattle-childrens-hospital-partners-with-google-cloud-to-launch-ai-agent-to-support-healthcare-providers-clinical-decision-making-302421441.html"
+      },
+      {
+        "title": "Seattle Children's Pathway Assistant – Google Cloud Blog",
+        "url": "https://cloud.google.com/blog/topics/healthcare-life-sciences/child-care-how-ai-is-transforming-pediatric-medicine-at-seattle-childrens"
+      }
+    ]
+  },
+  {
+    "id": "healthcare-life-sciences-employee-seattle-children-s",
+    "industry": "healthcare-life-sciences",
+    "agentType": "employee",
+    "company": "Seattle Children's",
+    "isNew": false,
+    "summary": {
+      "en": "Seattle Children's uses a HIPAA-compliant Gemini in Google Workspace to speed up meeting notes, emails, and physician documentation.",
+      "zh": "Seattle Children's 使用符合 HIPAA 的 Gemini for Google Workspace，加速會議記錄、電子郵件撰寫及醫師文件處理。"
+    },
+    "overview": {
+      "en": "Seattle Children's is also using a HIPAA-compliant version of Gemini in Google Workspace to speed up writing meeting notes, drafting emails, and creating support tickets. Physicians and staff use AI to reduce the time spent on routine documentation tasks, freeing time for patient-facing work.",
+      "zh": "Seattle Children's 同時使用符合 HIPAA 的 Gemini for Google Workspace，加速撰寫會議紀錄、草擬電子郵件及建立支援工單。醫師與員工藉助 AI 縮短例行文件作業時間，釋放更多時間用於面向病患的工作。"
+    },
+    "highlights": {
+      "en": [
+        "HIPAA-compliant Gemini in Google Workspace speeds up meeting notes, emails, and ticket creation.",
+        "Reduces routine documentation time for physicians and administrative staff.",
+        "Complements the Pathway Assistant deployment as part of a broader AI strategy."
+      ],
+      "zh": [
+        "符合 HIPAA 的 Gemini for Google Workspace 加速會議記錄、電子郵件及工單的處理。",
+        "縮短醫師及行政人員的例行文件作業時間。",
+        "作為更廣泛 AI 策略的一部分，與 Pathway Assistant 部署相輔相成。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Google Workspace"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "healthcare-life-sciences-employee-signal-iduna",
+    "industry": "healthcare-life-sciences",
+    "agentType": "employee",
+    "company": "SIGNAL IDUNA",
+    "isNew": false,
+    "summary": {
+      "en": "SIGNAL IDUNA partnered with Google Cloud, BCG, and Deloitte to build Co SI—an AI assistant that cut escalations from 27% to 3%.",
+      "zh": "SIGNAL IDUNA 與 Google Cloud、BCG 及 Deloitte 合作打造 AI 助理 Co SI，將問題升級率從 27% 降至 3%。"
+    },
+    "overview": {
+      "en": "SIGNAL IDUNA, a leading German insurer with over 10,000 employees, partnered with Google Cloud, BCG, and Deloitte to develop Co SI—an AI knowledge assistant for health insurance service agents. Grounded in 2,000+ internal documents covering 600+ tariffs, Co SI makes information searches 30% faster and reduced escalations from 27% to just 3%. The rollout of Gemini Enterprise to all 10,000+ employees and sales partners reflects the insurer's full commitment to AI transformation.",
+      "zh": "擁有逾 1 萬名員工的德國領先保險公司 SIGNAL IDUNA 與 Google Cloud、BCG 及 Deloitte 合作，開發了面向健康保險服務專員的 AI 知識助理 Co SI。Co SI 以涵蓋逾 600 種保費方案的 2,000 餘份內部文件為基礎，將資訊搜尋速度提升 30%，並將問題升級率從 27% 降至僅 3%。向全體逾 1 萬名員工及銷售夥伴推廣 Gemini Enterprise，體現了該保險公司對 AI 轉型的全面承諾。"
+    },
+    "highlights": {
+      "en": [
+        "Information searches 30% faster with Co SI AI knowledge assistant.",
+        "Escalation rate dropped from 27% to just 3% for customer inquiries.",
+        "Grounded in 2,000+ internal documents for 600+ health insurance tariffs.",
+        "Gemini Enterprise rolled out to 10,000+ employees and sales partners.",
+        "Developed in partnership with Google Cloud, BCG, and Deloitte."
+      ],
+      "zh": [
+        "Co SI AI 知識助理將資訊搜尋速度提升 30%。",
+        "客戶查詢的問題升級率從 27% 降至僅 3%。",
+        "以涵蓋逾 600 種健康保險保費方案的 2,000 餘份內部文件為基礎。",
+        "Gemini Enterprise 已向逾 1 萬名員工及銷售夥伴推廣。",
+        "與 Google Cloud、BCG 及 Deloitte 合作開發。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Gemini Enterprise",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "SIGNAL IDUNA Rolls Out Gemini Enterprise for over 10,000 Employees",
+        "url": "https://www.prnewswire.com/news-releases/signal-iduna-rolls-out-gemini-enterprise-for-over-10-000-employees-302579907.html"
+      },
+      {
+        "title": "Signal Iduna's GenAI Journey – BCG",
+        "url": "https://www.bcg.com/x/mark-your-moment/transforming-insurance-from-inside-out"
+      }
+    ]
+  },
+  {
+    "id": "healthcare-life-sciences-employee-signal-iduna-2",
+    "industry": "healthcare-life-sciences",
+    "agentType": "employee",
+    "company": "SIGNAL IDUNA",
+    "isNew": false,
+    "summary": {
+      "en": "SIGNAL IDUNA uses Gemini Enterprise to deliver health services 37% faster.",
+      "zh": "SIGNAL IDUNA 利用 Gemini Enterprise 將健康服務的提供速度提升 37%。"
+    },
+    "overview": {
+      "en": "Beyond the Co SI knowledge assistant, SIGNAL IDUNA is also using Gemini Enterprise to accelerate health service delivery across its operations. The deployment has resulted in a 37% improvement in health service delivery speed, enabling the insurer to serve customers more quickly and efficiently.",
+      "zh": "除 Co SI 知識助理外，SIGNAL IDUNA 還利用 Gemini Enterprise 加速其整體運營中的健康服務交付速度。此部署實現了健康服務交付速度提升 37% 的成效，使保險公司得以更快速、更高效地服務客戶。"
+    },
+    "highlights": {
+      "en": [
+        "Health services delivered 37% faster using Gemini Enterprise.",
+        "Part of SIGNAL IDUNA's broader AI transformation with Google Cloud.",
+        "Complements the Co SI knowledge assistant deployment for service agents."
+      ],
+      "zh": [
+        "利用 Gemini Enterprise 將健康服務交付速度提升 37%。",
+        "是 SIGNAL IDUNA 與 Google Cloud 更廣泛 AI 轉型的一部分。",
+        "與面向服務專員的 Co SI 知識助理部署相輔相成。"
+      ]
+    },
+    "technologies": [
+      "Gemini Enterprise",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "SIGNAL IDUNA Rolls Out Gemini Enterprise for over 10,000 Employees",
+        "url": "https://www.prnewswire.com/news-releases/signal-iduna-rolls-out-gemini-enterprise-for-over-10-000-employees-302579907.html"
+      }
+    ]
+  },
+  {
+    "id": "healthcare-life-sciences-employee-s-rio-liban-s-hospital",
+    "industry": "healthcare-life-sciences",
+    "agentType": "employee",
+    "company": "Sírio-Libanês Hospital",
+    "isNew": false,
+    "summary": {
+      "en": "Sírio-Libanês Hospital deployed Gemini for Workspace to 10,000+ employees, boosting productivity while ensuring LGPD compliance.",
+      "zh": "Sírio-Libanês Hospital 將 Gemini for Workspace 部署至逾 1 萬名員工，在確保符合 LGPD 的前提下提升生產力。"
+    },
+    "overview": {
+      "en": "Sírio-Libanês Hospital, one of Brazil's top hospitals and ranked among the world's top 100, adopted Gemini for Google Workspace for more than 10,000 employees. The deployment boosts productivity across clinical and administrative roles while maintaining compliance with Brazil's LGPD data privacy law and ensuring data security for patient information.",
+      "zh": "巴西頂尖醫院之一、同時躋身全球百大醫院的 Sírio-Libanês Hospital，將 Gemini for Google Workspace 部署至逾 1 萬名員工。此部署提升了臨床與行政角色的生產力，同時確保符合巴西《個人資料保護法》（LGPD）的資料隱私要求，並保障病患資訊的資料安全。"
+    },
+    "highlights": {
+      "en": [
+        "Gemini for Workspace deployed to 10,000+ employees across clinical and administrative roles.",
+        "Ensures LGPD compliance and data security for patient information.",
+        "Ranked among the world's top 100 hospitals and second best in Brazil.",
+        "Part of Google Cloud's 2025 AI innovation push in Brazil."
+      ],
+      "zh": [
+        "Gemini for Workspace 已部署至臨床與行政等各職能的逾 1 萬名員工。",
+        "確保符合 LGPD 規範，保障病患資訊的資料安全。",
+        "躋身全球百大醫院，為巴西第二佳醫院。",
+        "是 Google Cloud 2025 年巴西 AI 創新推進的一部分。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Google Workspace"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Google Cloud Brings a New Era of AI Innovation to Brazil",
+        "url": "https://www.googlecloudpresscorner.com/2025-09-10-Google-Cloud-Brings-a-New-Era-of-AI-Innovation-to-Brazil"
+      }
+    ]
+  },
+  {
+    "id": "healthcare-life-sciences-employee-straloo",
+    "industry": "healthcare-life-sciences",
+    "agentType": "employee",
+    "company": "Straloo",
+    "isNew": false,
+    "summary": {
+      "en": "Straloo uses Gemini to innovate diagnostic approaches in its digital rehabilitation platform for doctors and physical therapists.",
+      "zh": "Straloo 利用 Gemini 革新其數位復健平台的診斷方法，協助醫師與物理治療師開立適當的治療處方。"
+    },
+    "overview": {
+      "en": "Straloo uses Gemini to innovate the diagnostic approach in its digital rehabilitation platform, helping doctors and physical therapists prescribe appropriate exercise and rehabilitation programs for patients. The AI integration enables more accurate assessments and personalized treatment recommendations within the platform.",
+      "zh": "Straloo 利用 Gemini 革新其數位復健平台的診斷方法，協助醫師與物理治療師為患者開立適當的運動與復健方案。AI 整合使平台得以進行更精確的評估並提供個人化的治療建議。"
+    },
+    "highlights": {
+      "en": [
+        "Uses Gemini to innovate diagnostic approaches in digital rehabilitation.",
+        "Helps doctors and physical therapists prescribe appropriate treatment programs.",
+        "Enables more accurate patient assessments and personalized recommendations."
+      ],
+      "zh": [
+        "利用 Gemini 革新數位復健平台的診斷方法。",
+        "協助醫師與物理治療師為患者開立適當的治療方案。",
+        "實現更精確的患者評估與個人化建議。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "healthcare-life-sciences-employee-supermetrics",
+    "industry": "healthcare-life-sciences",
+    "agentType": "employee",
+    "company": "Supermetrics",
+    "isNew": false,
+    "summary": {
+      "en": "Supermetrics Marketing Intelligence Agent delivers live cross-channel insights directly in Gemini Enterprise connecting 175+ data sources.",
+      "zh": "Supermetrics Marketing Intelligence Agent 直接在 Gemini Enterprise 中提供跨 175 個以上資料來源的即時跨通路洞察。"
+    },
+    "overview": {
+      "en": "Supermetrics' Marketing Intelligence Agent delivers live, cross-channel performance insights directly in Gemini Enterprise, connecting to 175+ sources including Google Ads, Meta, and LinkedIn. Healthcare and life sciences marketers can query campaign performance, surface trends, and make data-driven decisions without leaving the Gemini Enterprise environment.",
+      "zh": "Supermetrics 的 Marketing Intelligence Agent 直接在 Gemini Enterprise 中提供即時跨通路效能洞察，連接包括 Google Ads、Meta 及 LinkedIn 在內的 175 個以上資料來源。醫療健康行銷人員無需離開 Gemini Enterprise 環境，即可查詢行銷活動績效、發現趨勢並做出數據驅動的決策。"
+    },
+    "highlights": {
+      "en": [
+        "Marketing Intelligence Agent integrates 175+ data sources including Google Ads, Meta, and LinkedIn.",
+        "Delivers live cross-channel performance insights directly within Gemini Enterprise.",
+        "Enables marketers to query campaign data without switching tools.",
+        "Applicable to healthcare and life sciences marketing use cases."
+      ],
+      "zh": [
+        "Marketing Intelligence Agent 整合包括 Google Ads、Meta 及 LinkedIn 在內的 175 個以上資料來源。",
+        "直接在 Gemini Enterprise 中提供即時跨通路效能洞察。",
+        "使行銷人員無需切換工具即可查詢行銷活動資料。",
+        "適用於醫療健康與生命科學的行銷應用場景。"
+      ]
+    },
+    "technologies": [
+      "Gemini Enterprise",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "healthcare-life-sciences-employee-tali-ai",
+    "industry": "healthcare-life-sciences",
+    "agentType": "employee",
+    "company": "Tali.ai",
+    "isNew": false,
+    "summary": {
+      "en": "Tali.ai is a leading medical AI scribe platform that reduces clinician administrative burden and integrates with multiple EMRs.",
+      "zh": "Tali.ai 是領先的醫療 AI 書記平台，可減輕臨床醫師的行政負擔，並與多個電子病歷系統整合。"
+    },
+    "overview": {
+      "en": "Tali.ai is the leading medical AI scribe platform, designed to reduce the administrative burden of clinicians by listening to patient visits and converting them into complete, structured notes in minutes. Integrated with multiple EMRs across the US and Canada, Tali uses medical speech models built for clinical conversations and reports clinicians saving up to 15 hours per week of documentation time.",
+      "zh": "Tali.ai 是領先的醫療 AI 書記平台，透過聆聽病患就診過程並在數分鐘內生成完整、結構化的病歷，來減輕臨床醫師的行政負擔。整合美國與加拿大多個電子病歷系統，Tali 採用專為臨床對話設計的醫療語音模型，據報每週可為臨床醫師節省達 15 小時的文件作業時間。"
+    },
+    "highlights": {
+      "en": [
+        "Clinicians save up to 15 hours per week in documentation time using Tali.",
+        "Over 95% transcription accuracy in busy clinical environments.",
+        "Integrates with major EMRs used across Canada including Accuro, CHR, Oscar Pro, and PS Suite.",
+        "SOC 2 Type II certified, PHIPA and PIPEDA compliant.",
+        "Covers primary care and 10+ specialties."
+      ],
+      "zh": [
+        "臨床醫師每週可節省達 15 小時的文件作業時間。",
+        "在繁忙的臨床環境中逾 95% 的轉錄準確率。",
+        "整合加拿大主要電子病歷系統，包括 Accuro、CHR、Oscar Pro 及 PS Suite。",
+        "SOC 2 Type II 認證，符合 PHIPA 及 PIPEDA 規範。",
+        "涵蓋全科醫療及 10 個以上專科。"
+      ]
+    },
+    "technologies": [
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Tali AI – Medical Ambient Scribe Platform",
+        "url": "https://tali.ai/"
+      }
+    ]
+  },
+  {
+    "id": "healthcare-life-sciences-employee-think-research",
+    "industry": "healthcare-life-sciences",
+    "agentType": "employee",
+    "company": "Think Research",
+    "isNew": false,
+    "summary": {
+      "en": "Think Research uses Google Cloud's scalable infrastructure and analytics to power its knowledge-based digital health software for 300,000+ clinicians.",
+      "zh": "Think Research 利用 Google Cloud 的可擴展基礎架構與分析工具，為其服務逾 30 萬名臨床醫師的知識型數位健康軟體提供支援。"
+    },
+    "overview": {
+      "en": "Think Research is a provider of knowledge-based digital health software solutions that standardize care and improve health outcomes. The company uses Google Cloud's scalable infrastructure and analytics tools to power its platform, which is used by 300,000+ clinicians in 11,000+ facilities across eight countries including Canada, the US, UK, EU, and the Middle East.",
+      "zh": "Think Research 是一家提供知識型數位健康軟體解決方案的公司，致力於標準化醫療照護並改善健康結果。公司利用 Google Cloud 的可擴展基礎架構與分析工具為其平台提供支援，該平台服務橫跨加拿大、美國、英國、歐盟及中東等八個國家的逾 11,000 個機構中的逾 30 萬名臨床醫師。"
+    },
+    "highlights": {
+      "en": [
+        "Platform used by 300,000+ clinicians in 11,000+ facilities across 8 countries.",
+        "Google Cloud scalable infrastructure and analytics tools power the knowledge-based health platform.",
+        "Standardizes clinical care delivery and improves health outcomes globally."
+      ],
+      "zh": [
+        "平台服務橫跨八個國家逾 11,000 個機構的逾 30 萬名臨床醫師。",
+        "Google Cloud 可擴展基礎架構與分析工具支援知識型健康平台運行。",
+        "在全球範圍內標準化臨床照護交付並改善健康結果。"
+      ]
+    },
+    "technologies": [
+      "Google Cloud",
+      "BigQuery"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Think Research Company Overview",
+        "url": "https://www.thinkresearch.com/ca/company-overview/"
+      }
+    ]
+  },
+  {
+    "id": "healthcare-life-sciences-employee-ubie",
+    "industry": "healthcare-life-sciences",
+    "agentType": "employee",
+    "company": "Ubie",
+    "isNew": false,
+    "summary": {
+      "en": "Japan's Ubie uses Gemini via Google Cloud to power AI physician tools, achieving 42–54% efficiency gains in clinical documentation.",
+      "zh": "日本 Ubie 透過 Google Cloud 上的 Gemini 驅動 AI 醫師輔助工具，在臨床文件作業方面實現 42 至 54% 的效率提升。"
+    },
+    "overview": {
+      "en": "Ubie, a Japan-based healthcare startup, uses Gemini models fine-tuned on Google Cloud's Vertex AI platform to power physician assistance tools in Japanese clinical settings. At Keiju General Hospital, nurses using AI-driven discharge summary tools reported a 42.5% reduction in administrative time and 27.2% decrease in psychological burden. A trial at Kyushu University Hospital showed a 54% efficiency gain when preparing admission summaries. Ubie's symptom checker app is used by over 3 million people monthly.",
+      "zh": "日本醫療健康新創公司 Ubie 透過在 Google Cloud 的 Vertex AI 平台上精調的 Gemini 模型，為日本臨床場所的醫師輔助工具提供支援。在恵寿総合病院，使用 AI 出院摘要工具的護士報告行政時間減少 42.5%，心理負擔降低 27.2%。九州大學醫院的試驗顯示，使用標準化轉介信準備入院摘要的效率提升 54%。Ubie 的症狀核查應用程式每月有逾 300 萬人使用。"
+    },
+    "highlights": {
+      "en": [
+        "42.5% reduction in administrative time for nurses using AI discharge summary tools (Keiju General Hospital).",
+        "54% efficiency gain in preparing admission summaries (Kyushu University Hospital).",
+        "27.2% decrease in psychological burden for nurses using AI tools.",
+        "Gemini models fine-tuned on Vertex AI for Japanese healthcare system nuances.",
+        "Symptom checker app used by 3M+ people monthly."
+      ],
+      "zh": [
+        "使用 AI 出院摘要工具的護士行政時間減少 42.5%（恵寿総合病院）。",
+        "準備入院摘要的效率提升 54%（九州大學醫院）。",
+        "使用 AI 工具的護士心理負擔降低 27.2%。",
+        "Gemini 模型在 Vertex AI 上針對日本醫療系統特性進行精調。",
+        "症狀核查應用程式每月有逾 300 萬人使用。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Vertex AI",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Ubie Case Study | Google Cloud",
+        "url": "https://cloud.google.com/customers/ubie"
+      },
+      {
+        "title": "How Google's Gemini is improving care in Japanese hospitals",
+        "url": "https://blog.google/technology/health/gemini-ai-japan-hospitals/"
+      }
+    ]
+  },
+  {
+    "id": "healthcare-life-sciences-employee-ufonia",
+    "industry": "healthcare-life-sciences",
+    "agentType": "employee",
+    "company": "Ufonia",
+    "isNew": false,
+    "summary": {
+      "en": "Ufonia uses Google Cloud's full AI stack to automate routine clinical phone consultations, with Dora deployed across 13 NHS Trusts.",
+      "zh": "Ufonia 利用 Google Cloud 完整 AI 技術棧自動化例行臨床電話諮詢，其 AI 助理 Dora 已在 13 個 NHS 信託機構部署。"
+    },
+    "overview": {
+      "en": "Ufonia uses Google Cloud's Chirp (speech-to-text), Gemini for document understanding, and Vertex AI for R&D and validation to power Dora—a medically regulated autonomous clinical assistant that conducts routine phone consultations. Dora is the first UKCA-marked AI clinical assistant and is deployed across 13 NHS Trusts supporting cataract, Long-Covid, and other clinical follow-ups. Ufonia uses an 'agent as a judge' framework to validate AI performance.",
+      "zh": "Ufonia 利用 Google Cloud 的 Chirp（語音轉文字）、用於文件理解的 Gemini 及用於研發與驗證的 Vertex AI，驅動其受醫療法規規範的自主臨床助理 Dora 進行例行電話諮詢。Dora 是首個獲 UKCA 標誌認證的 AI 臨床助理，已在 13 個 NHS 信託機構部署，支援白內障、新冠長期症狀等多種臨床隨訪工作。Ufonia 採用「AI 評判 AI」架構來驗證 AI 效能。"
+    },
+    "highlights": {
+      "en": [
+        "Dora is the first UKCA-marked autonomous AI clinical assistant for telephone consultations.",
+        "Deployed across 13 NHS Trusts for cataract, Long-Covid, and other routine follow-ups.",
+        "Uses Google Cloud's Chirp for speech-to-text in real-time clinical conversations.",
+        "Gemini used for document understanding; Vertex AI for clinical validation and R&D.",
+        "'Agent as a judge' framework ensures safety and effectiveness of AI systems."
+      ],
+      "zh": [
+        "Dora 是首個獲 UKCA 標誌認證的自主 AI 電話臨床諮詢助理。",
+        "已在 13 個 NHS 信託機構部署，支援白內障、新冠長期症狀等例行隨訪工作。",
+        "利用 Google Cloud 的 Chirp 進行即時臨床對話的語音轉文字。",
+        "Gemini 用於文件理解；Vertex AI 用於臨床驗證與研發。",
+        "「AI 評判 AI」架構確保 AI 系統的安全性與有效性。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Vertex AI",
+      "Chirp",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Ufonia case study | Google Cloud",
+        "url": "https://cloud.google.com/customers/ufonia"
+      },
+      {
+        "title": "Meet Dora, Ufonia's AI clinical assistant",
+        "url": "https://www.oahp.org.uk/case-studies/meet-dora-the-ai-clinical-assistant-revolutionising-patient-follow-up/"
+      }
+    ]
+  },
+  {
+    "id": "healthcare-life-sciences-employee-virbac",
+    "industry": "healthcare-life-sciences",
+    "agentType": "employee",
+    "company": "Virbac",
+    "isNew": false,
+    "summary": {
+      "en": "Virbac uses Gemini in Google Workspace to compare supplier quotes and draft legal clauses for the animal health sector.",
+      "zh": "Virbac 在 Google Workspace 中利用 Gemini 比較供應商報價並草擬動物保健領域的法律條款。"
+    },
+    "overview": {
+      "en": "Virbac, a global animal health pharmaceutical company, uses Gemini in Google Workspace to compare supplier quotes for procurement and draft legal clauses. These AI-powered capabilities reduce the time employees spend on routine procurement and legal documentation tasks, improving efficiency across the organization's global operations.",
+      "zh": "全球動物保健製藥公司 Virbac 在 Google Workspace 中利用 Gemini 比較採購供應商報價並草擬法律條款。這些 AI 功能縮短員工在例行採購與法律文件作業上花費的時間，提升公司全球業務的效率。"
+    },
+    "highlights": {
+      "en": [
+        "Uses Gemini in Google Workspace to compare supplier quotes for procurement.",
+        "Drafts legal clauses for animal health pharmaceutical contracts.",
+        "Reduces time on routine procurement and legal documentation tasks."
+      ],
+      "zh": [
+        "在 Google Workspace 中利用 Gemini 比較採購供應商報價。",
+        "草擬動物保健製藥合約的法律條款。",
+        "縮短例行採購與法律文件作業時間。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Google Workspace"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "healthcare-life-sciences-employee-virbac-2",
+    "industry": "healthcare-life-sciences",
+    "agentType": "employee",
+    "company": "Virbac",
+    "isNew": false,
+    "summary": {
+      "en": "Virbac uses Gemini models to pilot an HR chatbot that streamlines international collaboration and automates routine HR tasks.",
+      "zh": "Virbac 利用 Gemini 模型試行 HR 聊天機器人，簡化跨國協作並自動化例行人力資源任務。"
+    },
+    "overview": {
+      "en": "In addition to procurement and legal applications, Virbac also uses Gemini models to pilot an HR chatbot that streamlines international collaboration across its global offices and automates routine HR tasks. The deployment includes a structured approach to AI governance and task automation within the HR function.",
+      "zh": "除採購與法律應用外，Virbac 也利用 Gemini 模型試行 HR 聊天機器人，簡化全球辦公室之間的跨國協作並自動化例行人力資源任務。此部署涵蓋對 HR 職能中 AI 治理與任務自動化的結構化方法。"
+    },
+    "highlights": {
+      "en": [
+        "Piloting an HR chatbot built on Gemini models for international collaboration.",
+        "Automates routine HR tasks across Virbac's global operations.",
+        "Complements Gemini for Google Workspace deployment across procurement and legal functions."
+      ],
+      "zh": [
+        "試行基於 Gemini 模型的 HR 聊天機器人，用於跨國協作。",
+        "在 Virbac 全球業務中自動化例行人力資源任務。",
+        "與跨採購和法律職能的 Gemini for Google Workspace 部署相輔相成。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "healthcare-life-sciences-employee-waystar",
+    "industry": "healthcare-life-sciences",
+    "agentType": "employee",
+    "company": "Waystar",
+    "isNew": false,
+    "summary": {
+      "en": "Waystar uses Google Cloud's Gemini to build AI that has prevented $15B in denied healthcare claims and cut appeal time by 90%.",
+      "zh": "Waystar 利用 Google Cloud 的 Gemini 打造 AI 工具，已防止 150 億美元的醫療保險拒付，並將申訴時間縮短 90%。"
+    },
+    "overview": {
+      "en": "Waystar delivers mission-critical revenue cycle infrastructure for healthcare providers, capturing and normalizing financial and clinical data across a network of over one million providers. Its expanded collaboration with Google Cloud integrates Gemini models and data infrastructure to power autonomous revenue cycle capabilities. AI tools built on Waystar AltitudeAI and Google Cloud have already prevented $15 billion in denied claims and cut appeal time by 90%.",
+      "zh": "Waystar 為醫療提供者提供關鍵任務級的醫療費用循環基礎架構，在逾百萬家提供者的網絡中擷取並標準化財務與臨床資料。與 Google Cloud 的深化合作整合 Gemini 模型與資料基礎架構，驅動自主費用循環功能。基於 Waystar AltitudeAI 與 Google Cloud 構建的 AI 工具已防止 150 億美元的保險拒付，並將申訴時間縮短 90%。"
+    },
+    "highlights": {
+      "en": [
+        "AI tools have prevented $15 billion in denied healthcare claims.",
+        "Appeal time cut by 90% for healthcare providers.",
+        "Network covers 1M+ healthcare providers with financial and clinical data normalization.",
+        "Expanded collaboration with Google Cloud announced March 2026 for autonomous revenue cycle.",
+        "Integrates Gemini models into prior authorization, coverage identification, and denial prevention."
+      ],
+      "zh": [
+        "AI 工具已防止 150 億美元的醫療保險拒付。",
+        "醫療提供者的申訴時間縮短 90%。",
+        "網絡覆蓋逾 100 萬家醫療提供者，進行財務與臨床資料標準化。",
+        "2026 年 3 月宣布深化與 Google Cloud 的合作，推進自主費用循環。",
+        "將 Gemini 模型整合至預先授權、承保範圍識別及拒付預防流程。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Waystar Advances AI Innovation with Google Cloud to Accelerate the Autonomous Revenue Cycle",
+        "url": "https://www.waystar.com/news/waystar-advances-ai-innovation-with-google-cloud-to-accelerate-the-autonomous-revenue-cycle/"
+      },
+      {
+        "title": "Waystar Google Cloud partnership – Google Cloud Press Corner",
+        "url": "https://www.googlecloudpresscorner.com/2026-03-05-Waystar-Advances-AI-Innovation-with-Google-Cloud-to-Accelerate-the-Autonomous-Revenue-Cycle"
+      }
+    ]
+  },
+  {
+    "id": "healthcare-life-sciences-employee-wellsky",
+    "industry": "healthcare-life-sciences",
+    "agentType": "employee",
+    "company": "WellSky",
+    "isNew": false,
+    "summary": {
+      "en": "WellSky integrates Google Cloud's Vertex AI to reduce clinician documentation time outside work hours, with 60% time savings for medication reconciliation.",
+      "zh": "WellSky 整合 Google Cloud 的 Vertex AI，縮短臨床醫師下班後的文件作業時間，藥物核對流程節省 60% 時間。"
+    },
+    "overview": {
+      "en": "WellSky is integrating Google Cloud's healthcare and Vertex AI capabilities to reduce clinician 'pajama time'—documentation completed outside work hours. Its WellSky Extract tool uses Vertex AI and Gemini to analyze medication information from referral documents, handwritten lists, and pill bottle photos, populating patient EHRs automatically. Early adopters complete medication reconciliation in 8 minutes on average—a 60% time savings vs. industry standard.",
+      "zh": "WellSky 整合 Google Cloud 的醫療保健能力與 Vertex AI，縮短臨床醫師在下班後完成文件作業的「睡衣時間」。其 WellSky Extract 工具利用 Vertex AI 與 Gemini 分析轉介文件、手寫清單及藥瓶照片中的用藥資訊，自動填入病患電子病歷。早期採用者平均在 8 分鐘內完成藥物核對——比行業標準節省 60% 時間。"
+    },
+    "highlights": {
+      "en": [
+        "Medication reconciliation completed in 8 minutes on average—60% time savings vs. industry standard.",
+        "WellSky Extract uses Vertex AI and Gemini to process medication info from diverse document sources.",
+        "Goal to reduce 'pajama time'—documentation completed outside work hours by clinicians.",
+        "Network of 20,000+ sites of care using WellSky's AI-first platform.",
+        "Multi-year partnership expansion with Google Cloud announced September 2025."
+      ],
+      "zh": [
+        "藥物核對平均 8 分鐘完成——比行業標準節省 60% 時間。",
+        "WellSky Extract 利用 Vertex AI 與 Gemini 處理來自多種文件來源的用藥資訊。",
+        "目標縮短臨床醫師下班後完成文件作業的「睡衣時間」。",
+        "逾 2 萬個照護站點使用 WellSky 的 AI 優先平台。",
+        "2025 年 9 月宣布與 Google Cloud 擴大多年合作夥伴關係。"
+      ]
+    },
+    "technologies": [
+      "Vertex AI",
+      "Gemini",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "WellSky Expands AI Partnership With Google Cloud to Transform Care",
+        "url": "https://wellsky.com/wellsky-expands-ai-partnership-with-google-cloud-to-transform-post-acute-acute-and-community-care/"
+      },
+      {
+        "title": "WellSky launches AI-powered Medication Reconciliation tool",
+        "url": "https://wellsky.com/wellsky-launches-advanced-ai-powered-tool-to-streamline-medication-reconciliation-and-enhance-patient-care/"
+      }
+    ]
+  },
+  {
+    "id": "healthcare-life-sciences-employee-wipro",
+    "industry": "healthcare-life-sciences",
+    "agentType": "employee",
+    "company": "Wipro",
+    "isNew": false,
+    "summary": {
+      "en": "Wipro supports a national healthcare provider using Google Cloud AI agents to develop and adjust contracts, optimizing the contracting process.",
+      "zh": "Wipro 協助一家全國性醫療提供者利用 Google Cloud AI 代理開發與調整合約，優化合約管理流程。"
+    },
+    "overview": {
+      "en": "Wipro partnered with Google Cloud to build 200 production-ready AI agents across industries including healthcare. For a national healthcare provider, Wipro deployed AI agent technology to develop and adjust contracts—streamlining a complex, time-consuming task while improving accuracy. These agents are available through Google Cloud Marketplace and leverage Gemini and Vertex AI.",
+      "zh": "Wipro 與 Google Cloud 合作，在包括醫療保健在內的各行業構建了 200 個生產就緒的 AI 代理。針對一家全國性醫療提供者，Wipro 部署 AI 代理技術來開發與調整合約，在提升準確性的同時簡化了複雜且耗時的流程。這些代理可透過 Google Cloud Marketplace 取得，並利用 Gemini 和 Vertex AI。"
+    },
+    "highlights": {
+      "en": [
+        "AI agents deployed to develop and adjust contracts for a national healthcare provider.",
+        "Streamlines complex, time-consuming contract management while improving accuracy.",
+        "Part of Wipro's 200 production-ready AI agents built with Google Cloud across industries.",
+        "Agents available on Google Cloud Marketplace using Gemini and Vertex AI.",
+        "Also automates provider credentialing and NPI/CAQH verification workflows."
+      ],
+      "zh": [
+        "AI 代理部署用於為全國性醫療提供者開發與調整合約。",
+        "在提升準確性的同時，簡化複雜且耗時的合約管理流程。",
+        "是 Wipro 與 Google Cloud 合作在各行業構建的 200 個生產就緒 AI 代理的一部分。",
+        "代理可透過 Google Cloud Marketplace 取得，利用 Gemini 和 Vertex AI。",
+        "也自動化提供者資格認證與 NPI/CAQH 核驗工作流程。"
+      ]
+    },
+    "technologies": [
+      "Gemini",
+      "Vertex AI",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Wipro Partners with Google Cloud to Launch Agentic AI Solutions",
+        "url": "https://www.wipro.com/newsroom/press-releases/2025/wipro-partners-with-google-cloud-to-launch-agentic-ai-solutions-across-industries-and-functions/"
+      }
+    ]
+  },
+  {
+    "id": "healthcare-life-sciences-creative-cimed",
+    "industry": "healthcare-life-sciences",
+    "agentType": "creative",
+    "company": "Cimed",
+    "isNew": false,
+    "summary": {
+      "en": "Cimed uses Veo 3 via Gemini Enterprise Agent Platform to create 'Sônia', an AI-generated character for its Lavitan Night campaign.",
+      "zh": "Cimed 透過 Gemini Enterprise Agent Platform 的 Veo 3，創作 AI 生成角色「Sônia」主演 Lavitan Night 廣告活動。"
+    },
+    "overview": {
+      "en": "Cimed, a Brazilian pharmaceutical company, uses Veo 3 via the Gemini Enterprise Agent Platform to create 'Sônia'—an AI-generated character who stars in the Lavitan Night campaign. This represents a pioneering use of generative video AI in pharmaceutical marketing in Brazil, enabling the production of campaign content at scale without traditional video production costs.",
+      "zh": "巴西製藥公司 Cimed 透過 Gemini Enterprise Agent Platform 使用 Veo 3，創作主演 Lavitan Night 廣告活動的 AI 生成角色「Sônia」。這是在巴西製藥行銷中率先採用生成式影片 AI 的案例，能夠以傳統影片製作成本的幾分之一大規模生產廣告內容。"
+    },
+    "highlights": {
+      "en": [
+        "Uses Veo 3 via Gemini Enterprise Agent Platform to generate an AI character for pharma marketing.",
+        "AI-generated character 'Sônia' stars in the Lavitan Night product campaign.",
+        "Pioneering use of generative video AI in Brazilian pharmaceutical marketing.",
+        "Enables campaign content production at scale with reduced traditional production costs."
+      ],
+      "zh": [
+        "透過 Gemini Enterprise Agent Platform 的 Veo 3 為製藥行銷生成 AI 角色。",
+        "AI 生成角色「Sônia」主演 Lavitan Night 產品廣告活動。",
+        "在巴西製藥行銷中率先採用生成式影片 AI。",
+        "以大幅降低的傳統製作成本實現大規模廣告內容生產。"
+      ]
+    },
+    "technologies": [
+      "Veo 3",
+      "Gemini Enterprise Agent Platform",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "healthcare-life-sciences-security-apree-health",
+    "industry": "healthcare-life-sciences",
+    "agentType": "security",
+    "company": "apree health",
+    "isNew": false,
+    "summary": {
+      "en": "apree health uses Google Workspace to implement Zero Trust security with granular access controls protecting patient health information.",
+      "zh": "apree health 利用 Google Workspace 實施零信任安全架構，以精細存取控制保護病患健康資訊。"
+    },
+    "overview": {
+      "en": "apree health, a technology-driven integrated healthcare provider, adopted Google Workspace to centralize data access management and build toward a zero-trust security strategy. The company successfully migrated ~1,000 users, implemented granular access controls, and consolidated multiple security solutions into the Google Workspace admin console—reducing thousands of dollars in operational costs while protecting sensitive Protected Health Information (PHI) for its 30+ US clinics.",
+      "zh": "技術驅動的整合型醫療提供者 apree health 採用 Google Workspace 來集中管理資料存取並建立零信任安全策略。公司成功遷移約 1,000 名用戶，實施精細存取控制，並將多個安全解決方案整合至 Google Workspace 管理主控台，在保護其逾 30 個美國診所的敏感受保護健康資訊（PHI）的同時，節省了數千美元的運營成本。"
+    },
+    "highlights": {
+      "en": [
+        "Implemented Zero Trust security with granular access controls and device management.",
+        "Migrated ~1,000 users from a previous collaboration solution to Google Workspace.",
+        "Consolidated multiple security solutions into the Google Workspace admin console.",
+        "Reduced thousands of dollars in operational costs through security solution consolidation.",
+        "Protects sensitive PHI across 30+ US clinics."
+      ],
+      "zh": [
+        "實施具備精細存取控制與設備管理的零信任安全架構。",
+        "將約 1,000 名用戶從先前的協作解決方案遷移至 Google Workspace。",
+        "將多個安全解決方案整合至 Google Workspace 管理主控台。",
+        "透過安全解決方案整合節省數千美元運營成本。",
+        "在逾 30 個美國診所中保護敏感受保護健康資訊。"
+      ]
+    },
+    "technologies": [
+      "Google Workspace",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "apree health Customer Success Story - Google Workspace",
+        "url": "https://workspace.google.com/customers/apree-health/"
+      },
+      {
+        "title": "apree health: Empowering developers and securing healthcare data with Google Workspace",
+        "url": "https://sada.com/customer-story/apree-health-empowering-developers-and-securing-healthcare-data-with-google-workspace/"
+      }
+    ]
+  },
+  {
+    "id": "healthcare-life-sciences-security-pfizer",
+    "industry": "healthcare-life-sciences",
+    "agentType": "security",
+    "company": "Pfizer",
+    "isNew": false,
+    "summary": {
+      "en": "Pfizer uses Google Cloud's Chronicle to aggregate cybersecurity data sources, cutting analysis times from days to seconds.",
+      "zh": "Pfizer 利用 Google Cloud 的 Chronicle 整合網路安全資料來源，將分析時間從數天縮短至數秒。"
+    },
+    "overview": {
+      "en": "Pfizer uses Google Cloud's Chronicle Security Operations service to aggregate and analyze cybersecurity telemetry at Google's scale, dramatically reducing threat detection and analysis times from days to seconds across its multi-cloud and on-premises systems. Pfizer also uses Gemini in Security Operations for natural language queries, helping new team members onboard faster and enabling analysts to find answers more quickly.",
+      "zh": "Pfizer 使用 Google Cloud 的 Chronicle 安全作業服務，以 Google 的規模整合並分析網路安全遙測資料，將跨多雲及本地部署系統的威脅偵測與分析時間從數天大幅縮短至數秒。Pfizer 也在安全作業中使用 Gemini 進行自然語言查詢，協助新團隊成員更快完成入職培訓，並使分析師能夠更迅速地找到答案。"
+    },
+    "highlights": {
+      "en": [
+        "Cybersecurity data aggregation and analysis time reduced from days to seconds using Chronicle.",
+        "Chronicle analyzes security telemetry at Google scale across multi-cloud and on-premises systems.",
+        "Gemini in Security Operations enables natural language queries for faster threat investigation.",
+        "Helps new security team members onboard faster with AI-assisted analysis.",
+        "Demonstrates AI-powered security operations for a global pharmaceutical leader."
+      ],
+      "zh": [
+        "利用 Chronicle 將網路安全資料整合與分析時間從數天縮短至數秒。",
+        "Chronicle 以 Google 的規模分析跨多雲及本地部署系統的安全遙測資料。",
+        "安全作業中的 Gemini 支援自然語言查詢，加快威脅調查速度。",
+        "協助新安全團隊成員借助 AI 分析更快完成入職培訓。",
+        "展示全球製藥領導廠商如何採用 AI 驅動的安全作業。"
+      ]
+    },
+    "technologies": [
+      "Chronicle",
+      "Gemini",
+      "Google Cloud"
+    ],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "New Way Now: Pfizer is reshaping its security DNA with Google Cloud",
+        "url": "https://www.youtube.com/watch?v=QvGsA0wLDVY"
+      },
+      {
+        "title": "Cloud CISO Perspectives: AI use cases for cybersecurity | Google Cloud Blog",
+        "url": "https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-3-promising-ai-use-cases-for-cybersecurity"
+      }
+    ]
+  }
+]

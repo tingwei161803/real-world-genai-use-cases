@@ -1,0 +1,1226 @@
+[
+  {
+    "id": "public-sector-nonprofits-data-air-force-research-laboratory",
+    "industry": "public-sector-nonprofits",
+    "agentType": "data",
+    "company": "Air Force Research Laboratory",
+    "isNew": false,
+    "summary": {
+      "en": "AFRL uses Google Cloud AI to accelerate defense research and scientific discovery.",
+      "zh": "美國空軍研究實驗室採用 Google Cloud AI 加速國防科研與科學發現。"
+    },
+    "overview": {
+      "en": "The Air Force Research Laboratory (AFRL), the innovation arm of the United States Air Force, partnered with Google Cloud to accelerate scientific discovery, streamline operations, and address national security challenges. AFRL leveraged Vertex AI, BigQuery, App Engine, and Google Workspace to create collaborative pipelines for research data and AI-based modeling across domains including bioinformatics, human performance, and materials science.",
+      "zh": "美國空軍研究實驗室（AFRL）是美國空軍的創新研究機構，與 Google Cloud 合作以加速科學發現、精簡運營流程並應對國家安全挑戰。AFRL 運用 Vertex AI、BigQuery、App Engine 及 Google Workspace，建立跨生物資訊學、人類效能及材料科學等領域的協作研究資料管線與 AI 模型。"
+    },
+    "highlights": {
+      "en": [
+        "Researchers reported an average time savings of 3 hours per week through Google Workspace and AI-assisted workflows.",
+        "New insights into 2D nanomaterials were discovered using collaborative AI tools that would have otherwise been impossible.",
+        "AFRL uses Vertex AI, BigQuery, Compute Engine, and Cloud Build to pipeline, clean, and share research data at scale.",
+        "The partnership supports AFRL's mission across bioinformatics, web application efficiency, and human performance research."
+      ],
+      "zh": [
+        "研究人員透過 Google Workspace 及 AI 輔助工作流程，每週平均節省 3 小時。",
+        "透過協作 AI 工具發現了過去無法取得的 2D 奈米材料新見解。",
+        "AFRL 採用 Vertex AI、BigQuery、Compute Engine 及 Cloud Build 大規模管理研究資料管線。",
+        "此合作支持 AFRL 在生物資訊學、網路應用效能及人類效能研究等領域的使命。"
+      ]
+    },
+    "technologies": ["Vertex AI", "BigQuery", "App Engine", "Google Workspace", "Compute Engine", "Cloud Build"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "AFRL + Google Cloud: Accelerating Innovation | Google Cloud Blog",
+        "url": "https://cloud.google.com/blog/topics/public-sector/how-the-air-force-research-laboratory-is-advancing-defense-research-with-ai"
+      },
+      {
+        "title": "Air Force Research Lab fosters collaboration with Google Workspace",
+        "url": "https://workspace.google.com/blog/customer-stories/air-force-research-lab-fosters-collaboration-security-and-productivity-google-workspace"
+      }
+    ]
+  },
+  {
+    "id": "public-sector-nonprofits-data-ancine",
+    "industry": "public-sector-nonprofits",
+    "agentType": "data",
+    "company": "Ancine",
+    "isNew": true,
+    "summary": {
+      "en": "Brazil's cinema regulator Ancine achieved 90% data-extraction accuracy with Google Cloud AI, boosting analyst throughput 10x.",
+      "zh": "巴西電影監管機構 Ancine 採用 Google Cloud AI，資料擷取準確率超過 90%，分析師日處理量提升 10 倍。"
+    },
+    "overview": {
+      "en": "Ancine, the Brazilian cinema industry regulator, implemented Google Cloud AI to automate the accountability analysis of subsidized film projects. The system extracts and structures data from digitized tax documents, replacing a previously manual and time-consuming process. The implementation achieved over 90% data extraction accuracy and increased analysts' daily processing capacity by 10 times.",
+      "zh": "Ancine 是巴西電影業的監管機構，導入 Google Cloud AI 自動分析補貼專案的合規狀況。系統從數位化稅務文件中擷取並結構化資料，取代原本繁瑣的人工流程。此實施方案達到超過 90% 的資料擷取準確率，並將分析師每日處理量提升 10 倍。"
+    },
+    "highlights": {
+      "en": [
+        "Achieved over 90% data extraction accuracy from digitized tax documents.",
+        "Increased analysts' daily processing capacity by 10x compared to manual workflows.",
+        "Automates accountability analysis of subsidized cinema projects at scale.",
+        "Uses Google Cloud Document AI to extract structured data from unstructured fiscal records."
+      ],
+      "zh": [
+        "從數位化稅務文件中達到超過 90% 的資料擷取準確率。",
+        "與人工流程相比，分析師每日處理量提升 10 倍。",
+        "大規模自動分析補貼電影專案的合規責任。",
+        "運用 Google Cloud Document AI 從非結構化財稅記錄中擷取結構化資料。"
+      ]
+    },
+    "technologies": ["Document AI", "Vertex AI", "Google Cloud AI"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Google Cloud Brings a New Era of AI Innovation to Brazil",
+        "url": "https://www.googlecloudpresscorner.com/2025-09-10-Google-Cloud-Brings-a-New-Era-of-AI-Innovation-to-Brazil"
+      }
+    ]
+  },
+  {
+    "id": "public-sector-nonprofits-data-arizona-state-university",
+    "industry": "public-sector-nonprofits",
+    "agentType": "data",
+    "company": "Arizona State University",
+    "isNew": false,
+    "summary": {
+      "en": "ASU uses BigQuery and AI to build an enrollment propensity model that boosted registrations by 52%.",
+      "zh": "亞利桑那州立大學運用 BigQuery 與 AI 建立入學傾向模型，使報名數提升 52%。"
+    },
+    "overview": {
+      "en": "Arizona State University's EdPlus team built an enrollment propensity model using BigQuery and machine learning to predict the likelihood of prospective students enrolling in ASU Online. The model is four times more accurate than random prediction baselines and powers more targeted marketing campaigns. Campaigns using this model increased registrations by 52% compared to traditional lead scoring methods.",
+      "zh": "亞利桑那州立大學 EdPlus 團隊利用 BigQuery 和機器學習建立入學傾向模型，預測潛在學生就讀 ASU Online 的可能性。該模型準確率是隨機猜測的四倍，並驅動更精準的行銷活動。採用此模型的活動比傳統潛在客戶評分方法提升了 52% 的報名數。"
+    },
+    "highlights": {
+      "en": [
+        "Enrollment propensity model is 4x more accurate than naive baseline predictions.",
+        "Marketing campaigns powered by the model increased registrations by 52% vs. traditional lead scoring.",
+        "Built on BigQuery as the core data warehouse for web behavior and enrollment signals.",
+        "Enables EdPlus to concentrate resources on high-propensity prospective students."
+      ],
+      "zh": [
+        "入學傾向模型的準確率是基準隨機預測的 4 倍。",
+        "使用此模型的行銷活動相較傳統潛在客戶評分，報名率提升 52%。",
+        "以 BigQuery 為核心資料倉儲，整合網路行為與入學訊號。",
+        "協助 EdPlus 將資源集中於高傾向潛在學生群。"
+      ]
+    },
+    "technologies": ["BigQuery", "Vertex AI", "Machine Learning"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Arizona State University case study | Google Cloud",
+        "url": "https://cloud.google.com/customers/arizona-state-university"
+      }
+    ]
+  },
+  {
+    "id": "public-sector-nonprofits-data-auditor-a-superior-de-la-federaci-n-de-m-xico",
+    "industry": "public-sector-nonprofits",
+    "agentType": "data",
+    "company": "Auditoría Superior de la Federación de México",
+    "isNew": true,
+    "summary": {
+      "en": "Mexico's Superior Audit Office uses Google Cloud AI to cut public-spending oversight from months to minutes.",
+      "zh": "墨西哥聯邦審計局導入 Google Cloud AI，將公共支出審查時間從數月縮短至數分鐘。"
+    },
+    "overview": {
+      "en": "Auditoría Superior de la Federación de México (ASF), Mexico's Supreme Audit Institution, implemented Google Cloud AI solutions to modernize the oversight of federal public spending. The AI-powered system streamlines document analysis and compliance checking, reducing execution time from months to just minutes. This significantly expands the ASF's capacity to audit government expenditures at scale.",
+      "zh": "墨西哥聯邦審計局（ASF）是墨西哥最高審計機構，導入 Google Cloud AI 解決方案以現代化聯邦公共支出的監督工作。AI 驅動的系統簡化文件分析與合規核查流程，將執行時間從數個月縮短至數分鐘，大幅提升 ASF 大規模審計政府支出的能力。"
+    },
+    "highlights": {
+      "en": [
+        "Reduced public spending oversight execution time from months to minutes using Google Cloud AI.",
+        "Automates document analysis and compliance checking for federal expenditure auditing.",
+        "Significantly expands the institution's audit capacity without proportional headcount growth.",
+        "Enables more transparent and efficient oversight of Mexico's federal public finances."
+      ],
+      "zh": [
+        "運用 Google Cloud AI 將公共支出監督執行時間從數月縮短至數分鐘。",
+        "自動化聯邦支出審計的文件分析與合規核查。",
+        "在不大幅增加人力的情況下顯著擴大機構的審計能力。",
+        "促進對墨西哥聯邦公共財政更透明、高效的監督。"
+      ]
+    },
+    "technologies": ["Vertex AI", "Document AI", "Google Cloud AI"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "public-sector-nonprofits-data-belo-horizonte-municipal-finance-office",
+    "industry": "public-sector-nonprofits",
+    "agentType": "data",
+    "company": "Belo Horizonte Municipal Finance Office",
+    "isNew": false,
+    "summary": {
+      "en": "Belo Horizonte uses AI to audit invoice tax classifications, improving accuracy and municipal tax collection.",
+      "zh": "貝洛奧里藏特市財政局採用 AI 審核發票稅務分類，提升準確性並改善稅收。"
+    },
+    "overview": {
+      "en": "The Belo Horizonte Municipal Finance Office in Brazil deployed AI to analyze service descriptions in invoices and assess whether taxpayers correctly classified their services for the applicable tax rate. By automating this classification review, the city achieved greater accuracy and efficiency in tax auditing, directly improving municipal tax collection outcomes.",
+      "zh": "巴西貝洛奧里藏特市財政局導入 AI 分析發票中的服務描述，評估納稅人的服務分類是否正確對應適用稅率。透過自動化分類審核，市府在稅務審計上獲得更高準確性與效率，直接改善了市政稅收成果。"
+    },
+    "highlights": {
+      "en": [
+        "AI analyzes invoice service descriptions to verify correct taxpayer tax-rate classifications.",
+        "Greater accuracy in tax classification led to improved municipal tax collection outcomes.",
+        "Reduces manual auditing burden by automating invoice compliance review at scale.",
+        "Demonstrates practical AI application for revenue authority modernization in Brazilian municipalities."
+      ],
+      "zh": [
+        "AI 分析發票服務描述，核查納稅人稅率分類是否正確。",
+        "稅務分類準確性提升，直接改善市政稅收成果。",
+        "透過大規模自動化發票合規審核，降低人工審計負擔。",
+        "展示 AI 在巴西市政稅務機關現代化的實際應用。"
+      ]
+    },
+    "technologies": ["Vertex AI", "Natural Language Processing", "Google Cloud AI"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "public-sector-nonprofits-data-botcopy",
+    "industry": "public-sector-nonprofits",
+    "agentType": "data",
+    "company": "Botcopy",
+    "isNew": true,
+    "summary": {
+      "en": "Botcopy's TrueQ is an AI analyst for government contact centers, built on Gemini Enterprise to optimize conversational AI performance.",
+      "zh": "Botcopy 的 TrueQ 是政府客服中心的 AI 分析師，基於 Gemini Enterprise 打造，優化對話式 AI 表現。"
+    },
+    "overview": {
+      "en": "Botcopy's TrueQ is an AI analyst product designed for government contact centers, built within the Gemini Enterprise platform. It enables supervisors to understand and improve conversational AI performance by identifying conversation patterns, escalation triggers, and knowledge gaps. TrueQ improves automation quality, strengthens governance, and helps reduce support costs for public sector deployments. Botcopy's platform is trusted in over 50 countries by more than 20,000 brands, including multiple U.S. state governments.",
+      "zh": "Botcopy 的 TrueQ 是專為政府客服中心設計的 AI 分析師產品，建構於 Gemini Enterprise 平台之上。它讓主管能夠了解並改善對話式 AI 的表現，識別對話模式、升級觸發因素及知識缺口。TrueQ 提升自動化品質、強化治理機制，並協助降低公共部門的服務支援成本。Botcopy 平台在全球 50 多個國家、超過 20,000 個品牌中受到信賴，包括多個美國州政府。"
+    },
+    "highlights": {
+      "en": [
+        "TrueQ identifies conversation patterns, escalation triggers, and knowledge gaps in government contact center AI.",
+        "Built as a Virtual Contact Center Analyst within Gemini Enterprise, providing operational health stats and strategic optimization.",
+        "Supports governance by enabling supervisors to review and approve AI outputs before deployment.",
+        "Deployed across U.S. state governments including Minnesota, Ohio, Michigan, and New York City."
+      ],
+      "zh": [
+        "TrueQ 識別政府客服中心 AI 的對話模式、升級觸發因素及知識缺口。",
+        "以虛擬客服中心分析師身分建構於 Gemini Enterprise，提供運營健康指標與策略優化建議。",
+        "透過讓主管審核並批准 AI 輸出，強化治理機制。",
+        "部署於明尼蘇達州、俄亥俄州、密西根州及紐約市等美國州政府。"
+      ]
+    },
+    "technologies": ["Gemini", "Gemini Enterprise", "Vertex AI", "Dialogflow"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Botcopy TrueQ™",
+        "url": "https://www.botcopy.com/true-q"
+      },
+      {
+        "title": "Botcopy | Google Cloud AI agent finder",
+        "url": "https://cloud.withgoogle.com/agentfinder/product/6f1edc6a-245e-4157-a346-87b191bc7896/"
+      }
+    ]
+  },
+  {
+    "id": "public-sector-nonprofits-data-brazil-s-ministry-of-education",
+    "industry": "public-sector-nonprofits",
+    "agentType": "data",
+    "company": "Brazil's Ministry of Education",
+    "isNew": false,
+    "summary": {
+      "en": "Brazil's Ministry of Education migrated its SIMEC system to Google Cloud, eliminating unreliability and automating processes for over 1 million users.",
+      "zh": "巴西教育部將 SIMEC 系統遷移至 Google Cloud，消除系統不穩定性並自動化流程，服務超過百萬用戶。"
+    },
+    "overview": {
+      "en": "Brazil's Ministry of Education faced challenges with its mission-critical SIMEC platform, through which it distributes public education policies to more than one million users across the country. In mid-2022, SIMEC was migrated to Google Cloud, ending recurring system unreliability, automating key processes, and significantly reducing the volume of user support calls. The cloud migration improved the platform's performance and scalability to serve Brazil's nationwide education administration.",
+      "zh": "巴西教育部的核心系統 SIMEC 面臨挑戰，該系統向全國超過百萬用戶分發公共教育政策。2022 年中，SIMEC 遷移至 Google Cloud，終結系統不穩定問題，實現關鍵流程自動化，並大幅減少用戶支援請求量。此次雲端遷移提升了平台效能與擴展能力，支持巴西全國教育行政管理。"
+    },
+    "highlights": {
+      "en": [
+        "SIMEC serves over 1 million users distributing public education policies nationwide.",
+        "Migration to Google Cloud in mid-2022 ended system unreliability issues.",
+        "Automated key administrative processes, reducing support call volume.",
+        "Improved scalability and reliability for one of Brazil's most critical public education platforms."
+      ],
+      "zh": [
+        "SIMEC 服務超過百萬用戶，在全國分發公共教育政策。",
+        "2022 年中遷移至 Google Cloud，終結系統不穩定問題。",
+        "自動化關鍵行政流程，降低用戶支援請求量。",
+        "提升巴西最重要公共教育平台之一的可擴展性與可靠性。"
+      ]
+    },
+    "technologies": ["Google Cloud", "Cloud Run", "Google Kubernetes Engine"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "public-sector-nonprofits-data-broward-county-florida",
+    "industry": "public-sector-nonprofits",
+    "agentType": "data",
+    "company": "Broward County, Florida",
+    "isNew": false,
+    "summary": {
+      "en": "Broward County uses Google Cloud geospatial AI to improve infrastructure planning and build climate resilience.",
+      "zh": "布勞沃德縣採用 Google Cloud 地理空間 AI 改善基礎設施規劃並建立氣候韌性。"
+    },
+    "overview": {
+      "en": "Broward County, Florida, is leveraging Google Cloud's geospatial capabilities and AI to improve infrastructure planning and monitoring, generate new insights about community needs, and create regional resilience for communities facing current and future climate challenges. The county's initiatives use Earth Engine and AI analytics to support data-driven decision-making for a $29 billion resilience investment plan addressing flooding, sea-level rise, and extreme weather.",
+      "zh": "佛羅里達州布勞沃德縣運用 Google Cloud 的地理空間能力與 AI，改善基礎設施規劃與監測，為面臨當前及未來氣候挑戰的社區生成新見解並建立區域韌性。該縣的倡議採用 Earth Engine 和 AI 分析支持資料驅動的決策，為應對洪水、海平面上升及極端天氣的 290 億美元韌性投資計畫提供依據。"
+    },
+    "highlights": {
+      "en": [
+        "Deploys geospatial AI and Google Earth Engine to monitor infrastructure and generate climate resilience insights.",
+        "Supports a $29 billion resilience plan addressing flooding and sea-level rise threats.",
+        "AI-enabled analysis improves infrastructure planning for community climate adaptation.",
+        "Generates new regional insights to prioritize investments for at-risk communities."
+      ],
+      "zh": [
+        "部署地理空間 AI 與 Google Earth Engine 監測基礎設施並生成氣候韌性見解。",
+        "支持 290 億美元的韌性計畫，應對洪水和海平面上升威脅。",
+        "AI 驅動的分析改善基礎設施規劃，推動社區氣候適應。",
+        "生成區域新見解，為高風險社區優先分配投資。"
+      ]
+    },
+    "technologies": ["Google Earth Engine", "BigQuery", "Vertex AI", "Google Cloud AI"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Leveraging Google geospatial AI to prepare for climate resilience | Google Cloud Blog",
+        "url": "https://cloud.google.com/blog/topics/public-sector/leveraging-google-geospatial-ai-prepare-climate-resilience"
+      }
+    ]
+  },
+  {
+    "id": "public-sector-nonprofits-data-citylitics",
+    "industry": "public-sector-nonprofits",
+    "agentType": "data",
+    "company": "Citylitics",
+    "isNew": false,
+    "summary": {
+      "en": "Citylitics cuts infrastructure data analysis time by 71% and expands data sources 400% using Google Cloud Dataflow and Cloud Run.",
+      "zh": "Citylitics 運用 Google Cloud Dataflow 與 Cloud Run 將基礎設施資料分析時間縮短 71%，資料來源擴增 400%。"
+    },
+    "overview": {
+      "en": "Citylitics is a predictive intelligence platform that transforms public infrastructure investment decisions for municipalities, utilities, and engineering firms. By automating data processing pipelines with Dataflow and Cloud Run, Citylitics cut average document processing time by 71% and expanded its represented cities and utilities by 400%. The platform processes 7.5 million new infrastructure document segments monthly, converting over a billion documents from 40,000 cities into actionable intelligence.",
+      "zh": "Citylitics 是一個預測性情報平台，為市政機構、公用事業和工程公司提供公共基礎設施投資決策支持。透過以 Dataflow 和 Cloud Run 自動化資料處理管線，Citylitics 將平均文件處理時間縮短 71%，代表的城市和公用事業增加了 400%。該平台每月處理 750 萬個新基礎設施文件片段，將來自 40,000 個城市的超過十億份文件轉化為可行動的情報。"
+    },
+    "highlights": {
+      "en": [
+        "Reduced average document analysis time by 71% using Dataflow and Cloud Run automation.",
+        "Expanded represented cities and utilities by 400% after adopting Google Cloud.",
+        "Processes 7.5 million new infrastructure document segments per month.",
+        "Increased identified infrastructure documents by 433%, enabling more proactive business intelligence."
+      ],
+      "zh": [
+        "運用 Dataflow 和 Cloud Run 自動化，平均文件分析時間縮短 71%。",
+        "採用 Google Cloud 後，代表的城市和公用事業增加了 400%。",
+        "每月處理 750 萬個新基礎設施文件片段。",
+        "識別的基礎設施文件增加 433%，實現更主動的商業情報。"
+      ]
+    },
+    "technologies": ["Dataflow", "Cloud Run", "BigQuery", "Vertex AI"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Citylitics case study | Google Cloud",
+        "url": "https://cloud.google.com/customers/citylitics"
+      }
+    ]
+  },
+  {
+    "id": "public-sector-nonprofits-data-cni",
+    "industry": "public-sector-nonprofits",
+    "agentType": "data",
+    "company": "CNI",
+    "isNew": false,
+    "summary": {
+      "en": "Brazil's CNI uses big data, ML, and NLP to better understand industrial demands and calibrate its vocational training portfolio.",
+      "zh": "巴西全國工業聯合會（CNI）運用大數據、機器學習與自然語言處理，深入理解工業需求並校準職訓課程組合。"
+    },
+    "overview": {
+      "en": "CNI, Brazil's National Confederation of Industry, oversees 27 state industrial federations and educational institutions including SENAI and SESI. CNI is using big data, machine learning, natural language processing, and AI technologies on Google Cloud to better understand the demands of the industrial sector, analyze individual skills requirements, and calibrate the training portfolio of its educational institutions to align with evolving industry needs.",
+      "zh": "CNI（巴西全國工業聯合會）統籌 27 個州工業聯合會及包括 SENAI、SESI 在內的教育機構。CNI 在 Google Cloud 上運用大數據、機器學習、自然語言處理及 AI 技術，深入理解工業部門需求、分析個人技能需求，並校準教育機構的培訓課程組合以契合不斷演變的產業需求。"
+    },
+    "highlights": {
+      "en": [
+        "Applies machine learning and NLP to analyze industrial sector demands across 27 state federations.",
+        "Uses AI to identify individual skills gaps and align training portfolios to industry needs.",
+        "Supports calibration of SENAI's vocational education offerings based on data-driven market insights.",
+        "Leverages Google Cloud big data infrastructure to process industrial and workforce data at national scale."
+      ],
+      "zh": [
+        "運用機器學習和自然語言處理分析 27 個州聯合會的工業部門需求。",
+        "使用 AI 識別個人技能缺口，使培訓課程與產業需求對齊。",
+        "基於資料驅動的市場洞察，支持 SENAI 職業教育內容的校準。",
+        "利用 Google Cloud 大數據基礎架構在全國規模處理工業和勞動力資料。"
+      ]
+    },
+    "technologies": ["BigQuery", "Vertex AI", "Natural Language Processing", "Machine Learning"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "public-sector-nonprofits-data-colombia-s-ministry-of-information-and-communications-technologies",
+    "industry": "public-sector-nonprofits",
+    "agentType": "data",
+    "company": "Colombia's Ministry of Information and Communications Technologies",
+    "isNew": false,
+    "summary": {
+      "en": "Colombia's MinTIC uses AI and data analytics to improve telecom oversight, boosting productivity and transparency.",
+      "zh": "哥倫比亞資訊與通信技術部運用 AI 和資料分析強化電信監管，提升生產力與透明度。"
+    },
+    "overview": {
+      "en": "Colombia's Ministry of Information and Communications Technologies (MinTIC) deployed AI and data analysis tools on Google Cloud to improve the oversight, inspection, and quality control of the country's telecommunications services. The initiative has successfully optimized government processes, increased productivity in regulatory functions, and created a more transparent and efficient ecosystem for telecommunications governance in Colombia.",
+      "zh": "哥倫比亞資訊與通信技術部（MinTIC）在 Google Cloud 上部署 AI 和資料分析工具，以改善對全國電信服務的監督、檢查和品質控制。該倡議成功優化政府流程、提升監管職能的生產力，並為哥倫比亞的電信治理創建了更透明、高效的生態系統。"
+    },
+    "highlights": {
+      "en": [
+        "Deployed AI and data analytics to improve oversight of the country's telecommunications sector.",
+        "Optimized regulatory processes and increased productivity in inspection and quality control.",
+        "Created a more transparent and efficient ecosystem for telecom governance.",
+        "Enables data-driven regulatory decision-making across national telecommunications services."
+      ],
+      "zh": [
+        "部署 AI 和資料分析，改善全國電信部門的監管。",
+        "優化監管流程，提升檢查和品質控制的生產力。",
+        "為電信治理創建更透明、高效的生態系統。",
+        "實現全國電信服務的資料驅動監管決策。"
+      ]
+    },
+    "technologies": ["BigQuery", "Vertex AI", "Looker", "Google Cloud AI"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "public-sector-nonprofits-data-full-fact",
+    "industry": "public-sector-nonprofits",
+    "agentType": "data",
+    "company": "Full Fact",
+    "isNew": false,
+    "summary": {
+      "en": "Full Fact uses gen AI to monitor misinformation at scale, helping 30 fact-checking partners focus on the most harmful claims.",
+      "zh": "Full Fact 運用生成式 AI 大規模監測錯誤資訊，協助 30 個查核合作夥伴聚焦最具危害性的說法。"
+    },
+    "overview": {
+      "en": "Full Fact is a UK-based nonprofit working across 18 countries to combat misinformation. Using generative AI on Google Cloud, Full Fact actively monitors stories at internet scale, enabling its 30 fact-checking partner organizations to focus on addressing specific claims and harmful content. The AI detected health misinformation in online videos 10 times faster than human workers, and Full Fact's AI tools have been deployed in 40 countries in English, French, and Arabic.",
+      "zh": "Full Fact 是一家英國非營利組織，在 18 個國家致力於打擊錯誤資訊。透過在 Google Cloud 上使用生成式 AI，Full Fact 以網際網路規模主動監測新聞故事，使其 30 個查核合作組織能專注於處理特定說法和有害內容。AI 偵測線上影片中的健康錯誤資訊速度比人工快 10 倍，Full Fact 的 AI 工具已在 40 個國家以英語、法語和阿拉伯語部署。"
+    },
+    "highlights": {
+      "en": [
+        "Gen AI monitors misinformation at internet scale, supporting 30 fact-checking partner organizations in 18 countries.",
+        "AI detects health misinformation in online videos 10x faster than human fact-checkers.",
+        "Full Fact's AI tools have expanded to 40 countries in English, French, and Arabic.",
+        "Google.org Accelerator grant enabled development of a large-scale health content analysis tool."
+      ],
+      "zh": [
+        "生成式 AI 以網際網路規模監測錯誤資訊，支援 18 個國家的 30 個查核合作組織。",
+        "AI 偵測線上影片中的健康錯誤資訊速度比人工查核員快 10 倍。",
+        "Full Fact 的 AI 工具已以英語、法語和阿拉伯語擴展至 40 個國家。",
+        "Google.org 加速器資助支持了大規模健康內容分析工具的開發。"
+      ]
+    },
+    "technologies": ["Gemini", "Vertex AI", "Google Cloud AI"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "How fact checkers and Google.org are fighting misinformation",
+        "url": "https://blog.google/company-news/outreach-and-initiatives/google-org/fullfact-and-google-fight-misinformation/"
+      },
+      {
+        "title": "Full Fact AI – Full Fact",
+        "url": "https://fullfact.org/ai/"
+      }
+    ]
+  },
+  {
+    "id": "public-sector-nonprofits-data-fullstory",
+    "industry": "public-sector-nonprofits",
+    "agentType": "data",
+    "company": "Fullstory",
+    "isNew": false,
+    "summary": {
+      "en": "Fullstory integrates Gemini with its behavioral data platform to power AI agents that deliver better digital customer experiences.",
+      "zh": "Fullstory 將 Gemini 整合至其行為資料平台，驅動 AI 代理提供更優質的數位客戶體驗。"
+    },
+    "overview": {
+      "en": "Fullstory is a behavioral data platform that helps brands understand how customers interact with their web and mobile products. Fullstory integrates Gemini into its StoryAI suite, using session-level behavioral data to create more informed and contextually aware AI agents. These agents leverage rich interaction data captured from web and mobile sessions to deliver more relevant customer experiences and support more effective customer service workflows.",
+      "zh": "Fullstory 是一個行為資料平台，協助品牌了解客戶如何與其網路和行動產品互動。Fullstory 將 Gemini 整合至 StoryAI 套件，使用會話級行為資料建立更具情境感知的 AI 代理。這些代理利用從網路和行動會話中擷取的豐富互動資料，提供更相關的客戶體驗，並支援更有效的客戶服務工作流程。"
+    },
+    "highlights": {
+      "en": [
+        "StoryAI suite is powered by Google Gemini, using session behavioral data to drive AI agents.",
+        "AI uses behavioral data from web and mobile sessions to create more contextually aware agents.",
+        "Fullstory Anywhere streams behavioral data in real-time across customer ecosystem integrations.",
+        "Maintains data privacy with customer data not used to train AI foundation models."
+      ],
+      "zh": [
+        "StoryAI 套件由 Google Gemini 驅動，使用會話行為資料驅動 AI 代理。",
+        "AI 利用來自網路和行動會話的行為資料，建立更具情境感知的代理。",
+        "Fullstory Anywhere 在整個客戶生態系統整合中即時串流行為資料。",
+        "維護資料隱私，客戶資料不用於訓練 AI 基礎模型。"
+      ]
+    },
+    "technologies": ["Gemini", "Vertex AI", "BigQuery"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Fullstory Unveils AI Agent-Powered Behavioral Data Solutions",
+        "url": "https://www.globenewswire.com/news-release/2025/04/02/3054288/0/en/Fullstory-Unveils-AI-Agent-Powered-Behavioral-Data-Solutions-To-Transform-Customer-And-Employee-Experiences.html"
+      }
+    ]
+  },
+  {
+    "id": "public-sector-nonprofits-data-israel-antiquities-authority",
+    "industry": "public-sector-nonprofits",
+    "agentType": "data",
+    "company": "Israel Antiquities Authority",
+    "isNew": false,
+    "summary": {
+      "en": "Israel Antiquities Authority migrated 1 petabyte of archaeological data to Google Cloud and trained Gemini models for researcher search.",
+      "zh": "以色列文物局將 1 petabyte 考古資料遷移至 Google Cloud，並訓練 Gemini 模型協助研究人員搜尋。"
+    },
+    "overview": {
+      "en": "The Israel Antiquities Authority worked with CommIT to modernize its data systems by migrating and backing up approximately 1 petabyte of archaeological data to Google Cloud using NetApp and VMware solutions. Beyond storage modernization, the authority trained a Gemini-powered research model to help researchers quickly find and access archaeological information. The backup process completed within a month and a half, with 95% of data successfully transferred.",
+      "zh": "以色列文物局與 CommIT 合作，透過 NetApp 和 VMware 解決方案將約 1 petabyte 考古資料遷移並備份至 Google Cloud，實現資料系統現代化。除儲存現代化外，當局還訓練了由 Gemini 驅動的研究模型，協助研究人員快速查找並存取考古資訊。備份過程在一個半月內完成，95% 的資料成功轉移。"
+    },
+    "highlights": {
+      "en": [
+        "Migrated and backed up approximately 1 petabyte of archaeological data to Google Cloud.",
+        "Completed 95% data migration to Google Cloud within one and a half months.",
+        "Trained a Gemini-powered model for researchers to query archaeological data efficiently.",
+        "Used NetApp and VMware solutions for seamless enterprise data migration to the cloud."
+      ],
+      "zh": [
+        "將約 1 petabyte 考古資料遷移並備份至 Google Cloud。",
+        "在一個半月內完成 95% 的資料遷移至 Google Cloud。",
+        "訓練由 Gemini 驅動的模型，供研究人員高效查詢考古資料。",
+        "使用 NetApp 和 VMware 解決方案實現企業資料無縫遷移至雲端。"
+      ]
+    },
+    "technologies": ["Gemini", "NetApp", "VMware", "Google Cloud Storage", "Vertex AI"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Israel Antiquities Authority case study | Google Cloud",
+        "url": "https://cloud.google.com/customers/israel-antiquities-authority"
+      }
+    ]
+  },
+  {
+    "id": "public-sector-nonprofits-data-king-s-college-london",
+    "industry": "public-sector-nonprofits",
+    "agentType": "data",
+    "company": "King's College London",
+    "isNew": false,
+    "summary": {
+      "en": "King's College London and Swansea University use Vertex AI to design self-healing, bio-based asphalt that healed cracks in 50 minutes.",
+      "zh": "倫敦國王學院與斯旺西大學運用 Vertex AI 設計自我修復生物瀝青，在 50 分鐘內修復裂縫。"
+    },
+    "overview": {
+      "en": "King's College London and Swansea University are using Vertex AI and Gemini on Google Cloud to design nature-inspired, sustainable road materials. Their research focuses on bio-based microcapsules filled with recycled cooking oil embedded in asphalt; when micro-cracks appear, the oil is released to heal the pavement. In lab tests, the biobased spore microcapsules completely healed a crack in aged bitumen in just 50 minutes. Researchers estimate self-healing could extend road surface lifespan by 30%.",
+      "zh": "倫敦國王學院與斯旺西大學在 Google Cloud 上運用 Vertex AI 和 Gemini 設計受自然啟發的永續道路材料。研究重點是嵌入瀝青中裝有回收食用油的生物基微膠囊；當微裂縫出現時，油脂被釋放以修復路面。在實驗室測試中，生物基孢子微膠囊在 50 分鐘內完全修復了老化瀝青中的裂縫。研究人員估計自我修復可將道路表面壽命延長 30%。"
+    },
+    "highlights": {
+      "en": [
+        "Bio-based spore microcapsules healed an aged bitumen pavement crack in 50 minutes in lab tests.",
+        "Self-healing technology estimated to extend road surface lifespan by 30%.",
+        "Vertex AI and Gemini used to study organic molecule properties in complex fluids like bitumen.",
+        "Research aims to reduce road maintenance costs and carbon emissions from road construction."
+      ],
+      "zh": [
+        "生物基孢子微膠囊在實驗室測試中 50 分鐘內修復老化瀝青路面裂縫。",
+        "自我修復技術估計可將道路表面壽命延長 30%。",
+        "運用 Vertex AI 和 Gemini 研究瀝青等複雜流體中有機分子的特性。",
+        "研究旨在降低道路養護成本並減少道路建設的碳排放。"
+      ]
+    },
+    "technologies": ["Vertex AI", "Gemini", "Google Cloud"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "King's College London and Swansea University case study | Google Cloud",
+        "url": "https://cloud.google.com/customers/kingscollegelondonandswanseauniversity"
+      },
+      {
+        "title": "AI-powered self-healing asphalt: A step toward sustainable net-zero roads",
+        "url": "https://www.swansea.ac.uk/press-office/news-events/news/2025/02/ai-powered-self-healing-asphalt-a-step-toward-sustainable-net-zero-roads.php"
+      }
+    ]
+  },
+  {
+    "id": "public-sector-nonprofits-data-materiom",
+    "industry": "public-sector-nonprofits",
+    "agentType": "data",
+    "company": "Materiom",
+    "isNew": false,
+    "summary": {
+      "en": "Materiom uses Gemini-powered gen AI to accelerate discovery of compostable, bio-based alternatives to plastics by up to 9x.",
+      "zh": "Materiom 運用 Gemini 驅動的生成式 AI 加速發現可堆肥生物基塑膠替代材料，速度提升達 9 倍。"
+    },
+    "overview": {
+      "en": "Materiom is a startup researching zero-waste, bio-based alternatives to fossil-fuel-derived products like plastics. With a Google.org Accelerator grant, Materiom developed a generative AI tool—now available as the Materiom AI chatbot—powered by Google's Gemini. The chatbot assists entrepreneurs and researchers in developing novel compostable materials, enabling 9x faster discovery of sustainable alternatives. The tool provides access to scientific literature, biopolymer formulation guidance, and ingredient databases.",
+      "zh": "Materiom 是一家研究零廢棄、生物基石化產品替代品（如塑膠）的新創公司。憑藉 Google.org 加速器資助，Materiom 開發了一款生成式 AI 工具——現以 Materiom AI 聊天機器人形式提供，由 Google Gemini 驅動。該聊天機器人協助創業者和研究人員開發新型可堆肥材料，使永續替代品的發現速度提升達 9 倍，並提供科學文獻查閱、生物聚合物配方指導和成分資料庫。"
+    },
+    "highlights": {
+      "en": [
+        "Generative AI accelerates sustainable materials discovery by an estimated 9x compared to traditional research methods.",
+        "Materiom AI chatbot powered by Google Gemini is available in beta on the Materiom Commons platform.",
+        "Tool developed through Google.org Accelerator grant to support zero-waste biomaterials R&D.",
+        "Enables entrepreneurs to develop 100% bio-based, compostable plastic alternatives faster and at lower cost."
+      ],
+      "zh": [
+        "生成式 AI 使永續材料的發現速度比傳統研究方法估計提升 9 倍。",
+        "由 Google Gemini 驅動的 Materiom AI 聊天機器人已在 Materiom Commons 平台以測試版提供。",
+        "透過 Google.org 加速器資助開發，支持零廢棄生物材料研發。",
+        "幫助創業者以更快速度和更低成本開發 100% 生物基可堆肥塑膠替代品。"
+      ]
+    },
+    "technologies": ["Gemini", "Vertex AI", "Google Cloud AI"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Materiom awarded Google.org grant to develop AI tool for biomaterials startups",
+        "url": "https://www.materiom.org/resources/materiom-awarded-google-org-grant-to-develop-ai-tool-for-biomaterials-startups"
+      },
+      {
+        "title": "Introducing Materiom AI chatbot for bio-based material discovery",
+        "url": "https://www.materiom.org/resources/introducing-materiom-ai-chatbot-for-bio-based-material-discovery"
+      }
+    ]
+  },
+  {
+    "id": "public-sector-nonprofits-data-noaa",
+    "industry": "public-sector-nonprofits",
+    "agentType": "data",
+    "company": "NOAA",
+    "isNew": false,
+    "summary": {
+      "en": "NOAA and USAID use Google Cloud AI to unlock critical data insights, streamline operations, and advance responsible AI in government.",
+      "zh": "NOAA 和 USAID 運用 Google Cloud AI 挖掘關鍵資料洞察、精簡運營，並在政府中推進負責任的 AI。"
+    },
+    "overview": {
+      "en": "NOAA (National Oceanic and Atmospheric Administration) and USAID are among U.S. government agencies leveraging Google Cloud AI to unlock critical data insights, streamline operations, and improve mission outcomes while emphasizing responsible AI practices. NOAA's partnership with Google includes a joint investment in AI and ML expertise to enhance environmental monitoring and weather prediction. NOAA has established a Center for Artificial Intelligence (NCAI) to coordinate AI projects across the agency.",
+      "zh": "NOAA（美國國家海洋暨大氣總署）和 USAID 是利用 Google Cloud AI 挖掘關鍵資料洞察、精簡運營並改善任務成果的美國政府機構，同時強調負責任的 AI 實踐。NOAA 與 Google 的合作包括在 AI 和 ML 專業知識方面的共同投資，以增強環境監測和天氣預測。NOAA 還成立了人工智慧中心（NCAI），統籌協調全局的 AI 專案。"
+    },
+    "highlights": {
+      "en": [
+        "NOAA and Google signed an OTA agreement for joint investment in AI/ML to enhance environmental monitoring and weather prediction.",
+        "NOAA established the NCAI (Center for Artificial Intelligence) to coordinate agency-wide AI projects.",
+        "AI/ML strategy aims to dramatically accelerate data use and maximize openness while protecting data quality and security.",
+        "Responsible AI is a core emphasis across government agency deployments on Google Cloud."
+      ],
+      "zh": [
+        "NOAA 與 Google 簽署 OTA 協議，共同投資 AI/ML 以增強環境監測和天氣預測。",
+        "NOAA 成立人工智慧中心（NCAI），統籌協調全局 AI 專案。",
+        "AI/ML 策略旨在大幅加速資料使用並最大化開放性，同時保護資料品質和安全。",
+        "負責任的 AI 是 Google Cloud 政府機構部署的核心重點。"
+      ]
+    },
+    "technologies": ["Vertex AI", "BigQuery", "Google Cloud AI"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "NOAA and Google to apply machine learning to satellite data",
+        "url": "https://spacenews.com/noaa-google-cloud-ota/"
+      },
+      {
+        "title": "NOAA exploring artificial intelligence pilots with Google Cloud",
+        "url": "https://fedscoop.com/noaa-ai-pilots-google-cloud/"
+      }
+    ]
+  },
+  {
+    "id": "public-sector-nonprofits-data-oak-ridge-national-laboratory",
+    "industry": "public-sector-nonprofits",
+    "agentType": "data",
+    "company": "Oak Ridge National Laboratory",
+    "isNew": false,
+    "summary": {
+      "en": "Oak Ridge National Laboratory uses BigQuery and Google Cloud to analyze 259.2 billion rows of mobility data in 23.5 hours for disaster response planning.",
+      "zh": "橡樹嶺國家實驗室運用 BigQuery 和 Google Cloud 在 23.5 小時內分析 2,592 億列行動資料，支援災難應變規劃。"
+    },
+    "overview": {
+      "en": "Oak Ridge National Laboratory (ORNL), part of the U.S. Department of Energy, uses BigQuery, Cloud Storage, and Google Kubernetes Engine to analyze massive human mobility datasets for disaster response planning. The lab's DICER workflow completed computations on mobility datasets of up to 259.2 billion rows of geospatial-temporal data in about 23.5 hours, accelerating analysis that previously took weeks. The research creates new benchmarks for large-scale human movement pattern analysis to aid in disaster response and mitigation.",
+      "zh": "橡樹嶺國家實驗室（ORNL）隸屬美國能源部，使用 BigQuery、Cloud Storage 和 Google Kubernetes Engine 分析龐大的人類行動資料集，用於災難應變規劃。實驗室的 DICER 工作流程完成了對多達 2,592 億列地理時空資料集的計算，耗時約 23.5 小時，將原本需要數週的分析加速完成。該研究為大規模人類行動模式分析建立了新基準，以協助災難應變和減緩。"
+    },
+    "highlights": {
+      "en": [
+        "DICER workflow processed 259.2 billion rows of geospatial-temporal mobility data in 23.5 hours.",
+        "Accelerated disaster response mobility analysis from weeks to hours using BigQuery and GKE.",
+        "Created new benchmarks for large-scale human movement analysis for emergency planning.",
+        "Supports FEMA and emergency management agencies with data-driven disaster response insights."
+      ],
+      "zh": [
+        "DICER 工作流程在 23.5 小時內處理 2,592 億列地理時空行動資料。",
+        "利用 BigQuery 和 GKE 將災難應變行動資料分析從數週加速至數小時。",
+        "為應急規劃的大規模人類行動分析建立新基準。",
+        "為 FEMA 和應急管理機構提供資料驅動的災難應變洞察。"
+      ]
+    },
+    "technologies": ["BigQuery", "Cloud Storage", "Google Kubernetes Engine", "Vertex AI"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Oak Ridge National Laboratory case study | Google Cloud",
+        "url": "https://cloud.google.com/customers/oak-ridge-national-laboratory"
+      }
+    ]
+  },
+  {
+    "id": "public-sector-nonprofits-data-ororatech",
+    "industry": "public-sector-nonprofits",
+    "agentType": "data",
+    "company": "OroraTech",
+    "isNew": false,
+    "summary": {
+      "en": "OroraTech uses Google Cloud and Vertex AI to detect wildfires from space and protect over 1.6 million km² of forest globally.",
+      "zh": "OroraTech 運用 Google Cloud 和 Vertex AI 從太空偵測野火，在全球保護超過 160 萬平方公里的森林。"
+    },
+    "overview": {
+      "en": "OroraTech is a space-based wildfire detection company that leverages Google Cloud's global infrastructure and Vertex AI to enhance the speed and accuracy of its Wildfire Solution. The company operates a network of 35+ satellites including thermal-infrared cameras to detect fires as small as 4×4 meters, even through smoke. Their platform is used by governments, forestry organizations, and NGOs worldwide, protecting over 1.6 million km² of forest. Alerts can be delivered within 3 minutes of fire detection.",
+      "zh": "OroraTech 是一家基於太空的野火偵測公司，利用 Google Cloud 的全球基礎設施和 Vertex AI 提升其野火解決方案的速度和準確性。該公司運營包含熱紅外攝影機的 35 顆以上衛星網絡，能夠探測到 4×4 公尺大小的火源，即使在煙霧中也能識別。其平台被全球各地的政府、林業組織和非政府組織使用，保護超過 160 萬平方公里的森林。警報可在火災偵測後 3 分鐘內發出。"
+    },
+    "highlights": {
+      "en": [
+        "Protects over 1.6 million km² of forest worldwide using satellite-based AI wildfire detection.",
+        "Delivers fire alerts within 3 minutes of detection using a network of 35+ satellites.",
+        "Uses Vertex AI to train ML models that detect fires as small as 4×4 meters, even through smoke.",
+        "OroraTech raised €37M to pioneer a wildfire digital twin platform powered by Google Cloud."
+      ],
+      "zh": [
+        "利用基於衛星的 AI 野火偵測在全球保護超過 160 萬平方公里的森林。",
+        "使用 35 顆以上衛星網絡，在偵測後 3 分鐘內發出火災警報。",
+        "使用 Vertex AI 訓練機器學習模型，即使在煙霧中也能偵測 4×4 公尺大小的火源。",
+        "OroraTech 籌集 3,700 萬歐元，開拓由 Google Cloud 驅動的野火數位孿生平台。"
+      ]
+    },
+    "technologies": ["Vertex AI", "Google Cloud", "Machine Learning", "Google Kubernetes Engine"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "OroraTech Case Study | Google Cloud",
+        "url": "https://cloud.google.com/customers/ororatech"
+      },
+      {
+        "title": "The leading wildfire management platform globally – OroraTech",
+        "url": "https://ororatech.com/"
+      }
+    ]
+  },
+  {
+    "id": "public-sector-nonprofits-data-paran-state",
+    "industry": "public-sector-nonprofits",
+    "agentType": "data",
+    "company": "Paraná state",
+    "isNew": true,
+    "summary": {
+      "en": "Brazil's Paraná state built an AI-powered platform turning Rural Environmental Registry data into agricultural certification and financial access tools.",
+      "zh": "巴西巴拉那州建立 AI 驅動平台，將農村環境登記（CAR）資料轉化為農業認證及金融服務工具。"
+    },
+    "overview": {
+      "en": "Paraná state in Brazil built the Paraná + Sustentável platform using Google Cloud AI and geospatial technologies to convert Rural Environmental Registry (CAR) data into actionable, usable information. The platform supports agricultural product certification for production and market protocols, and helps local producers access financial services by demonstrating compliance and sustainability credentials based on their land data.",
+      "zh": "巴西巴拉那州建立了「Paraná + Sustentável」平台，利用 Google Cloud AI 和地理空間技術將農村環境登記（CAR）資料轉化為可行動的實用資訊。該平台支持農產品生產和市場協議認證，並幫助當地生產者透過展示基於土地資料的合規和永續性憑證來獲得金融服務。"
+    },
+    "highlights": {
+      "en": [
+        "Converts Rural Environmental Registry (CAR) data into actionable insights for agricultural certification.",
+        "Helps local producers access financial services by showcasing sustainability and compliance credentials.",
+        "Uses Google Cloud AI and geospatial technologies to process and interpret land registry data.",
+        "Supports production and market protocols for agricultural certification across Paraná state."
+      ],
+      "zh": [
+        "將農村環境登記（CAR）資料轉化為農業認證的可行動洞察。",
+        "幫助當地生產者透過展示永續性和合規憑證獲得金融服務。",
+        "使用 Google Cloud AI 和地理空間技術處理和詮釋土地登記資料。",
+        "支持巴拉那州的農業認證生產和市場協議。"
+      ]
+    },
+    "technologies": ["Google Cloud AI", "Vertex AI", "Google Earth Engine", "BigQuery"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "public-sector-nonprofits-data-prodam",
+    "industry": "public-sector-nonprofits",
+    "agentType": "data",
+    "company": "Prodam",
+    "isNew": false,
+    "summary": {
+      "en": "São Paulo's state IT company Prodam uses AI to standardize processes and improve delivery accuracy and efficiency of public services.",
+      "zh": "聖保羅州立 IT 公司 Prodam 運用 AI 標準化流程，提升公共服務的交付準確性與效率。"
+    },
+    "overview": {
+      "en": "Prodam is the state-owned company in São Paulo, Brazil, responsible for providing IT and data services to other government agencies. Prodam is investing in an AI project to standardize processes, enabling faster and more accurate service delivery and ensuring greater efficiency across São Paulo's public service ecosystem. The initiative supports the digital transformation of state-level government operations.",
+      "zh": "Prodam 是聖保羅州的國有公司，負責為其他政府機構提供 IT 和資料服務。Prodam 正投資 AI 項目以標準化流程，實現更快速、更準確的服務交付，並確保聖保羅公共服務生態系統的更高效率。該倡議支持州級政府運營的數位化轉型。"
+    },
+    "highlights": {
+      "en": [
+        "Implementing AI to standardize IT and data service processes across São Paulo state government agencies.",
+        "AI-driven standardization enables faster and more accurate service deliveries to government clients.",
+        "Supports broader digital transformation of state-level public services in São Paulo.",
+        "Positions Prodam as a model for AI-driven IT service modernization in Brazilian public sector."
+      ],
+      "zh": [
+        "實施 AI 在聖保羅州政府機構間標準化 IT 和資料服務流程。",
+        "AI 驅動的標準化使政府客戶的服務交付更快速、更準確。",
+        "支持聖保羅州級公共服務的更廣泛數位化轉型。",
+        "將 Prodam 定位為巴西公共部門 AI 驅動 IT 服務現代化的標竿。"
+      ]
+    },
+    "technologies": ["Vertex AI", "Google Cloud AI", "BigQuery"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "public-sector-nonprofits-data-rio-de-janeiro-city-data-office",
+    "industry": "public-sector-nonprofits",
+    "agentType": "data",
+    "company": "Rio De Janeiro City Data Office",
+    "isNew": false,
+    "summary": {
+      "en": "Rio de Janeiro's City Data Office uses AI and computer vision to monitor vandalism and integrate city data for smarter governance.",
+      "zh": "里約熱內盧市資料辦公室運用 AI 與電腦視覺監測破壞行為，整合城市資料推動智慧治理。"
+    },
+    "overview": {
+      "en": "The Rio de Janeiro City Data Office, established by the mayor, is focused on data integration and AI-powered urban intelligence. Key projects include monitoring suspicious vandalism using computer vision deployed in city tunnels. The office aims to leverage integrated data and AI tools to improve public safety, city services, and governance decision-making across Rio de Janeiro.",
+      "zh": "里約熱內盧市資料辦公室由市長設立，專注於資料整合和 AI 驅動的城市智慧。主要項目包括在城市隧道中部署電腦視覺監測可疑破壞行為。辦公室致力於利用整合資料和 AI 工具改善里約熱內盧的公共安全、城市服務和治理決策。"
+    },
+    "highlights": {
+      "en": [
+        "Deploys computer vision in city tunnels to monitor and detect suspicious vandalism in real time.",
+        "Focuses on data integration across city systems to enable AI-powered urban intelligence.",
+        "City Data Office established by the mayor to lead AI-driven governance initiatives.",
+        "Aims to improve public safety and city service delivery through integrated data and AI."
+      ],
+      "zh": [
+        "在城市隧道中部署電腦視覺，即時監測和偵測可疑破壞行為。",
+        "專注於跨城市系統的資料整合，實現 AI 驅動的城市智慧。",
+        "城市資料辦公室由市長設立，負責領導 AI 驅動的治理倡議。",
+        "旨在透過整合資料和 AI 改善公共安全和城市服務交付。"
+      ]
+    },
+    "technologies": ["Vertex AI", "Computer Vision", "BigQuery", "Google Cloud AI"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      }
+    ],
+    "needsReview": true
+  },
+  {
+    "id": "public-sector-nonprofits-data-s-o-paulo-civil-police",
+    "industry": "public-sector-nonprofits",
+    "agentType": "data",
+    "company": "São Paulo Civil Police",
+    "isNew": true,
+    "summary": {
+      "en": "São Paulo Civil Police use Gemini to automate police report processing at 1,000+ stations and identify criminal patterns.",
+      "zh": "聖保羅市警察局運用 Gemini 在 1,000 多個警察局自動化處理警察報告，並識別犯罪模式。"
+    },
+    "overview": {
+      "en": "The São Paulo Civil Police are using Google Cloud AI and the Gemini Enterprise Agent Platform to automate the processing of police reports across the state. The system extracts key information from reports, speeds up police work, and enables the identification of criminal patterns for preventive actions. The solution has been rolled out to more than 1,000 police stations across São Paulo state, significantly expanding law enforcement data intelligence capabilities.",
+      "zh": "聖保羅州警察局使用 Google Cloud AI 和 Gemini Enterprise Agent Platform 在全州自動化處理警察報告。系統從報告中提取關鍵資訊，加快警察工作，並能識別犯罪模式以採取預防行動。該解決方案已部署到聖保羅州 1,000 多個警察局，大幅擴展執法資料情報能力。"
+    },
+    "highlights": {
+      "en": [
+        "Gemini automates extraction of key information from police reports across 1,000+ police stations.",
+        "Enables identification of criminal patterns in report data, supporting proactive preventive actions.",
+        "Deployed on the Gemini Enterprise Agent Platform for scalable, secure government use.",
+        "Speeds up police report processing, freeing officers for higher-value investigative work."
+      ],
+      "zh": [
+        "Gemini 在 1,000 多個警察局自動從警察報告中提取關鍵資訊。",
+        "能夠識別報告資料中的犯罪模式，支援主動預防行動。",
+        "在 Gemini Enterprise Agent Platform 上部署，實現可擴展、安全的政府使用。",
+        "加快警察報告處理速度，讓警員能專注於更高價值的調查工作。"
+      ]
+    },
+    "technologies": ["Gemini", "Gemini Enterprise Agent Platform", "Vertex AI", "Google Cloud AI"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Google Cloud Brings a New Era of AI Innovation to Brazil",
+        "url": "https://www.googlecloudpresscorner.com/2025-09-10-Google-Cloud-Brings-a-New-Era-of-AI-Innovation-to-Brazil"
+      }
+    ]
+  },
+  {
+    "id": "public-sector-nonprofits-data-serpro",
+    "industry": "public-sector-nonprofits",
+    "agentType": "data",
+    "company": "Serpro",
+    "isNew": false,
+    "summary": {
+      "en": "Brazil's federal IT provider Serpro adopted Google Distributed Cloud to meet strict data sovereignty requirements while enabling AI for government.",
+      "zh": "巴西聯邦 IT 服務商 Serpro 採用 Google Distributed Cloud，在滿足嚴格資料主權要求的同時為政府啟用 AI。"
+    },
+    "overview": {
+      "en": "Serpro is a federalized company providing IT solutions to the Brazilian government. It adopted Google Distributed Cloud (GDC) Air-Gapped installed directly within Serpro's data centers to meet strict national regulations and the highest security standards. The technology enables physical isolation and local data residency with access restrictions, allowing sensitive government agencies in Defense, Public Health, and Justice to run advanced cloud services including AI and ML without compromising data sovereignty.",
+      "zh": "Serpro 是為巴西政府提供 IT 解決方案的聯邦化公司。它採用直接安裝在 Serpro 資料中心內的 Google Distributed Cloud（GDC）氣隙版，以滿足嚴格的國家法規和最高安全標準。該技術實現物理隔離和本地資料駐留及存取限制，使國防、公共衛生和司法等敏感政府機構能夠在不損害資料主權的情況下運行包括 AI 和 ML 在內的先進雲端服務。"
+    },
+    "highlights": {
+      "en": [
+        "Deployed Google Distributed Cloud (GDC) Air-Gapped within Serpro's own data centers for full data sovereignty.",
+        "Enables sensitive government workloads in Defense, Public Health, and Justice to use advanced AI and cloud services.",
+        "Physical isolation ensures local data residency compliant with Brazilian national regulations.",
+        "Gemini on GDC Air-Gapped is now available in Brazil, enabling sovereign AI for federal agencies."
+      ],
+      "zh": [
+        "在 Serpro 自有資料中心內部署 Google Distributed Cloud（GDC）氣隙版，實現完全資料主權。",
+        "使國防、公共衛生和司法等敏感政府工作負載能夠使用先進 AI 和雲端服務。",
+        "物理隔離確保符合巴西國家法規的本地資料駐留。",
+        "GDC 氣隙版上的 Gemini 現已在巴西推出，為聯邦機構提供主權 AI。"
+      ]
+    },
+    "technologies": ["Google Distributed Cloud", "Gemini", "Vertex AI", "Google Cloud AI"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Serpro expands infrastructure and strengthens the government cloud",
+        "url": "https://tiinside.com.br/en/25/02/2025/serpro-amplia-infraestrutura-e-fortalece-a-nuvem-de-governo/"
+      },
+      {
+        "title": "Serpro's Government Cloud Provides Google AI",
+        "url": "https://tiinside.com.br/en/11/09/2025/nuvem-de-governo-do-serpro-disponibiliza-a-do-google/"
+      }
+    ]
+  },
+  {
+    "id": "public-sector-nonprofits-data-the-asteroid-institute",
+    "industry": "public-sector-nonprofits",
+    "agentType": "data",
+    "company": "The Asteroid Institute",
+    "isNew": false,
+    "summary": {
+      "en": "The Asteroid Institute used Google Cloud AI to discover 27,500 new asteroid candidates from existing astronomical data.",
+      "zh": "小行星研究所利用 Google Cloud AI 從現有天文資料中發現 27,500 個新小行星候選體。"
+    },
+    "overview": {
+      "en": "The Asteroid Institute, a program of the nonprofit B612 Foundation, partnered with Google Cloud to apply cloud computing and AI algorithms to deep-field sky surveys to discover hidden asteroids. Using the THOR algorithm and the ADAM platform on Google Kubernetes Engine with 5.4 billion observations stored in BigQuery, the institute identified 27,500 new high-confidence asteroid discovery candidates in 2024. This work is critical for planetary defense, solar system research, and asteroid resource exploration.",
+      "zh": "小行星研究所是非營利組織 B612 基金會的項目，與 Google Cloud 合作，將雲端計算和 AI 算法應用於深場天空巡天以發現隱藏的小行星。使用 THOR 算法和 Google Kubernetes Engine 上的 ADAM 平台，並在 BigQuery 中存儲 54 億次觀測資料，該研究所在 2024 年識別了 27,500 個高置信度的新小行星發現候選體。這項工作對行星防禦、太陽系研究和小行星資源探索至關重要。"
+    },
+    "highlights": {
+      "en": [
+        "Discovered 27,500 new high-confidence asteroid candidates in 2024 using Google Cloud AI.",
+        "5.4 billion astronomical observations stored and analyzed in BigQuery using the THOR algorithm.",
+        "ADAM platform runs on Google Kubernetes Engine to execute planetary-scale computational workloads.",
+        "Partnership with Google Cloud dates back to 2017, with the goal of transforming asteroid discovery at scale."
+      ],
+      "zh": [
+        "2024 年利用 Google Cloud AI 發現 27,500 個高置信度的新小行星候選體。",
+        "54 億次天文觀測資料存儲在 BigQuery 中，使用 THOR 算法進行分析。",
+        "ADAM 平台在 Google Kubernetes Engine 上運行，執行行星規模的計算工作負載。",
+        "與 Google Cloud 的合作可追溯至 2017 年，目標是大規模改變小行星發現方式。"
+      ]
+    },
+    "technologies": ["BigQuery", "Google Kubernetes Engine", "Vertex AI", "Google Cloud"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Asteroid Institute and Google Cloud Identify 27,500 New Asteroids",
+        "url": "https://www.prnewswire.com/news-releases/asteroid-institute-and-google-cloud-identify-27-500-new-asteroids-revolutionizing-minor-planet-discovery-with-cloud-technology-302131249.html"
+      },
+      {
+        "title": "How Google Cloud and B612 discover new asteroids | Google Cloud Blog",
+        "url": "https://cloud.google.com/blog/products/data-analytics/how-google-cloud-and-b612-discover-new-asteroids"
+      }
+    ]
+  },
+  {
+    "id": "public-sector-nonprofits-data-the-north-american-blueberry-council",
+    "industry": "public-sector-nonprofits",
+    "agentType": "data",
+    "company": "The North American Blueberry Council",
+    "isNew": false,
+    "summary": {
+      "en": "The North American Blueberry Council built the BerrySmart Insights Fresh platform on Looker and BigQuery to deliver supply and demand intelligence to the blueberry industry.",
+      "zh": "北美藍莓協會在 Looker 和 BigQuery 上建立 BerrySmart Insights Fresh 平台，為藍莓產業提供供需情報。"
+    },
+    "overview": {
+      "en": "The North American Blueberry Council (NABC), a nonprofit supporting the blueberry industry, built the BerrySmart Insights Fresh platform using Looker Embedded and BigQuery as its core analytics infrastructure. The platform delivers supply and demand insights to growers and suppliers across North America, integrating data from multiple agricultural sources including major berry suppliers and USDA data. Migrating to BigQuery reduced storage and compute costs by 90% and delivered 40% faster query performance.",
+      "zh": "北美藍莓協會（NABC）是支持藍莓產業的非營利組織，以 Looker Embedded 和 BigQuery 為核心分析基礎架構建立了 BerrySmart Insights Fresh 平台。該平台為北美各地的種植者和供應商提供供需洞察，整合來自多個農業資料來源的資料，包括主要漿果供應商和美國農業部資料。遷移至 BigQuery 使儲存和計算成本降低 90%，查詢效能提升 40%。"
+    },
+    "highlights": {
+      "en": [
+        "BerrySmart Insights Fresh platform delivers weekly supply, demand, inventory, and price data to North American blueberry industry stakeholders.",
+        "Migration to BigQuery reduced storage and compute costs by 90% and improved query speed by 40%.",
+        "Integrates data from major berry suppliers (Driscoll's, California Giant, etc.) and USDA sources.",
+        "Looker Embedded provides self-service analytics including geography, price point, and household income filters."
+      ],
+      "zh": [
+        "BerrySmart Insights Fresh 平台每週向北美藍莓產業利益相關者提供供應、需求、庫存和價格資料。",
+        "遷移至 BigQuery 使儲存和計算成本降低 90%，查詢速度提升 40%。",
+        "整合來自主要漿果供應商（Driscoll's、California Giant 等）和美國農業部的資料。",
+        "Looker Embedded 提供自助式分析，包括地理、價格點和家庭收入篩選器。"
+      ]
+    },
+    "technologies": ["Looker", "BigQuery", "Looker Studio"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "North American Blueberry Council case study | Google Cloud",
+        "url": "https://cloud.google.com/customers/nabc"
+      },
+      {
+        "title": "U.S. Highbush Blueberry Council Expands Business Intelligence Program",
+        "url": "https://ushbc.blueberry.org/newsroom/u-s-highbush-blueberry-council-expands-business-intelligence-program-with-launch-of-berrysmart-insights-fresh-platform/"
+      }
+    ]
+  },
+  {
+    "id": "public-sector-nonprofits-data-the-south-florida-water-management-district",
+    "industry": "public-sector-nonprofits",
+    "agentType": "data",
+    "company": "The South Florida Water Management District",
+    "isNew": false,
+    "summary": {
+      "en": "The South Florida Water Management District built a Kissimmee River wetlands monitoring tool using Vertex AI and Google Earth Engine, cutting data processing from hours to minutes.",
+      "zh": "南佛羅里達水管理局運用 Vertex AI 和 Google Earth Engine 建立基西米河濕地監測工具，將資料處理時間從數小時縮短至數分鐘。"
+    },
+    "overview": {
+      "en": "The South Florida Water Management District built the Kissimmee River Floodplain Hydroperiod Calculator using Google Earth Engine, Vertex AI, Cloud Run, BigQuery, and Gemini to monitor seasonal water coverage across 40 square miles of wetlands. Developed in just 10 months, the tool reduced data processing times from hours to minutes, giving scientists faster access to critical environmental data for the Kissimmee River restoration effort, one of the world's largest river restoration projects.",
+      "zh": "南佛羅里達水管理局利用 Google Earth Engine、Vertex AI、Cloud Run、BigQuery 和 Gemini 建立基西米河洪泛平原水文週期計算器，監測 40 平方英里濕地的季節性水覆蓋情況。該工具在 10 個月內開發完成，將資料處理時間從數小時縮短至數分鐘，使科學家能更快速獲取基西米河修復工作（世界上最大的河流修復項目之一）的關鍵環境資料。"
+    },
+    "highlights": {
+      "en": [
+        "Kissimmee River Floodplain Hydroperiod Calculator monitors seasonal water coverage across 40 square miles of wetlands.",
+        "Developed in 10 months; reduced data processing times from hours to minutes.",
+        "Uses Google Earth Engine, Vertex AI, Cloud Run, BigQuery, and Gemini in an integrated pipeline.",
+        "Supports one of the world's largest river restoration projects spanning 44 miles and nearly 20,000 acres."
+      ],
+      "zh": [
+        "基西米河洪泛平原水文週期計算器監測 40 平方英里濕地的季節性水覆蓋情況。",
+        "10 個月內開發完成，將資料處理時間從數小時縮短至數分鐘。",
+        "在整合管線中使用 Google Earth Engine、Vertex AI、Cloud Run、BigQuery 和 Gemini。",
+        "支持世界上最大的河流修復項目之一，跨越 44 英里、近 20,000 英畝。"
+      ]
+    },
+    "technologies": ["Google Earth Engine", "Vertex AI", "Cloud Run", "BigQuery", "Gemini"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "How a Florida Water District Uses Google Tools for Quality Management | StateTech Magazine",
+        "url": "https://statetechmagazine.com/article/2023/03/how-florida-water-district-uses-google-tools-quality-management"
+      }
+    ]
+  },
+  {
+    "id": "public-sector-nonprofits-data-u-s-department-of-energy-s-17-national-labs",
+    "industry": "public-sector-nonprofits",
+    "agentType": "data",
+    "company": "U.S. Department of Energy's 17 National Labs",
+    "isNew": true,
+    "summary": {
+      "en": "The DOE's 17 national labs use Gemini for Government's Deep Research to traverse decades of scientific literature and find hidden research connections.",
+      "zh": "美國能源部 17 個國家實驗室使用 Gemini for Government 的深度研究功能，從數十年的科學文獻中發現隱藏的研究關聯。"
+    },
+    "overview": {
+      "en": "The U.S. Department of Energy's 17 National Labs are leveraging Gemini for Government, a secure platform with accredited interfaces, as part of the Genesis Mission to accelerate national scientific productivity. The Deep Research feature enables researchers to traverse decades of scientific literature and experimental databases to identify previously unseen connections across different research initiatives or flag contradictory findings. The platform supports a 'Big Team Science' approach connecting the entire DOE complex.",
+      "zh": "美國能源部的 17 個國家實驗室正在利用 Gemini for Government（一個具有認證介面的安全平台），作為加速國家科學生產力的 Genesis 任務的一部分。深度研究功能使研究人員能夠遍歷數十年的科學文獻和實驗資料庫，識別不同研究計劃間先前未被發現的關聯，或標記值得重新調查的矛盾發現。該平台支持連接整個 DOE 機構的「大型科學團隊」方式。"
+    },
+    "highlights": {
+      "en": [
+        "Deep Research in Gemini for Government traverses decades of scientific literature to find unseen research connections.",
+        "Supports the U.S. government's Genesis Mission to accelerate national scientific discovery and productivity.",
+        "Enables a 'Big Team Science' approach connecting research across all 17 DOE National Labs.",
+        "Provides native multimodal reasoning across technical reports, code, images, and scientific datasets."
+      ],
+      "zh": [
+        "Gemini for Government 中的深度研究功能遍歷數十年科學文獻，發現未曾察覺的研究關聯。",
+        "支持美國政府加速國家科學發現和生產力的 Genesis 任務。",
+        "實現連接所有 17 個 DOE 國家實驗室研究的「大型科學團隊」方式。",
+        "提供跨技術報告、程式碼、圖像和科學資料集的原生多模態推理。"
+      ]
+    },
+    "technologies": ["Gemini", "Gemini for Government", "Vertex AI", "Google Cloud AI"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Accelerating the Genesis Mission with Gemini for Government | Google Cloud Blog",
+        "url": "https://cloud.google.com/blog/topics/public-sector/how-google-public-sector-and-google-deepmind-can-power-the-genesis-mission-and-a-new-era-of-scientific-discovery"
+      },
+      {
+        "title": "Google DeepMind Supports U.S. Department of Energy on Genesis Mission",
+        "url": "https://deepmind.google/blog/google-deepmind-supports-us-department-of-energy-on-genesis/"
+      }
+    ]
+  },
+  {
+    "id": "public-sector-nonprofits-data-universit-bourgogne-europe",
+    "industry": "public-sector-nonprofits",
+    "agentType": "data",
+    "company": "Université Bourgogne Europe",
+    "isNew": false,
+    "summary": {
+      "en": "Université Bourgogne Europe, winner of the GÉANT European program, uses Google Cloud to accelerate generative AI and knowledge graph research.",
+      "zh": "榮獲 GÉANT 歐洲項目的勃艮第-歐洲大學，運用 Google Cloud 加速生成式 AI 和知識圖譜研究。"
+    },
+    "overview": {
+      "en": "Université Bourgogne Europe, a French research institution with 300 researchers, was selected as one of fifteen winners of the GÉANT European cloud program. The university used Google Cloud resources to accelerate AI research including generative AI and knowledge graph construction. The lab accessed significant computing power to test large-scale models, develop innovative tools, and accelerate research timelines. Students also gained practical cloud skills through workshops led by Google Cloud experts.",
+      "zh": "勃艮第-歐洲大學是一所擁有 300 名研究人員的法國研究機構，被選為 GÉANT 歐洲雲端項目的 15 個獲獎者之一。大學利用 Google Cloud 資源加速包括生成式 AI 和知識圖譜建構在內的 AI 研究。研究室獲得強大的計算能力來測試大規模模型、開發創新工具並加速研究時程。學生還透過 Google Cloud 專家主導的研討會獲得了實用的雲端技能。"
+    },
+    "highlights": {
+      "en": [
+        "Selected as one of 15 winners of the GÉANT European cloud program for AI research acceleration.",
+        "Conducted comparative study evaluating knowledge graph construction quality using different language models.",
+        "Google Cloud's computing resources enabled testing of large-scale generative AI models previously infeasible.",
+        "Students gained practical cloud skills through workshops led by Google Cloud experts."
+      ],
+      "zh": [
+        "入選 GÉANT 歐洲雲端項目 15 個 AI 研究加速獲獎者之一。",
+        "進行比較研究，評估使用不同語言模型自動構建知識圖譜的品質。",
+        "Google Cloud 的計算資源使測試以前不可行的大規模生成式 AI 模型成為可能。",
+        "學生透過 Google Cloud 專家主導的研討會獲得實用的雲端技能。"
+      ]
+    },
+    "technologies": ["Vertex AI", "Gemini", "Google Cloud", "BigQuery"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Université Bourgogne case study | Google Cloud",
+        "url": "https://cloud.google.com/customers/universitedebourgogne"
+      }
+    ]
+  },
+  {
+    "id": "public-sector-nonprofits-data-warren-county-kentucky",
+    "industry": "public-sector-nonprofits",
+    "agentType": "data",
+    "company": "Warren County, Kentucky",
+    "isNew": false,
+    "summary": {
+      "en": "Warren County, Kentucky used Gemini-powered Sensemaker to analyze 1 million opinions from 7,700 residents, saving 28 days of analysis work.",
+      "zh": "肯塔基州沃倫縣運用 Gemini 驅動的 Sensemaker 分析 7,700 名居民的百萬條意見，節省 28 天分析工作。"
+    },
+    "overview": {
+      "en": "Warren County, Kentucky used Sensemaker—a tool developed by Google's Jigsaw team and powered by Gemini on Vertex AI—to analyze community input from over 7,700 residents during a month-long digital town hall about the county's growth to 2050. Residents shared 3,940 unique ideas and one million opinions. Sensemaker processed the entire dataset in under 30 minutes, saving the project team an average of 28 days of analysis work. It identified 12 key topics, 70 subtopics, and 2,370 ideas with 80%+ consensus, making it one of the largest digital town halls in U.S. history.",
+      "zh": "肯塔基州沃倫縣使用 Sensemaker——Google Jigsaw 團隊開發、由 Vertex AI 上 Gemini 驅動的工具——在為期一個月的數位市政廳期間分析來自 7,700 多名居民的社區意見，討論縣域到 2050 年的發展規劃。居民分享了 3,940 個獨特想法和百萬條意見。Sensemaker 在 30 分鐘內處理完整個資料集，為項目團隊節省了平均 28 天的分析工作。它識別出 12 個關鍵主題、70 個子主題以及 2,370 個獲得 80% 以上共識的想法，使其成為美國歷史上最大的數位市政廳之一。"
+    },
+    "highlights": {
+      "en": [
+        "Over 7,700 residents shared 3,940 unique ideas and 1 million opinions in a month-long digital town hall.",
+        "Sensemaker processed the entire dataset in under 30 minutes, saving 28 days of human analysis work.",
+        "Identified 12 key topics, 70 subtopics, and 2,370 ideas with at least 80% resident consensus.",
+        "One of the largest digital town halls ever held in the United States, powered by Gemini on Vertex AI."
+      ],
+      "zh": [
+        "7,700 多名居民在為期一個月的數位市政廳中分享了 3,940 個獨特想法和百萬條意見。",
+        "Sensemaker 在 30 分鐘內處理完整個資料集，節省 28 天的人工分析工作。",
+        "識別出 12 個關鍵主題、70 個子主題以及 2,370 個獲得至少 80% 居民共識的想法。",
+        "美國有史以來最大的數位市政廳之一，由 Vertex AI 上的 Gemini 驅動。"
+      ]
+    },
+    "technologies": ["Gemini", "Vertex AI", "Google Cloud AI"],
+    "sources": [
+      {
+        "title": "Google Cloud — 1,302 real-world gen AI use cases",
+        "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Warren County KY Case Study | Google Cloud",
+        "url": "https://cloud.google.com/customers/warren-county-ky"
+      },
+      {
+        "title": "How a small Kentucky city used AI to help chart a course for its future",
+        "url": "https://www.techbrew.com/stories/2025/04/22/bowling-green-kentucky-ai-tool-google-jigsaw-sensemaker"
+      }
+    ]
+  }
+]
