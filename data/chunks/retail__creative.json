@@ -82,9 +82,12 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Google Cloud customers disclose GenAI strengths, weaknesses | TechTarget",
+        "url": "https://www.techtarget.com/searchenterpriseai/news/366580936/Google-Cloud-customers-disclose-GenAI-strengths-weaknesses"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "retail-creative-bison-coolers",

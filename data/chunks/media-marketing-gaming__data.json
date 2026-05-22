@@ -29,7 +29,14 @@
         "透過全託管 Dataproc 支援 30 多種開源工具與框架，無需手動管理叢集。"
       ]
     },
-    "technologies": ["BigQuery", "Dataproc", "Cloud Storage", "Cloud Composer", "Vertex AI", "Google Kubernetes Engine"],
+    "technologies": [
+      "BigQuery",
+      "Dataproc",
+      "Cloud Storage",
+      "Cloud Composer",
+      "Vertex AI",
+      "Google Kubernetes Engine"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -71,14 +78,25 @@
         "BigQuery 支撐廣告活動衡量與受眾洞察的資料分析層。"
       ]
     },
-    "technologies": ["Vertex AI", "BigQuery", "Gemini"],
+    "technologies": [
+      "Vertex AI",
+      "BigQuery",
+      "Gemini"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "New Way Now: AndesML powers retail media with Gemini and Vertex AI | YouTube",
+        "url": "https://www.youtube.com/watch?v=tgaVn38Z15w"
+      },
+      {
+        "title": "AndesML | Retail Media Platform for Retailers & E-commerce",
+        "url": "https://www.andesml.com/en"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "media-marketing-gaming-data-audiomob",
@@ -110,7 +128,10 @@
         "平台得以擴展規模，處理快速增長的全球廣告庫存而無基礎設施瓶頸。"
       ]
     },
-    "technologies": ["BigQuery", "Looker"],
+    "technologies": [
+      "BigQuery",
+      "Looker"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -154,7 +175,10 @@
         "基於 Google Cloud 基礎設施，支援快速可靠的創作者與品牌大規模配對。"
       ]
     },
-    "technologies": ["Google Cloud", "Vertex AI"],
+    "technologies": [
+      "Google Cloud",
+      "Vertex AI"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -196,7 +220,14 @@
         "基於 Vertex AI 與 Gemini，攝取大量多模態遙測資料並即時提供語音或文字指導。"
       ]
     },
-    "technologies": ["Vertex AI", "Gemini", "BigQuery", "Cloud Storage", "Cloud Run", "Pub/Sub"],
+    "technologies": [
+      "Vertex AI",
+      "Gemini",
+      "BigQuery",
+      "Cloud Storage",
+      "Cloud Run",
+      "Pub/Sub"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -242,7 +273,12 @@
         "2026 年 1 月與 Google Cloud 建立多年期主要 AI 合作夥伴關係，深化各業務領域 AI 整合。"
       ]
     },
-    "technologies": ["Gemini", "Vertex AI", "Google Workspace", "Google Cloud"],
+    "technologies": [
+      "Gemini",
+      "Vertex AI",
+      "Google Workspace",
+      "Google Cloud"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -288,7 +324,12 @@
         "Google Cloud 宣布成為 Jaguar TCS Racing 2024/25 Formula E 賽季官方雲端合作夥伴。"
       ]
     },
-    "technologies": ["Vertex AI", "Gemini", "Google Cloud", "BigQuery"],
+    "technologies": [
+      "Vertex AI",
+      "Gemini",
+      "Google Cloud",
+      "BigQuery"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -334,7 +375,14 @@
         "2025 年被 Later 收購後，合併平台年化 GMV 運行率超過 24 億美元。"
       ]
     },
-    "technologies": ["BigQuery", "Vertex AI", "Cloud SQL", "Cloud Storage", "Compute Engine", "Memorystore"],
+    "technologies": [
+      "BigQuery",
+      "Vertex AI",
+      "Cloud SQL",
+      "Cloud Storage",
+      "Compute Engine",
+      "Memorystore"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -380,7 +428,12 @@
         "2025 年 11 月 Google 與 McLaren Racing 深化合作夥伴關係，進一步加強 Gemini 與 AI 整合。"
       ]
     },
-    "technologies": ["Google Cloud", "Gemini", "Vertex AI", "BigQuery"],
+    "technologies": [
+      "Google Cloud",
+      "Gemini",
+      "Vertex AI",
+      "BigQuery"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -426,7 +479,11 @@
         "為全球首個基於關鍵字的聯網電視廣告受眾構建器提供支援。"
       ]
     },
-    "technologies": ["Google Cloud", "Security Command Center", "Google Analytics"],
+    "technologies": [
+      "Google Cloud",
+      "Security Command Center",
+      "Google Analytics"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -468,7 +525,10 @@
         "AI 平台從玩家情緒中識別具體改進領域，加速遊戲更新決策。"
       ]
     },
-    "technologies": ["BigQuery", "Gemini"],
+    "technologies": [
+      "BigQuery",
+      "Gemini"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -508,7 +568,9 @@
         "是大型媒體公司整合 Google Cloud AI 實現內容智能這一廣泛趨勢的一部分。"
       ]
     },
-    "technologies": ["Vertex AI"],
+    "technologies": [
+      "Vertex AI"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -550,7 +612,13 @@
         "BigQuery 和 Google Cloud 協作工具讓 43 家公司能夠更快速地向讀者提供個性化內容。"
       ]
     },
-    "technologies": ["BigQuery", "Looker", "Google Compute Engine", "Google Workspace", "Cloud Storage"],
+    "technologies": [
+      "BigQuery",
+      "Looker",
+      "Google Compute Engine",
+      "Google Workspace",
+      "Cloud Storage"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -596,7 +664,11 @@
         "與 Ontotext 合作推進語義知識管理，實現更豐富的內容理解。"
       ]
     },
-    "technologies": ["Google Cloud", "Vertex AI", "Cloud Storage"],
+    "technologies": [
+      "Google Cloud",
+      "Vertex AI",
+      "Cloud Storage"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -642,7 +714,12 @@
         "2026 年 4 月在 NAB Show 宣布，此前於 2025 年 8 月宣布合作夥伴關係。"
       ]
     },
-    "technologies": ["Vertex AI", "Gemini", "BigQuery", "Google Cloud"],
+    "technologies": [
+      "Vertex AI",
+      "Gemini",
+      "BigQuery",
+      "Google Cloud"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -688,7 +765,10 @@
         "Spotify 計劃繼續在資料工程和資料科學方面突破邊界，為客戶和創作者構建更好的體驗。"
       ]
     },
-    "technologies": ["Dataflow", "Google Cloud"],
+    "technologies": [
+      "Dataflow",
+      "Google Cloud"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -730,7 +810,9 @@
         "讓聯合報系能透過更相關、資料驅動的大規模廣告定向重新奪回廣告收入。"
       ]
     },
-    "technologies": ["Vertex AI"],
+    "technologies": [
+      "Vertex AI"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -776,7 +858,10 @@
         "提供元資料豐富化、動態縮圖、AI 生成片段和廣告插播智能等 API。"
       ]
     },
-    "technologies": ["Vertex AI", "Google Cloud Marketplace"],
+    "technologies": [
+      "Vertex AI",
+      "Google Cloud Marketplace"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",

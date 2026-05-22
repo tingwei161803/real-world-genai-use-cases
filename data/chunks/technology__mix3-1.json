@@ -29,7 +29,10 @@
         "Abstrakt 是超過 60% 在 Google Cloud 上建立生產工作負載的生成式 AI 新創之一。"
       ]
     },
-    "technologies": ["Vertex AI", "Google Cloud"],
+    "technologies": [
+      "Vertex AI",
+      "Google Cloud"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -73,7 +76,11 @@
         "將 AI 工具與教育內容整合為單一訂閱方案。"
       ]
     },
-    "technologies": ["Gemini Pro", "Imagen", "Google Cloud"],
+    "technologies": [
+      "Gemini Pro",
+      "Imagen",
+      "Google Cloud"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -110,7 +117,10 @@
         "將 AI 應用延伸至攝影機、影像分析及授權用戶的人臉辨識功能。"
       ]
     },
-    "technologies": ["Google Cloud", "Vertex AI"],
+    "technologies": [
+      "Google Cloud",
+      "Vertex AI"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -154,7 +164,11 @@
         "隸屬 AMD AXCENT 計畫，統一整合了遍布全球數十個倉庫的 ERP 系統。"
       ]
     },
-    "technologies": ["Vertex AI", "Google Cloud", "SAP Cortex Framework"],
+    "technologies": [
+      "Vertex AI",
+      "Google Cloud",
+      "SAP Cortex Framework"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -200,7 +214,12 @@
         "AUI 在 Google Cloud 合作擴展計畫中以 3.5 億美元估值籌得 1000 萬美元。"
       ]
     },
-    "technologies": ["Google Cloud", "BigQuery", "Kubernetes", "Vertex AI"],
+    "technologies": [
+      "Google Cloud",
+      "BigQuery",
+      "Kubernetes",
+      "Vertex AI"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -250,7 +269,11 @@
         "為每位 BMC 客戶的 IT 環境提供量身定制的前沿 AI 能力。"
       ]
     },
-    "technologies": ["Vertex AI", "Google Cloud", "Llama 3.1"],
+    "technologies": [
+      "Vertex AI",
+      "Google Cloud",
+      "Llama 3.1"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -298,7 +321,9 @@
         "能在創紀錄的時間內從對話資料中提取洞察。"
       ]
     },
-    "technologies": ["Google Cloud"],
+    "technologies": [
+      "Google Cloud"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -337,7 +362,12 @@
         "使用 Memorystore for Redis Cluster 進行大規模高效能資料管理。"
       ]
     },
-    "technologies": ["Google Cloud", "TPU", "Vertex AI", "Memorystore"],
+    "technologies": [
+      "Google Cloud",
+      "TPU",
+      "Vertex AI",
+      "Memorystore"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -387,7 +417,11 @@
         "透過鼓勵線下、真實世界的人際連結，應對孤獨流行病。"
       ]
     },
-    "technologies": ["Google Cloud", "Elastic", "Vertex AI"],
+    "technologies": [
+      "Google Cloud",
+      "Elastic",
+      "Vertex AI"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -437,7 +471,12 @@
         "是 GoTo Group 與 Google Cloud 在生成式 AI 領域擴大合作的一部分。"
       ]
     },
-    "technologies": ["Vertex AI", "Google Cloud", "Gemini 1.5 Flash", "Speech-to-Text"],
+    "technologies": [
+      "Vertex AI",
+      "Google Cloud",
+      "Gemini 1.5 Flash",
+      "Speech-to-Text"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -487,7 +526,10 @@
         "透過 Google Launchpad Accelerator 計畫獲得顧問諮詢與 AI 輔導支援。"
       ]
     },
-    "technologies": ["Google Cloud", "AI (Machine Learning)"],
+    "technologies": [
+      "Google Cloud",
+      "AI (Machine Learning)"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",

@@ -126,9 +126,16 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Alteryx Launches AI Insights Agent on Google Cloud Marketplace — PR Newswire",
+        "url": "https://www.prnewswire.com/news-releases/alteryx-launches-ai-insights-agent-on-google-cloud-marketplace-bringing-reliable-repeatable-ai-answers-into-gemini-enterprise-302749467.html"
+      },
+      {
+        "title": "Partner-built agents available in Gemini Enterprise | Google Cloud Blog",
+        "url": "https://cloud.google.com/blog/products/ai-machine-learning/partner-built-agents-available-in-gemini-enterprise"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "technology-employee-amd",
@@ -300,9 +307,16 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "How we built a multi-agent system for superior business forecasting | Google Cloud Blog",
+        "url": "https://cloud.google.com/blog/products/ai-machine-learning/how-we-built-a-multi-agent-system-for-superior-business-forecasting"
+      },
+      {
+        "title": "How App Orchid's AI and Google Cloud are changing the game for business data analytics | VentureBeat",
+        "url": "https://venturebeat.com/ai/how-app-orchids-ai-and-google-cloud-are-changing-the-game-for-business-data-analytics"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "technology-employee-atlassian",
@@ -524,9 +538,12 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Box and Google Cloud Expand Strategic Partnership Across Generative AI and Go-to-Market — Business Wire",
+        "url": "https://www.businesswire.com/news/home/20231101353316/en/Box-and-Google-Cloud-Expand-Strategic-Partnership-Across-Generative-AI-and-Go-to-Market"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "technology-employee-causal",
@@ -817,9 +834,16 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "How Flashpoint builds a productive, happy workforce with Gemini | Google Workspace Blog",
+        "url": "https://workspace.google.com/blog/customer-stories/how-flashpoint-builds-productive-happy-workforce-gemini-google-workspace"
+      },
+      {
+        "title": "Flashpoint case study | Google Cloud",
+        "url": "https://cloud.google.com/customers/flashpoint"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "technology-employee-fullstory",
@@ -1041,9 +1065,16 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "How Google Cloud's AI tech stack powers today's startups | Google Cloud Blog",
+        "url": "https://cloud.google.com/blog/topics/startups/differentiated-ai-tech-stack-drives-startup-innovation-google-builders-forum"
+      },
+      {
+        "title": "Gobii — Your AI Team, Always On | Gobii",
+        "url": "https://gobii.ai/"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "technology-employee-goodlord",
@@ -1216,9 +1247,16 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "LiveX AI Brings LiveX AI Agent and ChurnControl to Google Cloud Marketplace — PR Newswire",
+        "url": "https://www.prnewswire.com/news-releases/livex-ai-brings-livex-ai-agent-and-churncontrol-to-google-cloud-marketplace-302323371.html"
+      },
+      {
+        "title": "LiveX AI Brings AI Agent & ChurnControl to Google Cloud Marketplace | LiveX AI Blog",
+        "url": "https://www.livex.ai/blog/livex-ai-brings-livex-ai-agent-and-churncontrol-to-google-cloud-marketplace"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "technology-employee-lytehouse",
@@ -1259,9 +1297,16 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Lytehouse improves workplace safety with AI-based video intelligence, teams up with Google Cloud | e27",
+        "url": "https://e27.co/lytehouse-improves-workplace-safety-with-ai-based-video-intelligence-teams-up-with-google-cloud-20240927/"
+      },
+      {
+        "title": "EnterpriseSG and Google Cloud Partner to Help Startups and SMEs in Singapore Accelerate AI Adoption | Google Cloud Press Corner",
+        "url": "https://www.googlecloudpresscorner.com/2024-09-20-EnterpriseSG-and-Google-Cloud-Partner-to-Help-Startups-and-SMEs-in-Singapore-Accelerate-AI-Adoption-and-Innovation"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "technology-employee-macro",
@@ -1390,8 +1435,15 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "FinOps Platform DigitalEx Rebrands as Mavvrik; Announces $6.2MM Seed Round — PR Newswire",
+        "url": "https://www.prnewswire.com/news-releases/finops-platform-digitalex-rebrands-as-mavvrik-announces-6-2mm-seed-round-to-address-spiraling-it-costs-302379322.html"
+      },
+      {
+        "title": "Mavvrik | FinOps Foundation Member",
+        "url": "https://www.finops.org/members/mavvrik/"
       }
-    ],
-    "needsReview": true
+    ]
   }
 ]

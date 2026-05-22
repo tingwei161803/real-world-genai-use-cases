@@ -35,9 +35,12 @@
       {
         "title": "Google Cloud — Real-world gen AI use cases from the world's leading organizations",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Auteco Mobility Case Study | Google Cloud",
+        "url": "https://cloud.google.com/customers/auteco-mobility"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "automotive-logistics-customer-continental",
@@ -510,9 +513,12 @@
       {
         "title": "Google Cloud — Real-world gen AI use cases from the world's leading organizations",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "704 Apps caso de sucesso | Google Cloud",
+        "url": "https://cloud.google.com/customers/intl/pt-br/704-apps?hl=pt-BR"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "automotive-logistics-employee-geotab",
@@ -687,9 +693,12 @@
       {
         "title": "Google Cloud — Real-world gen AI use cases from the world's leading organizations",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "How Oxa drives collaboration at scale with Google Workspace | Google Workspace Blog",
+        "url": "https://workspace.google.com/blog/customer-stories/oxa-unlocks-collaboration-scale-google-workspace"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "automotive-logistics-employee-rivian",
@@ -770,9 +779,12 @@
       {
         "title": "Google Cloud — Real-world gen AI use cases from the world's leading organizations",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "NotebookLM: AI-Powered Research and Learning Assistant Tool | Google Workspace",
+        "url": "https://workspace.google.com/products/notebooklm/"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "automotive-logistics-employee-routematic",
@@ -900,9 +912,12 @@
       {
         "title": "Google Cloud — Real-world gen AI use cases from the world's leading organizations",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "128 ways our customers are using AI for business | Google Workspace Blog",
+        "url": "https://workspace.google.com/blog/ai-and-machine-learning/how-our-customers-transform-work-with-ai"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "automotive-logistics-employee-uber-2",
@@ -940,9 +955,12 @@
       {
         "title": "Google Cloud — Real-world gen AI use cases from the world's leading organizations",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "128 ways our customers are using AI for business | Google Workspace Blog",
+        "url": "https://workspace.google.com/blog/ai-and-machine-learning/how-our-customers-transform-work-with-ai"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "automotive-logistics-code-autozone",
@@ -1901,8 +1919,15 @@
       {
         "title": "Google Cloud — Real-world gen AI use cases from the world's leading organizations",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Mitsubishi Motors Case Study | Google Cloud",
+        "url": "https://cloud.google.com/customers/mitsubishi-motors"
+      },
+      {
+        "title": "Supporting Mitsubishi Motors in implementing Google Security Operations with AI | LiberSky",
+        "url": "https://www.libersky.com/en/post/supporting-mitsubishi-motors-in-implementing-google-security-operations-with-ai"
       }
-    ],
-    "needsReview": true
+    ]
   }
 ]

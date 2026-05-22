@@ -77,9 +77,16 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Ai2 Allen Institute for AI Announces Partnership with Google Cloud to Accelerate Open AI Innovation",
+        "url": "https://www.businesswire.com/news/home/20250408026138/en/Ai2-Allen-Institute-for-AI-Announces-Partnership-with-Google-Cloud-to-Accelerate-Open-AI-Innovation"
+      },
+      {
+        "title": "Highlights from Ai2 at Google Cloud Next | Ai2 Blog",
+        "url": "https://allenai.org/blog/ai2-google-next"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "technology-code-anyscale",
@@ -209,9 +216,16 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Arize AI expands partnership with Google Cloud | Google Cloud Blog",
+        "url": "https://cloud.google.com/blog/products/ai-machine-learning/arize-ai-expands-partnership-with-google-cloud"
+      },
+      {
+        "title": "Arize AI Expands Partnership with Google Cloud To Accelerate Machine Learning Observability | PR Newswire",
+        "url": "https://www.prnewswire.com/news-releases/arize-ai-expands-partnership-with-google-cloud-to-accelerate-machine-learning-observability-301636904.html"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "technology-code-asim",
@@ -290,9 +304,12 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Augment Code case study | Google Cloud",
+        "url": "https://cloud.google.com/customers/augment"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "technology-code-aviator",
@@ -329,9 +346,12 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Aviator scales developer collaboration with Google Cloud | Google Cloud Blog",
+        "url": "https://cloud.google.com/blog/topics/startups/aviator-scales-developer-collaboration-with-google-cloud"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "technology-code-box",
@@ -366,9 +386,16 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Google Cloud Next 2025: How Box and Google Cloud are transforming enterprise content with AI | Box Blog",
+        "url": "https://blog.box.com/google-cloud-next-2025-how-box-and-google-cloud-are-transforming-enterprise-content-ai"
+      },
+      {
+        "title": "Box AI Agents with Google's Agent-2-Agent Protocol | Google Cloud Blog",
+        "url": "https://cloud.google.com/blog/topics/customers/box-ai-agents-with-googles-agent-2-agent-protocol"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "technology-code-canonical",
@@ -406,9 +433,16 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Canonical announces optimized Ubuntu images for Google Cloud's Axion N4A Virtual Machines | Canonical",
+        "url": "https://canonical.com/blog/canonical-announces-optimized-ubuntu-images-for-google-clouds-axion-n4a-virtual-machines"
+      },
+      {
+        "title": "Ubuntu Pro available on Google Cloud | Google Cloud Blog",
+        "url": "https://cloud.google.com/blog/products/compute/ubuntu-pro-available-on-google-cloud"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "technology-code-coderabbit",
@@ -489,9 +523,12 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Cognizant and Google Cloud Expand AI Partnership to Drive Software Development Productivity | PR Newswire",
+        "url": "https://www.prnewswire.com/news-releases/cognizant-and-google-cloud-expand-ai-partnership-to-drive-software-development-productivity-302095248.html"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "technology-code-crew-ai",
@@ -527,9 +564,16 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "The Leading Multi-Agent Platform | CrewAI",
+        "url": "https://crewai.com/"
+      },
+      {
+        "title": "Scale Agents with CrewAI, LangGraph, A2A, and ADK | Google Codelabs",
+        "url": "https://codelabs.developers.google.com/next26/scale-agents"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "technology-code-datacurve",
@@ -650,9 +694,12 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Startups are building the agentic future with Google Cloud | Google Cloud Blog",
+        "url": "https://cloud.google.com/blog/topics/startups/startups-are-building-the-agentic-future-with-google-cloud"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "technology-code-factory-ai",
@@ -773,9 +820,16 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "HydroX AI Graduates from the Google Cloud AI Accelerator | HydroX AI",
+        "url": "https://www.hydrox.ai/blogs/hydrox-ai-graduates-from-the-google-cloud-ai-accelerator"
+      },
+      {
+        "title": "15 new startups join Google AI Accelerator | Google Cloud Blog",
+        "url": "https://cloud.google.com/blog/topics/startups/new-startups-join-google-ai-accelerator"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "technology-code-inferact",
@@ -933,9 +987,16 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Labelbox partners with Google Cloud to offer LLM human evaluation services | PR Newswire",
+        "url": "https://www.prnewswire.com/news-releases/labelbox-partners-with-google-cloud-to-offer-llm-human-evaluation-services-302113125.html"
+      },
+      {
+        "title": "Google Cloud partners with Labelbox to offer LLM human evaluation services | Labelbox Blog",
+        "url": "https://labelbox.com/blog/google-cloud-partners-with-labelbox-to-offer-llm-human-evaluation-services/"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "technology-code-linear",
@@ -973,9 +1034,16 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Using AI to detect similar issues | Linear",
+        "url": "https://linear.app/now/using-ai-to-detect-similar-issues"
+      },
+      {
+        "title": "Product workflow tool Linear uses Google Cloud databases | Google Cloud Blog",
+        "url": "https://cloud.google.com/blog/products/databases/product-workflow-tool-linear-uses-google-cloud-databases"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "technology-code-lovable",
@@ -1144,9 +1212,16 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "From Agents to Analytics: What's New from Neo4j on Google Cloud | Neo4j Blog",
+        "url": "https://neo4j.com/blog/graph-database/from-agents-to-analytics-whats-new-from-neo4j-on-google-cloud/"
+      },
+      {
+        "title": "Using the Neo4j Extension in Gemini CLI | Google Cloud Blog",
+        "url": "https://cloud.google.com/blog/topics/developers-practitioners/using-the-neo4j-extension-in-gemini-cli"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "technology-code-netapp",
@@ -1184,9 +1259,16 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "NetApp Transforms Enterprise Cloud with Google Cloud | NetApp Newsroom",
+        "url": "https://www.netapp.com/newsroom/press-releases/news-rel-20251014-235503/"
+      },
+      {
+        "title": "Launching Agentic AI with Google Cloud NetApp Volumes and Google Gemini Enterprise | NetApp Community",
+        "url": "https://community.netapp.com/t5/Tech-ONTAP-Blogs/Launching-Agentic-AI-with-Google-Cloud-NetApp-Volumes-and-Google-Gemini/ba-p/463108"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "technology-code-pinecone",
@@ -1224,9 +1306,16 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Pinecone Case Study | Google Cloud",
+        "url": "https://cloud.google.com/customers/pinecone"
+      },
+      {
+        "title": "Pinecone is now available on the Google Cloud Marketplace | Pinecone",
+        "url": "https://www.pinecone.io/blog/pinecone-gcp-marketplace/"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "technology-code-qodo",
@@ -1264,9 +1353,12 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Supercharging Open Source Projects With Free AI Code Reviews | DEV Community / Google AI",
+        "url": "https://dev.to/googleai/supercharging-open-source-projects-with-free-ai-code-reviews-l2m"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "technology-code-quanscient",
@@ -1304,9 +1396,12 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Quanscient case study | Google Cloud",
+        "url": "https://cloud.google.com/customers/quanscient"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "technology-code-quanscient-2",
@@ -1344,9 +1439,12 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Quanscient case study | Google Cloud",
+        "url": "https://cloud.google.com/customers/quanscient"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "technology-code-quantiphi",
@@ -1471,9 +1569,12 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Introducing Resolve AI: AI-Powered Incident Management Platform | Resolve AI Blog",
+        "url": "https://resolve.ai/blog/introducing-resolve-ai"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "technology-code-safe-superintelligence",
@@ -1511,9 +1612,16 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Ilya Sutskever taps Google Cloud to power his AI startup's research | TechCrunch",
+        "url": "https://techcrunch.com/2025/04/09/ilya-sutskever-taps-google-cloud-to-power-his-ai-startups-research/"
+      },
+      {
+        "title": "AI startup Safe Superintelligence to use Google's TPU chips for research | Data Center Dynamics",
+        "url": "https://www.datacenterdynamics.com/en/news/ai-startup-safe-superintelligence-to-use-googles-tpu-chips-for-research/"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "technology-code-sieve",
@@ -1550,9 +1658,16 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Sieve: Video datasets for frontier AI | Y Combinator",
+        "url": "https://www.ycombinator.com/companies/sieve"
+      },
+      {
+        "title": "Supporting Y Combinator AI startups with Google Cloud technology | Google Cloud Blog",
+        "url": "https://cloud.google.com/blog/topics/startups/supporting-y-combinator-ai-startups-with-google-cloud-technology"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "technology-code-snorkel-ai",
@@ -1725,9 +1840,12 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Trimble Systems Customer Success Story | Google Workspace",
+        "url": "https://workspace.google.com/customers/trimble/"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "technology-code-turbopuffer",
@@ -1852,9 +1970,12 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Vercel collaborates with Google for Gemini 3 Pro Preview launch | Vercel Blog",
+        "url": "https://vercel.com/blog/vercel-collaborates-with-google-for-gemini-3-pro-launch"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "technology-code-vessl-ai",
@@ -1936,9 +2057,16 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Weights & Biases Wins Google Cloud Technology Partner of the Year Award for Generative AI | BusinessWire",
+        "url": "https://www.businesswire.com/news/home/20240409131930/en/Weights-Biases-Wins-Google-Cloud-Technology-Partner-of-the-Year-Award-for-Generative-AI---Overall-Impact"
+      },
+      {
+        "title": "Weights & Biases on Google Cloud | Weights & Biases",
+        "url": "https://wandb.ai/site/partners/googlecloud/"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "technology-code-windsurf",
@@ -1976,9 +2104,12 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "AI Models | Windsurf Docs",
+        "url": "https://docs.windsurf.com/windsurf/models"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "technology-code-wipro",

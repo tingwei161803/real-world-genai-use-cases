@@ -29,7 +29,11 @@
         "Poe 支援文字、圖片、影片及音訊等多模態互動。"
       ]
     },
-    "technologies": ["Vertex AI", "Gemini", "Google Cloud"],
+    "technologies": [
+      "Vertex AI",
+      "Gemini",
+      "Google Cloud"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -71,7 +75,11 @@
         "與 Google Cloud 的合作於 2025 年 Cloud Next 進一步擴展。"
       ]
     },
-    "technologies": ["Gemini", "Vertex AI", "Vertex AI Search"],
+    "technologies": [
+      "Gemini",
+      "Vertex AI",
+      "Vertex AI Search"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -115,14 +123,24 @@
         "Replicant 服務需要可靠、全天候客戶對話自動化的企業品牌。"
       ]
     },
-    "technologies": ["Gemini", "Google Cloud"],
+    "technologies": [
+      "Gemini",
+      "Google Cloud"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "150 AI use cases from leading startups and digital natives | Google Cloud Blog",
+        "url": "https://cloud.google.com/blog/topics/startups/150-ai-use-cases-leading-startups-and-digital-natives"
+      },
+      {
+        "title": "Replicant: Autonomous Customer Service AI | replicant.ai",
+        "url": "https://www.replicant.ai/"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "technology-customer-signify-s",
@@ -154,7 +172,10 @@
         "正探索將 GKE 用於新 AI 工作負載，包括多叢集監管。"
       ]
     },
-    "technologies": ["Google Kubernetes Engine", "Google Cloud"],
+    "technologies": [
+      "Google Kubernetes Engine",
+      "Google Cloud"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -198,7 +219,12 @@
         "參與基礎設施、UX、成長、銷售及領導力等主題的導師指導與工作坊。"
       ]
     },
-    "technologies": ["Vertex AI", "Gemini", "Google Agentspace", "Google Cloud"],
+    "technologies": [
+      "Vertex AI",
+      "Gemini",
+      "Google Agentspace",
+      "Google Cloud"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -240,7 +266,11 @@
         "Snapchat 的 My AI 是目前規模最大的消費者端 AI 聊天機器人之一。"
       ]
     },
-    "technologies": ["Gemini", "Vertex AI", "Google Cloud"],
+    "technologies": [
+      "Gemini",
+      "Vertex AI",
+      "Google Cloud"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -286,7 +316,12 @@
         "Vertex AI 的快速開發環境讓團隊能快速迭代並部署 AI 功能。"
       ]
     },
-    "technologies": ["Gemini Flash", "Imagen", "Vertex AI", "Google Cloud"],
+    "technologies": [
+      "Gemini Flash",
+      "Imagen",
+      "Vertex AI",
+      "Google Cloud"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -328,7 +363,11 @@
         "Google Cloud Contact Center AI 與 Twilio Flex 原生整合，支援 AI 驅動的虛擬客服代理。"
       ]
     },
-    "technologies": ["Vertex AI", "Google Cloud", "Gemini"],
+    "technologies": [
+      "Vertex AI",
+      "Google Cloud",
+      "Gemini"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -370,7 +409,10 @@
         "企業客戶包括 Amazon Ring、Intuit、New York Life 及 ServiceTitan。"
       ]
     },
-    "technologies": ["Gemini", "Google Cloud"],
+    "technologies": [
+      "Gemini",
+      "Google Cloud"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -416,7 +458,15 @@
         "Translation API 自動識別語言並翻譯成英文，讓用戶從模型獲得更佳結果。"
       ]
     },
-    "technologies": ["Gemini Flash", "Natural Language AI", "Text-to-Speech AI", "Imagen", "Vertex AI", "Translation API", "Google Cloud"],
+    "technologies": [
+      "Gemini Flash",
+      "Natural Language AI",
+      "Text-to-Speech AI",
+      "Imagen",
+      "Vertex AI",
+      "Translation API",
+      "Google Cloud"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -458,7 +508,13 @@
         "持續將 AI 功能擴展至更多全球用戶與手機系列。"
       ]
     },
-    "technologies": ["Gemini", "Vertex AI", "Speech-to-Text", "Chirp", "Google Cloud"],
+    "technologies": [
+      "Gemini",
+      "Vertex AI",
+      "Speech-to-Text",
+      "Chirp",
+      "Google Cloud"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",

@@ -25,7 +25,13 @@
         "此合作使個人創作者至大型企業等各類 Adobe 用戶，均能在熟悉的工作流程中直接使用 Google 最新生成式 AI 模型。"
       ]
     },
-    "technologies": ["Imagen 3", "Veo 2", "Gemini", "Vertex AI", "Adobe Firefly"],
+    "technologies": [
+      "Imagen 3",
+      "Veo 2",
+      "Gemini",
+      "Vertex AI",
+      "Adobe Firefly"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -67,7 +73,11 @@
         "整個平台原生建立於 Google Cloud 基礎設施上，確保可擴展性與穩定性。"
       ]
     },
-    "technologies": ["Vertex AI", "Veo", "Google Cloud"],
+    "technologies": [
+      "Vertex AI",
+      "Veo",
+      "Google Cloud"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -102,7 +112,12 @@
         "平台讓非技術背景的創作者也能透過繪本與動畫形式訴說故事。"
       ]
     },
-    "technologies": ["Veo", "Gemini", "Vertex AI", "Google Cloud"],
+    "technologies": [
+      "Veo",
+      "Gemini",
+      "Vertex AI",
+      "Google Cloud"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -140,14 +155,25 @@
         "展示小型到中型運動組織如何實際應用 AI。"
       ]
     },
-    "technologies": ["Gemini", "Google Drive", "Google Workspace"],
+    "technologies": [
+      "Gemini",
+      "Google Drive",
+      "Google Workspace"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "South Carolina - American Cornhole League: Gemini in Drive | YouTube (Google Workspace)",
+        "url": "https://www.youtube.com/watch?v=euQbThletQM"
+      },
+      {
+        "title": "Rock Hill's cornhole league featured in Google Super Bowl ad | Post and Courier",
+        "url": "https://www.postandcourier.com/rock-hill/rock-hill-cornhole-super-bowl-ad-google-workspace/article_c0046be6-e7c4-11ef-9971-93458cc26964.html"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "media-marketing-gaming-creative-ateme",
@@ -177,7 +203,12 @@
         "讓客戶能夠大規模進入新語言市場，並符合法規無障礙要求。"
       ]
     },
-    "technologies": ["Vertex AI", "Gemini", "Google Kubernetes Engine", "Google Cloud Storage"],
+    "technologies": [
+      "Vertex AI",
+      "Gemini",
+      "Google Kubernetes Engine",
+      "Google Cloud Storage"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -219,14 +250,25 @@
         "Atlas AI Studio 作為平台，將這些自主 AI 代理整合至遊戲開發流程中。"
       ]
     },
-    "technologies": ["Vertex AI", "Google Cloud", "Gemini"],
+    "technologies": [
+      "Vertex AI",
+      "Google Cloud",
+      "Gemini"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Atlas Partners with Google Cloud to Power the Next Generation of AI-Native 3D Game Development | GlobeNewswire",
+        "url": "https://www.globenewswire.com/news-release/2025/08/18/3135265/0/en/Atlas-Partners-with-Google-Cloud-to-Power-the-Next-Generation-of-AI-Native-3D-Game-Development.html"
+      },
+      {
+        "title": "Atlas teams up with Google Cloud to launch its AI-native video game development platform | SiliconANGLE",
+        "url": "https://siliconangle.com/2025/08/18/atlas-teams-google-cloud-launch-ai-native-video-game-development-platform/"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "media-marketing-gaming-creative-avid",
@@ -254,7 +296,13 @@
         "代理式 AI 工作流程可自主匹配視覺風格、識別原始素材中的情感線索，並簡化元數據標記。"
       ]
     },
-    "technologies": ["Gemini", "Vertex AI", "BigQuery", "Google Cloud", "Vision Warehouse"],
+    "technologies": [
+      "Gemini",
+      "Vertex AI",
+      "BigQuery",
+      "Google Cloud",
+      "Vision Warehouse"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -298,7 +346,11 @@
         "Backlight 透過 Google Cloud Marketplace 為企業媒體團隊提供此功能。"
       ]
     },
-    "technologies": ["Video Intelligence API", "Google Cloud", "Vertex AI"],
+    "technologies": [
+      "Video Intelligence API",
+      "Google Cloud",
+      "Vertex AI"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -342,7 +394,12 @@
         "整合透過 Vertex AI 實現，Gemini Flash Image 模型驅動全新卡通風格 AI 濾鏡。"
       ]
     },
-    "technologies": ["Imagen 3", "Vertex AI", "Gemini", "Google Cloud"],
+    "technologies": [
+      "Imagen 3",
+      "Vertex AI",
+      "Gemini",
+      "Google Cloud"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -384,7 +441,10 @@
         "反映了生成式 AI 在普及文化體驗方面的廣泛應用。"
       ]
     },
-    "technologies": ["Gemini", "Google Cloud"],
+    "technologies": [
+      "Gemini",
+      "Google Cloud"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -419,14 +479,20 @@
         "提升團隊創意流程效率與內容品質。"
       ]
     },
-    "technologies": ["Gemini", "Google Workspace"],
+    "technologies": [
+      "Gemini",
+      "Google Workspace"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Transforming the content creation process at Boyter Island SRL with Gemini for Google Workspace | YouTube",
+        "url": "https://www.youtube.com/watch?v=kF-Qonv1tTc"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "media-marketing-gaming-creative-brahma-ai",
@@ -454,14 +520,25 @@
         "由智慧驅動的數位分身支援大規模即時互動體驗。"
       ]
     },
-    "technologies": ["Vertex AI", "Gemini", "Google Cloud"],
+    "technologies": [
+      "Vertex AI",
+      "Gemini",
+      "Google Cloud"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "BRAHMA AI and Google Cloud Collaborate to Scale High-Fidelity, Interactive Digital Humans for Global Enterprises | PR Newswire",
+        "url": "https://www.prnewswire.com/news-releases/brahma-ai-and-google-cloud-collaborate-to-scale-high-fidelity-interactive-digital-humans-for-global-enterprises-302709774.html"
+      },
+      {
+        "title": "Brahma AI, Google Cloud partner on 'digital humans' | Frontier Enterprise",
+        "url": "https://www.frontier-enterprise.com/brahma-ai-google-cloud-for-movie-grade-digital-humans-for-global-enterprises/"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "media-marketing-gaming-creative-brandtech-group",
@@ -491,7 +568,12 @@
         "整合 Veo 2，支援在 Google Cloud 上的 Pencil Pro 工作流程中生成影片廣告。"
       ]
     },
-    "technologies": ["Veo 2", "Gemini", "Vertex AI", "Google Cloud"],
+    "technologies": [
+      "Veo 2",
+      "Gemini",
+      "Vertex AI",
+      "Google Cloud"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -533,14 +615,25 @@
         "採用基礎 AI 模型，為各類內容提供高品質語言與語音合成。"
       ]
     },
-    "technologies": ["Vertex AI", "Google Cloud", "Gemini"],
+    "technologies": [
+      "Vertex AI",
+      "Google Cloud",
+      "Gemini"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "15 new startups join Google AI Accelerator | Google Cloud Blog",
+        "url": "https://cloud.google.com/blog/topics/startups/new-startups-join-google-ai-accelerator"
+      },
+      {
+        "title": "MARS7 Voice AI for Enterprise Now on Google Cloud Vertex AI for VPC Use | CAMB.AI Blog",
+        "url": "https://www.camb.ai/blog-post/mars7-now-available-for-vpc-deployment-on-google-cloud-vertex-ai"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "media-marketing-gaming-creative-canal",
@@ -570,7 +663,12 @@
         "合作將於 2026 年 6 月起在歐洲和非洲市場展開部署。"
       ]
     },
-    "technologies": ["Veo 3", "Gemini", "Google Cloud", "Vertex AI"],
+    "technologies": [
+      "Veo 3",
+      "Gemini",
+      "Google Cloud",
+      "Vertex AI"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -612,7 +710,11 @@
         "Canal 13 加入越來越多採用生成式 AI 進行內容個人化的拉丁美洲廣播公司行列。"
       ]
     },
-    "technologies": ["Gemini", "Google Cloud", "Vertex AI"],
+    "technologies": [
+      "Gemini",
+      "Google Cloud",
+      "Vertex AI"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -649,7 +751,12 @@
         "是 Magic Studio 的組成部分，Canva 的 AI 套件服務全球逾 2.2 億用戶。"
       ]
     },
-    "technologies": ["Vertex AI", "Imagen", "Veo 3", "Google Cloud"],
+    "technologies": [
+      "Vertex AI",
+      "Imagen",
+      "Veo 3",
+      "Google Cloud"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -689,7 +796,12 @@
         "系統已獲 Capcom 開發團隊好評，並正擴展供更廣泛的內部使用。"
       ]
     },
-    "technologies": ["Vertex AI", "Gemini", "Imagen 2", "Google Cloud"],
+    "technologies": [
+      "Vertex AI",
+      "Gemini",
+      "Imagen 2",
+      "Google Cloud"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -731,14 +843,20 @@
         "服務尋求提升影片品質的內容創作者、社群媒體製作人和故事敘述者。"
       ]
     },
-    "technologies": ["Veo 2", "Google Cloud"],
+    "technologies": [
+      "Veo 2",
+      "Google Cloud"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Google Veo 2 Video Generator — Captions",
+        "url": "https://www.captions.ai/features/google-veo-2-video-generator"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "media-marketing-gaming-creative-cartwheel",
@@ -766,14 +884,27 @@
         "加速從角色概念到製作就緒輸出的完整 3D 動畫流程。"
       ]
     },
-    "technologies": ["Gemini", "Imagen", "Veo 3", "Vertex AI", "Google Cloud"],
+    "technologies": [
+      "Gemini",
+      "Imagen",
+      "Veo 3",
+      "Vertex AI",
+      "Google Cloud"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Cartwheel | Google AI for Developers Showcase",
+        "url": "https://ai.google.dev/showcase/cartwheel"
+      },
+      {
+        "title": "Cartwheel uses AI to make 3D animation 100 times faster for creators and studios | Fast Company",
+        "url": "https://www.fastcompany.com/91337364/cartwheel-uses-ai-to-make-3d-animation-100-times-faster-for-creators-and-studios"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "media-marketing-gaming-creative-comfyui",
@@ -801,7 +932,11 @@
         "在 Google Cloud 基礎設施上運行，為企業和個人創作者工作負載提供可擴展的運算能力。"
       ]
     },
-    "technologies": ["Gemini 2.5", "Veo 3", "Google Cloud"],
+    "technologies": [
+      "Gemini 2.5",
+      "Veo 3",
+      "Google Cloud"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -839,7 +974,12 @@
         "讓品牌能使用第一方數據，透過 AI/ML 個人化觸發器創建獨特的個人化用戶旅程。"
       ]
     },
-    "technologies": ["Imagen", "Gemini", "Vertex AI", "Google Cloud"],
+    "technologies": [
+      "Imagen",
+      "Gemini",
+      "Vertex AI",
+      "Google Cloud"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -877,14 +1017,25 @@
         "大幅加速 3D 環境原型製作，將數天的工作縮短至數分鐘。"
       ]
     },
-    "technologies": ["Vertex AI", "Gemini", "Google Cloud"],
+    "technologies": [
+      "Vertex AI",
+      "Gemini",
+      "Google Cloud"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "A new era of gaming: How the next generation of play is being redefined by AI agents | Google Cloud Blog",
+        "url": "https://cloud.google.com/transform/a-new-era-of-gaming-how-the-next-generation-of-play-is-being-redefined-by-ai-agents"
+      },
+      {
+        "title": "Dreamlands - AI-Powered 3D World Generation Platform",
+        "url": "https://dreamlands.ai/"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "media-marketing-gaming-creative-eagle-eye",
@@ -914,7 +1065,11 @@
         "結合 Spark 和 BigQuery 進行最佳數據處理，Vertex AI 驅動機器學習模型。"
       ]
     },
-    "technologies": ["BigQuery", "Vertex AI", "Google Cloud"],
+    "technologies": [
+      "BigQuery",
+      "Vertex AI",
+      "Google Cloud"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -958,7 +1113,11 @@
         "讓 Editora Abril 能使用第一方讀者數據個性化內容，強化訂閱者關係。"
       ]
     },
-    "technologies": ["Vertex AI", "Google Cloud", "BigQuery"],
+    "technologies": [
+      "Vertex AI",
+      "Google Cloud",
+      "BigQuery"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -998,7 +1157,13 @@
         "企業語音代理現可支援 70 多種語言的即時語音合成和內容本地化。"
       ]
     },
-    "technologies": ["Gemini", "Veo", "Google Cloud", "NVIDIA Blackwell GPU", "Vertex AI"],
+    "technologies": [
+      "Gemini",
+      "Veo",
+      "Google Cloud",
+      "NVIDIA Blackwell GPU",
+      "Vertex AI"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -1042,7 +1207,11 @@
         "平台加速生成式 AI 模型推斷速度，提升內容創作的速度和規模。"
       ]
     },
-    "technologies": ["Veo 2", "Google Cloud", "Vertex AI"],
+    "technologies": [
+      "Veo 2",
+      "Google Cloud",
+      "Vertex AI"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -1082,7 +1251,12 @@
         "合作於 2025 年 10 月宣布，計劃向所有 Figma 用戶全球推廣。"
       ]
     },
-    "technologies": ["Gemini 2.5 Flash", "Imagen 4", "Google Cloud", "Vertex AI"],
+    "technologies": [
+      "Gemini 2.5 Flash",
+      "Imagen 4",
+      "Google Cloud",
+      "Vertex AI"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -1126,7 +1300,11 @@
         "在 Google Cloud Next '25 上被列為 AI 驅動媒體個性化的傑出案例。"
       ]
     },
-    "technologies": ["Vertex AI", "Vertex AI Search", "Google Cloud"],
+    "technologies": [
+      "Vertex AI",
+      "Vertex AI Search",
+      "Google Cloud"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -1168,14 +1346,23 @@
         "平台專為高量內容製作設計，讓品牌能高效擴展視覺行銷資產。"
       ]
     },
-    "technologies": ["Veo", "Imagen", "Gemini", "Vertex AI", "Google Cloud"],
+    "technologies": [
+      "Veo",
+      "Imagen",
+      "Gemini",
+      "Vertex AI",
+      "Google Cloud"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Meet a dozen startups using generative media to revolutionize content creation | Google Cloud Blog",
+        "url": "https://cloud.google.com/transform/generative-media-models-dozen-startups-helping-anyone-create-content-with-ai"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "media-marketing-gaming-creative-heygen",
@@ -1205,7 +1392,11 @@
         "一鍵影片自動化：HeyGen 透過單一輸入自動完成影片規劃、素材分析和內容優化。"
       ]
     },
-    "technologies": ["Gemini 2.5", "Google Cloud", "Vertex AI"],
+    "technologies": [
+      "Gemini 2.5",
+      "Google Cloud",
+      "Vertex AI"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -1249,7 +1440,10 @@
         "Google Cloud GPU 容量使更高品質的圖片和更複雜的 AI 模型成為可能。"
       ]
     },
-    "technologies": ["Google Cloud", "Cloud GPU"],
+    "technologies": [
+      "Google Cloud",
+      "Cloud GPU"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -1289,7 +1483,10 @@
         "平台在單一優化循環中即時生成、測試和優化廣告變體。"
       ]
     },
-    "technologies": ["Google Cloud", "Vertex AI"],
+    "technologies": [
+      "Google Cloud",
+      "Vertex AI"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -1331,14 +1528,25 @@
         "支援 50 多種語言的影片輸出，讓單一工作流程就能執行全球行銷活動。"
       ]
     },
-    "technologies": ["Google Cloud", "Vertex AI", "Gemini"],
+    "technologies": [
+      "Google Cloud",
+      "Vertex AI",
+      "Gemini"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Invideo, Google Cloud partner to integrate AI into long-form filmmaking | Big News Network",
+        "url": "https://www.bignewsnetwork.com/news/278871483/invideo-google-cloud-partner-to-integrate-ai-into-long-form-filmmaking"
+      },
+      {
+        "title": "Video AI by Invideo | Google Cloud AI agent finder",
+        "url": "https://cloud.withgoogle.com/agentfinder/product/149659d9-b867-4307-bc9e-fbece2c71f0d/"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "media-marketing-gaming-creative-koolio-ai",
@@ -1368,7 +1576,13 @@
         "被 Google Cloud 列為使用 Veo 3、Imagen 4 和 Gemini 2.5 進行內容創作的領先新創企業。"
       ]
     },
-    "technologies": ["Gemini", "Lyria", "Veo", "Vertex AI", "Google Cloud"],
+    "technologies": [
+      "Gemini",
+      "Lyria",
+      "Veo",
+      "Vertex AI",
+      "Google Cloud"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -1408,13 +1622,25 @@
         "透過其創意工具平台服務個人藝術家和企業行銷團隊。"
       ]
     },
-    "technologies": ["Veo 3", "Google Cloud", "Vertex AI", "Gemini"],
+    "technologies": [
+      "Veo 3",
+      "Google Cloud",
+      "Vertex AI",
+      "Gemini"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Veo 3 | Krea Documentation",
+        "url": "https://www.krea.ai/docs/features/veo3"
+      },
+      {
+        "title": "Krea: AI Creative Suite for Images, Video, & 3D",
+        "url": "https://www.krea.ai/"
       }
-    ],
-    "needsReview": true
+    ]
   }
 ]

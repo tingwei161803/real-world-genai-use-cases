@@ -29,7 +29,12 @@
         "降低物流成本與庫存積壓，確保倉庫備貨水位精準合理。"
       ]
     },
-    "technologies": ["Vertex AI", "BigQuery", "Google Workflows", "Temporal Fusion Transformer"],
+    "technologies": [
+      "Vertex AI",
+      "BigQuery",
+      "Google Workflows",
+      "Temporal Fusion Transformer"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -67,7 +72,11 @@
         "入選 Google「50 州 50 個故事」活動，作為運用 Google Workspace with Gemini 的小型企業代表。"
       ]
     },
-    "technologies": ["Gemini", "Google Sheets", "Google Workspace"],
+    "technologies": [
+      "Gemini",
+      "Google Sheets",
+      "Google Workspace"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -105,7 +114,11 @@
         "入選 Google Workspace with Gemini 超級盃廣告，作為小型企業應用代表。"
       ]
     },
-    "technologies": ["Gemini", "Google Sheets", "Google Workspace"],
+    "technologies": [
+      "Gemini",
+      "Google Sheets",
+      "Google Workspace"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -147,7 +160,11 @@
         "以五年 Google Cloud 合作協議為基礎，推進 AI 驅動的業務轉型。"
       ]
     },
-    "technologies": ["BigQuery", "Google Cloud", "Dataflow"],
+    "technologies": [
+      "BigQuery",
+      "Google Cloud",
+      "Dataflow"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -189,7 +206,11 @@
         "靈活的範本生成功能可適應多種專案工作流，無需 IT 支援。"
       ]
     },
-    "technologies": ["Gemini", "Google Sheets", "Google Workspace"],
+    "technologies": [
+      "Gemini",
+      "Google Sheets",
+      "Google Workspace"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -229,7 +250,10 @@
         "視覺語言模型推論速度比傳統引擎快 2–3 倍。"
       ]
     },
-    "technologies": ["Google Cloud Vision AI", "Vision Language Model"],
+    "technologies": [
+      "Google Cloud Vision AI",
+      "Vision Language Model"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -269,7 +293,11 @@
         "賦予業務用戶自助建立工作流程的能力，降低對 IT 團隊的依賴。"
       ]
     },
-    "technologies": ["Google Workspace", "Apps Script", "Gemini"],
+    "technologies": [
+      "Google Workspace",
+      "Apps Script",
+      "Gemini"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -306,7 +334,13 @@
         "CREAITECH 實驗室另以 Imagen 3 和 Veo 2 產生行銷用 AI 視覺與影片內容。"
       ]
     },
-    "technologies": ["LangChain", "Cloud Run", "Vertex AI", "Imagen", "Veo"],
+    "technologies": [
+      "LangChain",
+      "Cloud Run",
+      "Vertex AI",
+      "Imagen",
+      "Veo"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -350,14 +384,20 @@
         "讓工程團隊借助生成式 AI 在規模化環境中維護程式碼品質。"
       ]
     },
-    "technologies": ["Vertex AI", "Gemini"],
+    "technologies": [
+      "Vertex AI",
+      "Gemini"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Leroy Merlin Case Study | Google Cloud",
+        "url": "https://cloud.google.com/customers/leroy-merlin"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "retail-code-wayfair",
@@ -387,7 +427,12 @@
         "Wayfair 是 Google Cloud 廣泛合作夥伴，亦在 Google Workspace 中整合 Gemini。"
       ]
     },
-    "technologies": ["Gemini Code Assist", "Google Cloud", "Google Workspace", "Vertex AI"],
+    "technologies": [
+      "Gemini Code Assist",
+      "Google Cloud",
+      "Google Workspace",
+      "Vertex AI"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",

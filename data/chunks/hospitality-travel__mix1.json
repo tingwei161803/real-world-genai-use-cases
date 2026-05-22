@@ -181,7 +181,6 @@
     "agentType": "customer",
     "company": "Fitness Park",
     "isNew": false,
-    "needsReview": true,
     "summary": {
       "en": "French fitness chain Fitness Park uses BigQuery and plans Vertex AI and Gemini for AI-powered personalized fitness recommendations.",
       "zh": "法國健身連鎖 Fitness Park 運用 BigQuery，並計畫導入 Vertex AI 與 Gemini 提供 AI 個人化健身建議。"
@@ -213,6 +212,10 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Fitness Park case study | Google Cloud",
+        "url": "https://cloud.google.com/customers/fitnesspark"
       }
     ]
   },
@@ -222,7 +225,6 @@
     "agentType": "customer",
     "company": "Gymshark",
     "isNew": false,
-    "needsReview": true,
     "summary": {
       "en": "Gymshark builds a unified data platform on BigQuery, Looker, and Vertex AI to deliver personalized fitness experiences at scale.",
       "zh": "Gymshark 在 BigQuery、Looker 與 Vertex AI 上建立統一資料平台，大規模提供個人化健身體驗。"
@@ -253,6 +255,14 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Gymshark Plans Accelerated Global Growth with Google Cloud AI | PR Newswire",
+        "url": "https://www.prnewswire.com/news-releases/gymshark-plans-accelerated-global-growth-with-google-cloud-ai-301952409.html"
+      },
+      {
+        "title": "Gymshark turns to Google Cloud for infrastructure revamp and generative AI trials | Computer Weekly",
+        "url": "https://www.computerweekly.com/news/366555332/Gymshark-turns-to-Google-Cloud-for-infrastructure-revamp-and-generative-AI-trials"
       }
     ]
   },
@@ -310,7 +320,6 @@
     "agentType": "customer",
     "company": "HomeToGo",
     "isNew": false,
-    "needsReview": true,
     "summary": {
       "en": "HomeToGo created AI Sunny, an AI travel assistant for vacation rental guests, with plans to evolve it into a full end-to-end companion.",
       "zh": "HomeToGo 推出 AI Sunny 智慧旅遊助理，協助度假租屋賓客，並計畫發展為全程端到端智慧旅伴。"
@@ -339,6 +348,14 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "HomeToGo previews Super AI Sunny in collaboration with Google Cloud's Vertex AI | HomeToGo IR",
+        "url": "https://ir.hometogo.de/websites/hometogo/English/14000/news-detail.html?newsID=da6690b9-a02a-413b-8438-9ae914f31a6c"
+      },
+      {
+        "title": "HomeToGo updates on AI travel assistant Sunny | PhocusWire",
+        "url": "https://www.phocuswire.com/hometogo-ai-updates-sunny"
       }
     ]
   },
@@ -348,7 +365,6 @@
     "agentType": "customer",
     "company": "Hotelplan Suisse",
     "isNew": false,
-    "needsReview": true,
     "summary": {
       "en": "Hotelplan Suisse built a travel expertise chatbot for real-time customer inquiry responses and plans AI-generated travel content.",
       "zh": "Hotelplan Suisse 建立旅遊專業知識聊天機器人即時回應諮詢，並計畫以 gen AI 生成旅遊內容。"
@@ -377,6 +393,10 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "How gen AI helps share expert travel advice at Hotelplan Suisse | Google Cloud Blog",
+        "url": "https://cloud.google.com/transform/hotelplan-suisse-generative-ai-travel-advice-personalized-experiences"
       }
     ]
   },
@@ -386,7 +406,6 @@
     "agentType": "customer",
     "company": "IHG Hotels & Resorts",
     "isNew": false,
-    "needsReview": true,
     "summary": {
       "en": "IHG Hotels & Resorts is building a gen AI chatbot in its IHG One Rewards app to help guests plan vacations conversationally.",
       "zh": "IHG Hotels & Resorts 正在 IHG One Rewards App 建構生成式 AI 聊天機器人，讓賓客以對話方式規劃假期。"
@@ -415,6 +434,14 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "IHG Hotels & Resorts Builds a New Travel Planner Powered by Google Cloud AI | PR Newswire",
+        "url": "https://www.prnewswire.com/news-releases/ihg-hotels--resorts-builds-a-new-travel-planner-powered-by-google-cloud-ai-302111463.html"
+      },
+      {
+        "title": "IHG Hotels & Resorts Builds a New Travel Planner Powered by Google Cloud AI | IHG PLC",
+        "url": "https://www.ihgplc.com/en/news-and-media/news-releases/2024/ihg-hotels-and-resorts-builds-a-new-travel-planner-powered-by-google-cloud-ai"
       }
     ]
   },
@@ -511,7 +538,6 @@
     "agentType": "customer",
     "company": "Mustard",
     "isNew": false,
-    "needsReview": true,
     "summary": {
       "en": "Mustard uses computer vision and AI to deliver personalized coaching for golfers and baseball pitchers via a mobile app.",
       "zh": "Mustard 運用電腦視覺與 AI，透過行動應用程式為高爾夫球員和棒球投手提供個人化教練指導。"
@@ -540,6 +566,14 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Mustard uses Google Cloud computer vision and AI for personalized coaching | Google Cloud on X",
+        "url": "https://x.com/googlecloud/status/1926745087310000549"
+      },
+      {
+        "title": "Mustard Makes Golf Training Smarter with AI | Elastiq",
+        "url": "https://www.elastiq.ai/mustard-makes-golf-training-smarter-with-ai/"
       }
     ]
   },
@@ -549,7 +583,6 @@
     "agentType": "customer",
     "company": "Mystifly",
     "isNew": false,
-    "needsReview": true,
     "summary": {
       "en": "Mystifly built Mystic, a generative AI chatbot on Google Cloud, to offer self-serve options that reduce agent support needs.",
       "zh": "Mystifly 在 Google Cloud 上建構 Mystic 生成式 AI 聊天機器人，提供自助服務選項以降低人工客服需求。"
@@ -579,6 +612,14 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Mystifly case study | Google Cloud",
+        "url": "https://cloud.google.com/customers/mystifly"
+      },
+      {
+        "title": "Mystifly Joins Forces with Google Cloud to Transform Travel Technology | Mystifly",
+        "url": "https://mystifly.com/press-releases/mystifly-joins-forces-with-google-cloud/"
       }
     ]
   },
@@ -588,7 +629,6 @@
     "agentType": "customer",
     "company": "Papa John’s",
     "isNew": false,
-    "needsReview": true,
     "summary": {
       "en": "Papa John's uses BigQuery, Vertex AI, and Gemini to build predictive ordering tools, an enhanced loyalty program, and personalized marketing.",
       "zh": "Papa John's 運用 BigQuery、Vertex AI 與 Gemini 建構預測性點餐工具、升級忠誠計畫及個人化行銷。"
@@ -620,6 +660,14 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Papa Johns and Google Cloud Team Up to Deliver AI-Powered Pizza Experiences | PR Newswire",
+        "url": "https://www.prnewswire.com/news-releases/papa-johns-and-google-cloud-team-up-to-deliver-ai-powered-pizza-experiences-302419483.html"
+      },
+      {
+        "title": "Papa Johns and Google Cloud Team Up to Deliver AI-Powered Pizza Experiences | Google Cloud Press Corner",
+        "url": "https://www.googlecloudpresscorner.com/2025-04-03-Papa-Johns-and-Google-Cloud-Team-Up-to-Deliver-AI-Powered-Pizza-Experiences"
       }
     ]
   },
@@ -678,7 +726,6 @@
     "agentType": "customer",
     "company": "RIU Hotels & Resorts",
     "isNew": true,
-    "needsReview": true,
     "summary": {
       "en": "RIU Hotels & Resorts leverages Google Cloud AI and ML models to predict user purchase probability for its e-commerce team.",
       "zh": "RIU Hotels & Resorts 運用 Google Cloud AI 與機器學習模型，為電商團隊預測用戶購買意願。"
@@ -707,6 +754,10 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "How hotel brands are driving bookings with AI and personalization | Google Cloud Blog",
+        "url": "https://cloud.google.com/transform/hotel-brands-ai-powered-personalization-bookings-marketing-loyalty-programs"
       }
     ]
   },
@@ -766,7 +817,6 @@
     "agentType": "customer",
     "company": "Six Flags",
     "isNew": false,
-    "needsReview": true,
     "summary": {
       "en": "Six Flags built an industry-first AI digital assistant to answer guest questions and help plan a full day at the park.",
       "zh": "Six Flags 打造業界首創 AI 數位助理，回答賓客問題並協助規劃完整的一日遊行程。"
@@ -796,6 +846,14 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Six Flags to Launch Cutting Edge Virtual Assistant Powered by Google Cloud's Generative AI | PR Newswire",
+        "url": "https://www.prnewswire.com/news-releases/six-flags-to-accelerate-digital-transformation-in-amusement-park-industry-and-launch-a-cutting-edge-virtual-assistant-powered-by-google-clouds-generative-ai-301912136.html"
+      },
+      {
+        "title": "Six Flags to Accelerate Digital Transformation | Google Cloud Press Corner",
+        "url": "https://www.googlecloudpresscorner.com/2023-08-29-Six-Flags-to-Accelerate-Digital-Transformation-in-Amusement-Park-Industry-and-Launch-a-Cutting-Edge-Virtual-Assistant-Powered-by-Google-Clouds-Generative-AI"
       }
     ]
   },
@@ -901,7 +959,6 @@
     "agentType": "customer",
     "company": "trivago",
     "isNew": false,
-    "needsReview": true,
     "summary": {
       "en": "trivago's Smart AI Search powered by Vertex AI Search lets users find hotels with natural language for a more personalized experience.",
       "zh": "trivago 的 Smart AI Search 以 Vertex AI Search 驅動，讓用戶以自然語言搜尋飯店，提供更個人化的體驗。"
@@ -929,6 +986,14 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "trivago Unveils New Smart AI Search: Redefining How You Find Hotels | trivago company blog",
+        "url": "https://company.trivago.com/trivago-unveils-new-smart-ai-search-redefining-how-you-find-hotels/"
+      },
+      {
+        "title": "Behind trivago's Smart AI Search: From Concept to Reality | trivago tech blog",
+        "url": "https://tech.trivago.com/post/2024-12-17-behind-trivagos-ai-search-from-concept-to-reality"
       }
     ]
   },
@@ -1037,7 +1102,6 @@
     "agentType": "customer",
     "company": "Vivaticket",
     "isNew": false,
-    "needsReview": true,
     "summary": {
       "en": "Vivaticket plans to use Vertex AI Search to accelerate event discovery and generate SEO-friendly event descriptions faster.",
       "zh": "Vivaticket 計畫運用 Vertex AI Search 加速活動資訊搜尋，並更快速生成 SEO 友善的活動說明。"
@@ -1066,6 +1130,10 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Vivaticket case study | Google Cloud",
+        "url": "https://cloud.google.com/customers/vivaticket"
       }
     ]
   },
@@ -1162,7 +1230,6 @@
     "agentType": "employee",
     "company": "Korean Air",
     "isNew": true,
-    "needsReview": true,
     "summary": {
       "en": "Korean Air is using Gemini in Google Workspace to improve employee collaboration and productivity.",
       "zh": "Korean Air 正運用 Gemini for Google Workspace 提升員工協作效率與生產力。"
@@ -1189,6 +1256,10 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "How ChromeOS propelled Korean Air's digital transformation | Google Cloud Blog",
+        "url": "https://cloud.google.com/blog/products/chrome-enterprise/how-chromeos-propelled-korean-airs-digital-transformation/"
       }
     ]
   },
@@ -1281,7 +1352,6 @@
     "agentType": "employee",
     "company": "Sweets and Meats BBQ",
     "isNew": false,
-    "needsReview": true,
     "summary": {
       "en": "Sweets and Meats BBQ uses Gemini in Sheets to instantly generate a weekly food truck schedule by finding local events.",
       "zh": "Sweets and Meats BBQ 運用 Gemini in Sheets 即時搜尋在地活動並生成每週餐車行程表。"
@@ -1310,6 +1380,14 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Ohio – Sweets & Meats BBQ: Gemini in Google Sheets | Blue Chip Technologies",
+        "url": "https://www.bluechiptt.com/google-workspace/ohio-sweets-meats-bbq-gemini-in-google-sheets/"
+      },
+      {
+        "title": "Ohio - Sweets & Meats BBQ: Gemini in Google Sheets | YouTube",
+        "url": "https://www.youtube.com/watch?v=ll4KVBmTbjM"
       }
     ]
   },
@@ -1439,7 +1517,6 @@
     "agentType": "data",
     "company": "BrushBuck Wildlife Tours",
     "isNew": false,
-    "needsReview": true,
     "summary": {
       "en": "BrushBuck Wildlife Tours tracks seasonal animal movements with Gemini in Sheets to ensure every visitor sees Wyoming's wildlife.",
       "zh": "BrushBuck Wildlife Tours 運用 Gemini in Sheets 追蹤季節性動物移動，確保每位訪客都能欣賞懷俄明野生動物。"
@@ -1468,6 +1545,10 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Wyoming - BrushBuck Wildlife Tours: Gemini in Google Sheets | YouTube",
+        "url": "https://www.youtube.com/watch?v=POaT7xs3gWg"
       }
     ]
   },
@@ -1526,7 +1607,6 @@
     "agentType": "data",
     "company": "Fitz's Bottling Company",
     "isNew": false,
-    "needsReview": true,
     "summary": {
       "en": "Fitz's Bottling Company, selling root beer since 1947, uses Gemini in Sheets to quickly organize and format inventory information.",
       "zh": "自 1947 年起販售根汁啤酒的 Fitz's Bottling Company 運用 Gemini in Sheets 快速整理與格式化庫存資訊。"
@@ -1555,6 +1635,10 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Missouri - Fitz's Rootbeer: Gemini in Google Sheets | YouTube",
+        "url": "https://www.youtube.com/watch?v=mHxr7UAgC4c"
       }
     ]
   },
@@ -1564,7 +1648,6 @@
     "agentType": "data",
     "company": "Hog Island Oyster",
     "isNew": false,
-    "needsReview": true,
     "summary": {
       "en": "Hog Island Oyster simplifies sales analysis with Gemini in Sheets, generating oyster sales reports by type, size, and quantity with a single prompt.",
       "zh": "Hog Island Oyster 運用 Gemini in Sheets 簡化銷售分析，以一個提示即可生成按種類、尺寸與數量分類的牡蠣銷售報告。"
@@ -1593,6 +1676,14 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "California - Hog Island Oyster Co.: Gemini in Google Sheets | YouTube",
+        "url": "https://www.youtube.com/watch?v=VSENsj43IGI"
+      },
+      {
+        "title": "New Google ads show 50 small businesses using Gemini for Workspace | Google Blog",
+        "url": "https://blog.google/products-and-platforms/products/workspace/50-states-50-stories-small-business-ads/"
       }
     ]
   },
@@ -1682,7 +1773,6 @@
     "agentType": "creative",
     "company": "Curb Free",
     "isNew": false,
-    "needsReview": true,
     "summary": {
       "en": "Curb Free with Cory Lee uses Gemini in Docs to brainstorm accessible travel content ideas, keeping the wheelchair travel blog fresh.",
       "zh": "Curb Free with Cory Lee 運用 Gemini in Docs 腦力激盪無障礙旅遊內容創意，讓輪椅旅遊部落格保持新鮮感。"
@@ -1711,6 +1801,14 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "How an Accessibility-Focused Travel Blogger is Breaking Barriers with Gemini | Google",
+        "url": "https://publicpolicy.google/stories/curb-free-cory-lee-georgia/"
+      },
+      {
+        "title": "Georgia - Curb Free With Cory Lee: Gemini in Google Docs | YouTube",
+        "url": "https://www.youtube.com/shorts/v7OSQt5--3s"
       }
     ]
   },
@@ -1821,7 +1919,6 @@
     "agentType": "creative",
     "company": "Three Fold Noodles + Dumpling",
     "isNew": false,
-    "needsReview": true,
     "summary": {
       "en": "Three Fold Noodles + Dumpling drafts social media posts with Gemini in Docs to stay active online without sacrificing kitchen time.",
       "zh": "Three Fold Noodles + Dumpling 以 Gemini in Docs 起草社群媒體貼文，在不犧牲廚房時間的前提下維持線上活躍度。"
@@ -1850,6 +1947,14 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Arkansas - Three Fold Noodles + Dumpling Co: Gemini in Google Docs | YouTube",
+        "url": "https://www.youtube.com/watch?v=E6i-kkTEZxQ"
+      },
+      {
+        "title": "Arkansas x Three Fold Noodles + Dumpling Co: Gemini in Google Docs | Blue Chip Technologies",
+        "url": "https://www.bluechiptt.com/google-workspace/arkansas-x-three-fold-noodles-dumpling-co-gemini-in-google-docs/"
       }
     ]
   },
@@ -1904,7 +2009,6 @@
     "agentType": "security",
     "company": "Priceline",
     "isNew": true,
-    "needsReview": true,
     "summary": {
       "en": "Priceline uses Wiz to ensure all acquisitions comply with its security framework regardless of cloud environment.",
       "zh": "Priceline 運用 Wiz 確保所有收購案的雲端環境皆符合其安全框架，不受雲端平台限制。"
@@ -1933,6 +2037,14 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Priceline case study | Wiz",
+        "url": "https://www.wiz.io/customers/priceline"
+      },
+      {
+        "title": "Priceline Case Study | Google Cloud",
+        "url": "https://cloud.google.com/customers/priceline"
       }
     ]
   }

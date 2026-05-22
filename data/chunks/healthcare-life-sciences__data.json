@@ -121,9 +121,12 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "ARC Innovation at Sheba Medical Center — Google Cloud Case Study",
+        "url": "https://cloud.google.com/customers/arc-sheba"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "healthcare-life-sciences-data-atropos-health",
@@ -245,9 +248,12 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Why Global startups are gathering at Google Cloud Next | Google Cloud Blog",
+        "url": "https://cloud.google.com/blog/topics/startups/why-global-startups-are-gathering-at-google-cloud-next25"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "healthcare-life-sciences-data-bayer",
@@ -584,9 +590,12 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Gen AI is building the future of biotech innovation | Google Cloud Blog",
+        "url": "https://cloud.google.com/transform/biotech-innovation-with-generative-ai-startups"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "healthcare-life-sciences-data-dasa",
@@ -894,9 +903,16 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Gen AI is building the future of biotech innovation | Google Cloud Blog",
+        "url": "https://cloud.google.com/transform/biotech-innovation-with-generative-ai-startups"
+      },
+      {
+        "title": "GenBio AI Releases Phase 1 of World's First Digital Organism to Transform Medical Research",
+        "url": "https://www.prnewswire.com/news-releases/genbio-ai-releases-phase-1-of-worlds-first-digital-organism-to-transform-medical-research-302335776.html"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "healthcare-life-sciences-data-ginkgo-bioworks",
@@ -1243,9 +1259,12 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Gen AI is building the future of biotech innovation | Google Cloud Blog",
+        "url": "https://cloud.google.com/transform/biotech-innovation-with-generative-ai-startups"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "healthcare-life-sciences-data-moonwalk-bio",
@@ -1284,9 +1303,12 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Gen AI is building the future of biotech innovation | Google Cloud Blog",
+        "url": "https://cloud.google.com/transform/biotech-innovation-with-generative-ai-startups"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "healthcare-life-sciences-data-neomed",
@@ -1325,9 +1347,12 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Neomed Case Study | Google Cloud",
+        "url": "https://cloud.google.com/customers/neomed"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "healthcare-life-sciences-data-nextnet",
@@ -1366,9 +1391,12 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "How three startups deliver results faster with Vertex AI | Google Cloud Blog",
+        "url": "https://cloud.google.com/blog/topics/startups/how-three-startups-deliver-results-faster-with-vertex-ai"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "healthcare-life-sciences-data-orda-s",
@@ -1583,9 +1611,12 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Interclinica Case Study | Google Cloud",
+        "url": "https://cloud.google.com/customers/interclinica"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "healthcare-life-sciences-data-rezo",
@@ -1667,9 +1698,12 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "SandboxAQ speeds up drug discovery with the cloud | Google Cloud Blog",
+        "url": "https://cloud.google.com/blog/products/infrastructure-modernization/sandboxaq-speeds-up-drug-discovery-with-the-cloud"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "healthcare-life-sciences-data-schr-dinger",
@@ -1794,9 +1828,12 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Gen AI is building the future of biotech innovation | Google Cloud Blog",
+        "url": "https://cloud.google.com/transform/biotech-innovation-with-generative-ai-startups"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "healthcare-life-sciences-data-the-national-institutes-of-health",

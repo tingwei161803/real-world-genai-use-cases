@@ -172,9 +172,12 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Bayer Crop Science blends gen AI and data science for innovative edge | CIO",
+        "url": "https://www.cio.com/article/3490083/bayer-crop-science-blends-gen-ai-and-data-science-for-innovative-edge.html"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "manufacturing-industrial-electronics-employee-bosch",
@@ -734,9 +737,12 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Niterói - Papel Semente: Gemini no Meet | YouTube (Google Workspace)",
+        "url": "https://www.youtube.com/watch?v=6Ea0iqCmoic"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "manufacturing-industrial-electronics-employee-plenitude",
@@ -1042,9 +1048,12 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Google Cloud Brings a New Era of AI Innovation to Brazil | Google Cloud Press Corner",
+        "url": "https://www.googlecloudpresscorner.com/2025-09-10-Google-Cloud-Brings-a-New-Era-of-AI-Innovation-to-Brazil"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "manufacturing-industrial-electronics-employee-workerbase",
@@ -1129,9 +1138,12 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Zoppas Industries adopts Google Workspace with Gemini to boost global collaboration and efficiency | Google Workspace Blog",
+        "url": "https://workspace.google.com/blog/customer-stories/zoppas-industries-workspace-with-gemini-global-collaboration-and-efficiency"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "manufacturing-industrial-electronics-employee-zoppas-industries-2",
@@ -1169,8 +1181,11 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Zoppas Industries adopts Google Workspace with Gemini to boost global collaboration and efficiency | Google Workspace Blog",
+        "url": "https://workspace.google.com/blog/customer-stories/zoppas-industries-workspace-with-gemini-global-collaboration-and-efficiency"
       }
-    ],
-    "needsReview": true
+    ]
   }
 ]
