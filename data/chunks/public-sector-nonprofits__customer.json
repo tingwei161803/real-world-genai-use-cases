@@ -639,9 +639,12 @@
       {
         "title": "Generative AI in NY Public Sector: Success Stories & Strategies | Google Cloud Blog",
         "url": "https://cloud.google.com/blog/topics/public-sector/transforming-how-new-york-protects-and-serves-its-community"
+      },
+      {
+        "title": "Department of Motor Vehicles prebuilt agent | Dialogflow CX | Google Cloud",
+        "url": "https://cloud.google.com/dialogflow/vertex/docs/concept/prebuilt-agent/department-of-motor-vehicles"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "public-sector-nonprofits-customer-pepperdine-university",
@@ -752,13 +755,13 @@
     },
     "highlights": {
       "en": [
-        "Significantly reduced citizen response time for urban maintenance and municipal inquiries.",
+        "Reduced citizen response time from 30 to 5 minutes for urban maintenance requests, with 30,000+ monthly conversations.",
         "Handles a high volume of monthly conversations covering urban maintenance and municipal inquiries.",
         "Available 24/7, allowing residents to report and track urban issues around the clock.",
         "Powered by Google Cloud Dialogflow, integrated with Rio de Janeiro's 1746 municipal service line."
       ],
       "zh": [
-        "大幅縮短城市維護與市政查詢的市民回應時間。",
+        "將城市維護請求的市民回應時間從 30 分鐘縮短至 5 分鐘，每月處理逾 3 萬次對話。",
         "每月承載大量對話，涵蓋城市維護與市政查詢。",
         "全天候可用，讓居民隨時回報並追蹤城市問題。",
         "以 Google Cloud Dialogflow 驅動，整合里約熱內盧 1746 市政服務專線。"
@@ -772,9 +775,16 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Escritório de Dados da cidade do Rio de Janeiro | Google Cloud (caso de sucesso)",
+        "url": "https://cloud.google.com/customers/intl/pt-br/escritorio-de-dados-da-cidade-do-rio-de-janeiro"
+      },
+      {
+        "title": "Prefeitura do Rio reconhecida pela Google Cloud por uso inovador de dados | IplanRio",
+        "url": "https://iplanrio.prefeitura.rio/noticias/prefeitura-do-rio-e-reconhecida-pela-google-cloud-por-uso-inovador-de-dados-para-politicas-publicas/"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "public-sector-nonprofits-customer-savvy",
@@ -859,9 +869,16 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "SENAI caso de sucesso | Google Cloud",
+        "url": "https://cloud.google.com/customers/intl/pt-br/senai"
+      },
+      {
+        "title": "Com tecnologia do Google Cloud, SENAI lança IA para impulsionar empregos e orientar carreiras | SENAI",
+        "url": "https://www.rn.senai.br/com-tecnologia-google-cloud-senai-lanca-ia-para-impulsionar-empregos-e-orientar-carreiras/"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "public-sector-nonprofits-customer-state-of-nevada",
@@ -949,9 +966,12 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "'Gemini for the United Kingdom': Google Cloud Announces AI Products and Startup Credits | Google Cloud Press Corner",
+        "url": "https://www.googlecloudpresscorner.com/2025-03-17-Gemini-for-the-United-Kingdom-Google-Cloud-Announces-AI-Products,-Skills-Initiatives,-and-Startup-Credits-for-Organisations-Across-the-UK"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "public-sector-nonprofits-customer-sullivan-county-new-york",

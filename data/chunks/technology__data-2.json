@@ -625,11 +625,18 @@
     "technologies": [
       "Google Cloud"
     ],
-    "needsReview": true,
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "OpenText Deepens Partnership with Google to Accelerate AI Innovation, Data Security, and Sovereign Cloud Solutions",
+        "url": "https://investors.opentext.com/press-releases/press-releases-details/2025/OpenText-Deepens-Partnership-with-Google-to-Accelerate-AI-Innovation-Data-Security-and-Sovereign-Cloud-Solutions/default.aspx"
+      },
+      {
+        "title": "Google Cloud and OpenText Partnership | OpenText",
+        "url": "https://www.opentext.com/partners/opentext-on-google-cloud"
       }
     ]
   },
@@ -762,11 +769,18 @@
       "BigQuery",
       "Google Cloud"
     ],
-    "needsReview": true,
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Gravity Launches Orion to Redefine Enterprise Decision Intelligence with Multi-Agent AI | PR Newswire",
+        "url": "https://www.prnewswire.com/news-releases/gravity-launches-orion-to-redefine-enterprise-decision-intelligence-with-multi-agent-ai-302543112.html"
+      },
+      {
+        "title": "Orion | Autonomous AI Analyst for Your Data Stack | Gravity",
+        "url": "https://www.bygravity.com/orion"
       }
     ]
   },
@@ -848,11 +862,14 @@
       "Gemini",
       "Google Cloud"
     ],
-    "needsReview": true,
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Partner-built agents available in Gemini Enterprise | Google Cloud Blog",
+        "url": "https://cloud.google.com/blog/products/ai-machine-learning/partner-built-agents-available-in-gemini-enterprise"
       }
     ]
   },
@@ -1067,11 +1084,14 @@
       "Google AI Studio",
       "Google Cloud"
     ],
-    "needsReview": true,
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Startups are building the agentic future with Google Cloud | Google Cloud Blog",
+        "url": "https://cloud.google.com/blog/topics/startups/startups-are-building-the-agentic-future-with-google-cloud"
       }
     ]
   },
@@ -1367,7 +1387,6 @@
     "technologies": [
       "Google Cloud"
     ],
-    "needsReview": true,
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -1376,6 +1395,10 @@
       {
         "title": "Now Assist for IT Operations Management — ServiceNow",
         "url": "https://www.servicenow.com/platform/now-assist.html"
+      },
+      {
+        "title": "ServiceNow and Google Cloud Unite AI Agents for Autonomous Enterprise Operations | Google Cloud Press Corner",
+        "url": "https://www.googlecloudpresscorner.com/2026-04-22-ServiceNow-and-Google-Cloud-Unite-AI-Agents-for-Autonomous-Enterprise-Operations"
       }
     ]
   },
@@ -1495,11 +1518,14 @@
     "technologies": [
       "Google Cloud"
     ],
-    "needsReview": true,
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Story Teams Up with Google Cloud to Expand Web3 Ecosystem | Blockmedia",
+        "url": "https://www.eblockmedia.com/news/articleView.html?idxno=16974"
       }
     ]
   },
@@ -1533,11 +1559,14 @@
       "Gemini",
       "Google Cloud"
     ],
-    "needsReview": true,
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "SuperSign caso de sucesso | Google Cloud",
+        "url": "https://cloud.google.com/customers/intl/pt-br/supersign?hl=pt-BR"
       }
     ]
   },
@@ -1572,11 +1601,18 @@
     "technologies": [
       "Google Cloud"
     ],
-    "needsReview": true,
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Teradata Collaborates with Google Cloud on Enterprise-Scale Trusted AI Offerings | BusinessWire",
+        "url": "https://www.businesswire.com/news/home/20240625987568/en/Teradata-Collaborates-with-Google-Cloud-on-Enterprise-Scale-Trusted-AI-Offerings-that-Accelerate-Time-to-Value-and-ROI"
+      },
+      {
+        "title": "AI Innovation with Google Cloud | Teradata",
+        "url": "https://www.teradata.com/platform/deployment/google-cloud"
       }
     ]
   },
@@ -1688,11 +1724,18 @@
     "technologies": [
       "Google Cloud"
     ],
-    "needsReview": true,
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "ThoughtSpot Named Google Cloud Technology Partner of the Year for Data - Business Intelligence",
+        "url": "https://www.thoughtspot.com/press-releases/thoughtspot-named-google-cloud-technology-partner-of-the-year-for-data-business-intelligence"
+      },
+      {
+        "title": "Gemini is now available with ThoughtSpot's AI agent | ThoughtSpot Blog",
+        "url": "https://www.thoughtspot.com/blog/gemini-extensible-ai-agent-ecosystem"
       }
     ]
   },
@@ -1730,11 +1773,18 @@
       "Looker Studio",
       "Google Cloud"
     ],
-    "needsReview": true,
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Trellix Customer Success Story - Google Workspace",
+        "url": "https://workspace.google.com/customers/trellix/"
+      },
+      {
+        "title": "Trellix keeps internal operations safe | Google Workspace Blog",
+        "url": "https://workspace.google.com/blog/customer-stories/trellix-keeps-internal-operations-safe-google-workspace"
       }
     ]
   },
@@ -1859,11 +1909,14 @@
       "Gemini",
       "Google Cloud"
     ],
-    "needsReview": true,
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Startups are building the agentic future with Google Cloud | Google Cloud Blog",
+        "url": "https://cloud.google.com/blog/topics/startups/startups-are-building-the-agentic-future-with-google-cloud"
       }
     ]
   },

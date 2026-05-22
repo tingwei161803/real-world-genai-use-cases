@@ -218,11 +218,14 @@
       "Google Cloud",
       "Vertex AI"
     ],
-    "needsReview": true,
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Broxel Announced An Agreement With Google Cloud To Offer Financial Technology Solutions | PR Newswire",
+        "url": "https://www.prnewswire.com/news-releases/broxel-announced-an-agreement-with-google-cloud-to-offer-financial-technology-solutions-301356316.html"
       }
     ]
   },
@@ -493,11 +496,14 @@
       "Vertex AI",
       "Google Cloud"
     ],
-    "needsReview": true,
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Generative AI Speeds Lending and Customer Service Across Finance | BizTech Magazine",
+        "url": "https://biztechmagazine.com/article/2026/03/generative-ai-speeds-lending-and-customer-service-across-finance"
       }
     ]
   },
@@ -531,11 +537,14 @@
       "Google Cloud",
       "Vertex AI"
     ],
-    "needsReview": true,
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Fundwell Case Study | Google Cloud",
+        "url": "https://cloud.google.com/customers/fundwell"
       }
     ]
   },
@@ -1087,11 +1096,14 @@
       "Google SecOps",
       "Google Cloud"
     ],
-    "needsReview": true,
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Google Security Operations (SecOps) | Google Cloud",
+        "url": "https://cloud.google.com/security/products/security-operations"
       }
     ]
   },
@@ -1214,11 +1226,14 @@
       "Google SecOps",
       "Google Cloud"
     ],
-    "needsReview": true,
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Introducing the unified Chronicle Security Operations platform | Google Cloud Blog",
+        "url": "https://cloud.google.com/blog/products/identity-security/introducing-the-unified-chronicle-security-operations-platform"
       }
     ]
   },

@@ -78,9 +78,16 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Unlocking enterprise data to accelerate agentic AI: How Ab Initio does it | Google Cloud Blog",
+        "url": "https://cloud.google.com/blog/products/data-analytics/unlocking-enterprise-data-to-accelerate-agentic-ai-how-ab-initio-does-it"
+      },
+      {
+        "title": "Google Cloud Integrates Ab Initio Tools to Connect Distributed Data for AI Agents | BigDATAwire",
+        "url": "https://www.hpcwire.com/bigdatawire/this-just-in/google-cloud-integrates-ab-initio-tools-to-connect-distributed-data-for-ai-agents/"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "technology-data-acalvio",
@@ -116,9 +123,16 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Acalvio ShadowPlex for Google Cloud | Solution Brief",
+        "url": "https://www.acalvio.com/resources/solution-briefs/acalvio-shadowplex-for-google-cloud-data-sheet/"
+      },
+      {
+        "title": "Built with Google Cloud: Google and Acalvio partner to deliver Active Defense | Google Cloud Blog",
+        "url": "https://cloud.google.com/blog/topics/partners/built-with-google-cloud-google-and-acalvio-partner-to-deliver-active-defense-to-protect-customers-from-advanced-threats"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "technology-data-addy-ai",
@@ -175,12 +189,14 @@
       "en": [
         "Classifies large volumes of agricultural land per day using AI models.",
         "Delivers highly accurate risk analysis for financial institutions and insurers.",
-        "Unified Google Cloud platform enables significant performance gains over previous solutions."
+        "Unified Google Cloud platform enables significant performance gains over previous solutions.",
+        "Classifies up to 10 million hectares per day using AI models on Google Earth Engine."
       ],
       "zh": [
         "每日大規模分類農業土地。",
         "為金融機構與保險業者提供高精準度風險分析。",
-        "統一 Google Cloud 平台帶來顯著性能提升。"
+        "統一 Google Cloud 平台帶來顯著性能提升。",
+        "以 Google Earth Engine 上的 AI 模型每日分類多達 1,000 萬公頃農業土地。"
       ]
     },
     "technologies": [
@@ -191,9 +207,16 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "AgromAI caso de sucesso | Google Cloud",
+        "url": "https://cloud.google.com/customers/intl/pt-br/agromai?hl=pt-BR"
+      },
+      {
+        "title": "Farmdar launches AgromAI in Brazil | Indus VC",
+        "url": "https://www.indus.vc/post/farmdar-launches-agromai-in-brazil"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "technology-data-ai-seer",
@@ -277,9 +300,16 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Jamba 1.5 Model Family from AI21 Labs is now available on Vertex AI | Google Cloud Blog",
+        "url": "https://cloud.google.com/blog/products/ai-machine-learning/jamba-1-5-model-family-from-ai21-labs-is-now-available-on-vertex-ai"
+      },
+      {
+        "title": "The Jamba 1.5 Open Model Family | AI21 Labs",
+        "url": "https://www.ai21.com/blog/announcing-jamba-model-family/"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "technology-data-alphaus",
@@ -358,9 +388,12 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "caso de sucesso AlugaMais | Google Cloud",
+        "url": "https://cloud.google.com/customers/intl/pt-br/alugamais?hl=pt-BR"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "technology-data-anthropic",
@@ -396,9 +429,16 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Claude 3 models on Vertex AI | Anthropic",
+        "url": "https://www.anthropic.com/news/google-vertex-general-availability"
+      },
+      {
+        "title": "Announcing Anthropic's Claude 3 models on Google Cloud Vertex AI | Google Cloud Blog",
+        "url": "https://cloud.google.com/blog/products/ai-machine-learning/announcing-anthropics-claude-3-models-in-google-cloud-vertex-ai"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "technology-data-arquivei",
@@ -434,9 +474,12 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Arquivei case study | Google Cloud",
+        "url": "https://cloud.google.com/customers/arquivei"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "technology-data-articul8",
@@ -551,9 +594,12 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Ask.ai case study | Google Cloud",
+        "url": "https://cloud.google.com/customers/askai"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "technology-data-assemblyai",
@@ -676,9 +722,12 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "How Baseten achieves 225% better cost-performance for AI inference | Google Cloud Blog",
+        "url": "https://cloud.google.com/blog/products/ai-machine-learning/how-baseten-achieves-better-cost-performance-for-ai-inference"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "technology-data-birdie-ai",
@@ -846,9 +895,16 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Introducing CARTO Site Selection AI Agent for Gemini Enterprise | CARTO Blog",
+        "url": "https://carto.com/blog/introducing-carto-site-selection-ai-agent-for-gemini-enterprise/"
+      },
+      {
+        "title": "CARTO Site Selection for Gemini Enterprise | Google Cloud AI agent finder",
+        "url": "https://cloud.withgoogle.com/agentfinder/product/7d4a3015-429c-421f-8d03-b595707d532e/"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "technology-data-climate-engine",
@@ -885,9 +941,16 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Climate Engine and Robeco Launch White Paper on Biodiversity Finance | Climate Engine",
+        "url": "https://climateengine.com/story/climate-engine-and-robeco-launch-white-paper-on-biodiversity-finance/"
+      },
+      {
+        "title": "Climate Engine unlocks climate change insights with Google Cloud | Google Cloud Blog",
+        "url": "https://cloud.google.com/blog/topics/sustainability/climate-engine-unlocks-climate-change-insights-with-google-cloud"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "technology-data-cohesity",
@@ -966,9 +1029,12 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Collato case study | Google Cloud",
+        "url": "https://cloud.google.com/customers/collato"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "technology-data-contextual",
@@ -1004,9 +1070,16 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Contextual AI and Google Cloud Partner to Bring Generative AI to the Enterprise | Contextual AI",
+        "url": "https://contextual.ai/blog/contextual-ai-and-google-cloud-partner-to-bring-generative-ai-to-the-enterprise"
+      },
+      {
+        "title": "Contextual AI and Google Cloud Partner to Bring Generative AI to the Enterprise | PR Newswire",
+        "url": "https://www.prnewswire.com/news-releases/contextual-ai-and-google-cloud-partner-to-bring-generative-ai-to-the-enterprise-301905098.html"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "technology-data-corvic",
@@ -1043,9 +1116,16 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Corvic AI to Launch Platform on Google Cloud Marketplace | Channel Insider",
+        "url": "https://www.channelinsider.com/news-and-trends/corvic-ai-platform-google-cloud-marketplace/"
+      },
+      {
+        "title": "Corvic AI | Google Cloud AI agent finder",
+        "url": "https://cloud.withgoogle.com/agentfinder/product/2c563ac0-2480-4707-894d-932d959591d1/"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "technology-data-crescendo-lab",
@@ -1212,9 +1292,16 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Introducing Eon AI Agent: Query Your Backup Data with Natural Language | Eon",
+        "url": "https://www.eon.io/blog/introducing-eon-ai-agent"
+      },
+      {
+        "title": "Partner-built agents available in Gemini Enterprise | Google Cloud Blog",
+        "url": "https://cloud.google.com/blog/products/ai-machine-learning/partner-built-agents-available-in-gemini-enterprise"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "technology-data-eon-io",
@@ -1295,9 +1382,16 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Essential AI Chooses Google Cloud to Power Enterprise Decision Making with Generative AI | PR Newswire",
+        "url": "https://www.prnewswire.com/news-releases/essential-ai-chooses-google-cloud-to-power-enterprise-decision-making-with-generative-ai-302046434.html"
+      },
+      {
+        "title": "Essential AI Chooses Google Cloud | Google Cloud Press Corner",
+        "url": "https://www.googlecloudpresscorner.com/2024-01-29-Essential-AI-Chooses-Google-Cloud-to-Power-Enterprise-Decision-Making-with-Generative-AI"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "technology-data-fileai",
@@ -1539,9 +1633,12 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Guane caso de éxito | Google Cloud",
+        "url": "https://cloud.google.com/customers/intl/es-419/guane?hl=es-419"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "technology-data-guane-2",
@@ -1578,9 +1675,12 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Guane caso de éxito | Google Cloud",
+        "url": "https://cloud.google.com/customers/intl/es-419/guane?hl=es-419"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "technology-data-hebbia",
@@ -1709,9 +1809,16 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Humanizadas caso de sucesso | Google Cloud",
+        "url": "https://cloud.google.com/customers/intl/pt-br/humanizadas?hl=pt-BR"
+      },
+      {
+        "title": "Case Google: Humanizadas como case de sucesso em IA na América Latina | Humanizadas",
+        "url": "https://humanizadas.com/case-google-humanizadas-como-case-de-sucesso-em-inteligencia-artificial-na-america-latina/"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "technology-data-id-me",

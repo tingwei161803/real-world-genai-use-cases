@@ -222,9 +222,16 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Saudi based ROSHN Group recognised with Top Google Cloud Customer Award | Intelligent CIO",
+        "url": "https://www.intelligentcio.com/me/2025/02/13/saudi-based-roshn-group-recognised-with-top-google-cloud-customer-award/"
+      },
+      {
+        "title": "Roshn Partners with Google Cloud to Harness AI Potential | InCarArabia",
+        "url": "https://en.incarabia.com/roshn-partners-with-google-cloud-to-harness-ai-potential-648591.html"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "financial-services-data-american-express",
@@ -361,9 +368,12 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Partner-built agents available in Gemini Enterprise | Google Cloud Blog",
+        "url": "https://cloud.google.com/blog/products/ai-machine-learning/partner-built-agents-available-in-gemini-enterprise"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "financial-services-data-banco-macro",
@@ -673,9 +683,12 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "How Citadel Securities reimagines quantitative research on the cloud for speed and scale | Google Cloud Blog",
+        "url": "https://cloud.google.com/transform/citadel-securities-reimagine-quantitative-reseach-cloud-scale-speed"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "financial-services-data-citadel-securities-2",
@@ -711,9 +724,12 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "How Citadel Securities reimagines quantitative research on the cloud for speed and scale | Google Cloud Blog",
+        "url": "https://cloud.google.com/transform/citadel-securities-reimagine-quantitative-reseach-cloud-scale-speed"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "financial-services-data-cme-group",
@@ -796,9 +812,16 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "DAAC AI Agent Achieves Google Cloud Ready – Gemini Enterprise Designation and Listed on Agent Gallery | Crescendo Lab",
+        "url": "https://www.cresclab.com/en/newsroom/google-cloud-official-partner"
+      },
+      {
+        "title": "Crescendo Lab Adopts Google Agentspace (Gemini Enterprise), Setting a New Enterprise-AI Benchmark | Crescendo Lab",
+        "url": "https://www.cresclab.com/en/newsroom/google-agentspace-en"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "financial-services-data-digits",
@@ -837,9 +860,16 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Digits is revolutionizing accounting with Google Cloud ML | Google Cloud Blog",
+        "url": "https://cloud.google.com/blog/products/ai-machine-learning/digits-is-revolutionizing-accounting-with-google-cloud-ml"
+      },
+      {
+        "title": "AI Startup Digits Takes on QuickBooks with the World's First Autonomous General Ledger | GlobeNewswire",
+        "url": "https://www.globenewswire.com/news-release/2025/03/10/3039814/0/en/AI-Startup-Digits-Takes-on-QuickBooks-with-the-World-s-First-Autonomous-General-Ledger-for-Accounting-Xero-Co-founder-Craig-Walker-Joins-Digits.html"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "financial-services-data-dojo",
@@ -1002,9 +1032,16 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Generali Case Study | Google Cloud",
+        "url": "https://cloud.google.com/customers/generali"
+      },
+      {
+        "title": "Evaluating large language models in business | Google Cloud Blog",
+        "url": "https://cloud.google.com/blog/products/ai-machine-learning/evaluating-large-language-models-in-business"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "financial-services-data-grant-thornton-chile",
@@ -1212,9 +1249,12 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Kredito Caso de Éxito | Google Cloud",
+        "url": "https://cloud.google.com/customers/intl/es-419/kredito"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "financial-services-data-lloyds-banking-group",
@@ -1393,9 +1433,12 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Startups are building the agentic future with Google Cloud | Google Cloud Blog",
+        "url": "https://cloud.google.com/blog/topics/startups/startups-are-building-the-agentic-future-with-google-cloud"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "financial-services-data-msci",
@@ -1483,9 +1526,16 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Nativeorange AI-Powered Insurance Solutions | Automated Underwriting",
+        "url": "https://nativeorange.ai/"
+      },
+      {
+        "title": "Nativeorange at Google Cloud Next '26 | AI Agents on Google's Agentic Stack",
+        "url": "https://nativeorange.ai/kiosk/2026/google-next.html"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "financial-services-data-natwest-markets",
@@ -1716,9 +1766,12 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Stax.ai | AI Retirement Plan Admin Software for TPAs",
+        "url": "https://www.stax.ai/"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "financial-services-data-sura",
@@ -1756,9 +1809,12 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "SURA Investments Caso de Éxito | Google Cloud",
+        "url": "https://cloud.google.com/customers/intl/es-419/sura-investments"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "financial-services-data-syte",
@@ -1796,9 +1852,12 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Syte Case Study | Google Cloud",
+        "url": "https://cloud.google.com/customers/syte"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "financial-services-data-uob-asset-management",

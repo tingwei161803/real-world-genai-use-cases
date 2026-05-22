@@ -70,9 +70,12 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Ateme customer story | Google Cloud",
+        "url": "https://cloud.google.com/customers/ateme"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "media-marketing-gaming-employee-bitmovin",
@@ -109,9 +112,12 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Bitmovin | Google Cloud",
+        "url": "https://cloud.google.com/customers/bitmovin"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "media-marketing-gaming-employee-cadent",
@@ -198,9 +204,12 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Evergent Monetization Platform Now Available on Google Cloud Marketplace",
+        "url": "https://www.globenewswire.com/news-release/2023/04/16/2647454/0/en/Evergent-Announces-its-Flagship-Evergent-Monetization-Platform-will-Now-Be-Available-On-Google-Cloud-Marketplace.html"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "media-marketing-gaming-employee-football-association",
@@ -323,9 +332,16 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Globe Telecom Customer Success Story | Google Workspace",
+        "url": "https://workspace.google.com/customers/globe/"
+      },
+      {
+        "title": "Globe Telecom Case Study | Google Cloud",
+        "url": "https://cloud.google.com/customers/globe-telecom"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "media-marketing-gaming-employee-gold-bond",
@@ -607,9 +623,12 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Rams and SprintAI join forces to revolutionize player management with AI-powered insights",
+        "url": "https://www.therams.com/news/rams-sprint-ai-revolutionize-player-management-ai-powered-insights"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "media-marketing-gaming-employee-napster",
@@ -903,9 +922,12 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "How Vimeo uses Gemini and Google Workspace | Google Workspace Blog",
+        "url": "https://workspace.google.com/blog/customer-stories/how-vimeo-uses-gemini-and-google-workspace-help-customers-create-videos-move-needle"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "media-marketing-gaming-employee-warner-bros-discovery",
@@ -989,9 +1011,16 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Zixi Available On Google Cloud Marketplace",
+        "url": "https://www.prnewswire.com/news-releases/zixi-available-on-google-cloud-marketplace-301965927.html"
+      },
+      {
+        "title": "Zixi, Google Cloud partner on end-to-end broadcast quality live video solutions over IP | TVBEurope",
+        "url": "https://www.tvbeurope.com/live-production/zixi-google-cloud-partner-on-end-to-end-broadcast-quality-live-video-solutions-over-ip"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "media-marketing-gaming-customer-dailymotion",
@@ -1073,9 +1102,12 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Dataiads Case Study | Google Cloud",
+        "url": "https://cloud.google.com/customers/dataiads"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "media-marketing-gaming-customer-formula-e",
@@ -1736,9 +1768,16 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "The most interesting startups showcased at Google Cloud Next 2026 | TechCrunch",
+        "url": "https://techcrunch.com/2026/04/22/the-most-interesting-startups-showcased-at-google-cloud-next-2026/"
+      },
+      {
+        "title": "A new era of gaming: How the next generation of play is being redefined by AI agents | Google Cloud Blog",
+        "url": "https://cloud.google.com/transform/a-new-era-of-gaming-how-the-next-generation-of-play-is-being-redefined-by-ai-agents"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "media-marketing-gaming-customer-youtube",

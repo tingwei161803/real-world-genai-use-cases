@@ -27,7 +27,11 @@
         "有效減少人工分類錯誤，降低敏感資料外洩風險。"
       ]
     },
-    "technologies": ["Gemini", "Google Workspace", "Google Drive"],
+    "technologies": [
+      "Gemini",
+      "Google Workspace",
+      "Google Drive"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -67,14 +71,23 @@
         "從投遞到錄取，完整覆蓋招聘生命週期。"
       ]
     },
-    "technologies": ["Google Workspace", "Gmail", "Google Calendar", "Google Sheets", "Google Drive"],
+    "technologies": [
+      "Google Workspace",
+      "Gmail",
+      "Google Calendar",
+      "Google Sheets",
+      "Google Drive"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Partner-built agents available in Gemini Enterprise — Google Cloud Blog",
+        "url": "https://cloud.google.com/blog/products/ai-machine-learning/partner-built-agents-available-in-gemini-enterprise"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "technology-security-amdocs",
@@ -104,14 +117,21 @@
         "提供端對端代理式自動化，覆蓋客服中心全流程。"
       ]
     },
-    "technologies": ["Gemini", "Google Cloud", "Vertex AI"],
+    "technologies": [
+      "Gemini",
+      "Google Cloud",
+      "Vertex AI"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Amdocs Announces Availability of Telco Agents for Customer Experience in Google's Gemini Enterprise Agent Marketplace",
+        "url": "https://www.amdocs.com/press-release/amdocs-announces-availability-telco-agents-customer-experience-googles"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "technology-security-anjuna-security",
@@ -141,7 +161,11 @@
         "支援結合 Intel TDX 與 NVIDIA H100 GPU 機密模式的機密容器。"
       ]
     },
-    "technologies": ["Confidential Computing", "Confidential VMs", "Google Cloud"],
+    "technologies": [
+      "Confidential Computing",
+      "Confidential VMs",
+      "Google Cloud"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -181,7 +205,10 @@
         "縮短安全管理員識別與修復 SaaS 安全風險所需的時間。"
       ]
     },
-    "technologies": ["Vertex AI", "Google Cloud"],
+    "technologies": [
+      "Vertex AI",
+      "Google Cloud"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -221,14 +248,20 @@
         "自動化端對端風險排序與程式碼修復。"
       ]
     },
-    "technologies": ["Gemini", "Google Cloud"],
+    "technologies": [
+      "Gemini",
+      "Google Cloud"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Aptori AI Security Engineer Now on Google Cloud Marketplace — Aptori Blog",
+        "url": "https://www.aptori.com/blog/aptori-ai-security-engineer-now-on-google-cloud-marketplace-ai-powered-security-for-enterprise-scale"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "technology-security-behavox",
@@ -258,14 +291,24 @@
         "協助機構有效率地滿足嚴格監管要求。"
       ]
     },
-    "technologies": ["Google Cloud", "LLMs"],
+    "technologies": [
+      "Google Cloud",
+      "LLMs"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Google and Behavox Transform Financial Compliance — Google Cloud Blog",
+        "url": "https://cloud.google.com/blog/topics/partners/unleashing-innovation-how-google-cloud-and-behavox-transform-financial-compliance-with-the-power-of-palm-2-and-vertex-ai"
+      },
+      {
+        "title": "Behavox Expands Google Cloud Partnership with $42 Million Investment — BusinessWire",
+        "url": "https://www.businesswire.com/news/home/20251002573681/en/Behavox-Expands-Google-Cloud-Partnership-with-$42-Million-Investment-to-Deliver-AI-Solutions-in-Financial-Services"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "technology-security-broadcom",
@@ -295,7 +338,11 @@
         "透過 AI 驅動洞察實現攻擊預測與 ZTNA 優化。"
       ]
     },
-    "technologies": ["Vertex AI", "Google Cloud", "Symantec"],
+    "technologies": [
+      "Vertex AI",
+      "Google Cloud",
+      "Symantec"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -335,7 +382,11 @@
         "降低基礎設施管理成本，同時為受監管行業提供自動化合規能力。"
       ]
     },
-    "technologies": ["Google Cloud Run", "Google Kubernetes Engine", "Google Cloud"],
+    "technologies": [
+      "Google Cloud Run",
+      "Google Kubernetes Engine",
+      "Google Cloud"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -375,7 +426,11 @@
         "作為企業規模 AI 治理的整合信任層。"
       ]
     },
-    "technologies": ["Gemini", "Google Cloud", "Vertex AI"],
+    "technologies": [
+      "Gemini",
+      "Google Cloud",
+      "Vertex AI"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -412,7 +467,10 @@
         "降低警示疲勞，加速威脅偵測、調查與回應（TDIR）。"
       ]
     },
-    "technologies": ["Google Cloud", "LLMs"],
+    "technologies": [
+      "Google Cloud",
+      "LLMs"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -452,7 +510,12 @@
         "Google Code Assist 加速新應用功能的原型設計與測試。"
       ]
     },
-    "technologies": ["Vertex AI", "Gemini", "Google Cloud", "Google Code Assist"],
+    "technologies": [
+      "Vertex AI",
+      "Gemini",
+      "Google Cloud",
+      "Google Code Assist"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -492,7 +555,13 @@
         "Google for Startups Cloud Program 的支持加速成長並開拓新機會。"
       ]
     },
-    "technologies": ["Gemini", "Vertex AI", "Google Kubernetes Engine", "Google Cloud", "NVIDIA GPUs"],
+    "technologies": [
+      "Gemini",
+      "Vertex AI",
+      "Google Kubernetes Engine",
+      "Google Cloud",
+      "NVIDIA GPUs"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -532,14 +601,21 @@
         "提供主動式瀏覽器層級防護，應對複雜的網路威脅。"
       ]
     },
-    "technologies": ["Gemini", "Gemini Enterprise Agent Platform", "Google Cloud"],
+    "technologies": [
+      "Gemini",
+      "Gemini Enterprise Agent Platform",
+      "Google Cloud"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Menlo Security and Google Cloud Partner to Leverage Google's Gemini Models for Advanced Phishing Prevention — Menlo Security",
+        "url": "https://www.menlosecurity.com/press-releases/menlo-security-and-google-cloud-partner-to-leverage-googles-gemini-models-for-advanced-phishing-prevention"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "technology-security-moii-ai",
@@ -569,7 +645,12 @@
         "服務製造業、零售業、醫院與建築業。"
       ]
     },
-    "technologies": ["Gemini", "Vertex AI", "BigQuery", "Google Cloud"],
+    "technologies": [
+      "Gemini",
+      "Vertex AI",
+      "BigQuery",
+      "Google Cloud"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -609,14 +690,20 @@
         "為整個軟體供應鏈提供全新的資產安全評估方式。"
       ]
     },
-    "technologies": ["Google Cloud", "LLMs"],
+    "technologies": [
+      "Google Cloud",
+      "LLMs"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "NetRise traces supply chain security with Google managed services — Google Cloud Blog",
+        "url": "https://cloud.google.com/blog/products/databases/netrise-traces-supply-chain-security-with-google-managed-services"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "technology-security-neuraldefend",
@@ -646,7 +733,10 @@
         "是 NVIDIA 與 Google Cloud 聯合 AI 安全開發者生態系統的一部分。"
       ]
     },
-    "technologies": ["Google Cloud", "NVIDIA GPUs"],
+    "technologies": [
+      "Google Cloud",
+      "NVIDIA GPUs"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -686,7 +776,11 @@
         "在單一平台中結合生產力自動化與改進的安全營運。"
       ]
     },
-    "technologies": ["Gemini", "Google Workspace", "Google Cloud"],
+    "technologies": [
+      "Gemini",
+      "Google Workspace",
+      "Google Cloud"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -726,7 +820,11 @@
         "是與 Google Cloud 十位數多年期戰略合作的一部分，Google Cloud 為其 AI 基礎設施供應商。"
       ]
     },
-    "technologies": ["Gemini", "Google Cloud", "BigQuery"],
+    "technologies": [
+      "Gemini",
+      "Google Cloud",
+      "BigQuery"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -766,7 +864,11 @@
         "由 Google Cloud 基礎設施、BigQuery 及 Gemini 模型提供全球規模支撐。"
       ]
     },
-    "technologies": ["Google Cloud", "BigQuery", "Gemini"],
+    "technologies": [
+      "Google Cloud",
+      "BigQuery",
+      "Gemini"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -806,7 +908,11 @@
         "結合 NVIDIA GPU 運算與 Google Cloud 可擴展基礎設施，實現威脅偵測。"
       ]
     },
-    "technologies": ["Google Cloud", "Compute Engine", "NVIDIA GPUs"],
+    "technologies": [
+      "Google Cloud",
+      "Compute Engine",
+      "NVIDIA GPUs"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -846,7 +952,10 @@
         "應對傳統工具無法偵測的 AI 模型供應鏈安全風險。"
       ]
     },
-    "technologies": ["Google Cloud", "Vertex AI"],
+    "technologies": [
+      "Google Cloud",
+      "Vertex AI"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -886,7 +995,11 @@
         "為有嚴格資料保護要求的組織實現合規的 gen AI 採用。"
       ]
     },
-    "technologies": ["Confidential Computing", "Vertex AI", "Google Cloud"],
+    "technologies": [
+      "Confidential Computing",
+      "Vertex AI",
+      "Google Cloud"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -923,7 +1036,10 @@
         "提供票務摘要、回應改寫與語法修正等一鍵 AI 操作。"
       ]
     },
-    "technologies": ["Gemini", "Google Cloud"],
+    "technologies": [
+      "Gemini",
+      "Google Cloud"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -963,7 +1079,10 @@
         "使資料平台團隊能夠在雲端規模下維持強健的安全態勢。"
       ]
     },
-    "technologies": ["Wiz", "Google Cloud"],
+    "technologies": [
+      "Wiz",
+      "Google Cloud"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -1003,7 +1122,10 @@
         "可在 Google Cloud Marketplace 上獲取，快速整合至現有工作流程。"
       ]
     },
-    "technologies": ["Google Cloud", "Document AI"],
+    "technologies": [
+      "Google Cloud",
+      "Document AI"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -1043,14 +1165,20 @@
         "在單一整合平台中同時解決資料安全與 AI 治理問題。"
       ]
     },
-    "technologies": ["Google Cloud", "Vertex AI"],
+    "technologies": [
+      "Google Cloud",
+      "Vertex AI"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Securiti Integrations — Vertex AI — Securiti",
+        "url": "https://securiti.ai/gencore/integrations/"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "technology-security-sheetgo",
@@ -1080,14 +1208,21 @@
         "讓營運密集型團隊無需大幅流程重設計即可採用 AI。"
       ]
     },
-    "technologies": ["BigQuery", "Gemini", "Google Cloud"],
+    "technologies": [
+      "BigQuery",
+      "Gemini",
+      "Google Cloud"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Partners powering Gemini Enterprise — Google Cloud Blog",
+        "url": "https://cloud.google.com/blog/topics/partners/partners-powering-the-gemini-enterprise-agent-ecosystem"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "technology-security-specular",
@@ -1117,7 +1252,10 @@
         "以大規模 AI 驅動自動化取代人工進攻性安全工作流程。"
       ]
     },
-    "technologies": ["Gemini", "Google Cloud"],
+    "technologies": [
+      "Gemini",
+      "Google Cloud"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -1154,14 +1292,24 @@
         "無需更換硬體，即可從現有攝影機基礎設施獲取可行情報。"
       ]
     },
-    "technologies": ["Google Cloud", "Vertex AI"],
+    "technologies": [
+      "Google Cloud",
+      "Vertex AI"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Introducing Iris: The First Natural Conversation AI Agent Builder for Security Cameras — Spot AI Blog",
+        "url": "https://www.spot.ai/blog/introducing-iris-the-first-natural-conversation-ai-agent-builder-for-security-cameras"
+      },
+      {
+        "title": "Customer Obsession Leads to Center Stage: Spot AI's Iris Launch at Google Cloud Next '25 — Spot AI Blog",
+        "url": "https://www.spot.ai/blog/customer-obsession-leads-to-center-stage-spot-ais-iris-launch-at-google-cloud-next-25"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "technology-security-thales",
@@ -1191,7 +1339,12 @@
         "AI 輔助事件回應縮短確定攻擊影響與修復所需時間。"
       ]
     },
-    "technologies": ["Google Cloud", "Google Security Operations", "Mandiant", "VirusTotal"],
+    "technologies": [
+      "Google Cloud",
+      "Google Security Operations",
+      "Mandiant",
+      "VirusTotal"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -1231,7 +1384,10 @@
         "實施第 90 天，通常 90% 的一線警示能自動端對端解決。"
       ]
     },
-    "technologies": ["Google Cloud", "Google Security Operations"],
+    "technologies": [
+      "Google Cloud",
+      "Google Security Operations"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -1275,14 +1431,19 @@
         "使審計師、投資者和金融專業人士能夠大規模快速評估詐欺風險。"
       ]
     },
-    "technologies": ["Google Cloud"],
+    "technologies": [
+      "Google Cloud"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Transparently.AI Case Study — Google Cloud",
+        "url": "https://cloud.google.com/customers/transparentlyai"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "technology-security-unico",
@@ -1312,14 +1473,20 @@
         "為大量身份驗證業務管理規模與安全要求。"
       ]
     },
-    "technologies": ["Google Cloud", "Vertex AI"],
+    "technologies": [
+      "Google Cloud",
+      "Vertex AI"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Unico builds cutting-edge IDTech with Spanner Vector Search — Google Cloud Blog",
+        "url": "https://cloud.google.com/blog/products/databases/unico-builds-cutting-edge-idtech-with-spanner-vector-search/"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "technology-security-valiance",
@@ -1349,7 +1516,10 @@
         "跨多個老虎保護區保護約 500 萬人口。"
       ]
     },
-    "technologies": ["Google Cloud", "Vertex AI"],
+    "technologies": [
+      "Google Cloud",
+      "Vertex AI"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -1393,7 +1563,12 @@
         "在印尼服務銀行、金融科技與醫療保健領域的 400 多個品牌。"
       ]
     },
-    "technologies": ["Google Kubernetes Engine", "Gemini", "Vertex AI", "Google Cloud"],
+    "technologies": [
+      "Google Kubernetes Engine",
+      "Gemini",
+      "Vertex AI",
+      "Google Cloud"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -1433,14 +1608,22 @@
         "AI 驅動工具幫助 Virtusa 為企業客戶提供更優質的技術解決方案。"
       ]
     },
-    "technologies": ["Gemini", "Google Workspace", "NotebookLM", "Google Cloud"],
+    "technologies": [
+      "Gemini",
+      "Google Workspace",
+      "NotebookLM",
+      "Google Cloud"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Virtusa to Adopt Google Workspace with Gemini in Expansive New Partnership — PR Newswire",
+        "url": "https://www.prnewswire.com/news-releases/virtusa-to-adopt-google-workspace-with-gemini-in-expansive-new-partnership-302443942.html"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "technology-security-wiz",
@@ -1470,7 +1653,11 @@
         "Model Armour 將控制擴展至 MCP 伺服器，防止提示注入與資料洩露。"
       ]
     },
-    "technologies": ["Vertex AI", "Google Cloud", "Google Kubernetes Engine"],
+    "technologies": [
+      "Vertex AI",
+      "Google Cloud",
+      "Google Kubernetes Engine"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -1510,7 +1697,11 @@
         "幀級別分析符合 GARM 行業標準，提供可信的品牌保護。"
       ]
     },
-    "technologies": ["Gemini", "Vertex AI", "Google Cloud"],
+    "technologies": [
+      "Gemini",
+      "Vertex AI",
+      "Google Cloud"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",

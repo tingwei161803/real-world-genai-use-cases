@@ -34,9 +34,16 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Meet the 15 AI startups selected for Google for Startups Cloud AI Accelerator, featuring Lately AI",
+        "url": "https://www.lately.ai/press/meet-the-15-ai-startups-selected-for-google-for-startups-cloud-ai-accelerator-featuring-lately-ai"
+      },
+      {
+        "title": "15 new startups join Google AI Accelerator | Google Cloud Blog",
+        "url": "https://cloud.google.com/blog/topics/startups/new-startups-join-google-ai-accelerator"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "media-marketing-gaming-creative-lightricks",
@@ -170,9 +177,20 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "MLB case study | Google Cloud",
+        "url": "https://cloud.google.com/customers/major-league-baseball"
+      },
+      {
+        "title": "AI at Bat: How MLB is surfacing stats faster with AI | Google Cloud Blog",
+        "url": "https://cloud.google.com/transform/mlb-statcast-ai-fan-experience-team-analytics"
+      },
+      {
+        "title": "How MLB is bringing AI-powered color commentary to fans with Scout Insights | Google Cloud Blog",
+        "url": "https://cloud.google.com/transform/mlb-scout-insights-ai-powered-color-commentary-gameday-app"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "media-marketing-gaming-creative-mosaic",
@@ -212,9 +230,16 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Mosaic: Agentic video editing | Y Combinator",
+        "url": "https://www.ycombinator.com/companies/mosaic-2"
+      },
+      {
+        "title": "Mosaic AI case study | Google Cloud",
+        "url": "https://cloud.google.com/customers/mosaic-ai"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "media-marketing-gaming-creative-mwm",
@@ -293,9 +318,12 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Meet a dozen startups using generative media to revolutionize content creation | Google Cloud Blog",
+        "url": "https://cloud.google.com/transform/generative-media-models-dozen-startups-helping-anyone-create-content-with-ai"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "media-marketing-gaming-creative-openart",
@@ -335,9 +363,12 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Meet a dozen startups using generative media to revolutionize content creation | Google Cloud Blog",
+        "url": "https://cloud.google.com/transform/generative-media-models-dozen-startups-helping-anyone-create-content-with-ai"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "media-marketing-gaming-creative-parallel-studios",
@@ -420,9 +451,12 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Paramount+: Video Content Summarization and Metadata Enrichment | ZenML LLMOps Database",
+        "url": "https://www.zenml.io/llmops-database/video-content-summarization-and-metadata-enrichment-for-streaming-platform"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "media-marketing-gaming-creative-photoroom",
@@ -508,9 +542,16 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Meet a dozen startups using generative media to revolutionize content creation | Google Cloud Blog",
+        "url": "https://cloud.google.com/transform/generative-media-models-dozen-startups-helping-anyone-create-content-with-ai"
+      },
+      {
+        "title": "Jams — AI-first video social network | Potrero Labs",
+        "url": "https://jamshq.com/"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "media-marketing-gaming-creative-premier-martial-arts",
@@ -546,9 +587,16 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Kansas — Premier Martial Arts: Gemini in Google Docs | YouTube",
+        "url": "https://www.youtube.com/watch?v=Xp3FF7rx4-Q"
+      },
+      {
+        "title": "New Google ads show 50 small businesses using Gemini for Workspace | Google Blog",
+        "url": "https://blog.google/products/workspace/50-states-50-stories-small-business-ads/"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "media-marketing-gaming-creative-prodia",
@@ -588,9 +636,12 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Meet a dozen startups using generative media to revolutionize content creation | Google Cloud Blog",
+        "url": "https://cloud.google.com/transform/generative-media-models-dozen-startups-helping-anyone-create-content-with-ai"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "media-marketing-gaming-creative-producer-ai",
@@ -629,9 +680,16 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Meet a dozen startups using generative media to revolutionize content creation | Google Cloud Blog",
+        "url": "https://cloud.google.com/transform/generative-media-models-dozen-startups-helping-anyone-create-content-with-ai"
+      },
+      {
+        "title": "ProducerAI: Your music creation partner, now in Google Labs | Google Blog",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/producerai/"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "media-marketing-gaming-creative-reclip",
@@ -668,9 +726,12 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "How Google Cloud's AI tech stack powers today's startups | Google Cloud Blog",
+        "url": "https://cloud.google.com/blog/topics/startups/differentiated-ai-tech-stack-drives-startup-innovation-google-builders-forum"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "media-marketing-gaming-creative-rembrand",
@@ -936,9 +997,20 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "How Sphere's new 'The Wizard of Oz' experience is coming to life with AI | Google Blog",
+        "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/sphere-wizard-of-oz/"
+      },
+      {
+        "title": "Google and Sphere Announce Technology Partnership — PR Newswire",
+        "url": "https://www.prnewswire.com/news-releases/google-and-sphere-announce-technology-partnership-and-reveal-new-details-on-the-ai-technology-behind-upcoming-the-wizard-of-oz-at-sphere-302422950.html"
+      },
+      {
+        "title": "'The Wizard of Oz at Sphere' Will Use AI to 'Reimagine' 1939 Classic | Variety",
+        "url": "https://variety.com/2025/film/news/wizard-of-oz-sphere-ai-google-cloud-1236363959/"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "media-marketing-gaming-creative-square-enix",
@@ -1063,9 +1135,12 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "How Thoughtworks uses Gemini for Google Workspace to boost productivity | Google Workspace Blog",
+        "url": "https://workspace.google.com/blog/customer-stories/thoughtworks-gemini-google-workspace"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "media-marketing-gaming-creative-tinuiti",
@@ -1149,9 +1224,16 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Inside Toonsutra: A Universe of Comics at Your Fingertips | Google AI for Developers",
+        "url": "https://ai.google.dev/showcase/toonsutra"
+      },
+      {
+        "title": "Eight Indian Startups Building Boldly with AI | Google Blog",
+        "url": "https://blog.google/intl/en-in/company-news/eight-indian-startups-building-boldly-with-ai/"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "media-marketing-gaming-creative-udio",
@@ -1189,9 +1271,16 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Why Global startups are gathering at Google Cloud Next | Google Cloud Blog",
+        "url": "https://cloud.google.com/blog/topics/startups/why-global-startups-are-gathering-at-google-cloud-next25"
+      },
+      {
+        "title": "Former Google DeepMind researchers launch AI-powered music creation app Udio | VentureBeat",
+        "url": "https://venturebeat.com/ai/former-google-deepmind-researchers-launch-ai-powered-music-creation-app-udio"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "media-marketing-gaming-creative-veed",
@@ -1280,9 +1369,12 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Meet a dozen startups using generative media to revolutionize content creation | Google Cloud Blog",
+        "url": "https://cloud.google.com/transform/generative-media-models-dozen-startups-helping-anyone-create-content-with-ai"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "media-marketing-gaming-creative-visla",
@@ -1323,9 +1415,12 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Meet a dozen startups using generative media to revolutionize content creation | Google Cloud Blog",
+        "url": "https://cloud.google.com/transform/generative-media-models-dozen-startups-helping-anyone-create-content-with-ai"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "media-marketing-gaming-creative-wondercraft",
@@ -1364,9 +1459,12 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Wondercraft case study | Google Cloud",
+        "url": "https://cloud.google.com/customers/wondercraft"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "media-marketing-gaming-creative-wpp",

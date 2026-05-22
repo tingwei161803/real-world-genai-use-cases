@@ -29,7 +29,10 @@
         "將視覺數據轉化為可行動的門市洞察警示。"
       ]
     },
-    "technologies": ["Gemini", "Vertex AI"],
+    "technologies": [
+      "Gemini",
+      "Vertex AI"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -71,7 +74,15 @@
         "使用 Vertex AI（Imagen 3）進行圖像生成，並以 Gemini 支援 LLM 工作流程。"
       ]
     },
-    "technologies": ["Vertex AI", "Firebase", "Cloud Run", "Cloud Storage", "Gemini", "Imagen 3", "Firestore"],
+    "technologies": [
+      "Vertex AI",
+      "Firebase",
+      "Cloud Run",
+      "Cloud Storage",
+      "Gemini",
+      "Imagen 3",
+      "Firestore"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -113,7 +124,10 @@
         "在視覺檢測領域結合電腦視覺與 AI 技術運作。"
       ]
     },
-    "technologies": ["Vertex AI", "Document AI"],
+    "technologies": [
+      "Vertex AI",
+      "Document AI"
+    ],
     "needsReview": true,
     "sources": [
       {
@@ -152,7 +166,11 @@
         "為多語言學習者改善內容吸收效果。"
       ]
     },
-    "technologies": ["Vertex AI", "Google Cloud Text-to-Speech", "Translation API"],
+    "technologies": [
+      "Vertex AI",
+      "Google Cloud Text-to-Speech",
+      "Translation API"
+    ],
     "needsReview": true,
     "sources": [
       {
@@ -191,7 +209,11 @@
         "使用 Google Kubernetes Engine 進行模型訓練，並以 Gemini 處理自然語言輸入。"
       ]
     },
-    "technologies": ["Vertex AI", "Gemini", "Google Kubernetes Engine"],
+    "technologies": [
+      "Vertex AI",
+      "Gemini",
+      "Google Kubernetes Engine"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -237,7 +259,11 @@
         "在優化企業協作的同時保持最高等級的安全性。"
       ]
     },
-    "technologies": ["Gemini", "Google Workspace", "NotebookLM"],
+    "technologies": [
+      "Gemini",
+      "Google Workspace",
+      "NotebookLM"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -283,7 +309,11 @@
         "建立於 Google Cloud AI 生態系之上，結合 Vertex AI 與 Trakto 自有平台。"
       ]
     },
-    "technologies": ["Vertex AI", "Gemini", "Google Cloud Text-to-Speech"],
+    "technologies": [
+      "Vertex AI",
+      "Gemini",
+      "Google Cloud Text-to-Speech"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -325,7 +355,11 @@
         "運用 Gemini 驅動的 Google Vids 進行 AI 輔助分鏡與配音。"
       ]
     },
-    "technologies": ["Google Vids", "Gemini", "Google Workspace"],
+    "technologies": [
+      "Google Vids",
+      "Gemini",
+      "Google Workspace"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -367,7 +401,12 @@
         "在 Gemini Enterprise 生態系內以獨立軟體供應商身份上架 Google Cloud Marketplace。"
       ]
     },
-    "technologies": ["Gemini", "Vertex AI", "BigQuery", "Google Cloud Marketplace"],
+    "technologies": [
+      "Gemini",
+      "Vertex AI",
+      "BigQuery",
+      "Google Cloud Marketplace"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -413,7 +452,9 @@
         "改善管理大量企業裝置的企業客戶使用體驗。"
       ]
     },
-    "technologies": ["Gemini"],
+    "technologies": [
+      "Gemini"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -459,7 +500,14 @@
         "整合 Translation API、文字轉語音 AI 和 Cloud Vision API，支援多語言內容創作與內容審核。"
       ]
     },
-    "technologies": ["Gemini", "Vertex AI", "Imagen 3", "Cloud Vision API", "Translation API", "Google Cloud Text-to-Speech"],
+    "technologies": [
+      "Gemini",
+      "Vertex AI",
+      "Imagen 3",
+      "Cloud Vision API",
+      "Translation API",
+      "Google Cloud Text-to-Speech"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",

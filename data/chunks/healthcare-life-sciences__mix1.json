@@ -119,9 +119,12 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "15 new startups join Google AI Accelerator | Google Cloud Blog",
+        "url": "https://cloud.google.com/blog/topics/startups/new-startups-join-google-ai-accelerator"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "healthcare-life-sciences-employee-bayer",
@@ -334,9 +337,12 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Click Therapeutics and Gemini for Google Workspace | Google Workspace",
+        "url": "https://workspace.google.com/customers/success-stories/click-therapeutics/"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "healthcare-life-sciences-employee-cost-plus-drugs",
@@ -372,9 +378,12 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "How Mark Cuban taps into the magic of Gemini for Google Workspace for Cost Plus Drugs | Google Workspace Blog",
+        "url": "https://workspace.google.com/blog/customer-stories/why-mark-cuban-cost-plus-drugs-switched-google-workspace"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "healthcare-life-sciences-employee-covered-california",
@@ -733,9 +742,12 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Elanco Case Study | Google Cloud",
+        "url": "https://cloud.google.com/customers/elanco"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "healthcare-life-sciences-employee-exacare-ai",
@@ -817,9 +829,12 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "How Fingerpaint Uses NotebookLM To Scale Healthcare Marketing | Google Workspace",
+        "url": "https://workspace.google.com/customers/success-stories/fingerpaint/"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "healthcare-life-sciences-employee-hackensack-meridian-health",
@@ -958,9 +973,12 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "The Fundação Hemominas Donor Co-Capturing Robot | Hematology, Transfusion and Cell Therapy",
+        "url": "https://www.htct.com.br/en-the-fundacao-hemominas-donor-co-capturing-articulo-S2531137923017741"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "healthcare-life-sciences-employee-highmark-health",
@@ -1526,9 +1544,12 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Google Cloud Brings a New Era of AI Innovation to Brazil | Google Cloud Press Corner",
+        "url": "https://www.googlecloudpresscorner.com/2025-09-10-Google-Cloud-Brings-a-New-Era-of-AI-Innovation-to-Brazil"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "healthcare-life-sciences-employee-sami-sa-de",
@@ -1701,9 +1722,16 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Seattle Children's Hospital Partners with Google Cloud to Launch AI Agent | PR Newswire",
+        "url": "https://www.prnewswire.com/news-releases/seattle-childrens-hospital-partners-with-google-cloud-to-launch-ai-agent-to-support-healthcare-providers-clinical-decision-making-302421441.html"
+      },
+      {
+        "title": "Child care: How AI is transforming pediatric medicine at Seattle Children's | Google Cloud Blog",
+        "url": "https://cloud.google.com/blog/topics/healthcare-life-sciences/child-care-how-ai-is-transforming-pediatric-medicine-at-seattle-childrens"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "healthcare-life-sciences-employee-signal-iduna",
@@ -1913,9 +1941,16 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Supermetrics launches a Marketing Intelligence Agent in Gemini Enterprise | Supermetrics Blog",
+        "url": "https://supermetrics.com/blog/supermetrics-ai-agent-google-gemini-enterprise"
+      },
+      {
+        "title": "Partner-built agents available in Gemini Enterprise | Google Cloud Blog",
+        "url": "https://cloud.google.com/blog/products/ai-machine-learning/partner-built-agents-available-in-gemini-enterprise"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "healthcare-life-sciences-employee-tali-ai",
@@ -2137,9 +2172,12 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "How Virbac frees up time for what truly matters with Gemini and Google Workspace | Google Workspace",
+        "url": "https://workspace.google.com/customers/success-stories/virbac/"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "healthcare-life-sciences-employee-virbac-2",
@@ -2175,9 +2213,12 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "How Virbac frees up time for what truly matters with Gemini and Google Workspace | Google Workspace",
+        "url": "https://workspace.google.com/customers/success-stories/virbac/"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "healthcare-life-sciences-employee-waystar",
@@ -2361,9 +2402,12 @@
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Insônia vira Sônia em campanha da Cimed com IA — e ela encontra 'solução' para o problema | Exame",
+        "url": "https://exame.com/marketing/insonia-vira-sonia-em-campanha-da-cimed-com-ia-e-encontra-solucao-para-o-problema/"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "healthcare-life-sciences-security-apree-health",

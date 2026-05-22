@@ -27,7 +27,10 @@
         "屬於更大合作夥伴生態系的一部分，協助企業自動化複雜的端對端工作流程。"
       ]
     },
-    "technologies": ["Gemini", "Gemini Enterprise"],
+    "technologies": [
+      "Gemini",
+      "Gemini Enterprise"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -67,7 +70,9 @@
         "Notion 在將企業 AI 引入日常知識工作方面處於領先地位。"
       ]
     },
-    "technologies": ["Gemini"],
+    "technologies": [
+      "Gemini"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -107,7 +112,11 @@
         "NTT DATA 目標認證 5,000 名 Google Cloud 工程師，以擴大 AI 採用規模。"
       ]
     },
-    "technologies": ["Gemini", "Gemini Enterprise", "Google Workspace"],
+    "technologies": [
+      "Gemini",
+      "Gemini Enterprise",
+      "Google Workspace"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -149,7 +158,13 @@
         "Vertex AI 上的 Imagen 使英文字彙卡圖片生產速度比人工快 5 倍。"
       ]
     },
-    "technologies": ["Gemini", "Vertex AI", "BigQuery", "Firebase", "Imagen"],
+    "technologies": [
+      "Gemini",
+      "Vertex AI",
+      "BigQuery",
+      "Firebase",
+      "Imagen"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -189,7 +204,11 @@
         "2025 年 4 月宣布的戰略合作著重零售、供應鏈與金融服務行業。"
       ]
     },
-    "technologies": ["Gemini", "BigQuery", "Vertex AI"],
+    "technologies": [
+      "Gemini",
+      "BigQuery",
+      "Vertex AI"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -227,14 +246,19 @@
         "解決方案將 AI agent 連接至更廣泛的公開網路，擴大 agentic AI 的應用範圍。"
       ]
     },
-    "technologies": ["Gemini"],
+    "technologies": [
+      "Gemini"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
+      },
+      {
+        "title": "Grounding with Parallel web search | Gemini Enterprise Agent Platform | Google Cloud Documentation",
+        "url": "https://docs.cloud.google.com/gemini-enterprise-agent-platform/models/grounding/grounding-with-parallel"
       }
-    ],
-    "needsReview": true
+    ]
   },
   {
     "id": "technology-employee-quantum-metric",
@@ -266,7 +290,9 @@
         "2025 年春季更新推出 User Summaries，提供跨多個工作階段與裝置的整體視角。"
       ]
     },
-    "technologies": ["Gemini"],
+    "technologies": [
+      "Gemini"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -310,7 +336,11 @@
         "員工更快速地存取內部公司資訊，提升職場生產力。"
       ]
     },
-    "technologies": ["Gemini", "Cloud Run", "Memorystore"],
+    "technologies": [
+      "Gemini",
+      "Cloud Run",
+      "Memorystore"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -352,7 +382,11 @@
         "支援跨環境的混合雲庫存能見度與生命週期規劃。"
       ]
     },
-    "technologies": ["Gemini", "Cloud Run", "Agent2Agent (A2A)"],
+    "technologies": [
+      "Gemini",
+      "Cloud Run",
+      "Agent2Agent (A2A)"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -396,7 +430,10 @@
         "整合利用既有安全政策，縮短部署基於 RAG 的 GenAI 專案所需的時間。"
       ]
     },
-    "technologies": ["Google Agentspace", "Vertex AI"],
+    "technologies": [
+      "Google Agentspace",
+      "Vertex AI"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -436,7 +473,10 @@
         "A2A 與 Anthropic 的 MCP 互補：MCP 連接 agent 與工具，A2A 連接 agent 與 agent。"
       ]
     },
-    "technologies": ["Agent2Agent (A2A)", "Gemini"],
+    "technologies": [
+      "Agent2Agent (A2A)",
+      "Gemini"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -482,7 +522,10 @@
         "擴展合作夥伴關係於 2025 年 10 月宣布，深化 Agentforce 360 與 Gemini Enterprise 的整合。"
       ]
     },
-    "technologies": ["Gemini", "Vertex AI"],
+    "technologies": [
+      "Gemini",
+      "Vertex AI"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -522,7 +565,11 @@
         "SAP 與 Google Cloud 亦正在推動 BigQuery 零複製資料存取，以加速 AI 工作流程。"
       ]
     },
-    "technologies": ["Vertex AI", "Gemini", "BigQuery"],
+    "technologies": [
+      "Vertex AI",
+      "Gemini",
+      "BigQuery"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -564,7 +611,10 @@
         "透過跨平台 AI 協調，大規模提供一致且具上下文感知的客戶體驗。"
       ]
     },
-    "technologies": ["Gemini", "Customer Engagement Suite"],
+    "technologies": [
+      "Gemini",
+      "Customer Engagement Suite"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -606,7 +656,11 @@
         "合作夥伴關係於 2026 年 4 月 Google Cloud Next 大會上宣布。"
       ]
     },
-    "technologies": ["Gemini", "Gemini Enterprise", "Agent2Agent (A2A)"],
+    "technologies": [
+      "Gemini",
+      "Gemini Enterprise",
+      "Agent2Agent (A2A)"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -648,7 +702,9 @@
         "提供相容 Playwright 的 SDK 與無程式碼工作流程建構器，適合技術與非技術用戶。"
       ]
     },
-    "technologies": ["Gemini"],
+    "technologies": [
+      "Gemini"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -694,7 +750,10 @@
         "與 Google 的合作夥伴關係於 2024 年 11 月宣布，面向德國與歐洲市場。"
       ]
     },
-    "technologies": ["Gemini", "Google Workspace"],
+    "technologies": [
+      "Gemini",
+      "Google Workspace"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -740,7 +799,10 @@
         "企業客戶包括 NTT DATA（大規模加速 AI R&D）與 Visa（提升模型訓練效率）。"
       ]
     },
-    "technologies": ["Google Kubernetes Engine", "Vertex AI"],
+    "technologies": [
+      "Google Kubernetes Engine",
+      "Vertex AI"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -786,7 +848,11 @@
         "2025 年 4 月宣布與 Sharp Group 合作進行人形機器人試點，擴展平台能力。"
       ]
     },
-    "technologies": ["Compute Engine", "Cloud Data Fusion", "Cloud Storage"],
+    "technologies": [
+      "Compute Engine",
+      "Cloud Data Fusion",
+      "Cloud Storage"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -830,7 +896,9 @@
         "自 2024 年 12 月登上 Google Cloud Marketplace 以來，Temporal 已在 Google Cloud 上發展超過 50 名客戶。"
       ]
     },
-    "technologies": ["Vertex AI"],
+    "technologies": [
+      "Vertex AI"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -870,7 +938,10 @@
         "自 2024 年 12 月以來，已有超過 50 名企業客戶在 Google Cloud 的四個區域部署。"
       ]
     },
-    "technologies": ["Vertex AI", "Agent Development Kit (ADK)"],
+    "technologies": [
+      "Vertex AI",
+      "Agent Development Kit (ADK)"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -910,7 +981,11 @@
         "透過 Vertex AI 評估多模態 AI，以從科技行業拓展至醫療行業。"
       ]
     },
-    "technologies": ["Google Kubernetes Engine", "Vertex AI", "Gemini"],
+    "technologies": [
+      "Google Kubernetes Engine",
+      "Vertex AI",
+      "Gemini"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -950,7 +1025,10 @@
         "Google Cloud 的可擴展性讓客戶快速上線而不受基礎架構瓶頸制約。"
       ]
     },
-    "technologies": ["Vertex AI", "Cloud TPU"],
+    "technologies": [
+      "Vertex AI",
+      "Cloud TPU"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -992,7 +1070,10 @@
         "Trellix 於 2023 年從 Microsoft Office 365 遷移至 Google Workspace，以強化資料保護。"
       ]
     },
-    "technologies": ["Gemini", "Google Workspace"],
+    "technologies": [
+      "Gemini",
+      "Google Workspace"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -1036,7 +1117,10 @@
         "方案展示了 AI 部署在 HR 運營中的快速價值實現能力。"
       ]
     },
-    "technologies": ["Gemini", "Google Workspace"],
+    "technologies": [
+      "Gemini",
+      "Google Workspace"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -1076,7 +1160,10 @@
         "Gemini 2.5 實現員工發展計畫的更佳個人化，並精簡人員配置工作流程。"
       ]
     },
-    "technologies": ["Gemini", "Google Workspace"],
+    "technologies": [
+      "Gemini",
+      "Google Workspace"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -1118,7 +1205,13 @@
         "使用案例包括為全球消費品牌生成地理定向產品圖像與行銷活動內容。"
       ]
     },
-    "technologies": ["Vertex AI", "Gemini", "Imagen", "BigQuery", "Google Workspace"],
+    "technologies": [
+      "Vertex AI",
+      "Gemini",
+      "Imagen",
+      "BigQuery",
+      "Google Workspace"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -1164,7 +1257,10 @@
         "與 Google Cloud 的合作夥伴關係於 2025 年 10 月宣布，以 agentic AI 轉型工作模式。"
       ]
     },
-    "technologies": ["Gemini", "Gemini Enterprise"],
+    "technologies": [
+      "Gemini",
+      "Gemini Enterprise"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -1210,7 +1306,12 @@
         "AI 聊天機器人使支援強度率 (SIR) 同比下降 26%。"
       ]
     },
-    "technologies": ["Gemini", "Vertex AI", "BigQuery", "Cloud Run"],
+    "technologies": [
+      "Gemini",
+      "Vertex AI",
+      "BigQuery",
+      "Cloud Run"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -1254,7 +1355,10 @@
         "資深副總裁將 Gemini 稱為「為組織增添的超能力」。"
       ]
     },
-    "technologies": ["Gemini", "Google Workspace"],
+    "technologies": [
+      "Gemini",
+      "Google Workspace"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -1296,7 +1400,13 @@
         "平台服務拉丁美洲 6 至 17 歲的學生。"
       ]
     },
-    "technologies": ["Gemini", "Vertex AI", "Google Kubernetes Engine", "Compute Engine", "Cloud SQL"],
+    "technologies": [
+      "Gemini",
+      "Vertex AI",
+      "Google Kubernetes Engine",
+      "Compute Engine",
+      "Cloud SQL"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -1338,7 +1448,9 @@
         "服務超過 1 萬名企業客戶，包括 Nvidia、PayPal 與 Walmart，並已在 Google Cloud Marketplace 上架。"
       ]
     },
-    "technologies": ["Google Kubernetes Engine"],
+    "technologies": [
+      "Google Kubernetes Engine"
+    ],
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
