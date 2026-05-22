@@ -710,7 +710,8 @@ window.USE_CASES = [
         "title": "Google Cloud — Real-world gen AI use cases from the world's leading organizations",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
       }
-    ]
+    ],
+    "needsReview": true
   },
   {
     "id": "automotive-logistics-employee-manhattan-associate",
@@ -1845,7 +1846,8 @@ window.USE_CASES = [
         "title": "Google Cloud — Real-world gen AI use cases from the world's leading organizations",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
       }
-    ]
+    ],
+    "needsReview": true
   },
   {
     "id": "automotive-logistics-data-ups",
@@ -2693,7 +2695,8 @@ window.USE_CASES = [
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
       }
-    ]
+    ],
+    "needsReview": true
   },
   {
     "id": "business-professional-services-employee-allegis-group",
@@ -2954,7 +2957,8 @@ window.USE_CASES = [
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
       }
-    ]
+    ],
+    "needsReview": true
   },
   {
     "id": "business-professional-services-employee-archinergy",
@@ -2991,7 +2995,8 @@ window.USE_CASES = [
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
       }
-    ]
+    ],
+    "needsReview": true
   },
   {
     "id": "business-professional-services-employee-avalara",
@@ -3341,7 +3346,8 @@ window.USE_CASES = [
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
       }
-    ]
+    ],
+    "needsReview": true
   },
   {
     "id": "business-professional-services-employee-cotality",
@@ -3830,7 +3836,8 @@ window.USE_CASES = [
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
       }
-    ]
+    ],
+    "needsReview": true
   },
   {
     "id": "business-professional-services-employee-freshfields",
@@ -4101,7 +4108,8 @@ window.USE_CASES = [
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
       }
-    ]
+    ],
+    "needsReview": true
   },
   {
     "id": "business-professional-services-employee-incrementa",
@@ -4183,7 +4191,8 @@ window.USE_CASES = [
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
       }
-    ]
+    ],
+    "needsReview": true
   },
   {
     "id": "business-professional-services-employee-instalily",
@@ -4809,7 +4818,8 @@ window.USE_CASES = [
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
       }
-    ]
+    ],
+    "needsReview": true
   },
   {
     "id": "business-professional-services-employee-opentext",
@@ -5552,7 +5562,8 @@ window.USE_CASES = [
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
       }
-    ]
+    ],
+    "needsReview": true
   },
   {
     "id": "business-professional-services-employee-wimberly-allison-tong-goo",
@@ -5593,7 +5604,8 @@ window.USE_CASES = [
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
       }
-    ]
+    ],
+    "needsReview": true
   },
   {
     "id": "business-professional-services-employee-workday",
@@ -6181,7 +6193,8 @@ window.USE_CASES = [
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
       }
-    ]
+    ],
+    "needsReview": true
   },
   {
     "id": "business-professional-services-creative-salesrun",
@@ -6218,7 +6231,8 @@ window.USE_CASES = [
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
       }
-    ]
+    ],
+    "needsReview": true
   },
   {
     "id": "business-professional-services-creative-thoughtworks",
@@ -6579,7 +6593,8 @@ window.USE_CASES = [
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
       }
-    ]
+    ],
+    "needsReview": true
   },
   {
     "id": "business-professional-services-data-croud",
@@ -6706,7 +6721,8 @@ window.USE_CASES = [
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
       }
-    ]
+    ],
+    "needsReview": true
   },
   {
     "id": "business-professional-services-data-gamuda-berhad",
@@ -7001,7 +7017,8 @@ window.USE_CASES = [
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
       }
-    ]
+    ],
+    "needsReview": true
   },
   {
     "id": "business-professional-services-data-kyndryl",
@@ -7117,7 +7134,8 @@ window.USE_CASES = [
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
       }
-    ]
+    ],
+    "needsReview": true
   },
   {
     "id": "business-professional-services-data-onix",
@@ -7452,7 +7470,8 @@ window.USE_CASES = [
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
       }
-    ]
+    ],
+    "needsReview": true
   },
   {
     "id": "business-professional-services-data-watershed",
@@ -7693,7 +7712,8 @@ window.USE_CASES = [
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
       }
-    ]
+    ],
+    "needsReview": true
   },
   {
     "id": "business-professional-services-data-zoi",
@@ -7852,7 +7872,8 @@ window.USE_CASES = [
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
       }
-    ]
+    ],
+    "needsReview": true
   },
   {
     "id": "financial-services-customer-albo",
@@ -9040,7 +9061,8 @@ window.USE_CASES = [
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
       }
-    ]
+    ],
+    "needsReview": true
   },
   {
     "id": "financial-services-employee-bank-of-new-york-mellon",
@@ -9792,7 +9814,8 @@ window.USE_CASES = [
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
       }
-    ]
+    ],
+    "needsReview": true
   },
   {
     "id": "financial-services-employee-hdfc-ergo",
@@ -10768,7 +10791,8 @@ window.USE_CASES = [
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
       }
-    ]
+    ],
+    "needsReview": true
   },
   {
     "id": "financial-services-employee-symphony",
@@ -11879,7 +11903,8 @@ window.USE_CASES = [
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
       }
-    ]
+    ],
+    "needsReview": true
   },
   {
     "id": "financial-services-data-cerc",
@@ -11964,7 +11989,8 @@ window.USE_CASES = [
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
       }
-    ]
+    ],
+    "needsReview": true
   },
   {
     "id": "financial-services-data-citadel-securities",
@@ -12227,7 +12253,8 @@ window.USE_CASES = [
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
       }
-    ]
+    ],
+    "needsReview": true
   },
   {
     "id": "financial-services-data-fiscal-ai",
@@ -12267,7 +12294,8 @@ window.USE_CASES = [
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
       }
-    ]
+    ],
+    "needsReview": true
   },
   {
     "id": "financial-services-data-fundwell",
@@ -12397,7 +12425,8 @@ window.USE_CASES = [
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
       }
-    ]
+    ],
+    "needsReview": true
   },
   {
     "id": "financial-services-data-grupo-quom",
@@ -12477,7 +12506,8 @@ window.USE_CASES = [
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
       }
-    ]
+    ],
+    "needsReview": true
   },
   {
     "id": "financial-services-data-intesa-sanpaolo",
@@ -13876,6 +13906,7 @@ window.USE_CASES = [
       "IAM",
       "BigQuery"
     ],
+    "needsReview": true,
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -14113,7 +14144,8 @@ window.USE_CASES = [
         "title": "Bennie — Modern Employee Benefits App & HR Software Platform",
         "url": "https://www.bennie.com/our-technology"
       }
-    ]
+    ],
+    "needsReview": true
   },
   {
     "id": "healthcare-life-sciences-customer-citiustech",
@@ -14202,7 +14234,8 @@ window.USE_CASES = [
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
       }
-    ]
+    ],
+    "needsReview": true
   },
   {
     "id": "healthcare-life-sciences-customer-cvs-health",
@@ -14814,7 +14847,8 @@ window.USE_CASES = [
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
       }
-    ]
+    ],
+    "needsReview": true
   },
   {
     "id": "healthcare-life-sciences-employee-american-society-of-clinical-oncology",
@@ -15036,7 +15070,8 @@ window.USE_CASES = [
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
       }
-    ]
+    ],
+    "needsReview": true
   },
   {
     "id": "healthcare-life-sciences-employee-certify-os",
@@ -15248,7 +15283,8 @@ window.USE_CASES = [
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
       }
-    ]
+    ],
+    "needsReview": true
   },
   {
     "id": "healthcare-life-sciences-employee-cradle",
@@ -16235,7 +16271,8 @@ window.USE_CASES = [
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
       }
-    ]
+    ],
+    "needsReview": true
   },
   {
     "id": "healthcare-life-sciences-employee-pwc",
@@ -16678,7 +16715,8 @@ window.USE_CASES = [
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
       }
-    ]
+    ],
+    "needsReview": true
   },
   {
     "id": "healthcare-life-sciences-employee-supermetrics",
@@ -17221,7 +17259,8 @@ window.USE_CASES = [
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
       }
-    ]
+    ],
+    "needsReview": true
   },
   {
     "id": "healthcare-life-sciences-data-apollo-hospitals",
@@ -17395,7 +17434,8 @@ window.USE_CASES = [
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
       }
-    ]
+    ],
+    "needsReview": true
   },
   {
     "id": "healthcare-life-sciences-data-autoscience",
@@ -17612,7 +17652,8 @@ window.USE_CASES = [
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
       }
-    ]
+    ],
+    "needsReview": true
   },
   {
     "id": "healthcare-life-sciences-data-cerebraai",
@@ -17652,7 +17693,8 @@ window.USE_CASES = [
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
       }
-    ]
+    ],
+    "needsReview": true
   },
   {
     "id": "healthcare-life-sciences-data-chopo-grupo-proa",
@@ -17691,7 +17733,8 @@ window.USE_CASES = [
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
       }
-    ]
+    ],
+    "needsReview": true
   },
   {
     "id": "healthcare-life-sciences-data-colombian-national-cancer-institute",
@@ -17731,7 +17774,8 @@ window.USE_CASES = [
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
       }
-    ]
+    ],
+    "needsReview": true
   },
   {
     "id": "healthcare-life-sciences-data-congruence-therapeutics",
@@ -18220,7 +18264,8 @@ window.USE_CASES = [
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
       }
-    ]
+    ],
+    "needsReview": true
   },
   {
     "id": "healthcare-life-sciences-data-immunai",
@@ -18304,7 +18349,8 @@ window.USE_CASES = [
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
       }
-    ]
+    ],
+    "needsReview": true
   },
   {
     "id": "healthcare-life-sciences-data-mayo-clinic",
@@ -18699,7 +18745,8 @@ window.USE_CASES = [
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
       }
-    ]
+    ],
+    "needsReview": true
   },
   {
     "id": "healthcare-life-sciences-data-recursion",
@@ -18834,7 +18881,8 @@ window.USE_CASES = [
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
       }
-    ]
+    ],
+    "needsReview": true
   },
   {
     "id": "healthcare-life-sciences-data-sandboxaq",
@@ -18963,7 +19011,8 @@ window.USE_CASES = [
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
       }
-    ]
+    ],
+    "needsReview": true
   },
   {
     "id": "healthcare-life-sciences-data-superluminal-medicines",
@@ -19145,7 +19194,8 @@ window.USE_CASES = [
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
       }
-    ]
+    ],
+    "needsReview": true
   },
   {
     "id": "healthcare-life-sciences-data-virgo-surgical",
@@ -19350,6 +19400,7 @@ window.USE_CASES = [
     "agentType": "customer",
     "company": "Alaska Airlines",
     "isNew": false,
+    "needsReview": true,
     "summary": {
       "en": "Alaska Airlines is building a conversational AI chatbot to replicate the experience of a knowledgeable travel agent for booking.",
       "zh": "Alaska Airlines 正開發對話式 AI 聊天機器人，複製專業旅行社的訂票服務體驗。"
@@ -19466,7 +19517,8 @@ window.USE_CASES = [
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
       }
-    ]
+    ],
+    "needsReview": true
   },
   {
     "id": "hospitality-travel-customer-fitness-park",
@@ -19744,6 +19796,7 @@ window.USE_CASES = [
     "agentType": "customer",
     "company": "Intravel",
     "isNew": false,
+    "needsReview": true,
     "summary": {
       "en": "Intravel uses Gemini AI and Edge Video to make travel storytelling shoppable with real-time video analysis for instant booking.",
       "zh": "Intravel 運用 Gemini AI 與 Edge Video 讓旅遊故事內容可直接購買，即時分析影片並串連即時訂購。"
@@ -20561,6 +20614,7 @@ window.USE_CASES = [
     "agentType": "employee",
     "company": "Koufu",
     "isNew": true,
+    "needsReview": true,
     "summary": {
       "en": "Koufu uses Gemini Enterprise to automate sales reporting and BigQuery analysis, freeing shop managers for front-of-house service.",
       "zh": "Koufu 運用 Gemini Enterprise 自動化銷售報表與 BigQuery 分析，讓店長能專注於現場服務品質。"
@@ -20688,6 +20742,7 @@ window.USE_CASES = [
     "agentType": "employee",
     "company": "Tauá Resorts",
     "isNew": true,
+    "needsReview": true,
     "summary": {
       "en": "Tauá Resorts created an AI agent that generates real-time insights and dialogue suggestions to help its sales team answer complex client questions instantly.",
       "zh": "Tauá Resorts 建立 AI 代理，即時生成洞察與對話建議，協助銷售團隊即刻回答複雜的客戶問題。"
@@ -20725,6 +20780,7 @@ window.USE_CASES = [
     "agentType": "employee",
     "company": "Thrive Restaurant Group",
     "isNew": true,
+    "needsReview": true,
     "summary": {
       "en": "Thrive Restaurant Group is enabling any employee to explore business data conversationally through gen AI.",
       "zh": "Thrive Restaurant Group 透過生成式 AI 讓任何員工都能以對話方式探索業務資料。"
@@ -21827,7 +21883,8 @@ window.USE_CASES = [
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
       }
-    ]
+    ],
+    "needsReview": true
   },
   {
     "id": "manufacturing-industrial-electronics-employee-copel",
@@ -22353,7 +22410,8 @@ window.USE_CASES = [
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
       }
-    ]
+    ],
+    "needsReview": true
   },
   {
     "id": "manufacturing-industrial-electronics-employee-robert-bosch",
@@ -22892,7 +22950,8 @@ window.USE_CASES = [
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
       }
-    ]
+    ],
+    "needsReview": true
   },
   {
     "id": "manufacturing-industrial-electronics-creative-k-rcher",
@@ -23601,7 +23660,8 @@ window.USE_CASES = [
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
       }
-    ]
+    ],
+    "needsReview": true
   },
   {
     "id": "manufacturing-industrial-electronics-data-ctc-global",
@@ -23692,7 +23752,8 @@ window.USE_CASES = [
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
       }
-    ]
+    ],
+    "needsReview": true
   },
   {
     "id": "manufacturing-industrial-electronics-data-elia-group",
@@ -23919,7 +23980,8 @@ window.USE_CASES = [
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
       }
-    ]
+    ],
+    "needsReview": true
   },
   {
     "id": "manufacturing-industrial-electronics-data-k-rcher",
@@ -24189,7 +24251,8 @@ window.USE_CASES = [
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
       }
-    ]
+    ],
+    "needsReview": true
   },
   {
     "id": "manufacturing-industrial-electronics-data-physical-intelligence",
@@ -24511,7 +24574,8 @@ window.USE_CASES = [
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
       }
-    ]
+    ],
+    "needsReview": true
   },
   {
     "id": "manufacturing-industrial-electronics-data-weg",
@@ -25014,7 +25078,8 @@ window.USE_CASES = [
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
       }
-    ]
+    ],
+    "needsReview": true
   },
   {
     "id": "media-marketing-gaming-customer-korea-economic-daily",
@@ -25057,7 +25122,8 @@ window.USE_CASES = [
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
       }
-    ]
+    ],
+    "needsReview": true
   },
   {
     "id": "media-marketing-gaming-customer-major-league-baseball",
@@ -25369,7 +25435,8 @@ window.USE_CASES = [
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
       }
-    ]
+    ],
+    "needsReview": true
   },
   {
     "id": "media-marketing-gaming-customer-vertical-hoops",
@@ -25407,7 +25474,8 @@ window.USE_CASES = [
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
       }
-    ]
+    ],
+    "needsReview": true
   },
   {
     "id": "media-marketing-gaming-customer-wand",
@@ -25881,7 +25949,8 @@ window.USE_CASES = [
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
       }
-    ]
+    ],
+    "needsReview": true
   },
   {
     "id": "media-marketing-gaming-employee-golden-state-warriors",
@@ -25961,7 +26030,8 @@ window.USE_CASES = [
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
       }
-    ]
+    ],
+    "needsReview": true
   },
   {
     "id": "media-marketing-gaming-employee-growthloop",
@@ -26089,7 +26159,8 @@ window.USE_CASES = [
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
       }
-    ]
+    ],
+    "needsReview": true
   },
   {
     "id": "media-marketing-gaming-employee-los-angeles-rams",
@@ -26214,7 +26285,8 @@ window.USE_CASES = [
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
       }
-    ]
+    ],
+    "needsReview": true
   },
   {
     "id": "media-marketing-gaming-employee-pencil",
@@ -26299,7 +26371,8 @@ window.USE_CASES = [
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
       }
-    ]
+    ],
+    "needsReview": true
   },
   {
     "id": "media-marketing-gaming-employee-sprinklr",
@@ -26604,7 +26677,8 @@ window.USE_CASES = [
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
       }
-    ]
+    ],
+    "needsReview": true
   },
   {
     "id": "media-marketing-gaming-creative-alson-ai",
@@ -26970,7 +27044,8 @@ window.USE_CASES = [
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
       }
-    ]
+    ],
+    "needsReview": true
   },
   {
     "id": "media-marketing-gaming-creative-boyter-island-srl",
@@ -27190,7 +27265,8 @@ window.USE_CASES = [
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
       }
-    ]
+    ],
+    "needsReview": true
   },
   {
     "id": "media-marketing-gaming-creative-canal",
@@ -28439,7 +28515,8 @@ window.USE_CASES = [
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
       }
-    ]
+    ],
+    "needsReview": true
   },
   {
     "id": "media-marketing-gaming-creative-nim-video",
@@ -29075,7 +29152,8 @@ window.USE_CASES = [
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
       }
-    ]
+    ],
+    "needsReview": true
   },
   {
     "id": "media-marketing-gaming-creative-sound-particles",
@@ -29754,7 +29832,8 @@ window.USE_CASES = [
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
       }
-    ]
+    ],
+    "needsReview": true
   },
   {
     "id": "media-marketing-gaming-code-capcom",
@@ -31559,7 +31638,8 @@ window.USE_CASES = [
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
       }
-    ]
+    ],
+    "needsReview": true
   },
   {
     "id": "public-sector-nonprofits-customer-senai",
@@ -31998,7 +32078,8 @@ window.USE_CASES = [
         "title": "The Department of Var Uses AI to Reinvent Services — YouTube",
         "url": "https://www.youtube.com/watch?v=Pzgf_Qx1lGY"
       }
-    ]
+    ],
+    "needsReview": true
   },
   {
     "id": "public-sector-nonprofits-customer-west-sussex-county-council",
@@ -32176,7 +32257,8 @@ window.USE_CASES = [
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
       }
-    ]
+    ],
+    "needsReview": true
   },
   {
     "id": "public-sector-nonprofits-employee-climate-ride",
@@ -33591,7 +33673,8 @@ window.USE_CASES = [
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
       }
-    ]
+    ],
+    "needsReview": true
   },
   {
     "id": "public-sector-nonprofits-creative-the-rhythm-foundation",
@@ -33629,7 +33712,8 @@ window.USE_CASES = [
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
       }
-    ]
+    ],
+    "needsReview": true
   },
   {
     "id": "public-sector-nonprofits-creative-the-world-bank",
@@ -33946,7 +34030,8 @@ window.USE_CASES = [
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
       }
-    ]
+    ],
+    "needsReview": true
   },
   {
     "id": "public-sector-nonprofits-data-botcopy",
@@ -34035,7 +34120,8 @@ window.USE_CASES = [
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
       }
-    ]
+    ],
+    "needsReview": true
   },
   {
     "id": "public-sector-nonprofits-data-broward-county-florida",
@@ -34632,7 +34718,8 @@ window.USE_CASES = [
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
       }
-    ]
+    ],
+    "needsReview": true
   },
   {
     "id": "public-sector-nonprofits-data-prodam",
@@ -35909,7 +35996,8 @@ window.USE_CASES = [
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
       }
-    ]
+    ],
+    "needsReview": true
   },
   {
     "id": "retail-customer-erajaya",
@@ -36860,7 +36948,8 @@ window.USE_CASES = [
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
       }
-    ]
+    ],
+    "needsReview": true
   },
   {
     "id": "retail-customer-nectar",
@@ -36946,7 +37035,8 @@ window.USE_CASES = [
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
       }
-    ]
+    ],
+    "needsReview": true
   },
   {
     "id": "retail-customer-omoda",
@@ -37116,7 +37206,8 @@ window.USE_CASES = [
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
       }
-    ]
+    ],
+    "needsReview": true
   },
   {
     "id": "retail-customer-shop-global",
@@ -37464,7 +37555,8 @@ window.USE_CASES = [
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
       }
-    ]
+    ],
+    "needsReview": true
   },
   {
     "id": "retail-customer-vody",
@@ -37820,7 +37912,8 @@ window.USE_CASES = [
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
       }
-    ]
+    ],
+    "needsReview": true
   },
   {
     "id": "retail-employee-atlas",
@@ -37857,7 +37950,8 @@ window.USE_CASES = [
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
       }
-    ]
+    ],
+    "needsReview": true
   },
   {
     "id": "retail-employee-authentic-brands-group",
@@ -38315,7 +38409,8 @@ window.USE_CASES = [
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
       }
-    ]
+    ],
+    "needsReview": true
   },
   {
     "id": "retail-employee-etsy",
@@ -38494,7 +38589,8 @@ window.USE_CASES = [
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
       }
-    ]
+    ],
+    "needsReview": true
   },
   {
     "id": "retail-employee-home-depot",
@@ -40820,7 +40916,8 @@ window.USE_CASES = [
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
       }
-    ]
+    ],
+    "needsReview": true
   },
   {
     "id": "retail-code-l-oreal",
@@ -42229,7 +42326,8 @@ window.USE_CASES = [
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
       }
-    ]
+    ],
+    "needsReview": true
   },
   {
     "id": "retail-data-morrisons",
@@ -42326,7 +42424,8 @@ window.USE_CASES = [
         "title": "Wiz | Google Cloud",
         "url": "https://cloud.google.com/wiz"
       }
-    ]
+    ],
+    "needsReview": true
   },
   {
     "id": "retail-data-notco",
@@ -42410,7 +42509,8 @@ window.USE_CASES = [
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
       }
-    ]
+    ],
+    "needsReview": true
   },
   {
     "id": "retail-data-otto",
@@ -43190,7 +43290,8 @@ window.USE_CASES = [
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
       }
-    ]
+    ],
+    "needsReview": true
   },
   {
     "id": "technology-customer-adt",
@@ -43432,7 +43533,8 @@ window.USE_CASES = [
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
       }
-    ]
+    ],
+    "needsReview": true
   },
   {
     "id": "technology-customer-character-ai",
@@ -44060,6 +44162,7 @@ window.USE_CASES = [
       "Google Cloud",
       "Personal Language Model"
     ],
+    "needsReview": true,
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -44734,7 +44837,8 @@ window.USE_CASES = [
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
       }
-    ]
+    ],
+    "needsReview": true
   },
   {
     "id": "technology-employee-aible",
@@ -45102,7 +45206,8 @@ window.USE_CASES = [
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
       }
-    ]
+    ],
+    "needsReview": true
   },
   {
     "id": "technology-employee-autonom8",
@@ -45279,7 +45384,8 @@ window.USE_CASES = [
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
       }
-    ]
+    ],
+    "needsReview": true
   },
   {
     "id": "technology-employee-clodura-ai",
@@ -45318,7 +45424,8 @@ window.USE_CASES = [
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
       }
-    ]
+    ],
+    "needsReview": true
   },
   {
     "id": "technology-employee-devoteam",
@@ -45405,7 +45512,8 @@ window.USE_CASES = [
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
       }
-    ]
+    ],
+    "needsReview": true
   },
   {
     "id": "technology-employee-exa",
@@ -45852,7 +45960,8 @@ window.USE_CASES = [
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
       }
-    ]
+    ],
+    "needsReview": true
   },
   {
     "id": "technology-employee-hcltech",
@@ -48246,6 +48355,7 @@ window.USE_CASES = [
       "Vertex AI",
       "Document AI"
     ],
+    "needsReview": true,
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -48288,6 +48398,7 @@ window.USE_CASES = [
       "Google Cloud Text-to-Speech",
       "Translation API"
     ],
+    "needsReview": true,
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -48901,7 +49012,8 @@ window.USE_CASES = [
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
       }
-    ]
+    ],
+    "needsReview": true
   },
   {
     "id": "technology-code-augment-code",
@@ -49247,7 +49359,8 @@ window.USE_CASES = [
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
       }
-    ]
+    ],
+    "needsReview": true
   },
   {
     "id": "technology-code-deepsource",
@@ -49372,7 +49485,8 @@ window.USE_CASES = [
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
       }
-    ]
+    ],
+    "needsReview": true
   },
   {
     "id": "technology-code-fireworks-ai",
@@ -49502,7 +49616,8 @@ window.USE_CASES = [
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
       }
-    ]
+    ],
+    "needsReview": true
   },
   {
     "id": "technology-code-instalily",
@@ -49541,7 +49656,8 @@ window.USE_CASES = [
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
       }
-    ]
+    ],
+    "needsReview": true
   },
   {
     "id": "technology-code-kahuna-labs",
@@ -49580,7 +49696,8 @@ window.USE_CASES = [
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
       }
-    ]
+    ],
+    "needsReview": true
   },
   {
     "id": "technology-code-labelbox",
@@ -49712,7 +49829,8 @@ window.USE_CASES = [
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
       }
-    ]
+    ],
+    "needsReview": true
   },
   {
     "id": "technology-code-magic",
@@ -51000,7 +51118,8 @@ window.USE_CASES = [
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
       }
-    ]
+    ],
+    "needsReview": true
   },
   {
     "id": "technology-data-agromai",
@@ -51348,7 +51467,8 @@ window.USE_CASES = [
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
       }
-    ]
+    ],
+    "needsReview": true
   },
   {
     "id": "technology-data-ascendo-ai",
@@ -51386,7 +51506,8 @@ window.USE_CASES = [
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
       }
-    ]
+    ],
+    "needsReview": true
   },
   {
     "id": "technology-data-ask-ai",
@@ -51513,7 +51634,8 @@ window.USE_CASES = [
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
       }
-    ]
+    ],
+    "needsReview": true
   },
   {
     "id": "technology-data-baseten",
@@ -51637,7 +51759,8 @@ window.USE_CASES = [
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
       }
-    ]
+    ],
+    "needsReview": true
   },
   {
     "id": "technology-data-box",
@@ -52299,7 +52422,8 @@ window.USE_CASES = [
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
       }
-    ]
+    ],
+    "needsReview": true
   },
   {
     "id": "technology-data-globant",
@@ -52381,7 +52505,8 @@ window.USE_CASES = [
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
       }
-    ]
+    ],
+    "needsReview": true
   },
   {
     "id": "technology-data-gmi-cloud",
@@ -52948,6 +53073,7 @@ window.USE_CASES = [
       "Google Cloud AI",
       "Google Cloud"
     ],
+    "needsReview": true,
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -52987,6 +53113,7 @@ window.USE_CASES = [
       "Gemini",
       "Google Cloud"
     ],
+    "needsReview": true,
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -53075,6 +53202,7 @@ window.USE_CASES = [
       "Google AI Studio",
       "Google Cloud"
     ],
+    "needsReview": true,
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -53308,6 +53436,7 @@ window.USE_CASES = [
       "NVIDIA H100 GPU",
       "Google Cloud GPU"
     ],
+    "needsReview": true,
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -53676,6 +53805,7 @@ window.USE_CASES = [
       "Gemini",
       "Google Cloud"
     ],
+    "needsReview": true,
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -53896,6 +54026,7 @@ window.USE_CASES = [
       "Cloud Storage",
       "Google Cloud"
     ],
+    "needsReview": true,
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -53936,6 +54067,7 @@ window.USE_CASES = [
       "Compute Engine",
       "Google Cloud"
     ],
+    "needsReview": true,
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -54030,6 +54162,7 @@ window.USE_CASES = [
       "Gemma",
       "Google Cloud"
     ],
+    "needsReview": true,
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -54113,6 +54246,7 @@ window.USE_CASES = [
       "Cloud Run",
       "Google Cloud"
     ],
+    "needsReview": true,
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -54247,6 +54381,7 @@ window.USE_CASES = [
     "technologies": [
       "Google Cloud"
     ],
+    "needsReview": true,
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -54452,6 +54587,7 @@ window.USE_CASES = [
     "technologies": [
       "Google Cloud"
     ],
+    "needsReview": true,
     "sources": [
       {
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
@@ -55221,7 +55357,8 @@ window.USE_CASES = [
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
       }
-    ]
+    ],
+    "needsReview": true
   },
   {
     "id": "technology-security-exabeam",
@@ -55789,7 +55926,8 @@ window.USE_CASES = [
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
       }
-    ]
+    ],
+    "needsReview": true
   },
   {
     "id": "technology-security-rapid7",
@@ -56044,7 +56182,8 @@ window.USE_CASES = [
         "title": "Google Cloud — 1,302 real-world gen AI use cases",
         "url": "https://cloud.google.com/transform/101-real-world-generative-ai-use-cases-from-industry-leaders"
       }
-    ]
+    ],
+    "needsReview": true
   },
   {
     "id": "technology-security-spot-ai",

@@ -559,3 +559,19 @@ a:hover { text-decoration: underline; }
 .dialog__title .ind-line { margin-top:8px; }
 
 input[type="search"]::-webkit-search-cancel-button { -webkit-appearance: none; appearance: none; }
+
+/* ---- 單一來源提示 ---- */
+.single-src {
+  display:inline-flex; align-items:center; gap:4px; align-self:flex-start;
+  margin-top:2px; padding:2px 8px; border-radius:999px;
+  font-size:11px; font-weight:600; color:var(--on-surface-variant);
+  background:var(--surface-container-high);
+}
+.single-src .material-symbols-rounded { font-size:14px; }
+.src-note {
+  display:flex; align-items:flex-start; gap:6px; margin:0 0 10px;
+  padding:10px 12px; border-radius:12px;
+  background:color-mix(in srgb, var(--c-data) 12%, transparent);
+  color:var(--on-surface-variant); font-size:13px; line-height:1.5;
+}
+.src-note .material-symbols-rounded { font-size:17px; flex:0 0 auto; color:var(--c-data); margin-top:1px; }
