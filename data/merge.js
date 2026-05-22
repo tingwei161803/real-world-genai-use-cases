@@ -60,7 +60,9 @@ function validate(rows) {
 function main() {
   const rows = readChunks();
   validate(rows);
-  rows.forEach((u) => { delete u.needsReview; });
+  // 正規化 needsReview：僅保留 true（單一來源、待覆核），其餘移除欄位。
+  // 前端據此顯示「單一來源」提示。
+  rows.forEach((u) => { if (u.needsReview !== true) delete u.needsReview; });
   rows.sort((a, b) => {
     const di = indOrder.get(a.industry) - indOrder.get(b.industry);
     if (di) return di;

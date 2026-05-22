@@ -30,6 +30,7 @@
       emptyTitle: '找不到符合的案例', emptyDesc: '換個關鍵字，或清除篩選條件試試。',
       results: (n) => `${n} 個案例`,
       themeDark: '切換深色', themeLight: '切換淺色',
+      singleSrc: '單一來源', singleSrcNote: '此案例目前僅引用 Google 官方文章，尚未找到第三方佐證；內容忠於原文、未經獨立查證。',
     },
     en: {
       brand: 'Real-World Gen AI Use Cases', brandSub: 'Sourced from Google Cloud',
@@ -46,6 +47,7 @@
       emptyTitle: 'No matching use cases', emptyDesc: 'Try a different keyword or clear the filters.',
       results: (n) => `${n} use case${n === 1 ? '' : 's'}`,
       themeDark: 'Switch to dark', themeLight: 'Switch to light',
+      singleSrc: 'Single source', singleSrcNote: 'This entry currently cites only the Google article; no third-party source found yet. Content is faithful to the original but not independently verified.',
     },
   };
 
@@ -171,6 +173,7 @@
         <h3>${esc(d.company)}</h3>
         <p>${esc(d.summary[lang])}</p>
         <div class="card__tags">${tags}</div>
+        ${d.needsReview ? `<span class="single-src" title="${esc(t('singleSrcNote'))}"><span class="material-symbols-rounded">info</span>${t('singleSrc')}</span>` : ''}
         <span class="card__cta">${t('cardCta')}<span class="material-symbols-rounded">arrow_forward</span></span>
       </button>`;
   }
@@ -265,6 +268,7 @@
         </section>` : ''}
         <section>
           <h4><span class="material-symbols-rounded">menu_book</span>${t('secSources')}</h4>
+          ${d.needsReview ? `<p class="src-note"><span class="material-symbols-rounded">info</span>${t('singleSrcNote')}</p>` : ''}
           <ul class="sources">${sourceItems(d.sources)}</ul>
         </section>
         <div class="dialog__foot">
