@@ -13,7 +13,7 @@ A pure static site — HTML + CSS + one JS file, no build step, no dependencies.
 
 | | 連結 · Link |
 | --- | --- |
-| **網站 · Website** | <https://tingwei161803.github.io/real-world-genai-use-cases/> |
+| **網站 · Website** | <https://real-world-genai-use-cases.peteraim.com/> |
 | **原始碼 · Source** | <https://github.com/tingwei161803/real-world-genai-use-cases> |
 
 ---
