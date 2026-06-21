@@ -52,7 +52,7 @@
   };
 
   const state = {
-    lang: localStorage.getItem('genai.lang') || 'zh',
+    lang: localStorage.getItem('genai.lang') || 'en',
     theme: localStorage.getItem('genai.theme') ||
       (matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'),
     industry: 'all',
