@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://real-world-genai-use-cases.peteraim.com/sitemap.xml
