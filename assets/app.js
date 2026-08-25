@@ -51,8 +51,14 @@
     },
   };
 
+  // 語言由網址決定：每個語言有自己的頁面，頁面用 <html lang> 宣告自己是哪一種。
+  // 不從 localStorage 讀回來——走到 /en/ 的訪客就該看到英文，即使他上次選過中文；
+  // 而爬蟲根本沒有 localStorage。
+  const pageLang = (document.documentElement.getAttribute('lang') || 'en')
+    .toLowerCase().startsWith('zh') ? 'zh' : 'en';
+
   const state = {
-    lang: localStorage.getItem('genai.lang') || 'en',
+    lang: pageLang,
     theme: localStorage.getItem('genai.theme') ||
       (matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'),
     industry: 'all',
@@ -94,25 +100,13 @@
   });
 
   function applyStaticI18n() {
-    document.documentElement.lang = state.lang === 'zh' ? 'zh-Hant' : 'en';
     $$('[data-i18n]').forEach((el) => { el.textContent = t(el.dataset.i18n); });
     $$('[data-i18n-html]').forEach((el) => { el.innerHTML = t(el.dataset.i18nHtml); });
     $('#search').placeholder = t('searchPlaceholder');
-    $('#lang-zh').setAttribute('aria-pressed', String(state.lang === 'zh'));
-    $('#lang-en').setAttribute('aria-pressed', String(state.lang === 'en'));
+    $('#lang-zh').setAttribute('aria-current', state.lang === 'zh' ? 'page' : 'false');
+    $('#lang-en').setAttribute('aria-current', state.lang === 'en' ? 'page' : 'false');
     applyTheme();
   }
-  function setLang(lang) {
-    if (lang === state.lang) return;
-    state.lang = lang;
-    localStorage.setItem('genai.lang', lang);
-    applyStaticI18n();
-    renderChips();
-    renderCards();
-    if (openIndex >= 0) renderDialog();
-  }
-  $('#lang-zh').addEventListener('click', () => setLang('zh'));
-  $('#lang-en').addEventListener('click', () => setLang('en'));
 
   /* chips：兩排（產業 + agent），交集篩選 */
   function fillChips(wrap, items, active, onPick) {
