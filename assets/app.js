@@ -329,15 +329,30 @@
 
   /* init */
   $$('.ripple-host').forEach(attachRipple);
-  fetch('https://api.github.com/repos/tingwei161803/real-world-genai-use-cases')
-    .then((r) => (r.ok ? r.json() : null))
-    .then((j) => {
-      if (!j || typeof j.stargazers_count !== 'number') return;
+  // GitHub 星數：改從 shields.io 的 JSON 取（伺服器端快取，不吃訪客的 GitHub API 額度，
+  // 不會因為未驗證請求被限流而 403、在 console 留錯誤）。結果快取在 sessionStorage；
+  // 失敗或 0 顆就不顯示數字。
+  (function loadStars() {
+    const KEY = 'genai.stars';
+    const show = (v) => {
+      if (!v || v === '0' || !/^[0-9][0-9.,]*k?$/i.test(v)) return;
       const el = $('#gh-count');
-      el.textContent = j.stargazers_count >= 1000 ? (j.stargazers_count / 1000).toFixed(1) + 'k' : j.stargazers_count;
+      el.textContent = v;
       el.hidden = false;
-    })
-    .catch(() => {});
+    };
+    const remember = (v) => { try { sessionStorage.setItem(KEY, v); } catch (_) { /* ignore */ } };
+    let cached = null;
+    try { cached = sessionStorage.getItem(KEY); } catch (_) { /* ignore */ }
+    if (cached !== null) { show(cached); return; }
+    fetch('https://img.shields.io/github/stars/tingwei161803/real-world-genai-use-cases.json')
+      .then((r) => (r.ok ? r.json() : null))
+      .then((j) => {
+        const v = j && typeof j.value === 'string' ? j.value.trim() : '0';
+        remember(v);
+        show(v);
+      })
+      .catch(() => remember('0'));
+  }());
 
   $('#stat-total').textContent = DATA.length;
   $('#stat-inds').textContent = INDUSTRIES.length;
