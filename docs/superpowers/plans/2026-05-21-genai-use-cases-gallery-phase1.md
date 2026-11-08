@@ -9,7 +9,7 @@
 **Tech Stack:** Python 3（抽取與測試 pytest）、Node.js（merge，無相依套件）、原生 HTML/CSS/JS、Material Design 3、Material Symbols 字型。
 
 設計文件：`docs/superpowers/specs/2026-05-21-genai-use-cases-gallery-design.md`
-參考專案：`../codex-use-cases`
+參考專案：`../codex-use-cases`（與本 repo 同層的另一個 repo）
 
 ---
 
@@ -59,7 +59,7 @@ window.USE_CASES = [{
 來源快照已在 `/tmp/gcp_usecases.html`（先前以 curl 取得）。複製進 repo：
 
 ```bash
-cd ../real-world-genai-use-cases
+cd real-world-genai-use-cases   # 本 repo 根目錄
 mkdir -p data/source data/raw data/chunks .test assets
 cp /tmp/gcp_usecases.html data/source/gcp-usecases.html
 touch data/raw/.gitkeep data/chunks/.gitkeep .test/.gitkeep .nojekyll
